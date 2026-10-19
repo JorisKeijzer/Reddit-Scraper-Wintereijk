@@ -1,0 +1,152 @@
+[
+{"post_id": "1nid7uh", "label": {
+  "relevant": true, "language": "en", "thread_type": "experience_report",
+  "problem_summary_nl": "Leraar met ruim tien jaar Morton-neuroom (alleen nog Hoka of Oofos mogelijk) deelt een zwaar maar geslaagd herstel na operatie; moest na 4 weken weer de hele dag staan.",
+  "regions": ["forefoot", "toes", "nerve"], "conditions": ["Morton's neuroma", "lumbar scoliosis"],
+  "diagnosed_by_professional": true, "occupation": "teacher", "situations": ["teaching", "standing_work", "hiking"],
+  "duration": "meer dan 10 jaar",
+  "previous_fixes": ["cortisone shots", "conservative measures", "Hoka", "Oofos", "orthotics"],
+  "complaints_about_products": ["too_soft", "no_effect"],
+  "desired_outcomes_nl": ["weer mooie schoenen dragen", "weer wandelschoenen aan kunnen", "voorspelbaar goede dagen"],
+  "solutions": [
+    {"solution": "Cortisone-injecties en conservatieve maatregelen", "category": "medication_injection", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Hielpen niet", "source_id": "post"},
+    {"solution": "Neuroomoperatie (dorsaal) plus fysio", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Na 12 weken 90% hersteld, neuroompijn weg; fysio hielp bij looppatroon en zenuwdesensitisatie", "source_id": "post"},
+    {"solution": "UGGs, Birkenstocks en sneakers met brede teenbox plus neuroomzolen", "category": "shoes", "brand_or_product": "Nike Court Tradition, UGG, Birkenstock", "verdict": "partly", "first_hand": true, "reason": "Enige draagbare schoenen; al het andere doet pijn", "source_id": "neifpvx"},
+    {"solution": "Skechers met zachte, verende zool", "category": "shoes", "brand_or_product": "Skechers", "verdict": "made_worse", "first_hand": true, "reason": "Onbruikbaar, voeten kunnen niet tegen zachte, verende zolen", "source_id": "neifpvx"},
+    {"solution": "UGG-pantoffelboots", "category": "shoes", "brand_or_product": "UGG", "verdict": "made_worse", "first_hand": true, "reason": "Vermoedt dat de stijve zool en krappe binnenkant het neuroom veroorzaakten", "source_id": "nh53l44"},
+    {"solution": "Cortisone en orthopedische zolen", "category": "custom_orthotic", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Werkte niet; probeert nu cryoablatie", "source_id": "nepcbjo"},
+    {"solution": "Neurectomie (11 jaar geleden)", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Nul pijn, elke schoen mogelijk; wel gevoelloosheid tussen de tenen", "source_id": "nhh8xne"},
+    {"solution": "Orthopedische zolen, brede Altra Torin, Birkenstocks en Chacos", "category": "shoes", "brand_or_product": "Altra Torin, Birkenstock, Chaco", "verdict": "works", "first_hand": true, "reason": "Draagt ze 'religieus'", "source_id": "nejxqme"}
+  ],
+  "brands_mentioned": ["Hoka", "Oofos", "UGG", "Birkenstock", "Nike Court Tradition", "Skechers", "Altra Torin", "Chaco"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "I could never predict on a day-to-day basis whether it would be a good day or a painful day.", "source_id": "post", "kind": "impact_on_life", "nl_meaning": "Ik kon nooit van dag tot dag voorspellen of het een goede of een pijnlijke dag zou worden."},
+    {"text": "I’m a teacher, so I had to go back to work 4 weeks out. On my feet pretty much all day and it was terrible.", "source_id": "post", "kind": "pain", "nl_meaning": "Ik ben leraar, dus ik moest na 4 weken weer aan het werk. Vrijwel de hele dag op mijn benen, en het was vreselijk."},
+    {"text": "All my Skechers are unwearable, because my feet can't cope with soft, springy sole shoes at all, even with my MN insoles. I miss my pretty shoes.", "source_id": "neifpvx", "kind": "fails", "nl_meaning": "Al mijn Skechers zijn ondraagbaar omdat mijn voeten zachte, verende zolen niet aankunnen, zelfs met mijn neuroomzolen. Ik mis mijn mooie schoenen."},
+    {"text": "I was able to wear my hiking boots last weekend, which I hadn’t been able to wear in 10 years.", "source_id": "neoawgo", "kind": "desire", "nl_meaning": "Vorig weekend kon ik mijn wandelschoenen weer dragen, wat in 10 jaar niet lukte."}
+  ],
+  "emotional_intensity": 3, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: leraren staan de hele dag en zoeken voorspelbaarheid; opnieuw blijkt 'zacht en verend' voor voorvoetklachten juist slecht. Een stevige basis met gerichte voorvoetontlasting is het verhaal."
+}},
+{"post_id": "1n5vbte", "label": {
+  "relevant": true, "language": "en", "thread_type": "experience_report",
+  "problem_summary_nl": "Iemand in training voor het leger kreeg fasciitis plantaris en deelt in volgorde wat hij probeerde; twee maanden later is het teruggekomen.",
+  "regions": ["heel", "arch"], "conditions": ["plantar fasciitis"],
+  "diagnosed_by_professional": true, "occupation": "army recruit", "situations": ["running", "sport"],
+  "duration": "2,5 maanden",
+  "previous_fixes": ["stretches", "Arch rocker", "ibuprofen", "meloxicam", "cortisone shot", "night splints", "calf massage and exercises", "turmeric/ginger supplement", "compression socks", "Superfeet PF inserts"],
+  "complaints_about_products": ["no_effect", "short_lived_effect"],
+  "desired_outcomes_nl": ["weer hardlopen", "fit genoeg voor vertrek naar het leger"],
+  "solutions": [
+    {"solution": "Basisstretches en Arch rocker", "category": "stretching_exercise", "brand_or_product": "Arch rocker", "verdict": "partly", "first_hand": true, "reason": "Hielp bij het rekken", "source_id": "post"},
+    {"solution": "Ibuprofen (tot 600-800 mg)", "category": "medication_injection", "brand_or_product": "Advil", "verdict": "partly", "first_hand": true, "reason": "Iets minder pijn, maar bleef manken", "source_id": "post"},
+    {"solution": "Cortisone-injectie", "category": "medication_injection", "brand_or_product": null, "verdict": "partly", "first_hand": true, "reason": "Maskeerde het ongeveer 6 weken, daarna terug", "source_id": "nlin7g0"},
+    {"solution": "Harde nachtspalk", "category": "night_splint", "brand_or_product": null, "verdict": "partly", "first_hand": true, "reason": "Beter dan de zachte, maar slapen kon maar 2 uur ermee", "source_id": "post"},
+    {"solution": "Kuitmassage en kuitheffingen met dumbbell", "category": "stretching_exercise", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Begon echt te helpen", "source_id": "post"},
+    {"solution": "Kurkuma/gember-supplement", "category": "lifestyle_other", "brand_or_product": "Nature's Nutrition", "verdict": "unknown", "first_hand": true, "reason": "Weet niet of het correlatie of toeval was", "source_id": "post"},
+    {"solution": "Fasciitis-compressiesokken dag en nacht", "category": "compression_socks", "brand_or_product": "SB Sox", "verdict": "works", "first_hand": true, "reason": "De verrassing: na een week weer hardlopen", "source_id": "post"},
+    {"solution": "Superfeet PF-zolen", "category": "otc_insole", "brand_or_product": "Superfeet", "verdict": "no_effect", "first_hand": true, "reason": "In gewone schoenen weinig verschil gemerkt", "source_id": "nbvrog3"},
+    {"solution": "Oofos-herstelsandalen, KT-tape en Tiger Balm, Hoka Bondi 9 wide", "category": "taping", "brand_or_product": "Oofos, Tiger Balm, Hoka Bondi 9", "verdict": "works", "first_hand": true, "reason": "Na 2 weken pijn weg, staat 12-16 uur per dag", "source_id": "nc7jhr0"},
+    {"solution": "Compressiesokken", "category": "compression_socks", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Te veel insnoering", "source_id": "nc7jhr0"},
+    {"solution": "Meloxicam 15 mg", "category": "medication_injection", "brand_or_product": "Meloxicam", "verdict": "works", "first_hand": true, "reason": "Verbluffend veel verlichting, wel moe en wat misselijk", "source_id": "nni296h"},
+    {"solution": "Operatie (gastrocnemius recession)", "category": "surgery", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Niets werkte, nu zenuwpijn op de bovenkant van de voet", "source_id": "nc1ig5o"}
+  ],
+  "brands_mentioned": ["Arch rocker", "Advil", "SB Sox", "Superfeet", "Nature's Nutrition", "Oofos", "Tiger Balm", "Hoka Bondi 9", "CVS"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "It came on out of nowhere and totally crippled my ability to walk let alone run.", "source_id": "post", "kind": "pain", "nl_meaning": "Het kwam uit het niets en maakte lopen, laat staan hardlopen, totaal onmogelijk."},
+    {"text": "The surprise help was a SB Sox compression socks  got off amazon.", "source_id": "post", "kind": "works", "nl_meaning": "De verrassende hulp waren SB Sox-compressiesokken van Amazon."},
+    {"text": "I had them in regular shoes and didn’t notice  much help.", "source_id": "nbvrog3", "kind": "fails", "nl_meaning": "Ik had ze in gewone schoenen en merkte niet veel verschil."},
+    {"text": "I went from running 9 miles every other day to sad limping around the house fast.", "source_id": "nbvrog3", "kind": "impact_on_life", "nl_meaning": "Ik ging van om de dag 14 km hardlopen naar zielig door het huis manken, en snel."},
+    {"text": "THE Cortisone shot must have just masked it for about 6 weeks…", "source_id": "nlin7g0", "kind": "fails", "nl_meaning": "De cortisone-injectie heeft het waarschijnlijk alleen zo'n 6 weken gemaskeerd."},
+    {"text": "I was even getting ready to try that essential oil BS.", "source_id": "post", "kind": "objection", "nl_meaning": "Ik stond zelfs op het punt die etherische-olie-onzin te proberen."}
+  ],
+  "emotional_intensity": 3, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: wanhopige mensen 'proberen alles', maar zijn tegelijk sceptisch over wellness-onzin (etherische olie); koper als wellnessclaim riskeert in dezelfde hoek te belanden."
+}},
+{"post_id": "1n8igqz", "label": {
+  "relevant": false, "language": "en", "thread_type": "asking_help",
+  "problem_summary_nl": "Vraag welke broek je draagt over een loopschoen na een bunionoperatie; kledingvraag, geen voetklacht of oplossing.",
+  "regions": [], "conditions": ["bunions"], "diagnosed_by_professional": null, "occupation": null, "situations": [],
+  "duration": null, "previous_fixes": [], "complaints_about_products": [], "desired_outcomes_nl": [],
+  "solutions": [], "brands_mentioned": [],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [], "quotes": [],
+  "emotional_intensity": 1, "medical_red_flag": false, "claims_risk": "comfort_only",
+  "marketing_insight_nl": "Niet relevant (kleding na operatie)."
+}},
+{"post_id": "1n89l01", "label": {
+  "relevant": true, "language": "en", "thread_type": "rant",
+  "problem_summary_nl": "Iemand met platvoeten raakte 5 jaar geleden geblesseerd bij het hardlopen; de pijn ging nooit weg en artsen en fysio's weten geen oplossing. Vraag of platvoeten niet geschikt zijn voor sport.",
+  "regions": ["arch", "ankle", "legs_knees_back"], "conditions": ["flat feet", "knee pronation"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["running", "sport"],
+  "duration": "5 jaar",
+  "previous_fixes": ["countless doctors", "sports medicine", "physios"],
+  "complaints_about_products": ["no_effect"],
+  "desired_outcomes_nl": ["kunnen sporten zonder pijn", "erbij horen bij sport met vrienden"],
+  "solutions": [
+    {"solution": "Alleen fietsen en zwemmen", "category": "lifestyle_other", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Enige sporten zonder pijn", "source_id": "ncdbphv"},
+    {"solution": "Bilsterkte (clamshells met band) voor kniepijn", "category": "stretching_exercise", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Haalde veel druk van de knieën", "source_id": "nck8rk9"},
+    {"solution": "Reconstructieve voetoperatie", "category": "surgery", "brand_or_product": null, "verdict": "unknown", "first_hand": true, "reason": "Vorige week geopereerd; na een leven compenseren gaven de gewrichten het op 38 op", "source_id": "nce12pt"},
+    {"solution": "Voetspieren versterken, beginnen in het zwembad", "category": "stretching_exercise", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Speelt met platvoeten voetbal, volleybal en muay thai; zolen verzwakken volgens deze schrijver op lange termijn", "source_id": "ncdznad"}
+  ],
+  "brands_mentioned": [],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "I wish I never ran in the first place knowing how much chronic pain it would cause", "source_id": "post", "kind": "pain", "nl_meaning": "Ik wou dat ik nooit was gaan hardlopen, wetende hoeveel chronische pijn het zou veroorzaken."},
+    {"text": "I remember feeling left out because it simply hurt too much for me to play.", "source_id": "ncdbphv", "kind": "impact_on_life", "nl_meaning": "Ik weet nog dat ik me buitengesloten voelde omdat het gewoon te veel pijn deed om mee te spelen."},
+    {"text": "By this summer I was walking with a cane.", "source_id": "nce12pt", "kind": "impact_on_life", "nl_meaning": "Deze zomer liep ik met een wandelstok."},
+    {"text": "orthotics  which though can alleviate for the short term - can unfortunately weaken further in the long term.", "source_id": "ncdznad", "kind": "objection", "nl_meaning": "Zolen kunnen op korte termijn verlichten, maar op lange termijn helaas verder verzwakken."}
+  ],
+  "emotional_intensity": 4, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: het bezwaar 'zolen maken je voeten op termijn zwakker' komt steeds terug; een FAQ die uitlegt hoe de zool past naast voetversterking neemt dat weg."
+}},
+{"post_id": "1exo1sr", "label": {
+  "relevant": true, "language": "nl", "thread_type": "recommendation_request",
+  "problem_summary_nl": "Fervente wandelaar met brede voeten en podotherapeutische zolen heeft al jaren last van blaren, te smalle wandelschoenen en voetpijn; zoekt een gespecialiseerde winkel in Nederland.",
+  "regions": ["forefoot", "whole_foot", "skin"], "conditions": ["wide feet", "blisters"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["hiking", "daily_walking"],
+  "duration": "jaren",
+  "previous_fixes": ["podotherapeutische zolen", "te smalle wandelschoenen"],
+  "complaints_about_products": ["toe_box_tight"],
+  "desired_outcomes_nl": ["pijnvrij lange wandeltochten maken", "deskundig advies in een winkel", "schoenen die passen mét podozolen"],
+  "solutions": [
+    {"solution": "Gespecialiseerde winkel de Zwerfkei (Woerden) met testparcours", "category": "shoes", "brand_or_product": "de Zwerfkei", "verdict": "works", "first_hand": true, "reason": "Breed assortiment, nemen de tijd", "source_id": "lj82rvf"},
+    {"solution": "Merken met breedtematen: Meindl, Lowa, Merrell, Hanwag", "category": "shoes", "brand_or_product": "Meindl, Lowa, Merrell, Hanwag", "verdict": "unknown", "first_hand": false, "reason": "Advies; vaak te bestellen", "source_id": "lj867th"},
+    {"solution": "Meindl Comfort Fit", "category": "shoes", "brand_or_product": "Meindl", "verdict": "works", "first_hand": true, "reason": "Meerdere wandeltochten tot 10 km zonder blaren of pijn", "source_id": "lj8re4j"},
+    {"solution": "Voetscan bij Bever", "category": "shoes", "brand_or_product": "Bever", "verdict": "mixed", "first_hand": true, "reason": "In Houten goed personeel, elders 'gelobotomiseerde zombies'", "source_id": "ljckoyc"},
+    {"solution": "Barefootschoenen (brede neus)", "category": "barefoot_minimal", "brand_or_product": "Vivobarefoot, Barefoot and More", "verdict": "works", "first_hand": true, "reason": "Heerlijk, maar reken op minimaal 1000 km wennen; kan pijn en blessures geven", "source_id": "ljagaeh"},
+    {"solution": "Altra of Topo Athletic met brede teenbox", "category": "shoes", "brand_or_product": "Altra, Topo Athletic", "verdict": "works", "first_hand": true, "reason": "Brede neus voor brede voorvoet", "source_id": "lj87ndz"},
+    {"solution": "Lowa-wandelschoenen en Falke-wandelsokken via De Kievit", "category": "shoes", "brand_or_product": "Lowa, Falke", "verdict": "works", "first_hand": true, "reason": "Hele zomer nergens last van", "source_id": "lj8hio3"},
+    {"solution": "Maatschoenen via de verzekering", "category": "custom_orthotic", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Vergoed, maar kost het volledige eigen risico", "source_id": "lj8l2w4"},
+    {"solution": "Bij vrouwen in de herenafdeling kijken", "category": "shoes", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Herenschoenen zijn relatief breder", "source_id": "lj9qp73"}
+  ],
+  "brands_mentioned": ["Zwerfkei", "Bever", "Meindl", "Lowa", "Merrell", "Hanwag", "Redback", "Altra", "Topo Athletic", "Vivobarefoot", "Falke", "New Balance 574", "Scapino", "Altberg", "Soellaart", "Van Camp", "René Vos", "Outdoor XL", "De Kievit", "De Trek Barefoot", "Brooks"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": ["dit wordt vergoed door de verzekering, maar kost je wel je volledige eigen risico"],
+  "quotes": [
+    {"text": "Ik heb al jaren gedoe met podotherpeutische zolen, blaren, te smalle (wandel)schoenen en pijn in mijn voeten.", "source_id": "post", "kind": "pain", "nl_meaning": "Ik heb al jaren gedoe met podotherapeutische zolen, blaren, te smalle (wandel)schoenen en pijn in mijn voeten."},
+    {"text": "Geen blaren geen pijn, alleen een tevreden gevoel.", "source_id": "lj8re4j", "kind": "works", "nl_meaning": "Geen blaren, geen pijn, alleen een tevreden gevoel."},
+    {"text": "Reken op 1000 km wennen minimaal", "source_id": "ljagaeh", "kind": "objection", "nl_meaning": "Reken op minimaal 1000 km wennen."},
+    {"text": "Ik heb irritant brede voeten en orthopedische zolen", "source_id": "lja3gvp", "kind": "pain", "nl_meaning": "Ik heb irritant brede voeten en orthopedische zolen."},
+    {"text": "Ik zou alleen willen dat ze van Meindl ook schoenen met stalen neuzen maakten.", "source_id": "ljcn43g", "kind": "desire", "nl_meaning": "Ik zou alleen willen dat Meindl ook schoenen met stalen neuzen maakte."}
+  ],
+  "emotional_intensity": 2, "medical_red_flag": false, "claims_risk": "comfort_only",
+  "marketing_insight_nl": "Hypothese: Nederlandse wandelaars met brede voeten combineren zolen met breedtematen en zoeken persoonlijk advies; 'past ook in brede schoenen en naast/in plaats van je podozool' en samenwerking met wandelspeciaalzaken zijn kansen."
+}},
+{"post_id": "1dyb8hx", "label": {
+  "relevant": false, "language": "nl", "thread_type": "recommendation_request",
+  "problem_summary_nl": "Vraag om sneakertips voor zeer brede voeten; de post is verwijderd en er zijn geen reacties.",
+  "regions": [], "conditions": ["wide feet"], "diagnosed_by_professional": null, "occupation": null, "situations": [],
+  "duration": null, "previous_fixes": [], "complaints_about_products": [], "desired_outcomes_nl": [],
+  "solutions": [], "brands_mentioned": [],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [], "quotes": [],
+  "emotional_intensity": 1, "medical_red_flag": false, "claims_risk": "comfort_only",
+  "marketing_insight_nl": "Geen inhoud (post verwijderd, geen reacties)."
+}}
+]

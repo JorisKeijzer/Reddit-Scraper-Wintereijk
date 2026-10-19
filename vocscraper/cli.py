@@ -45,6 +45,13 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--workers", type=int, default=4)
     p.add_argument("--relabel", action="store_true", help="Ook al gelabelde threads opnieuw doen")
 
+    p = sub.add_parser("prepare-labels", help="Threads klaarzetten om in een Claude Code-sessie te labelen")
+    p.add_argument("--limit", type=int, help="Max aantal threads")
+    p.add_argument("--dir", default="data/labeling")
+
+    p = sub.add_parser("import-labels", help="*.labels.json uit een Claude Code-sessie valideren en opslaan")
+    p.add_argument("--dir", default="data/labeling")
+
     p = sub.add_parser("export", help="Excel-rapport maken")
     p.add_argument("--out", default="exports/reddit_voc.xlsx")
     p.add_argument("--include-irrelevant", action="store_true")
@@ -69,6 +76,18 @@ def main(argv: list[str] | None = None) -> None:
     elif args.command == "label":
         n = label.run(args.db, args.limit, args.model, args.workers, args.relabel)
         print(f"{n} threads gelabeld")
+    elif args.command == "prepare-labels":
+        paths = label.prepare(args.db, args.dir, args.limit)
+        print(f"{len(paths)} batches klaargezet in {args.dir}")
+        for path in paths:
+            print(f"  {path}")
+    elif args.command == "import-labels":
+        saved, errors = label.import_labels(args.db, args.dir)
+        print(f"{saved} labels opgeslagen")
+        for err in errors:
+            print(f"  FOUT {err}")
+        if errors:
+            raise SystemExit(1)
     elif args.command == "export":
         print(f"Geschreven: {export.build(args.db, args.out, args.include_irrelevant)}")
     elif args.command == "stats":

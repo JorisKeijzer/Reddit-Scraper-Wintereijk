@@ -1,0 +1,156 @@
+[
+{"post_id": "1n5i8r5", "label": {
+  "relevant": true, "language": "en", "thread_type": "asking_help",
+  "problem_summary_nl": "Sinds een blessure kleurt de voet blauw/paars en wordt ijskoud; nu ook gezwollen, jeukende tenen. Artsen weten niet wat het is.",
+  "regions": ["toes", "whole_foot", "nerve", "skin", "legs_knees_back"],
+  "conditions": ["chilblains", "Raynaud's", "peripheral polyneuropathy", "CRPS", "POTS", "posterior tibial tendonitis"],
+  "diagnosed_by_professional": false, "occupation": null, "situations": ["after_injury"],
+  "duration": "ruim een maand (verkleuring sinds oktober 2024)",
+  "previous_fixes": ["X-rays", "MRI", "same day clinic"],
+  "complaints_about_products": [],
+  "desired_outcomes_nl": ["een diagnose krijgen", "serieus genomen worden door artsen"],
+  "solutions": [
+    {"solution": "Neuroloog en EMG/NCS laten doen", "category": "doctor_podiatrist", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Bij de schrijver bleek het perifere polyneuropathie, pas na 5 maanden gediagnosticeerd", "source_id": "nbswtjf"},
+    {"solution": "Steroïdcrème op voorschrift", "category": "medication_injection", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Zwelling en bultjes verdwenen, verkleuring bleef", "source_id": "neqjrpd"},
+    {"solution": "Fysiotherapie, voeding/vitaminesuppletie, voeten masseren en warm houden", "category": "physio", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Na anderhalf jaar grote verbetering bij polyneuropathie", "source_id": "o5ud9rj"},
+    {"solution": "Lage dosis orale cortisone bij reuma", "category": "medication_injection", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Klachten al jaren goed onder controle", "source_id": "nfz4w3x"}
+  ],
+  "brands_mentioned": [],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "randomly getting cold as a popsicle", "source_id": "post", "kind": "pain", "nl_meaning": "Zomaar ijskoud worden als een ijslolly."},
+    {"text": "I’ve had X-rays and a mri done from multiple doctors and was told everything looked fine and basically brushed me off.", "source_id": "nbx12aq", "kind": "impact_on_life", "nl_meaning": "Meerdere artsen deden röntgenfoto's en een MRI, zeiden dat alles er goed uitzag en wimpelden me eigenlijk af."},
+    {"text": "The steroid cream that they prescribed has helped out tremendously", "source_id": "neqjrpd", "kind": "works", "nl_meaning": "De voorgeschreven steroïdcrème heeft enorm geholpen."}
+  ],
+  "emotional_intensity": 3, "medical_red_flag": true, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: circulatie- en zenuwklachten zijn medisch; niet targeten met comfortzolen en geen 'betere doorbloeding door koper' beloven."
+}},
+{"post_id": "1n5nlsu", "label": {
+  "relevant": true, "language": "en", "thread_type": "asking_help",
+  "problem_summary_nl": "De bovenste veter van één paar schoenen drukt pijnlijk op de wreef/voorkant van de enkel; alleen los strikken helpt.",
+  "regions": ["top_of_foot", "ankle"], "conditions": ["high arches", "bunion"],
+  "diagnosed_by_professional": null, "occupation": null, "situations": ["daily_walking"],
+  "duration": null, "previous_fixes": ["lacing loose"],
+  "complaints_about_products": ["other"],
+  "desired_outcomes_nl": ["schoenen stevig kunnen strikken zonder drukpijn op de wreef"],
+  "solutions": [
+    {"solution": "Veters op die plek niet kruisen maar recht omhoog rijgen", "category": "shoes", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Vermindert druk op de wreef", "source_id": "nbucoep"},
+    {"solution": "Platte veters", "category": "shoes", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Advies", "source_id": "nbuy0kt"},
+    {"solution": "Schuimstrook, tongpad of dun silicone tussen sok en tong", "category": "lifestyle_other", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Verdeelt de druk van de veters", "source_id": "nbxkhhw"},
+    {"solution": "Schoenen met bredere teenbox", "category": "shoes", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Heeft deze schrijver geholpen", "source_id": "nbwtgit"}
+  ],
+  "brands_mentioned": [],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "I only can lace them loose, because otherwise it digs in the top of my foot.", "source_id": "post", "kind": "pain", "nl_meaning": "Ik kan ze alleen los strikken, anders graaft het in de bovenkant van mijn voet."},
+    {"text": "the foot bends at the midfoot at this spot but the shoe doesn’t bend… so the top of the foot and laces there fight.", "source_id": "nbxkhhw", "kind": "pain", "nl_meaning": "De voet buigt op die plek in de middenvoet maar de schoen niet, dus de bovenkant van de voet en de veters vechten daar."}
+  ],
+  "emotional_intensity": 1, "medical_red_flag": false, "claims_risk": "comfort_only",
+  "marketing_insight_nl": "Hypothese: wreefdruk is een pasvormprobleem; een te dikke zool maakt dit erger, dus dikte bij de middenvoet expliciet communiceren."
+}},
+{"post_id": "1nm6nlw", "label": {
+  "relevant": true, "language": "en", "thread_type": "discussion",
+  "problem_summary_nl": "Iemand met jarenlange perifere neuropathie heeft geen pijn maar een verdoofd 'in was gedoopt' gevoel in voeten tot halverwege de kuit; vraagt of anderen dit herkennen.",
+  "regions": ["nerve", "whole_foot", "legs_knees_back"],
+  "conditions": ["peripheral neuropathy", "diabetic neuropathy", "pudendal neuralgia", "sciatica", "spinal stenosis", "proximal hamstring tendinopathy"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["office"],
+  "duration": "5 jaar",
+  "previous_fixes": [],
+  "complaints_about_products": [],
+  "desired_outcomes_nl": ["dat het niet erger wordt", "een verklaring voor de symptomen"],
+  "solutions": [
+    {"solution": "Caudale epidurale steroïdinjectie", "category": "medication_injection", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Pudendusneuralgie werd erger en tintelingen zwaarder", "source_id": "nfb9jqq"},
+    {"solution": "Intensieve acupunctuur 7 dagen", "category": "acupressure_reflexology", "brand_or_product": null, "verdict": "mixed", "first_hand": true, "reason": "Geen pijn meer in rust in de handen, maar handen werden zwakker", "source_id": "nfb55je"},
+    {"solution": "Gabapentine en R-alfaliponzuur", "category": "medication_injection", "brand_or_product": "Gabapentin", "verdict": "works", "first_hand": true, "reason": "Helpt, zonder bijwerkingen", "source_id": "nfeg6so"},
+    {"solution": "Bekkenbodemtherapie, kussen en Squatty Potty", "category": "physio", "brand_or_product": "Squatty Potty", "verdict": "partly", "first_hand": true, "reason": "Enige verlichting", "source_id": "nfesdt3"},
+    {"solution": "Cymbalta en Zanaflex", "category": "medication_injection", "brand_or_product": "Cymbalta, Zanaflex", "verdict": "no_effect", "first_hand": true, "reason": "Hielp niet en voelde niet goed", "source_id": "nfc6j1l"},
+    {"solution": "R-ALA en L-carnitine", "category": "lifestyle_other", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Na maanden geen verschil", "source_id": "nfc6xrd"}
+  ],
+  "brands_mentioned": ["EB-N6 (EBM medical)", "Gabapentin", "Cymbalta", "Zanaflex"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "my feet feel like they’ve been dipped over and over in wax and then wrapped in heavy duty aluminum foil.", "source_id": "post", "kind": "pain", "nl_meaning": "Mijn voeten voelen alsof ze keer op keer in was zijn gedoopt en daarna in zware aluminiumfolie gewikkeld."},
+    {"text": "I fell at the gym last week on the treadmill because I can’t feel my feet.", "source_id": "nfesdt3", "kind": "impact_on_life", "nl_meaning": "Ik viel vorige week op de loopband in de sportschool omdat ik mijn voeten niet voel."}
+  ],
+  "emotional_intensity": 3, "medical_red_flag": true, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: neuropathie is een uitsluitingsgroep; wel een signaal voor de FAQ ('niet geschikt bij gevoelloosheid of diabetes zonder advies van een professional')."
+}},
+{"post_id": "1n6r1xe", "label": {
+  "relevant": false, "language": "en", "thread_type": "discussion",
+  "problem_summary_nl": "Verpleegkundige vraagt of laat aanmelden voor een podotherapie-opleiding (DPM) de kansen schaadt; geen voetklacht.",
+  "regions": [], "conditions": [], "diagnosed_by_professional": null, "occupation": "RN", "situations": [],
+  "duration": null, "previous_fixes": [], "complaints_about_products": [], "desired_outcomes_nl": [],
+  "solutions": [], "brands_mentioned": [],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [], "quotes": [],
+  "emotional_intensity": 1, "medical_red_flag": false, "claims_risk": "comfort_only",
+  "marketing_insight_nl": "Niet relevant (carrièrevraag)."
+}},
+{"post_id": "1n7gz4l", "label": {
+  "relevant": true, "language": "en", "thread_type": "experience_report",
+  "problem_summary_nl": "24-jarige met fasciitis plantaris (gewichtstoename, stijve kuiten, sporten zonder warming-up) deelt dat de kuitrek-oefening de hielpijn bijna liet verdwijnen.",
+  "regions": ["heel", "achilles"], "conditions": ["plantar fasciitis"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["sport", "overweight"],
+  "duration": "drie maanden",
+  "previous_fixes": ["warm compresses", "foot exercises", "Celecoxib", "ketoprofen"],
+  "complaints_about_products": [],
+  "desired_outcomes_nl": ["pijnvrij sporten", "snel herstel"],
+  "solutions": [
+    {"solution": "Kuitstrek (runner's stretch), 3x 20 seconden, ochtend, overdag en avond", "category": "stretching_exercise", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Hielpijn bijna weg", "source_id": "post"},
+    {"solution": "Dempende schoenen", "category": "shoes", "brand_or_product": "Nike Vomero 5", "verdict": "works", "first_hand": true, "reason": "Voelt de pijn er nauwelijks nog in", "source_id": "post"},
+    {"solution": "Schokgolftherapie", "category": "shockwave", "brand_or_product": null, "verdict": "mixed", "first_hand": true, "reason": "Na de derde sessie een week pijnvrij, na de vierde weer opgeflakkerd", "source_id": "ncattc9"},
+    {"solution": "Massagepistool elke avond", "category": "massage_rolling", "brand_or_product": "Bob and Brad X6", "verdict": "works", "first_hand": true, "reason": "Een week zonder pijn", "source_id": "ncattc9"},
+    {"solution": "Foamroller op de kuiten", "category": "massage_rolling", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Goede aanvulling op de stretch", "source_id": "ncqz3r2"},
+    {"solution": "Kuitstrek", "category": "stretching_exercise", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Fasciitis werd vijf keer erger", "source_id": "ncvbuax"},
+    {"solution": "Enkelversterking met weerstandsband en fasciafysio", "category": "physio", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Linkervoet hersteld in 4 maanden", "source_id": "nclb840"}
+  ],
+  "brands_mentioned": ["Nike Vomero 5", "Bob and Brad X6"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "After doing this specific exercise, my pain is almost gone, especially when I wear my favorite Vomero 5 shoes—I can barely feel the pain anymore.", "source_id": "post", "kind": "works", "nl_meaning": "Na deze oefening is mijn pijn bijna weg, vooral in mijn favoriete Vomero 5-schoenen voel ik bijna niets meer."},
+    {"text": "There’s people selling you crap, there’s influencers spouting crap about doing this and that", "source_id": "ncattc9", "kind": "objection", "nl_meaning": "Er zijn mensen die je rommel verkopen en influencers die onzin roepen over dit en dat."},
+    {"text": "i tried this stretch, my PF literally got 5x worse! cant even step on my foot!!!", "source_id": "ncvbuax", "kind": "fails", "nl_meaning": "Ik probeerde deze stretch en mijn fasciitis werd letterlijk vijf keer erger, ik kan niet eens op mijn voet staan!"}
+  ],
+  "emotional_intensity": 2, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: wantrouwen tegen 'mensen die rommel verkopen' is groot; geloofwaardigheid via eerlijke, niet-medische claims en uitleg over combinatie met rekken."
+}},
+{"post_id": "1nm9jw0", "label": {
+  "relevant": true, "language": "en", "thread_type": "experience_report",
+  "problem_summary_nl": "34-jarige moeder van twee deelt haar hersteltijdlijn na operatie aan een groot Morton-neuroom (tweede keer, andere voet).",
+  "regions": ["forefoot", "toes", "nerve"], "conditions": ["Morton's neuroma", "plantar fasciitis", "metatarsalgia"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["pregnancy", "daily_walking", "running"],
+  "duration": "3 jaar",
+  "previous_fixes": ["injections", "MRI", "neuroma resection on other foot 11 years ago"],
+  "complaints_about_products": [],
+  "desired_outcomes_nl": ["weer kunnen sporten", "voor de kinderen kunnen zorgen", "pijnvrij naar Disney in december"],
+  "solutions": [
+    {"solution": "Neuroomresectie", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Eerste voet na 11 jaar nog klachtenvrij; nieuwe operatie verloopt goed", "source_id": "post"},
+    {"solution": "Neuroomoperatie met ijs en elevatie", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Alle pijn weg en weer aan het hardlopen, ondanks reactie op hechtingen", "source_id": "nfblsbi"},
+    {"solution": "Oofos-slippers na operatie", "category": "shoes", "brand_or_product": "Oofos", "verdict": "partly", "first_hand": true, "reason": "Helpen, maar voet is nog te gezwollen", "source_id": "nfc2ctl"},
+    {"solution": "Injecties tegen het neuroom", "category": "medication_injection", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Leken meer pijn te veroorzaken", "source_id": "nfbxqkn"},
+    {"solution": "Kenalog-injecties", "category": "medication_injection", "brand_or_product": "Kenalog", "verdict": "mixed", "first_hand": true, "reason": "Eerste 'magisch', tweede niet", "source_id": "nfbwqsn"},
+    {"solution": "Geen hoge hakken en smalle schoenen meer", "category": "shoes", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Heeft het meest geholpen; één avond hakken zet haar ver terug", "source_id": "nfj7uxy"},
+    {"solution": "Neurectomie", "category": "surgery", "brand_or_product": null, "verdict": "mixed", "first_hand": true, "reason": "Steentje-gevoel weg, maar nu chronische metatarsalgie en ontsteking", "source_id": "nflw83v"},
+    {"solution": "Metatarsaalpads, teenspreiders, warmte, massage, fysio, ijs", "category": "metatarsal_pad", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Niets laat de ontsteking na de operatie verdwijnen", "source_id": "nflw83v"},
+    {"solution": "Neuroomoperatie", "category": "surgery", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Een jaar later is de voet slechter dan vóór de operatie", "source_id": "nfut63n"},
+    {"solution": "Achter de knie ijzen", "category": "rest_ice", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Advies van podotherapeut", "source_id": "nfzw6nk"},
+    {"solution": "iWalk-krukvervanger", "category": "lifestyle_other", "brand_or_product": "iWalk", "verdict": "works", "first_hand": true, "reason": "Sneller weer mobiel", "source_id": "nfcgbjg"}
+  ],
+  "brands_mentioned": ["Oofos", "iWalk", "Kenalog"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "mine got to the point where I couldn't do anything at all, it was so limiting", "source_id": "nfbxqkn", "kind": "impact_on_life", "nl_meaning": "Het werd zo erg dat ik helemaal niets meer kon, het was zo beperkend."},
+    {"text": "Whats saved me most was retiring the high heels and any narrow shoes.", "source_id": "nfj7uxy", "kind": "works", "nl_meaning": "Wat me het meest heeft gered, is stoppen met hoge hakken en smalle schoenen."},
+    {"text": "I've tried meta-pads, toe spacers, heat, massage, PT exercises, and ice, but nothing makes it go away.", "source_id": "nflw83v", "kind": "fails", "nl_meaning": "Ik heb metatarsaalpads, teenspreiders, warmte, massage, fysio-oefeningen en ijs geprobeerd, maar niets laat het verdwijnen."},
+    {"text": "I'm a year post surgery, and the foot is worse than pre-surgery.", "source_id": "nfut63n", "kind": "fails", "nl_meaning": "Ik ben een jaar na de operatie en de voet is slechter dan ervoor."},
+    {"text": "the old neroma totally unwalkable", "source_id": "nflxd40", "kind": "pain", "nl_meaning": "Met het oude neuroom kon ik helemaal niet lopen."}
+  ],
+  "emotional_intensity": 3, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: voorvoetklachten draaien om ruimte in de schoen (brede teenbox, geen hakken); een voorvoetvriendelijke zool moet dun zijn bij de tenen en mag het 'steentje-gevoel' niet verergeren."
+}}
+]

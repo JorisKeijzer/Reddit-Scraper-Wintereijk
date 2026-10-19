@@ -1,6 +1,7 @@
-data/
-exports/
-.env
+data/*.db-wal
+data/*.db-shm
+data/*.log
 __pycache__/
 *.pyc
 .pytest_cache/
+.env

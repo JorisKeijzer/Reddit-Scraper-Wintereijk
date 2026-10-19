@@ -16,7 +16,8 @@ collect  ── Arctic Shift (gratis archief, volledige historie)
 data/reddit.db (SQLite: posts, reacties, labels; gebruikersnamen alleen gehasht)
         │
         ▼
-label    ── Claude zet elke thread om naar het ThreadLabel-schema (vocscraper/schema.py)
+label    ── Claude (in een Claude Code-sessie, zie LABELING.md) zet elke thread om naar
+            het ThreadLabel-schema (vocscraper/schema.py)
         │
         ▼
 export   ── exports/reddit_voc.xlsx
@@ -47,7 +48,8 @@ python -m vocscraper import-keywords "01 - Copper Insoles - EN Keyword Bank.xlsx
 
 # proefrun: een paar subreddits, max 50 posts per zoekopdracht
 python -m vocscraper collect --source arctic --groups foot_core dutch --max-posts 50
-python -m vocscraper label --limit 25
+python -m vocscraper prepare-labels --limit 25   # daarna labelen in Claude Code, zie LABELING.md
+python -m vocscraper import-labels
 python -m vocscraper export
 python -m vocscraper stats
 
@@ -61,22 +63,19 @@ python -m vocscraper collect --source reddit --sitewide
 Alles is incrementeel: elke zoekopdracht onthoudt de nieuwste post die hij zag, en dubbele
 posts worden samengevoegd. Een tweede run haalt dus alleen nieuwe posts op.
 
-### Omgevingsvariabelen
+### Labelen
+
+Standaard labelt de Claude Code-sessie zelf (`prepare-labels` → labelen → `import-labels`), zonder
+API-sleutel en zonder extra kosten. Wie later toch via de API wil labelen (sneller, parallel):
+zet `ANTHROPIC_API_KEY` en gebruik `python -m vocscraper label`; het model kies je met `VOC_MODEL`.
+
+### Omgevingsvariabelen (optioneel)
 
 | Variabele | Waarvoor |
 |---|---|
-| `ANTHROPIC_API_KEY` | labelen met Claude |
-| `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET` | officiële Reddit API. Zonder deze twee wordt de trage publieke `.json` gebruikt |
-| `VOC_MODEL` | Claude-model voor het labelen (standaard `claude-opus-5-5`) |
+| `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET` | officiële Reddit API voor de nieuwste posts. Zonder deze twee wordt de publieke `.json` geprobeerd; die blokkeert Reddit vanaf cloudservers |
 | `AUTHOR_HASH_SALT` | geheime salt voor het pseudonimiseren van gebruikersnamen |
-
-## Automatisch draaien
-
-`.github/workflows/scrape.yml` draait op maandag en donderdag: nieuwe posts ophalen, max. 500
-threads labelen en het Excel-rapport als download bij de run zetten (Actions → run → Artifacts).
-Zet onder *Settings → Secrets and variables → Actions* de secrets `ANTHROPIC_API_KEY`,
-`REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET` en `AUTHOR_HASH_SALT`. Start de eerste keer handmatig
-met *source = arctic* voor de volledige historie.
+| `ANTHROPIC_API_KEY`, `VOC_MODEL` | alleen voor labelen via de API |
 
 ## Tests
 

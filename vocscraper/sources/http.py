@@ -41,6 +41,12 @@ class HttpClient:
                 log.warning("%s gaf %d, wacht %.0fs", resp.url, resp.status_code, delay)
                 time.sleep(delay)
                 continue
+            if resp.status_code == 422:
+                # Arctic Shift meldt overbelasting soms als 422 met {"error": ...}; de aanroeper probeert opnieuw.
+                try:
+                    return resp.json()
+                except ValueError:
+                    pass
             resp.raise_for_status()
             return resp.json()
         raise RuntimeError(f"Opgegeven na {self.max_retries + 1} pogingen: {url}")

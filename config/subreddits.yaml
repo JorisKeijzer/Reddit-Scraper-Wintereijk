@@ -37,6 +37,22 @@ anchors:
     - Senkfuß
     - Spreizfuß
 
+# Posts met deze woordgroepen (in titel of tekst) slaan we over bij anchor-zoekopdrachten:
+# uitdrukkingen waarin 'voeten'/'Füße' niets met voetklachten te maken heeft.
+exclude_phrases:
+  - op vrije voeten
+  - grond onder de voeten
+  - voeten op de bank
+  - voeten op de stoel
+  - met beide voeten
+  - voeten in de aarde
+  - voeten foto
+  - feet pics
+  - feet pic
+  - auf freiem Fuß
+  - mit Füßen getreten
+  - auf eigenen Füßen
+
 copper_anchors:
   - copper insoles
   - copper socks

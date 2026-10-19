@@ -43,16 +43,28 @@ def _since_ts(since: str | None) -> int | None:
     return int(datetime.strptime(since, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp())
 
 
-def run_job(conn: sqlite3.Connection, source, job: Job, since: int | None, max_posts: int | None, langs: dict) -> int:
+def is_excluded(post: dict, phrases: list[str]) -> bool:
+    text = f"{post.get('title') or ''} {post.get('selftext') or ''}".lower()
+    return any(p.lower() in text for p in phrases)
+
+
+def run_job(
+    conn: sqlite3.Connection, source, job: Job, since: int | None, max_posts: int | None, langs: dict,
+    exclude: list[str] = (),
+) -> int:
     sub_key, query_key = job.subreddit or "*", job.query or "*"
     after = db.get_newest(conn, source.name, sub_key, query_key) or since
     new, newest = 0, None
     for post in source.search_posts(job.subreddit, job.query, after, max_posts):
         if not post["id"] or not post["subreddit"]:
             continue
+        newest = max(newest or 0, post["created_utc"])
+        if job.query and is_excluded(post, exclude):
+            continue
         post["lang_hint"] = langs.get(post["subreddit"].lower(), job.lang)
         new += db.upsert_post(conn, post, f"{sub_key}|{query_key}")
-        newest = max(newest or 0, post["created_utc"])
+        if new and new % 100 == 0:
+            conn.commit()
     db.log_query(conn, source.name, sub_key, query_key, newest)
     conn.commit()
     return new
@@ -65,7 +77,10 @@ def fetch_missing_comments(conn: sqlite3.Connection, source, limit: int | None =
     ids = [r["id"] for r in conn.execute(sql)]
     log.info("reacties ophalen voor %d posts", len(ids))
     for n, post_id in enumerate(ids, start=1):
-        db.replace_comments(conn, post_id, source.fetch_comments(post_id))
+        try:
+            db.replace_comments(conn, post_id, source.fetch_comments(post_id))
+        except Exception:  # volgende run probeert deze post opnieuw
+            log.exception("reacties van %s mislukt", post_id)
         if n % 50 == 0:
             conn.commit()
             log.info("%d/%d threads met reacties", n, len(ids))
@@ -97,7 +112,7 @@ def run(
     total = 0
     for n, job in enumerate(jobs, start=1):
         try:
-            added = run_job(conn, source, job, _since_ts(since), max_posts, langs)
+            added = run_job(conn, source, job, _since_ts(since), max_posts, langs, cfg.get("exclude_phrases", []))
         except Exception:  # één kapotte subreddit/zoekterm mag de run niet stoppen
             log.exception("zoekopdracht mislukt: %s", job)
             continue

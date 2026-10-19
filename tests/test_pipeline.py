@@ -84,6 +84,30 @@ def test_config_files_load():
     assert {"en", "nl", "de"} <= langs
 
 
+def test_prepare_and_import_session_labels(tmp_path, monkeypatch):
+    import json
+
+    db_path = str(tmp_path / "t.db")
+    monkeypatch.setattr(collect, "load_subreddits", lambda: {
+        "anchors": {"en": ["insoles"]}, "groups": {"g": {"mode": "all", "lang": "en", "subs": ["PlantarFasciitis"]}},
+    })
+    collect.run(db_path, FakeSource(), since=None)
+    lab_dir = tmp_path / "labeling"
+    [batch] = label.prepare(db_path, str(lab_dir), None)
+    assert "=== THREAD abc123 ===" in batch.read_text()
+    assert label.prepare(db_path, str(lab_dir), None) == []  # al klaargezet
+
+    bad = {"post_id": "abc123", "label": {"relevant": True}}
+    batch.with_suffix(".labels.json").write_text(json.dumps([bad]))
+    saved, errors = label.import_labels(db_path, str(lab_dir))
+    assert saved == 0 and errors and batch.exists()
+
+    batch.with_suffix(".labels.json").write_text(json.dumps([{"post_id": "abc123", "label": fake_label()}]))
+    saved, errors = label.import_labels(db_path, str(lab_dir))
+    assert (saved, errors) == (1, [])
+    assert (lab_dir / "imported" / batch.name).exists()
+
+
 def test_collect_label_export_roundtrip(tmp_path, monkeypatch):
     db_path = str(tmp_path / "t.db")
     monkeypatch.setattr(collect, "load_subreddits", lambda: {

@@ -1,0 +1,243 @@
+[
+{"post_id": "1n71dwy", "label": {
+  "relevant": true, "language": "en", "thread_type": "asking_help",
+  "problem_summary_nl": "Vraagsteller met vermoedelijke fasciitis plantaris was weken aan huis gebonden door invaliderende pijn; niets helpt en via Medicaid is geen podotherapeut bereikbaar.",
+  "regions": ["heel", "arch"], "conditions": ["plantar fasciitis"],
+  "diagnosed_by_professional": false, "occupation": null, "situations": ["daily_walking"],
+  "duration": "bijna een maand",
+  "previous_fixes": ["frozen water bottle", "heat", "epsom salt soaks", "oral steroids", "ibuprofen and tylenol", "rest and elevation", "cane, walker, crutches", "exercises and stretches", "soles", "Strassburg sock", "plantar fasciitis sandals", "brace boot"],
+  "complaints_about_products": ["no_effect", "made_worse", "short_lived_effect", "too_expensive", "other"],
+  "desired_outcomes_nl": ["weer buiten de deur kunnen", "dagelijkse activiteiten zonder pijn", "betaalbare hulp"],
+  "solutions": [
+    {"solution": "Bevroren waterfles rollen", "category": "massage_rolling", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Pijn werd erger", "source_id": "post"},
+    {"solution": "Orale steroïden", "category": "medication_injection", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Geen verandering, wel slapeloosheid", "source_id": "post"},
+    {"solution": "Ibuprofen en paracetamol op voorschrift", "category": "medication_injection", "brand_or_product": null, "verdict": "partly", "first_hand": true, "reason": "Hielp de eerste dagen, daarna niet meer", "source_id": "post"},
+    {"solution": "Oefeningen en stretches (niet-belastend)", "category": "stretching_exercise", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Meer pijn", "source_id": "post"},
+    {"solution": "Zolen, Strassburg-sok en speciale fasciitis-sandalen", "category": "otc_insole", "brand_or_product": "Strassburg sock", "verdict": "no_effect", "first_hand": true, "reason": "Geen verschil", "source_id": "post"},
+    {"solution": "Krukken", "category": "lifestyle_other", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Doen pijn aan de goede voet", "source_id": "post"},
+    {"solution": "Voet intapen met ducttape", "category": "taping", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Enige wat hielp; medische tape en kinesiotape te slap", "source_id": "nc4dj9q"},
+    {"solution": "500 mg vitamine C per dag", "category": "lifestyle_other", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Van ondraaglijk naar nauwelijks merkbaar", "source_id": "nc52pgh"},
+    {"solution": "Boogsteunen van Walmart in alle schoenen en Teva's in de douche, nooit zonder steun lopen", "category": "otc_insole", "brand_or_product": "Walmart arch supports, Teva", "verdict": "works", "first_hand": false, "reason": "Advies om opnieuw scheuren te voorkomen", "source_id": "nc482ig"},
+    {"solution": "Diepe kuitmassage en niet-belastende stretches", "category": "massage_rolling", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Van niet langer dan 5 minuten lopen naar 10.000 stappen per dag", "source_id": "nc4i7ky"},
+    {"solution": "Nachtbrace", "category": "night_splint", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Na drie weken geen verschil; kan hem niet zelf aandoen", "source_id": "nc5v514"},
+    {"solution": "Podotherapeut: injecties en daarna maatwerkzolen via verzekering", "category": "custom_orthotic", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Injecties weinig effect; twee weken na de maatwerkzolen pijnvrij opstaan, al 5 jaar", "source_id": "ncw9tad"},
+    {"solution": "FP Insoles (Gamechangers, Kingfoam Elite)", "category": "otc_insole", "brand_or_product": "FP Insoles", "verdict": "works", "first_hand": false, "reason": "Klinkt als merkpromotie; claimt stevig te blijven en schokken te dempen", "source_id": "np30xh7"}
+  ],
+  "brands_mentioned": ["Strassburg sock", "Walmart", "Teva", "BraceAbility", "FP Insoles"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": ["I have like $2", "Expensive as hell but 2 weeks after wearing them, I woke up with zero pain", "I spent crap loads of money on different shoes, inserts and everything you listed."],
+  "quotes": [
+    {"text": "it no longer has me screaming and crying and homebound and falling unable to get up", "source_id": "post", "kind": "impact_on_life", "nl_meaning": "Het laat me niet meer schreeuwen en huilen, aan huis gebonden en vallend zonder op te kunnen staan."},
+    {"text": "I'm at a loss, I don't really know what to do.", "source_id": "post", "kind": "pain", "nl_meaning": "Ik weet het niet meer, ik weet echt niet wat ik moet doen."},
+    {"text": "It's a mental torture as well as physical to not be able to walk and to feel dread and pain at basic tasks like showering and cooking.", "source_id": "nc5v29m", "kind": "impact_on_life", "nl_meaning": "Het is mentale en fysieke marteling om niet te kunnen lopen en angst en pijn te voelen bij simpele dingen als douchen en koken."},
+    {"text": "Expensive as hell but 2 weeks after wearing them, I woke up with zero pain when stepping on the floor.", "source_id": "ncw9tad", "kind": "works", "nl_meaning": "Duur als de hel, maar twee weken nadat ik ze droeg werd ik wakker zonder pijn bij de eerste stap."},
+    {"text": "500mgs of vitamin C daily helped my PF go from unbearable to barely noticeable.", "source_id": "nc52pgh", "kind": "works", "nl_meaning": "500 mg vitamine C per dag bracht mijn fasciitis van ondraaglijk naar nauwelijks merkbaar."}
+  ],
+  "emotional_intensity": 5, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: een groep met weinig budget en geen toegang tot zorg zoekt betaalbare, direct beschikbare hulp; prijs en eenvoud (zonder ingewikkelde braces) wegen zwaar. Geen medische beloftes."
+}},
+{"post_id": "1n9clff", "label": {
+  "relevant": true, "language": "en", "thread_type": "experience_report",
+  "problem_summary_nl": "43-jarige met verergerende platvoet (links) heeft eindelijk een reconstructieve operatie gepland omdat knie en heup aan de goede kant pijn gaan doen; zoekt succesverhalen.",
+  "regions": ["arch", "heel", "ankle", "achilles", "legs_knees_back"],
+  "conditions": ["flat feet", "fallen arch", "posterior tibial tendon dysfunction", "tarsal tunnel syndrome"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["sport", "standing_work"],
+  "duration": "levenslang platvoeten, het laatste jaar veel erger",
+  "previous_fixes": ["ankle foot orthotic"],
+  "complaints_about_products": [],
+  "desired_outcomes_nl": ["weer kunnen sporten en hardlopen", "één kuitheffing op de slechte voet kunnen doen", "niet meer 's ochtends lopen 'als een negentigjarige'"],
+  "solutions": [
+    {"solution": "Platvoetreconstructie (osteotomie, laterale kolomverlenging, peestransfer)", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Na 16 maanden volledig herstel: pickleball, golf, dagelijks sporten; zwaar traject met 8 maanden fysio", "source_id": "nczzplc"},
+    {"solution": "Tarsale tunnel release, metatarsaalfusie en laterale kolomverlenging", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "6,5 jaar later vrijwel geen pijn, geen zolen meer nodig, wel ondersteunende schoenen", "source_id": "nh80rgr"},
+    {"solution": "Exparel-zenuwblokkade bij operatie", "category": "medication_injection", "brand_or_product": "Exparel", "verdict": "works", "first_hand": true, "reason": "7 dagen geen pijnmedicatie nodig", "source_id": "nczzplc"},
+    {"solution": "FP Insoles na herstel", "category": "otc_insole", "brand_or_product": "FP Insoles", "verdict": "unknown", "first_hand": false, "reason": "Merkpromotie met claim 'tot 90% schokabsorptie'", "source_id": "ntsakds"}
+  ],
+  "brands_mentioned": ["Exparel", "FP Insoles"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "I’m 43 and walk like a 90 yr old when I get out of bed", "source_id": "ncq8vrp", "kind": "pain", "nl_meaning": "Ik ben 43 en loop als een negentigjarige als ik uit bed kom."},
+    {"text": "If I walk more than 2 miles, my foot is out of commission for the next 24 hrs.", "source_id": "ncr073r", "kind": "impact_on_life", "nl_meaning": "Als ik meer dan drie kilometer loop, is mijn voet de volgende 24 uur buiten gebruik."},
+    {"text": "I leave work as if I were wearing two skis.", "source_id": "ncrczrq", "kind": "pain", "nl_meaning": "Ik verlaat mijn werk alsof ik twee ski's aan heb."},
+    {"text": "Now taking the dog out is a pain.", "source_id": "ncrczrq", "kind": "impact_on_life", "nl_meaning": "Nu is zelfs de hond uitlaten een pijn."},
+    {"text": "My goal is to do a single calf raise on my bad foot.", "source_id": "nh8msth", "kind": "desire", "nl_meaning": "Mijn doel is één kuitheffing op mijn slechte voet."}
+  ],
+  "emotional_intensity": 4, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: ernstige platvoet is een medisch traject; wel herkenbaar is het beeld 'na het werk lopen alsof je ski's aan hebt' voor staande beroepen. Concurrent FP Insoles lijkt actief Reddit-promotie te doen met '90% impact'-claims."
+}},
+{"post_id": "1n73yc2", "label": {
+  "relevant": true, "language": "en", "thread_type": "asking_help",
+  "problem_summary_nl": "Magazijnmedewerker met pijnlijke, gevoelige voetboog (fasciitis in beide voeten, vermoedelijk door veiligheidsschoenen) moest vroeg stoppen met werken; fysio helpt niet.",
+  "regions": ["arch", "heel"], "conditions": ["plantar fasciitis"],
+  "diagnosed_by_professional": null, "occupation": "warehouse worker", "situations": ["warehouse_factory", "walking_work", "work_boots"],
+  "duration": null, "previous_fixes": ["physical therapy", "steel toe shoes"],
+  "complaints_about_products": ["no_effect"],
+  "desired_outcomes_nl": ["een hele dienst kunnen werken", "inkomen niet verliezen"],
+  "solutions": [
+    {"solution": "Kuru-schoenen", "category": "shoes", "brand_or_product": "Kuru", "verdict": "works", "first_hand": true, "reason": "Van kort niet kunnen staan naar 6 uur in een pretpark", "source_id": "nc4s2yl"},
+    {"solution": "Kuru-schoenen", "category": "shoes", "brand_or_product": "Kuru", "verdict": "works", "first_hand": true, "reason": "Nu 3 mijl per dag; ochtendpijn blijft", "source_id": "nc6oxl0"},
+    {"solution": "Kuru-schoenen", "category": "shoes", "brand_or_product": "Kuru", "verdict": "partly", "first_hand": true, "reason": "Helpen, maar pijn loopt in de loop van de dag op tot ondraaglijk", "source_id": "nc9k93n"},
+    {"solution": "Kuru nette schoenen vs. sportsneakers", "category": "shoes", "brand_or_product": "Kuru", "verdict": "mixed", "first_hand": true, "reason": "Nette schoenen direct verbetering, sneakers maakten het erger", "source_id": "nccvhy6"},
+    {"solution": "Rust, nachtspalk, KT-tape en kuitrekken; geen fysio in de beginfase; brede teenbox", "category": "taping", "brand_or_product": "KT Tape", "verdict": "works", "first_hand": true, "reason": "Tape ondersteunt lange looprondes in het magazijn", "source_id": "nc7532a"},
+    {"solution": "Brooks Ghost Max, orthopedische zolen en nachtspalk", "category": "shoes", "brand_or_product": "Brooks Ghost Max", "verdict": "works", "first_hand": true, "reason": "Super comfortabel", "source_id": "nc6602w"},
+    {"solution": "Hoka-hardloopschoenen en kuitrekken/-heffingen", "category": "shoes", "brand_or_product": "Hoka", "verdict": "works", "first_hand": true, "reason": "Werkt voor mediale boogpijn", "source_id": "nc79clb"},
+    {"solution": "Good Feet Store", "category": "otc_insole", "brand_or_product": "The Good Feet Store", "verdict": "unknown", "first_hand": false, "reason": "Alleen gezien in tv-reclames", "source_id": "nc6ijq6"}
+  ],
+  "brands_mentioned": ["Kuru", "KT Tape", "Brooks Ghost Max", "Hoka", "The Good Feet Store", "Target", "Amazon"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": ["You can get a night splint to help healing at night off Amazon for under 30$.", "Just asked my dad for some money to help cover my rent because I can barely stand up at work and don’t do overtime anymore."],
+  "quotes": [
+    {"text": "I had to clock out early today because every step on my foot felt so tender.", "source_id": "post", "kind": "pain", "nl_meaning": "Ik moest vandaag eerder uitklokken omdat elke stap zo gevoelig voelde."},
+    {"text": "This has messed up my money, life and relationship.", "source_id": "nc57coa", "kind": "impact_on_life", "nl_meaning": "Dit heeft mijn geld, leven en relatie verpest."},
+    {"text": "I think I developed it from wearing steel toe shoes all day", "source_id": "nc7cppw", "kind": "pain", "nl_meaning": "Ik denk dat ik het kreeg van de hele dag veiligheidsschoenen dragen."},
+    {"text": "They help but my pain still increases throughout the day and gets unbearable toward the end", "source_id": "nc9k93n", "kind": "fails", "nl_meaning": "Ze helpen, maar de pijn neemt over de dag toe en wordt tegen het einde ondraaglijk."},
+    {"text": "They got me from not being able to stand for short periods of time to being able to go to amusement parks for 6 hours.", "source_id": "nc4s2yl", "kind": "works", "nl_meaning": "Ze brachten me van niet eens kort kunnen staan naar zes uur in een pretpark."}
+  ],
+  "emotional_intensity": 5, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: voor magazijnwerkers is voetpijn een inkomensprobleem (diensten afbreken, geen overuren); een zool die in veiligheidsschoenen past en 'tot het einde van de dienst' comfortabel blijft is de kernbelofte (te valideren)."
+}},
+{"post_id": "1ngl3g2", "label": {
+  "relevant": true, "language": "en", "thread_type": "asking_help",
+  "problem_summary_nl": "Iemand met Morton-neuroom krijgt brandende pijn bij de vierde teen in hakken en wil voor een evenement toch hakken dragen; zoekt trucs of hulpmiddelen.",
+  "regions": ["forefoot", "toes", "nerve"], "conditions": ["Morton's neuroma"],
+  "diagnosed_by_professional": null, "occupation": null, "situations": ["other"],
+  "duration": null, "previous_fixes": [],
+  "complaints_about_products": ["toe_box_tight"],
+  "desired_outcomes_nl": ["hakken kunnen dragen bij een evenement", "zonder pijn lopen"],
+  "solutions": [
+    {"solution": "Lagere hak en een pad (make-upspons) net achter de pijnplek", "category": "metatarsal_pad", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Advies", "source_id": "ne4whcl"},
+    {"solution": "Tenen scheiden met teensokken of gel-teenspreiders", "category": "lifestyle_other", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Geeft de meeste verlichting", "source_id": "ne4xluf"},
+    {"solution": "Hakken met brede teenbox", "category": "shoes", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Minder schadelijk", "source_id": "ne9f22b"},
+    {"solution": "Pads onder de bal van de voet", "category": "metatarsal_pad", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Vermindert druk op het neuroom", "source_id": "ne4sg9n"},
+    {"solution": "Neurectomie", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Geen pijn meer en weer de hoogste hakken", "source_id": "ne8ztdz"},
+    {"solution": "Neurectomie plus metatarsaalpads", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "26 dagen na operatie zonder problemen hakken gedragen", "source_id": "ne97ur6"},
+    {"solution": "Drie weken Birkenstocks, daarna langzaam lage hakken", "category": "shoes", "brand_or_product": "Birkenstock", "verdict": "works", "first_hand": true, "reason": "Pijn verdween, weer terug op hakken zonder klachten", "source_id": "neaaf2f"},
+    {"solution": "Neurectomie (groot neuroom)", "category": "surgery", "brand_or_product": null, "verdict": "partly", "first_hand": true, "reason": "Na 6 weken nog zwelling en zenuwpijn", "source_id": "nef1rgo"}
+  ],
+  "brands_mentioned": ["Birkenstock", "Amazon"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "I get this incredible burning discomfort on one foot at toe 4 when I wear heels.", "source_id": "post", "kind": "pain", "nl_meaning": "Ik krijg een ongelooflijk brandend gevoel bij de vierde teen van één voet als ik hakken draag."},
+    {"text": "I get most relief from separating my toes.", "source_id": "ne4xluf", "kind": "works", "nl_meaning": "Ik krijg de meeste verlichting door mijn tenen te scheiden."},
+    {"text": "They won't look as cute or dainty, but they also won't destroy your feet quite as much.", "source_id": "ne9f22b", "kind": "objection", "nl_meaning": "Ze zien er niet zo schattig of sierlijk uit, maar ze verwoesten je voeten ook niet zo erg."},
+    {"text": "it is so wonderful to be able to walk without pain and that popping sensation with every step!", "source_id": "ne97ur6", "kind": "desire", "nl_meaning": "Het is zo heerlijk om te lopen zonder pijn en zonder dat knappende gevoel bij elke stap!"}
+  ],
+  "emotional_intensity": 2, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: er is vraag naar discrete voorvoethulpjes voor 'die ene avond op hakken'; een dunne voorvoetpad-variant past daar beter bij dan een volledige zool."
+}},
+{"post_id": "1n5vmpy", "label": {
+  "relevant": true, "language": "en", "thread_type": "asking_help",
+  "problem_summary_nl": "36-jarige hardloopster kreeg maatwerkzolen tegen scheenbeenpijn; die pijn is weg, maar haar bunions lijken nu erger en schoenen knellen bij de tenen.",
+  "regions": ["toes", "forefoot", "arch", "legs_knees_back"], "conditions": ["bunions", "hallux valgus", "shin pain", "overpronation"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["running", "sport"],
+  "duration": "al zo lang ze zich kan herinneren",
+  "previous_fixes": ["custom orthotics (childhood)", "custom orthotics for running"],
+  "complaints_about_products": ["arch_too_high", "toe_box_tight", "made_worse"],
+  "desired_outcomes_nl": ["blijven hardlopen", "bunions niet laten verergeren"],
+  "solutions": [
+    {"solution": "Maatwerkzolen voor hardlopen", "category": "custom_orthotic", "brand_or_product": null, "verdict": "mixed", "first_hand": true, "reason": "Scheenbeenpijn weg na 2-3 aanpassingen (te sterke correctie gaf boogpijn), maar meer bunionklachten", "source_id": "post"},
+    {"solution": "Minimaal invasieve bunionoperatie", "category": "surgery", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Snel herstel, geen spijt", "source_id": "nbwhn1l"},
+    {"solution": "Stoppen met hardlopen, fietsen en zwemmen", "category": "lifestyle_other", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Moest stoppen met hardlopen vanwege bunions", "source_id": "nbwzvk8"},
+    {"solution": "Brede teenbox, voet- en enkelversterking, betere looptechniek", "category": "stretching_exercise", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Advies van coach-achtige reageerder", "source_id": "nc53l2g"},
+    {"solution": "Maatwerkzolen na twee bunionoperaties", "category": "custom_orthotic", "brand_or_product": null, "verdict": "partly", "first_hand": true, "reason": "Helpen wat, maar vooral de schoenen bepalen het; 8-9 uur per dag staan in de horeca", "source_id": "nc2mhkp"},
+    {"solution": "Maatwerkzolen bij marathontraining", "category": "custom_orthotic", "brand_or_product": null, "verdict": "made_worse", "first_hand": true, "reason": "Voet hoger in de schoen, blaren, branden, ontstoken botspoor en infectie", "source_id": "nbxsoev"},
+    {"solution": "Atletische maatwerkzolen", "category": "custom_orthotic", "brand_or_product": "Footmaxx", "verdict": "works", "first_hand": true, "reason": "Geen problemen tijdens hardlopen", "source_id": "nbxyrg6"}
+  ],
+  "brands_mentioned": ["Footmaxx"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": ["It’s been a long and expensive process!!"],
+  "quotes": [
+    {"text": "the correction was too intense and was causing me pain in the arch", "source_id": "post", "kind": "fails", "nl_meaning": "De correctie was te sterk en gaf me pijn in de voetboog."},
+    {"text": "Some shoes felt tighter around the toes and I feel pain when I used to barely notice them.", "source_id": "post", "kind": "pain", "nl_meaning": "Sommige schoenen voelden strakker rond de tenen en ik voel pijn waar ik ze vroeger nauwelijks merkte."},
+    {"text": "The orthotics elevated my foot in the shoe and changed my foot mechanics when running causing excess pressure on top", "source_id": "nbxsoev", "kind": "fails", "nl_meaning": "De zolen tilden mijn voet hoger in de schoen en veranderden mijn looptechniek, met te veel druk op de bovenkant."},
+    {"text": "The orthotics help some but it's really the shoes you wear.", "source_id": "nc2mhkp", "kind": "objection", "nl_meaning": "De zolen helpen wat, maar het gaat echt om de schoenen die je draagt."},
+    {"text": "I've got about a half dozen pairs of sneakers in different sizes, some of which I can no longer wear with the orthotics.", "source_id": "nc2mhkp", "kind": "fails", "nl_meaning": "Ik heb zo'n zes paar sneakers in verschillende maten, waarvan ik sommige niet meer met de zolen kan dragen."}
+  ],
+  "emotional_intensity": 3, "medical_red_flag": true, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: een zool die de voet hoger in de schoen tilt veroorzaakt nieuwe drukpunten bij tenen en wreef; 'past in je bestaande schoenen' en een dun voorvoetdeel zijn belangrijke productvereisten."
+}},
+{"post_id": "1n6kqns", "label": {
+  "relevant": true, "language": "en", "thread_type": "discussion",
+  "problem_summary_nl": "Vraag of fasciitis plantaris na één keer vaker terugkomt; vraagsteller ervaart dat het 'uit het niets' terugkeert.",
+  "regions": ["heel", "arch"], "conditions": ["plantar fasciitis", "heel spur"],
+  "diagnosed_by_professional": null, "occupation": null, "situations": ["overweight", "aging"],
+  "duration": null, "previous_fixes": [],
+  "complaints_about_products": ["no_effect"],
+  "desired_outcomes_nl": ["dat het niet terugkomt"],
+  "solutions": [
+    {"solution": "Afvallen door suiker te schrappen (op advies podotherapeut)", "category": "weight_loss", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Na zeven jaar fasciitis al twee jaar pijnvrij, ondanks hielspoor; alle stretches en zolen werkten eerder niet", "source_id": "nc6p5bw"},
+    {"solution": "Elke stretch, oefening en inlegzool", "category": "otc_insole", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Niets hielp vóór het afvallen", "source_id": "nc6p5bw"},
+    {"solution": "Looppatroon laten analyseren bij een fysiotherapeut", "category": "physio", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Advies", "source_id": "nc2v9bt"},
+    {"solution": "Consequent rekken en kilometers niet plots opvoeren", "category": "stretching_exercise", "brand_or_product": null, "verdict": "unknown", "first_hand": false, "reason": "Advies tegen terugval", "source_id": "nc5iotr"}
+  ],
+  "brands_mentioned": [],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": [],
+  "quotes": [
+    {"text": "I tried everything; every stretch, exercise, and insole on God's green earth.", "source_id": "nc6p5bw", "kind": "fails", "nl_meaning": "Ik heb alles geprobeerd; elke stretch, oefening en inlegzool op deze aardbol."},
+    {"text": "my feet feeling like I had a 10,000 degree railroad spike rammed in them.", "source_id": "nc6p5bw", "kind": "pain", "nl_meaning": "Mijn voeten voelden alsof er een spoorspijker van 10.000 graden in geramd was."},
+    {"text": "I thought I'd end up on disability, as I could barely walk anymore.", "source_id": "nc6p5bw", "kind": "impact_on_life", "nl_meaning": "Ik dacht dat ik arbeidsongeschikt zou worden, omdat ik bijna niet meer kon lopen."},
+    {"text": "It’s frustrating. I wish I never developed plantar fasciitis in the first place", "source_id": "nc5x4ct", "kind": "pain", "nl_meaning": "Het is frustrerend. Ik wou dat ik nooit fasciitis plantaris had gekregen."}
+  ],
+  "emotional_intensity": 3, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: angst voor terugval is een terugkerend motief; preventief comfort na herstel ('blijf goed staan') is een mogelijke invalshoek zonder behandelclaim."
+}},
+{"post_id": "1niitsr", "label": {
+  "relevant": true, "language": "en", "thread_type": "experience_report",
+  "problem_summary_nl": "Iemand met Morton-neuroom is al een jaar pijnvrij door een gat te knippen in een siliconen inlegzool op de plek van het neuroom, zodat ze er niet op stapt.",
+  "regions": ["forefoot", "toes", "nerve"], "conditions": ["Morton's neuroma", "sesamoiditis"],
+  "diagnosed_by_professional": null, "occupation": null, "situations": ["daily_walking", "hiking"],
+  "duration": null,
+  "previous_fixes": ["silicone insoles with metatarsal bumps", "silicone metatarsal pads"],
+  "complaints_about_products": ["no_effect", "too_expensive"],
+  "desired_outcomes_nl": ["lange afstanden lopen, wandelen en dansen zonder pijn"],
+  "solutions": [
+    {"solution": "Gat (ca. 2x3 cm) knippen in een siliconen inlegzool op de plek van het neuroom; ook in een goedkope huisslipper", "category": "otc_insole", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Een jaar pijnvrij: lange wandelingen, hiken, dansen", "source_id": "post"},
+    {"solution": "Siliconen zolen met metatarsaalbult en metatarsaalpads", "category": "metatarsal_pad", "brand_or_product": null, "verdict": "no_effect", "first_hand": true, "reason": "Deden niets voor deze schrijver", "source_id": "neu806z"},
+    {"solution": "Dancer's pads met uitsparing", "category": "metatarsal_pad", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Werken goed bij sesamoiditis", "source_id": "nep2kei"},
+    {"solution": "Maatwerkzolen met verdieping onder het sesambotje", "category": "custom_orthotic", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Ontlast de pijnplek; $20 met verzekering, $500 zonder", "source_id": "nep2kei"},
+    {"solution": "Stevige zolen met boogsteun zoals Superfeet", "category": "otc_insole", "brand_or_product": "Superfeet", "verdict": "unknown", "first_hand": false, "reason": "Advies: verlaagt ook druk op de voorvoet; beter dan Dr. Scholl's", "source_id": "nepu0u0"},
+    {"solution": "Inlegzolen met metatarsaalpads", "category": "metatarsal_pad", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "Werken redelijk goed", "source_id": "net2jxr"}
+  ],
+  "brands_mentioned": ["Superfeet", "Dr. Scholl's", "Crocs"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": ["They were $20 annually with insurance and $500 without.", "several of these over time will still be cheaper than $500"],
+  "quotes": [
+    {"text": "cut a hole in a silicone insole where the neuroma is, and insert it in your shoe", "source_id": "post", "kind": "works", "nl_meaning": "Knip een gat in een siliconen inlegzool op de plek van het neuroom en leg die in je schoen."},
+    {"text": "For me, this year has been pain-free in this regard. I've walked long distances, hiked, danced.", "source_id": "post", "kind": "works", "nl_meaning": "Voor mij was dit jaar op dit vlak pijnvrij. Ik heb lange afstanden gelopen, gehiket en gedanst."},
+    {"text": "I can feel the clicking thingy, like I'm stepping on a pebble.", "source_id": "nennygl", "kind": "pain", "nl_meaning": "Ik voel dat klikkende ding, alsof ik op een steentje stap."},
+    {"text": "I recommend forking out for slightly better than Dr. Scholl's", "source_id": "nepu0u0", "kind": "objection", "nl_meaning": "Ik raad aan iets meer uit te geven dan aan Dr. Scholl's."}
+  ],
+  "emotional_intensity": 2, "medical_red_flag": false, "claims_risk": "medical",
+  "marketing_insight_nl": "Hypothese: mensen knutselen zelf ontlastingszones; een zool met een uitneembare of knipbare voorvoetzone ('pas het drukpunt zelf aan') kan een onderscheidende, niet-medische feature zijn."
+}},
+{"post_id": "1n8x3b9", "label": {
+  "relevant": true, "language": "en", "thread_type": "recommendation_request",
+  "problem_summary_nl": "Iemand met zeer platte voeten moet van de arts niet blootsvoets lopen en zoekt comfortabele, ondersteunende sandalen voor thuis (nu Crocs; arts raadt Oofos of Birkenstock aan).",
+  "regions": ["arch"], "conditions": ["flat feet"],
+  "diagnosed_by_professional": true, "occupation": null, "situations": ["daily_walking"],
+  "duration": null, "previous_fixes": ["Crocs"],
+  "complaints_about_products": ["too_expensive"],
+  "desired_outcomes_nl": ["thuis comfortabel en ondersteund lopen"],
+  "solutions": [
+    {"solution": "Keen Newport-sandalen", "category": "shoes", "brand_or_product": "Keen Newport", "verdict": "works", "first_hand": true, "reason": "De hielsteun helpt echt", "source_id": "ncif780"},
+    {"solution": "Oofos-slides na operatie", "category": "shoes", "brand_or_product": "Oofos", "verdict": "works", "first_hand": true, "reason": "Fijn voor 's nachts naar het toilet", "source_id": "ncjgnby"},
+    {"solution": "Birkenstocks (geen namaak)", "category": "shoes", "brand_or_product": "Birkenstock", "verdict": "works", "first_hand": true, "reason": "Niet zacht, maar de boogsteun voorkomt het gevoel van inzakken; namaak heeft geen boogsteun", "source_id": "ncl7q6n"},
+    {"solution": "Merrell-sandalen", "category": "shoes", "brand_or_product": "Merrell Terran 4", "verdict": "works", "first_hand": true, "reason": "Al tien jaar trouw, gaan 3-4 jaar mee (Nederlandse schrijver in UK)", "source_id": "ncmpbvt"},
+    {"solution": "Goedkope EVA-Birkenstock-namaak van Amazon", "category": "shoes", "brand_or_product": null, "verdict": "works", "first_hand": true, "reason": "$15 en na vijf jaar nog steeds blij, als oud-horecamedewerker", "source_id": "nclixor"},
+    {"solution": "Oofos voor demping, Birkenstock Arizona voor stevige steun", "category": "shoes", "brand_or_product": "Oofos, Birkenstock Arizona", "verdict": "works", "first_hand": true, "reason": "Oofos voelt als lopen op wolken, Birkenstock steunt langer", "source_id": "ncncss2"},
+    {"solution": "Archies-teenslippers", "category": "shoes", "brand_or_product": "Archies", "verdict": "works", "first_hand": true, "reason": "Helpen bij platvoeten", "source_id": "nckmrzc"}
+  ],
+  "brands_mentioned": ["Crocs", "Oofos", "Birkenstock", "Keen", "Merrell", "Archies", "Doc Martens", "Teva"],
+  "copper": {"mentioned": false, "sentiment": "not_mentioned", "summary_nl": ""},
+  "price_mentions": ["They’re expensive but it’s worth it!", "I got some fake EVA Birkenstock sandals off Amazon for $15 and five years later I still love them."],
+  "quotes": [
+    {"text": "They aren’t squishy at all but the have this arch support  that makes my arch actually feel supported and not feel like it’s collapsing.", "source_id": "ncl7q6n", "kind": "works", "nl_meaning": "Ze zijn helemaal niet zacht, maar de boogsteun laat mijn voetboog echt gesteund voelen in plaats van inzakken."},
+    {"text": "OOFOS Ooahh slides = instant “walking on clouds,” great for sore flat feet", "source_id": "ncncss2", "kind": "works", "nl_meaning": "Oofos Ooahh-slides = meteen 'lopen op wolken', top voor pijnlijke platvoeten."},
+    {"text": "I say this as a former service worker who was always searching for comfortable and supportive footwear and rarely found anything that suited my needs.", "source_id": "nclixor", "kind": "desire", "nl_meaning": "Dat zeg ik als oud-horecamedewerker die altijd zocht naar comfortabel, ondersteunend schoeisel en zelden iets vond dat paste."}
+  ],
+  "emotional_intensity": 1, "medical_red_flag": false, "claims_risk": "comfort_only",
+  "marketing_insight_nl": "Hypothese: 'thuis niet blootsvoets' is een groeiende gewoonte; mensen kiezen tussen zacht (Oofos) en stevig (Birkenstock). Een zool die beide combineert is een herkenbaar verhaal."
+}}
+]
