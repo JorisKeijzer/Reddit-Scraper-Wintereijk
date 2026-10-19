@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import logging
 import sqlite3
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 
@@ -70,13 +71,24 @@ def run_job(
     return new
 
 
-def fetch_missing_comments(conn: sqlite3.Connection, source, limit: int | None = None) -> int:
+def _last_run(conn: sqlite3.Connection, source_name: str, job: Job) -> int:
+    row = conn.execute(
+        "SELECT last_run FROM query_log WHERE source = ? AND subreddit = ? AND query = ?",
+        (source_name, job.subreddit or "*", job.query or "*"),
+    ).fetchone()
+    return row["last_run"] if row and row["last_run"] else 0
+
+
+def fetch_missing_comments(conn: sqlite3.Connection, source, limit: int | None = None, deadline: float | None = None) -> int:
     sql = "SELECT id FROM posts WHERE comments_fetched_at IS NULL AND num_comments > 0 ORDER BY num_comments DESC"
     if limit:
         sql += f" LIMIT {int(limit)}"
     ids = [r["id"] for r in conn.execute(sql)]
     log.info("reacties ophalen voor %d posts", len(ids))
     for n, post_id in enumerate(ids, start=1):
+        if deadline and time.monotonic() > deadline:
+            log.info("tijdbudget op na %d/%d threads met reacties", n - 1, len(ids))
+            break
         try:
             db.replace_comments(conn, post_id, source.fetch_comments(post_id))
         except Exception:  # volgende run probeert deze post opnieuw
@@ -98,7 +110,11 @@ def run(
     keyword_langs: list[str] | None = None,
     comments: bool = True,
     comment_limit: int | None = None,
+    time_budget_min: float | None = None,
 ) -> None:
+    """With time_budget_min, stop starting new work once the budget is spent (the rest follows
+    in the next run). Jobs that ran longest ago go first, so every job gets its turn."""
+    deadline = time.monotonic() + time_budget_min * 60 if time_budget_min else None
     conn = db.connect(db_path)
     cfg = load_subreddits()
     langs = subreddit_languages(cfg)
@@ -107,10 +123,15 @@ def run(
         if not source.supports_sitewide:
             raise SystemExit("Sitewide zoeken kan alleen met --source reddit")
         keywords = [k for k in load_keywords() if k.active and (not keyword_langs or k.language in keyword_langs)]
-    jobs = build_jobs(cfg, groups, keywords)
+    jobs = sorted(build_jobs(cfg, groups, keywords), key=lambda j: _last_run(conn, source.name, j))
     log.info("%d zoekopdrachten via %s", len(jobs), source.name)
     total = 0
+    # Ongeveer twee derde van het budget voor zoeken, de rest voor reacties.
+    search_deadline = deadline - time_budget_min * 20 if deadline else None
     for n, job in enumerate(jobs, start=1):
+        if search_deadline and time.monotonic() > search_deadline:
+            log.info("tijdbudget voor zoeken op na %d/%d zoekopdrachten", n - 1, len(jobs))
+            break
         try:
             added = run_job(conn, source, job, _since_ts(since), max_posts, langs, cfg.get("exclude_phrases", []))
         except Exception:  # één kapotte subreddit/zoekterm mag de run niet stoppen
@@ -120,4 +141,4 @@ def run(
         log.info("[%d/%d] r/%s '%s': %d nieuw", n, len(jobs), job.subreddit or "*", job.query or "*", added)
     log.info("klaar: %d nieuwe posts", total)
     if comments:
-        fetch_missing_comments(conn, source, comment_limit)
+        fetch_missing_comments(conn, source, comment_limit, deadline)

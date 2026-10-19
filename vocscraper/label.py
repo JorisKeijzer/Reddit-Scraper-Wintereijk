@@ -201,7 +201,15 @@ def pending_posts(conn: sqlite3.Connection, limit: int | None, relabel: bool = F
              WHERE (p.comments_fetched_at IS NOT NULL OR p.num_comments = 0)"""
     if not relabel:
         sql += " AND l.post_id IS NULL"
-    sql += " ORDER BY p.num_comments DESC"
+    # Voorrang: eerst threads over koper/magneten, dan threads met reacties (meeste eerst);
+    # threads zonder reacties komen achteraan.
+    sql += """ ORDER BY
+        (lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%copper%'
+         OR lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%koper%'
+         OR lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%kupfer%'
+         OR lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%magnetic insole%') DESC,
+        (p.num_comments > 0) DESC,
+        p.num_comments DESC"""
     if limit:
         sql += f" LIMIT {int(limit)}"
     return conn.execute(sql).fetchall()

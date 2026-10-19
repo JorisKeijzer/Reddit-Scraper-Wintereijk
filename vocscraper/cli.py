@@ -34,6 +34,7 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--keyword-langs", nargs="*", choices=["en", "nl", "de"])
     p.add_argument("--no-comments", action="store_true")
     p.add_argument("--comment-limit", type=int, help="Max aantal threads waarvan reacties opgehaald worden")
+    p.add_argument("--time-budget", type=float, help="Stop na zoveel minuten; de rest volgt in de volgende run")
 
     p = sub.add_parser("comments", help="Alleen ontbrekende reacties ophalen")
     p.add_argument("--source", choices=["arctic", "reddit"], default="arctic")
@@ -69,7 +70,7 @@ def main(argv: list[str] | None = None) -> None:
         collect.run(
             args.db, get_source(args.source), groups=args.groups, since=args.since, max_posts=args.max_posts,
             sitewide=args.sitewide, keyword_langs=args.keyword_langs, comments=not args.no_comments,
-            comment_limit=args.comment_limit,
+            comment_limit=args.comment_limit, time_budget_min=args.time_budget,
         )
     elif args.command == "comments":
         collect.fetch_missing_comments(db.connect(args.db), get_source(args.source), args.limit)
