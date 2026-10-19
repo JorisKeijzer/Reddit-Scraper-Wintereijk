@@ -1,0 +1,350 @@
+id,language,cluster,term,priority,active
+DE-C001,de,Concept (Claude) - Produkt,Kupfer Einlagen,Medium,yes
+DE-C002,de,Concept (Claude) - Produkt,Kupfereinlagen,Medium,yes
+DE-C003,de,Concept (Claude) - Produkt,Einlagen,Medium,yes
+DE-C004,de,Concept (Claude) - Produkt,Schuheinlagen,Medium,yes
+DE-C005,de,Concept (Claude) - Produkt,orthopädische Einlagen,Medium,yes
+DE-C006,de,Concept (Claude) - Produkt,Gel Einlagen,Medium,yes
+DE-C007,de,Concept (Claude) - Produkt,Einlagen Arbeitsschuhe,Medium,yes
+DE-C008,de,Concept (Claude) - Produkt,Einlagen Erfahrungen,Medium,yes
+DE-C009,de,Concept (Claude) - Produkt,Einlagen Orthopäde,Medium,yes
+DE-C010,de,Concept (Claude) - Produkt,Sicherheitsschuhe Einlagen,Medium,yes
+DE-C011,de,Concept (Claude) - Problem (Alltagssprache),Fußschmerzen,Medium,yes
+DE-C012,de,Concept (Claude) - Problem (Alltagssprache),Schmerzen unter der Ferse,Medium,yes
+DE-C013,de,Concept (Claude) - Problem (Alltagssprache),Fersenschmerzen morgens,Medium,yes
+DE-C014,de,Concept (Claude) - Problem (Alltagssprache),Füße tun weh nach der Arbeit,Medium,yes
+DE-C015,de,Concept (Claude) - Problem (Alltagssprache),den ganzen Tag stehen Füße,Medium,yes
+DE-C016,de,Concept (Claude) - Problem (Alltagssprache),müde Füße,Medium,yes
+DE-C017,de,Concept (Claude) - Problem (Alltagssprache),brennende Füße,Medium,yes
+DE-C018,de,Concept (Claude) - Problem (Alltagssprache),Schmerzen Fußballen,Medium,yes
+DE-C019,de,Concept (Claude) - Problem (Alltagssprache),Füße schmerzen beim Laufen,Medium,yes
+DE-C020,de,Concept (Claude) - Problem (Alltagssprache),Schuhe drücken,Medium,yes
+DE-C021,de,Concept (Claude) - Erkrankung,Fersensporn,Medium,yes
+DE-C022,de,Concept (Claude) - Erkrankung,Plantarfasziitis,Medium,yes
+DE-C023,de,Concept (Claude) - Erkrankung,Plattfuß,Medium,yes
+DE-C024,de,Concept (Claude) - Erkrankung,Senkfuß,Medium,yes
+DE-C025,de,Concept (Claude) - Erkrankung,Spreizfuß,Medium,yes
+DE-C026,de,Concept (Claude) - Erkrankung,Hohlfuß,Medium,yes
+DE-C027,de,Concept (Claude) - Erkrankung,Knickfuß,Medium,yes
+DE-C028,de,Concept (Claude) - Erkrankung,Hallux valgus,Medium,yes
+DE-C029,de,Concept (Claude) - Erkrankung,Hammerzehen,Medium,yes
+DE-C030,de,Concept (Claude) - Erkrankung,Morton Neurom,Medium,yes
+DE-C031,de,Concept (Claude) - Erkrankung,Achillessehne,Medium,yes
+DE-C032,de,Concept (Claude) - Erkrankung,Arthrose Fuß,Medium,yes
+DE-C033,de,Concept (Claude) - Erkrankung,Gicht Fuß,Medium,yes
+DE-C034,de,Concept (Claude) - Zielgruppe / Beruf,Pflege Füße Schicht,Medium,yes
+DE-C035,de,Concept (Claude) - Zielgruppe / Beruf,Krankenschwester Schuhe,Medium,yes
+DE-C036,de,Concept (Claude) - Zielgruppe / Beruf,Gastronomie Füße,Medium,yes
+DE-C037,de,Concept (Claude) - Zielgruppe / Beruf,Einzelhandel stehen,Medium,yes
+DE-C038,de,Concept (Claude) - Zielgruppe / Beruf,Lager Sicherheitsschuhe,Medium,yes
+DE-C039,de,Concept (Claude) - Zielgruppe / Beruf,Bau Arbeitsschuhe Schmerzen,Medium,yes
+DE-C040,de,Concept (Claude) - Zielgruppe / Beruf,Friseur stehen Füße,Medium,yes
+DE-C041,de,Concept (Claude) - Zielgruppe / Beruf,Lehrer Füße,Medium,yes
+DE-C042,de,Concept (Claude) - Kupfer / Wellness,Kupferarmband,Medium,yes
+DE-C043,de,Concept (Claude) - Kupfer / Wellness,Kupfer Socken,Medium,yes
+DE-C044,de,Concept (Claude) - Kupfer / Wellness,Magneteinlagen,Medium,yes
+DE-C045,de,Concept (Claude) - Kupfer / Wellness,Akupressur Einlagen,Medium,yes
+DE-C046,de,Concept (Claude) - Kupfer / Wellness,Reflexzonen Einlagen,Medium,yes
+KW-001,en,3.1 Product / category,copper insoles,High,yes
+KW-002,en,3.1 Product / category,copper infused insoles,High,yes
+KW-003,en,3.1 Product / category,copper shoe inserts,High,yes
+KW-004,en,3.1 Product / category,copper orthotic insoles,High,yes
+KW-005,en,3.1 Product / category,shoe insoles,High,yes
+KW-006,en,3.1 Product / category,shoe inserts,High,yes
+KW-007,en,3.1 Product / category,orthotic insoles,High,yes
+KW-008,en,3.1 Product / category,orthopedic insoles,High,yes
+KW-009,en,3.1 Product / category,comfort insoles,High,yes
+KW-010,en,3.1 Product / category,arch support insoles,High,yes
+KW-011,en,3.1 Product / category,cushioned insoles,High,yes
+KW-012,en,3.1 Product / category,memory foam insoles,High,yes
+KW-013,en,3.1 Product / category,gel insoles,High,yes
+KW-014,en,3.1 Product / category,anti fatigue insoles,High,yes
+KW-015,en,3.1 Product / category,shock absorbing insoles,High,yes
+KW-016,en,3.1 Product / category,work boot insoles,High,yes
+KW-017,en,3.1 Product / category,walking insoles,High,yes
+KW-018,en,3.1 Product / category,heavy duty insoles,High,yes
+KW-019,en,3.1 Product / category,odor control insoles,High,yes
+KW-020,en,3.1 Product / category,trim to fit insoles,High,yes
+KW-021,en,3.2 Problem-aware / consumer language,feet hurt after work,Medium,yes
+KW-022,en,3.2 Problem-aware / consumer language,feet hurt after standing all day,Medium,yes
+KW-023,en,3.2 Problem-aware / consumer language,feet hurt after walking,Medium,yes
+KW-024,en,3.2 Problem-aware / consumer language,standing on concrete all day,Medium,yes
+KW-025,en,3.2 Problem-aware / consumer language,foot pain after 12 hour shift,Medium,yes
+KW-026,en,3.2 Problem-aware / consumer language,feet burning after work,Medium,yes
+KW-027,en,3.2 Problem-aware / consumer language,heels hurt when standing,Medium,yes
+KW-028,en,3.2 Problem-aware / consumer language,heel pain in the morning,Medium,yes
+KW-029,en,3.2 Problem-aware / consumer language,bottom of foot hurts,Medium,yes
+KW-030,en,3.2 Problem-aware / consumer language,pain under heel,Medium,yes
+KW-031,en,3.2 Problem-aware / consumer language,feet hurt in work boots,Medium,yes
+KW-032,en,3.2 Problem-aware / consumer language,shoes hurt my feet,Medium,yes
+KW-033,en,3.2 Problem-aware / consumer language,insoles making pain worse,Medium,yes
+KW-034,en,3.2 Problem-aware / consumer language,insoles too hard,Medium,yes
+KW-035,en,3.2 Problem-aware / consumer language,insoles too thick,Medium,yes
+KW-036,en,3.2 Problem-aware / consumer language,arch support hurts my feet,Medium,yes
+KW-037,en,3.2 Problem-aware / consumer language,orthotics uncomfortable,Medium,yes
+KW-038,en,3.2 Problem-aware / consumer language,work boots no cushioning,Medium,yes
+KW-039,en,3.2 Problem-aware / consumer language,tired aching feet,Medium,yes
+KW-040,en,3.2 Problem-aware / consumer language,smelly work shoes,Medium,yes
+KW-041,en,3.2 Problem-aware / consumer language,sweaty feet in boots,Medium,yes
+KW-042,en,3.2 Problem-aware / consumer language,how to make work boots comfortable,Medium,yes
+KW-043,en,3.2 Problem-aware / consumer language,how to walk longer without sore feet,Medium,yes
+KW-044,en,3.3 Conditions / foot-related research,plantar fasciitis,Medium,yes
+KW-045,en,3.3 Conditions / foot-related research,plantar heel pain,Medium,yes
+KW-046,en,3.3 Conditions / foot-related research,heel spurs,Medium,yes
+KW-047,en,3.3 Conditions / foot-related research,flat feet,Medium,yes
+KW-048,en,3.3 Conditions / foot-related research,fallen arches,Medium,yes
+KW-049,en,3.3 Conditions / foot-related research,high arches,Medium,yes
+KW-050,en,3.3 Conditions / foot-related research,overpronation,Medium,yes
+KW-051,en,3.3 Conditions / foot-related research,supination,Medium,yes
+KW-052,en,3.3 Conditions / foot-related research,metatarsalgia,Medium,yes
+KW-053,en,3.3 Conditions / foot-related research,Morton's neuroma,Medium,yes
+KW-054,en,3.3 Conditions / foot-related research,Achilles tendinopathy,Medium,yes
+KW-055,en,3.3 Conditions / foot-related research,bunions,Medium,yes
+KW-056,en,3.3 Conditions / foot-related research,hammer toes,Medium,yes
+KW-057,en,3.3 Conditions / foot-related research,heel fat pad syndrome,Medium,yes
+KW-058,en,3.3 Conditions / foot-related research,peripheral neuropathy,Medium,yes
+KW-059,en,3.3 Conditions / foot-related research,diabetic foot,Medium,yes
+KW-060,en,3.3 Conditions / foot-related research,arthritis,Medium,yes
+KW-061,en,3.3 Conditions / foot-related research,foot calluses,Medium,yes
+KW-062,en,3.3 Conditions / foot-related research,corns on feet,Medium,yes
+KW-063,en,3.3 Conditions / foot-related research,heel tenderness,Medium,yes
+KW-064,en,3.4 Audiences / occupations,nurse insoles,Medium,yes
+KW-065,en,3.4 Audiences / occupations,nursing shoes,Medium,yes
+KW-066,en,3.4 Audiences / occupations,12 hour shifts,Medium,yes
+KW-067,en,3.4 Audiences / occupations,healthcare worker foot pain,Medium,yes
+KW-068,en,3.4 Audiences / occupations,retail worker foot pain,Medium,yes
+KW-069,en,3.4 Audiences / occupations,standing at checkout,Medium,yes
+KW-070,en,3.4 Audiences / occupations,construction worker insoles,Medium,yes
+KW-071,en,3.4 Audiences / occupations,work boot comfort,Medium,yes
+KW-072,en,3.4 Audiences / occupations,factory worker foot pain,Medium,yes
+KW-073,en,3.4 Audiences / occupations,concrete floors,Medium,yes
+KW-074,en,3.4 Audiences / occupations,warehouse worker insoles,Medium,yes
+KW-075,en,3.4 Audiences / occupations,Amazon warehouse feet,Medium,yes
+KW-076,en,3.4 Audiences / occupations,chef insoles,Medium,yes
+KW-077,en,3.4 Audiences / occupations,restaurant worker foot pain,Medium,yes
+KW-078,en,3.4 Audiences / occupations,hairdresser foot pain,Medium,yes
+KW-079,en,3.4 Audiences / occupations,barber standing all day,Medium,yes
+KW-080,en,3.4 Audiences / occupations,teacher insoles,Medium,yes
+KW-081,en,3.4 Audiences / occupations,teacher foot pain,Medium,yes
+KW-082,en,3.4 Audiences / occupations,walking all day,Medium,yes
+KW-083,en,3.4 Audiences / occupations,10k steps,Medium,yes
+KW-084,en,3.4 Audiences / occupations,daily walking,Medium,yes
+KW-085,en,3.4 Audiences / occupations,travel insoles,Medium,yes
+KW-086,en,3.4 Audiences / occupations,sightseeing foot pain,Medium,yes
+KW-087,en,3.4 Audiences / occupations,walking comfort for seniors,Medium,yes
+KW-088,en,3.4 Audiences / occupations,aging feet,Medium,yes
+KW-089,en,3.5 Copper / wellness / alternative market,copper therapy,Medium,yes
+KW-090,en,3.5 Copper / wellness / alternative market,copper healing benefits,Medium,yes
+KW-091,en,3.5 Copper / wellness / alternative market,copper bracelets,Medium,yes
+KW-092,en,3.5 Copper / wellness / alternative market,copper compression,Medium,yes
+KW-093,en,3.5 Copper / wellness / alternative market,copper infused socks,Medium,yes
+KW-094,en,3.5 Copper / wellness / alternative market,copper insoles benefits,Medium,yes
+KW-095,en,3.5 Copper / wellness / alternative market,copper foot pads,Medium,yes
+KW-096,en,3.5 Copper / wellness / alternative market,copper orthotics,Medium,yes
+KW-097,en,3.5 Copper / wellness / alternative market,copper foot care,Medium,yes
+KW-098,en,3.5 Copper / wellness / alternative market,copper fabric technology,Medium,yes
+KW-099,en,3.5 Copper / wellness / alternative market,copper antimicrobial properties,Medium,yes
+KW-100,en,3.5 Copper / wellness / alternative market,copper for foot odor,Medium,yes
+KW-101,en,3.5 Copper / wellness / alternative market,copper ions textiles,Medium,yes
+KW-102,en,3.5 Copper / wellness / alternative market,copper arthritis claims,Medium,yes
+KW-103,en,3.5 Copper / wellness / alternative market,copper inflammation research,Medium,yes
+KW-104,en,3.5 Copper / wellness / alternative market,copper and circulation claims,Medium,yes
+KW-105,en,3.5 Copper / wellness / alternative market,magnetic insoles,Medium,yes
+KW-106,en,3.5 Copper / wellness / alternative market,magnetic therapy insoles,Medium,yes
+KW-107,en,3.5 Copper / wellness / alternative market,acupressure insoles,Medium,yes
+KW-108,en,3.5 Copper / wellness / alternative market,reflexology insoles,Medium,yes
+KW-109,en,3.5 Copper / wellness / alternative market,natural foot wellness,Medium,yes
+KW-110,en,3.5 Copper / wellness / alternative market,holistic foot care,Medium,yes
+KW-111,en,3.5 Copper / wellness / alternative market,alternative foot therapy,Medium,yes
+KW-112,en,3.6 Competitive / comparison / objection terms,best insoles for standing all day,Medium,yes
+KW-113,en,3.6 Competitive / comparison / objection terms,best insoles for work boots,Medium,yes
+KW-114,en,3.6 Competitive / comparison / objection terms,insoles for concrete floors,Medium,yes
+KW-115,en,3.6 Competitive / comparison / objection terms,insoles vs orthotics,Medium,yes
+KW-116,en,3.6 Competitive / comparison / objection terms,custom orthotics alternatives,Medium,yes
+KW-117,en,3.6 Competitive / comparison / objection terms,gel vs foam insoles,Medium,yes
+KW-118,en,3.6 Competitive / comparison / objection terms,Superfeet vs PowerStep,Medium,yes
+KW-119,en,3.6 Competitive / comparison / objection terms,are expensive insoles worth it,Medium,yes
+KW-120,en,3.6 Competitive / comparison / objection terms,why do insoles hurt,Medium,yes
+KW-121,en,3.6 Competitive / comparison / objection terms,do insoles wear out,Medium,yes
+KW-122,en,3.6 Competitive / comparison / objection terms,shoes too tight with insoles,Medium,yes
+KW-123,en,3.6 Competitive / comparison / objection terms,removable shoe insole,Medium,yes
+KW-124,en,3.6 Competitive / comparison / objection terms,thin insoles for sneakers,Medium,yes
+KW-125,en,3.6 Competitive / comparison / objection terms,heel cup support,Medium,yes
+KW-126,en,3.6 Competitive / comparison / objection terms,cushioning vs arch support,Medium,yes
+KW-127,en,3.6 Competitive / comparison / objection terms,insoles for wide shoes,Medium,yes
+KW-128,en,20.1 Foot type / anatomy,pes planus,High,yes
+KW-129,en,20.1 Foot type / anatomy,flexible flat feet,High,yes
+KW-130,en,20.1 Foot type / anatomy,low arches,High,yes
+KW-131,en,20.1 Foot type / anatomy,pes cavus,High,yes
+KW-132,en,20.1 Foot type / anatomy,arch support hurts,High,yes
+KW-133,en,20.1 Foot type / anatomy,orthotics for flat feet,High,yes
+KW-134,en,20.1 Foot type / anatomy,insoles high arch,High,yes
+KW-135,en,20.1 Foot type / anatomy,wide feet,High,yes
+KW-136,en,20.1 Foot type / anatomy,thin insoles,High,yes
+KW-137,en,20.2 Heel / arch,morning heel pain,Medium,yes
+KW-138,en,20.2 Heel / arch,first step pain,Medium,yes
+KW-139,en,20.2 Heel / arch,heel spur,Medium,yes
+KW-140,en,20.2 Heel / arch,heel fat pad,Medium,yes
+KW-141,en,20.2 Heel / arch,heel cushioning,Medium,yes
+KW-142,en,20.2 Heel / arch,sore arches,Medium,yes
+KW-143,en,20.2 Heel / arch,arch pain,Medium,yes
+KW-144,en,20.2 Heel / arch,heel pain after standing,Medium,yes
+KW-145,en,20.2 Heel / arch,Achilles pain,Medium,yes
+KW-146,en,20.2 Heel / arch,PTTD,Medium,yes
+KW-147,en,20.3 Forefoot / toes,ball of foot pain,Medium,yes
+KW-148,en,20.3 Forefoot / toes,metatarsal pad,Medium,yes
+KW-149,en,20.3 Forefoot / toes,sesamoiditis,Medium,yes
+KW-150,en,20.3 Forefoot / toes,forefoot cushioning,Medium,yes
+KW-151,en,20.3 Forefoot / toes,bunion,Medium,yes
+KW-152,en,20.3 Forefoot / toes,bunionette,Medium,yes
+KW-153,en,20.3 Forefoot / toes,hallux valgus,Medium,yes
+KW-154,en,20.3 Forefoot / toes,hallux rigidus,Medium,yes
+KW-155,en,20.3 Forefoot / toes,toe numbness,Medium,yes
+KW-156,en,20.3 Forefoot / toes,wide toe box,Medium,yes
+KW-157,en,20.4 Occupation / day,standing all day,High,yes
+KW-158,en,20.4 Occupation / day,standing on concrete,High,yes
+KW-159,en,20.4 Occupation / day,warehouse worker feet,High,yes
+KW-160,en,20.4 Occupation / day,construction insoles,High,yes
+KW-161,en,20.4 Occupation / day,chef shoes,High,yes
+KW-162,en,20.4 Occupation / day,retail foot pain,High,yes
+KW-163,en,20.4 Occupation / day,cashier standing,High,yes
+KW-164,en,20.4 Occupation / day,hairdresser standing,High,yes
+KW-165,en,20.4 Occupation / day,15k steps per day,High,yes
+KW-166,en,20.4 Occupation / day,walking comfort,High,yes
+KW-167,en,20.5 Existing product frustration,insole pushes foot up,Medium,yes
+KW-168,en,20.5 Existing product frustration,arch support digging in,Medium,yes
+KW-169,en,20.5 Existing product frustration,insoles flatten out,Medium,yes
+KW-170,en,20.5 Existing product frustration,not enough cushion,Medium,yes
+KW-171,en,20.5 Existing product frustration,heel padding too hard,Medium,yes
+KW-172,en,20.5 Existing product frustration,forefoot too thin,Medium,yes
+KW-173,en,20.5 Existing product frustration,custom orthotics too expensive,Medium,yes
+KW-174,en,20.5 Existing product frustration,insoles made pain worse,Medium,yes
+KW-175,en,20.5 Existing product frustration,work boots still hurt,Medium,yes
+KW-176,en,20.5 Existing product frustration,trim to fit difficult,Medium,yes
+KW-177,en,20.5 Existing product frustration,squeaky insoles,Medium,yes
+KW-178,en,20.6 Copper / adjacent wellness,copper infused shoe inserts,Medium,yes
+KW-179,en,20.6 Copper / adjacent wellness,Copper Fit Arch Wave,Medium,yes
+KW-180,en,20.6 Copper / adjacent wellness,copper socks,Medium,yes
+KW-181,en,20.6 Copper / adjacent wellness,copper infused fabric,Medium,yes
+KW-182,en,20.6 Copper / adjacent wellness,copper antimicrobial textile,Medium,yes
+KW-183,en,20.6 Copper / adjacent wellness,copper bracelet,Medium,yes
+KW-184,en,20.7 Brand name search,Copper Fit,Medium,yes
+KW-185,en,20.7 Brand name search,Superfeet,Medium,yes
+KW-186,en,20.7 Brand name search,PowerStep,Medium,yes
+KW-187,en,20.7 Brand name search,Dr. Scholl's,Medium,yes
+KW-188,en,20.7 Brand name search,Akusoli,Medium,yes
+KW-189,en,20.7 Brand name search,WalkHero,Medium,yes
+KW-190,en,20.7 Brand name search,VALSOLE,Medium,yes
+KW-191,en,20.7 Brand name search,PCSsole,Medium,yes
+KW-192,en,20.7 Brand name search,EASYFEET,Medium,yes
+KW-193,en,20.7 Brand name search,Fulton,Medium,yes
+KW-194,en,20.7 Brand name search,SOLE,Medium,yes
+KW-195,en,20.7 Brand name search,Spenco,Medium,yes
+KW-196,en,20.7 Brand name search,Orthofeet,Medium,yes
+KW-197,en,20.7 Brand name search,WalkFit,Medium,yes
+KW-198,en,27.1 English exact product / alternative discovery,Copper Compression Work All Day Comfort Insoles,Medium,yes
+KW-199,en,27.1 English exact product / alternative discovery,B0G87LRVFQ,Medium,yes
+KW-200,en,27.1 English exact product / alternative discovery,copper compression insoles review,Medium,yes
+KW-201,en,27.1 English exact product / alternative discovery,work all day comfort insoles,Medium,yes
+KW-202,en,27.1 English exact product / alternative discovery,copper infused work insoles,Medium,yes
+KW-203,en,27.1 English exact product / alternative discovery,gel heel insert,Medium,yes
+KW-204,en,27.1 English exact product / alternative discovery,deep heel cup insoles,Medium,yes
+KW-205,en,27.1 English exact product / alternative discovery,semi rigid arch support insoles,Medium,yes
+KW-206,en,27.1 English exact product / alternative discovery,metatarsal pad insoles,Medium,yes
+KW-207,en,27.1 English exact product / alternative discovery,copper infused odor control top layer,Medium,yes
+KW-208,en,27.1 English exact product / alternative discovery,full length PU support insole,Medium,yes
+KW-209,en,27.1 English exact product / alternative discovery,durable work boot insoles,Medium,yes
+KW-210,en,27.1 English exact product / alternative discovery,heel and forefoot cushioning,Medium,yes
+KW-211,en,27.1 English exact product / alternative discovery,work insoles 12 hour shifts,Medium,yes
+KW-212,en,27.1 English exact product / alternative discovery,insoles flatten after 2 months,Medium,yes
+KW-213,en,27.1 English exact product / alternative discovery,insoles too thick steel toe boots,Medium,yes
+KW-214,en,27.1 English exact product / alternative discovery,metatarsal pad placement wrong,Medium,yes
+KW-215,en,27.1 English exact product / alternative discovery,orthotic insoles for different arch heights,Medium,yes
+KW-216,en,Foot conditions,flexible flatfeet,Medium,yes
+KW-217,en,Foot conditions,rigid flatfeet,Medium,yes
+KW-218,en,Foot conditions,collapsed arches,Medium,yes
+KW-219,en,Foot conditions,adult-acquired flatfoot,Medium,yes
+KW-220,en,Foot conditions,progressive collapsing foot deformity,Medium,yes
+KW-221,en,Foot conditions,underpronation,Medium,yes
+KW-222,en,Foot conditions,plantar fasciopathy,Medium,yes
+KW-223,en,Foot conditions,heel fat pad atrophy,Medium,yes
+KW-224,en,Foot conditions,insertional Achilles tendinopathy,Medium,yes
+KW-225,en,Foot conditions,retrocalcaneal bursitis,Medium,yes
+KW-226,en,Foot conditions,tarsal tunnel syndrome,Medium,yes
+KW-227,en,Foot conditions,Baxter nerve entrapment,Medium,yes
+KW-228,en,Foot conditions,forefoot fat pad atrophy,Medium,yes
+KW-229,en,Foot conditions,capsulitis second toe,Medium,yes
+KW-230,en,Foot conditions,plantar plate injury,Medium,yes
+KW-231,en,Foot conditions,hallux limitus,Medium,yes
+KW-232,en,Foot conditions,claw toes,Medium,yes
+KW-233,en,Foot conditions,mallet toes,Medium,yes
+KW-234,en,Foot conditions,overlapping toes,Medium,yes
+KW-235,en,Foot conditions,top of foot pain,Medium,yes
+KW-236,en,Foot conditions,instep pressure,Medium,yes
+KW-237,en,Foot conditions,peroneal tendonitis,Medium,yes
+KW-238,en,Foot conditions,cuboid syndrome,Medium,yes
+KW-239,en,Foot conditions,ankle instability,Medium,yes
+KW-240,en,Foot conditions,midfoot arthritis,Medium,yes
+KW-241,en,Foot conditions,osteoarthritis,Medium,yes
+KW-242,en,Foot conditions,rheumatoid arthritis,Medium,yes
+KW-243,en,Foot conditions,gout,Medium,yes
+KW-244,en,Foot conditions,calluses,Medium,yes
+KW-245,en,Foot conditions,corns,Medium,yes
+KW-246,en,Foot conditions,blisters,Medium,yes
+KW-247,en,Foot conditions,cracked heels,Medium,yes
+KW-248,en,Foot conditions,burning feet,Medium,yes
+KW-249,en,Foot conditions,numbness,Medium,yes
+KW-250,en,Foot conditions,Charcot foot,Medium,yes
+NL-C001,nl,Concept (Claude) - Product,koperen zolen,Medium,yes
+NL-C002,nl,Concept (Claude) - Product,koperen inlegzolen,Medium,yes
+NL-C003,nl,Concept (Claude) - Product,inlegzolen,Medium,yes
+NL-C004,nl,Concept (Claude) - Product,steunzolen,Medium,yes
+NL-C005,nl,Concept (Claude) - Product,zooltjes,Medium,yes
+NL-C006,nl,Concept (Claude) - Product,orthopedische zolen,Medium,yes
+NL-C007,nl,Concept (Claude) - Product,gelzolen,Medium,yes
+NL-C008,nl,Concept (Claude) - Product,werkschoenen zolen,Medium,yes
+NL-C009,nl,Concept (Claude) - Product,inlegzolen werkschoenen,Medium,yes
+NL-C010,nl,Concept (Claude) - Product,podotherapeut zolen,Medium,yes
+NL-C011,nl,Concept (Claude) - Product,steunzolen ervaringen,Medium,yes
+NL-C012,nl,Concept (Claude) - Product,Scholl zolen,Medium,yes
+NL-C013,nl,Concept (Claude) - Probleem (spreektaal),pijnlijke voeten,Medium,yes
+NL-C014,nl,Concept (Claude) - Probleem (spreektaal),voetpijn,Medium,yes
+NL-C015,nl,Concept (Claude) - Probleem (spreektaal),pijn onder de voet,Medium,yes
+NL-C016,nl,Concept (Claude) - Probleem (spreektaal),pijn in mijn hiel,Medium,yes
+NL-C017,nl,Concept (Claude) - Probleem (spreektaal),hielpijn ochtend,Medium,yes
+NL-C018,nl,Concept (Claude) - Probleem (spreektaal),eerste stappen pijn,Medium,yes
+NL-C019,nl,Concept (Claude) - Probleem (spreektaal),voeten doen pijn na werk,Medium,yes
+NL-C020,nl,Concept (Claude) - Probleem (spreektaal),hele dag staan voeten,Medium,yes
+NL-C021,nl,Concept (Claude) - Probleem (spreektaal),moe voeten,Medium,yes
+NL-C022,nl,Concept (Claude) - Probleem (spreektaal),brandende voeten,Medium,yes
+NL-C023,nl,Concept (Claude) - Probleem (spreektaal),zere voeten,Medium,yes
+NL-C024,nl,Concept (Claude) - Probleem (spreektaal),pijn voorvoet,Medium,yes
+NL-C025,nl,Concept (Claude) - Probleem (spreektaal),voeten pijn na wandelen,Medium,yes
+NL-C026,nl,Concept (Claude) - Probleem (spreektaal),schoenen doen pijn,Medium,yes
+NL-C027,nl,Concept (Claude) - Aandoening,hielspoor,Medium,yes
+NL-C028,nl,Concept (Claude) - Aandoening,fasciitis plantaris,Medium,yes
+NL-C029,nl,Concept (Claude) - Aandoening,peesplaatontsteking,Medium,yes
+NL-C030,nl,Concept (Claude) - Aandoening,platvoeten,Medium,yes
+NL-C031,nl,Concept (Claude) - Aandoening,holvoeten,Medium,yes
+NL-C032,nl,Concept (Claude) - Aandoening,doorgezakte voeten,Medium,yes
+NL-C033,nl,Concept (Claude) - Aandoening,spreidvoet,Medium,yes
+NL-C034,nl,Concept (Claude) - Aandoening,hallux valgus,Medium,yes
+NL-C035,nl,Concept (Claude) - Aandoening,hamertenen,Medium,yes
+NL-C036,nl,Concept (Claude) - Aandoening,morton neuroom,Medium,yes
+NL-C037,nl,Concept (Claude) - Aandoening,achillespees,Medium,yes
+NL-C038,nl,Concept (Claude) - Aandoening,artrose voet,Medium,yes
+NL-C039,nl,Concept (Claude) - Aandoening,jicht voet,Medium,yes
+NL-C040,nl,Concept (Claude) - Doelgroep / beroep,verpleegkundige voeten,Medium,yes
+NL-C041,nl,Concept (Claude) - Doelgroep / beroep,zorg lange diensten schoenen,Medium,yes
+NL-C042,nl,Concept (Claude) - Doelgroep / beroep,horeca voeten pijn,Medium,yes
+NL-C043,nl,Concept (Claude) - Doelgroep / beroep,winkelpersoneel staan,Medium,yes
+NL-C044,nl,Concept (Claude) - Doelgroep / beroep,magazijn werkschoenen,Medium,yes
+NL-C045,nl,Concept (Claude) - Doelgroep / beroep,bouw werkschoenen pijn,Medium,yes
+NL-C046,nl,Concept (Claude) - Doelgroep / beroep,kapper staan voeten,Medium,yes
+NL-C047,nl,Concept (Claude) - Doelgroep / beroep,leraar voeten pijn,Medium,yes
+NL-C048,nl,Concept (Claude) - Doelgroep / beroep,postbode voeten,Medium,yes
+NL-C049,nl,Concept (Claude) - Koper / wellness,koperen armband,Medium,yes
+NL-C050,nl,Concept (Claude) - Koper / wellness,koper sokken,Medium,yes
+NL-C051,nl,Concept (Claude) - Koper / wellness,magneetzolen,Medium,yes
+NL-C052,nl,Concept (Claude) - Koper / wellness,acupressuur zolen,Medium,yes
+NL-C053,nl,Concept (Claude) - Koper / wellness,reflexzone zolen,Medium,yes

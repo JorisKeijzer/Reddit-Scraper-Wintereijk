@@ -1,0 +1,109 @@
+# Welke subreddits we doorzoeken en hoe.
+#
+# mode: all      -> alle posts van de subreddit ophalen (voet-subreddits, alles is relevant)
+# mode: anchors  -> alleen posts die een van de 'anchor'-zoektermen van die taal bevatten
+#                   (beroeps- en situatie-subreddits, waar voeten maar een klein onderwerp zijn)
+# copper: true   -> ook de koper/wellness-termen hieronder gebruiken
+#
+# Subreddits die niet (meer) bestaan of privé zijn worden gelogd en overgeslagen.
+# Namen zijn bij de eerste run nog te verifiëren.
+
+anchors:
+  en:
+    - feet
+    - foot pain
+    - insoles
+    - orthotics
+    - plantar fasciitis
+    - heel pain
+    - shoes hurt
+    - arch support
+  nl:
+    - voeten
+    - voetpijn
+    - zooltjes
+    - steunzolen
+    - inlegzolen
+    - hielspoor
+    - pijnlijke voeten
+    - schoenen pijn
+  de:
+    - Füße
+    - Fußschmerzen
+    - Einlagen
+    - Schuheinlagen
+    - Fersensporn
+    - Plantarfasziitis
+    - Senkfuß
+    - Spreizfuß
+
+copper_anchors:
+  - copper insoles
+  - copper socks
+  - copper bracelet
+  - copper compression
+  - magnetic insoles
+  - acupressure insoles
+  - Copper Fit
+  - Tommie Copper
+
+groups:
+  foot_core:
+    mode: all
+    lang: en
+    subs: [PlantarFasciitis, FootFunction, flatfeet, FootPain, Podiatry, Mortons_neuroma, bunions,
+           Orthotics, peripheralneuropathy, AchillesTendonitis, hallux_rigidus]
+
+  footwear:
+    mode: anchors
+    lang: en
+    subs: [Shoes, RunningShoeGeeks, goodyearwelt, BarefootRunning, barefootshoes, BuyItForLife,
+           Frugal, WorkBoots]
+
+  healthcare_work:
+    mode: anchors
+    lang: en
+    subs: [nursing, Nurses, medicine, Residency, Pharmacy, physicaltherapy, VetTech, DentalHygiene,
+           CNA, ems]
+
+  standing_work:
+    mode: anchors
+    lang: en
+    subs: [KitchenConfidential, Chefit, Serverlife, TalesFromYourServer, bartenders, retailhell,
+           Target, walmart, Costco, starbucks, AmazonFC, FASCAmazon, WarehouseWorkers, Construction,
+           electricians, Plumbing, Teachers, Hairdressers, Barber, USPS, UPS, FedEx, flightattendants,
+           securityguards, Firefighting, ProtectAndServe, army, Military]
+
+  situations:
+    mode: anchors
+    lang: en
+    subs: [running, AdvancedRunning, walking, hiking, CampingandHiking, travel, solotravel,
+           Disneyland, WaltDisneyWorld, BabyBumps, pregnant, loseit, xxfitness, Fitness,
+           AgingParents, weddingplanning, Mommit]
+
+  conditions_adjacent:
+    mode: anchors
+    copper: true
+    lang: en
+    subs: [ChronicPain, Arthritis, rheumatoid, Gout, diabetes, diabetes_t2, Fibromyalgia,
+           Hypermobility, ehlersdanlos, AskDocs, medical_advice, Physiotherapy]
+
+  skeptics_wellness:
+    mode: anchors
+    copper: true
+    lang: en
+    subs: [skeptic, AskScience, Supplements, Biohackers, holistic, naturopathy]
+
+  dutch:
+    mode: anchors
+    copper: true
+    lang: nl
+    subs: [thenetherlands, Netherlands, nederlands, belgium, Vlaanderen, DutchFIRE, ZorgNL,
+           werkzaken]
+
+  german:
+    mode: anchors
+    copper: true
+    lang: de
+    subs: [de, Fragreddit, Austria, Switzerland, laufen, Pflege, arbeitsleben, medizin,
+           FragtMaenner, FragtFrauen]
