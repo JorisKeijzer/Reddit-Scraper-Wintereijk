@@ -201,13 +201,14 @@ def pending_posts(conn: sqlite3.Connection, limit: int | None, relabel: bool = F
              WHERE (p.comments_fetched_at IS NOT NULL OR p.num_comments = 0)"""
     if not relabel:
         sql += " AND l.post_id IS NULL"
-    # Voorrang: eerst threads over koper/magneten, dan threads met reacties (meeste eerst);
-    # threads zonder reacties komen achteraan.
-    sql += """ ORDER BY
-        (lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%copper%'
-         OR lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%koper%'
-         OR lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%kupfer%'
-         OR lower(p.title || ' ' || coalesce(p.selftext, '')) LIKE '%magnetic insole%') DESC,
+    # Voorrang: eerst threads waarin koper/magneten als wellness-materiaal voorkomen (niet de
+    # leerkleur 'copper' in schoenenfora), dan threads met reacties (meeste eerst).
+    text = "lower(p.title || ' ' || coalesce(p.selftext, ''))"
+    copper = " OR ".join(f"{text} LIKE '%{w}%'" for w in (
+        "copper insole", "copper sock", "copper bracelet", "copper compression", "copper infused",
+        "copper fit", "tommie copper", "magnetic insole", "koperen", "kupfer"))
+    sql += f""" ORDER BY
+        (({copper}) AND p.subreddit NOT IN ('goodyearwelt', 'BuyItForLife')) DESC,
         (p.num_comments > 0) DESC,
         p.num_comments DESC"""
     if limit:
