@@ -1,0 +1,473 @@
+[
+ {
+  "post_id": "zq5gdd",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Hardloper heeft al jaren moeite schoenen te vinden die licht zijn maar genoeg demping geven; Kinvara's doen pijn aan voeten, knieën en enkels.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back",
+    "ankle"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": "een paar jaar",
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [
+    "lange duurlopen zonder pijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Saucony Kinvara",
+     "category": "shoes",
+     "brand_or_product": "Saucony Kinvara",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Doen pijn aan de voeten",
+     "source_id": "post"
+    },
+    {
+     "solution": "Krachttraining in plaats van andere schoenen",
+     "category": "stretching_exercise",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "j0wcwyh"
+    }
+   ],
+   "brands_mentioned": [
+    "Saucony"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Don't blame the shoes, look into strength training.",
+     "source_id": "j0wcwyh",
+     "kind": "objection",
+     "nl_meaning": "Geef de schoenen niet de schuld, kijk naar krachttraining."
+    },
+    {
+     "text": "Nothing about a simple molded insole needs to be prescribed though. The reviews alone speak for themselves!",
+     "source_id": "j0zsce9",
+     "kind": "works",
+     "nl_meaning": "Voor een simpele gevormde inlegzool is geen voorschrift nodig. De reviews spreken voor zich!"
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: het bezwaar 'het ligt niet aan je schoenen maar aan je kracht' komt ook hier terug; tegelijk wordt een kant-en-klare gevormde zool als laagdrempelig alternatief gezien."
+  }
+ },
+ {
+  "post_id": "1aspoal",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Beveiliger die 21-32 duizend stappen per dag loopt, droeg altijd goedkope Walmart-schoenen waarvan de zolen na een paar maanden versleten zijn; zoekt comfortabele, duurzame zwarte werkschoenen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": "security guard",
+   "situations": [
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [
+    "comfortabel de hele dienst lopen",
+    "schoenen die lang meegaan"
+   ],
+   "solutions": [
+    {
+     "solution": "Hoka Bondi in wide",
+     "category": "shoes",
+     "brand_or_product": "Hoka Bondi",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Aangeraden",
+     "source_id": "kqs5ads"
+    },
+    {
+     "solution": "Kuru-schoenen",
+     "category": "shoes",
+     "brand_or_product": "Kuru",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Bijna drie jaar dagelijks, super comfortabel, $180",
+     "source_id": "kqsbzvj"
+    }
+   ],
+   "brands_mentioned": [
+    "Walmart",
+    "Hoka",
+    "Kuru"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "Budget is $60-150 depending on the quality.",
+    "I think they were $180, which was painful, but they’ve been worth it"
+   ],
+   "quotes": [
+    {
+     "text": "They’re still wearable but the insoles get ratty and uncomfortable, then they deteriorate from there.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ze zijn nog draagbaar, maar de binnenzolen worden versleten en oncomfortabel, en daarna gaat het verder achteruit."
+    },
+    {
+     "text": "I work in security, and do a *lot* of walking in the average workday, 21-32k steps a day generally.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik werk in de beveiliging en loop op een gemiddelde werkdag heel veel, meestal 21-32 duizend stappen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: voor wie goedkope schoenen draagt, is de binnenzool het eerste dat het opgeeft; een losse comfortzool kan een goedkope schoen opwaarderen (budget $60-150)."
+  }
+ },
+ {
+  "post_id": "1pwlcvj",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Vraag om schoenen voor een 65-jarige vrouw die de hele dag op haar werk staat en loopt en pijnlijke voeten heeft.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "standing_work",
+    "walking_work",
+    "aging"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "de werkdag doorkomen zonder pijnlijke voeten"
+   ],
+   "solutions": [
+    {
+     "solution": "Hoka Bondi",
+     "category": "shoes",
+     "brand_or_product": "Hoka Bondi",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Voeten voelden veel beter, gaan lang mee",
+     "source_id": "nw9tt4o"
+    },
+    {
+     "solution": "Skechers met dikke zolen",
+     "category": "shoes",
+     "brand_or_product": "Skechers",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Bleef struikelen, één keer naar de spoedeisende hulp",
+     "source_id": "nw6nnoi"
+    },
+    {
+     "solution": "Dansko Paisley-sneakers",
+     "category": "shoes",
+     "brand_or_product": "Dansko",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Voor 14-20 uur per dag staan in film/tv",
+     "source_id": "nw97eyt"
+    },
+    {
+     "solution": "Hoka en compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": "Hoka, Bombas",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Redden voeten en benen",
+     "source_id": "nwbs12g"
+    },
+    {
+     "solution": "Maatwerkzolen",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies voor betere steun in elke schoen",
+     "source_id": "nw9n5ox"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Nike",
+    "Adidas",
+    "Dansko",
+    "Altra",
+    "Skechers",
+    "Merrell",
+    "Hey Dude",
+    "Ecco",
+    "Brooks",
+    "Vionic",
+    "Orthofeet",
+    "Bombas",
+    "On",
+    "Asics",
+    "Allbirds"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "$200 Hoka sneakers are famous for nurses who work hard shifts for long hours."
+   ],
+   "quotes": [
+    {
+     "text": "Once I tripped hard enough that I had to go to the ER.",
+     "source_id": "nw6nnoi",
+     "kind": "fails",
+     "nl_meaning": "Eén keer struikelde ik zo hard dat ik naar de spoedeisende hulp moest."
+    },
+    {
+     "text": "My hurtin’ dogs started feeling much better when I bought some Hoka Bondi tennies.",
+     "source_id": "nw9tt4o",
+     "kind": "works",
+     "nl_meaning": "Mijn pijnlijke voeten voelden veel beter toen ik Hoka Bondi-sneakers kocht."
+    },
+    {
+     "text": "I'm on my feet for 14-20 hours/day, and these have changed my life.",
+     "source_id": "nw97eyt",
+     "kind": "works",
+     "nl_meaning": "Ik sta 14-20 uur per dag op mijn voeten en deze hebben mijn leven veranderd."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: oudere werkenden op hun benen zijn een doelgroep; stabiliteit (niet struikelen) is net zo belangrijk als demping."
+  }
+ },
+ {
+  "post_id": "jjg979",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Hardloper met zeer platte, brede voeten (breder in het midden dan bij de bal) krijgt bij elke run blaren en pijn van enkels tot rug; geen schoen past.",
+   "regions": [
+    "arch",
+    "ankle",
+    "legs_knees_back",
+    "skin",
+    "heel"
+   ],
+   "conditions": [
+    "flat feet",
+    "overpronation",
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": "8 maanden",
+   "previous_fixes": [
+    "Nike Air Max",
+    "Nike runners",
+    "New Balance 840 6E",
+    "Hoka Bondi 7 wide"
+   ],
+   "complaints_about_products": [
+    "toe_box_tight",
+    "other"
+   ],
+   "desired_outcomes_nl": [
+    "voor het eerst pijnvrij hardlopen"
+   ],
+   "solutions": [
+    {
+     "solution": "Hoka Bondi 7 wide",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Teruggestuurd",
+     "source_id": "post"
+    },
+    {
+     "solution": "Hoka Arahi of Saucony Guide/Hurricane; geen Nike",
+     "category": "shoes",
+     "brand_or_product": "Hoka, Saucony",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies; Nike te smal, iemand brak beide voeten erin",
+     "source_id": "gad65jn"
+    },
+    {
+     "solution": "Pedorthist in een hardloopwinkel",
+     "category": "doctor_podiatrist",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Kost $85 als je niets koopt",
+     "source_id": "gadld51"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "New Balance",
+    "Hoka",
+    "Saucony"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "they said if I don't buy anything it's $85 for the appointment."
+   ],
+   "quotes": [
+    {
+     "text": "My socks usually have some blood on them and even after short runs I have new blisters. Every. Time.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Er zit meestal wat bloed op mijn sokken en zelfs na korte runs heb ik nieuwe blaren. Elke. Keer."
+    },
+    {
+     "text": "my \"arch\" always hangs off of the sole in the middle of the shoe making the pronation worse.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Mijn 'boog' hangt altijd over de rand van de zool in het midden van de schoen, wat de pronatie erger maakt."
+    },
+    {
+     "text": "I'm hoping someone out there may have had a similar experience or can guide me in the right direction, I would love to run pain free for the first time!",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Ik hoop dat iemand een vergelijkbare ervaring heeft of me de goede kant op kan wijzen. Ik zou graag voor het eerst pijnvrij hardlopen!"
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: mensen met afwijkende voetvormen geven veel geld uit aan uitproberen; een zool met een brede middenvoet en duidelijke maattabel kan die frustratie raken."
+  }
+ },
+ {
+  "post_id": "19a6982",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vraag waarom sommige schoenen uitneembare binnenzolen hebben; reacties noemen drogen, orthopedische zolen, volume aanpassen en slijtage.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "slipping",
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Binnenzool vervangen door een frisse",
+     "category": "otc_insole",
+     "brand_or_product": "Inov-8",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Een Inov-8 Boomerang-zool laat schoenen van 1000 km weer als nieuw voelen",
+     "source_id": "kik2z9e"
+    },
+    {
+     "solution": "Superfeet met plastic hielkom",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies tegen schuivende zolen",
+     "source_id": "kikkelc"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Inov-8",
+    "Saucony",
+    "Superfeet"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Swapping for fresh ones makes the shoe longer usable.",
+     "source_id": "kik2z9e",
+     "kind": "works",
+     "nl_meaning": "Door ze te vervangen door verse kun je de schoen langer gebruiken."
+    },
+    {
+     "text": "insoles determine the inner available volume of a shoe.",
+     "source_id": "kik2z9e",
+     "kind": "works",
+     "nl_meaning": "Binnenzolen bepalen hoeveel ruimte er in een schoen is."
+    },
+    {
+     "text": "Many brands put more premium insoles in to have a better “step in” feel, but they compact down in 2-3 weeks.",
+     "source_id": "kijyhh9",
+     "kind": "objection",
+     "nl_meaning": "Veel merken stoppen er duurdere zolen in voor een beter instapgevoel, maar die worden in 2-3 weken platgedrukt."
+    },
+    {
+     "text": "They move inside the shoe. Rise up sometimes around the middle of the feet.",
+     "source_id": "kik2a5u",
+     "kind": "fails",
+     "nl_meaning": "Ze schuiven in de schoen. Soms komen ze omhoog rond het midden van de voet."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'geef je schoen een tweede leven' met een frisse zool is een sterk, rationeel argument; zolen mogen niet schuiven of omhoog komen."
+  }
+ }
+]

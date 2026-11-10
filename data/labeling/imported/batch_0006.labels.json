@@ -1,0 +1,285 @@
+[
+ {
+  "post_id": "1s1yvgm",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Thuisblijfmoeder van een tweeling heeft voetpijn bij opstaan, vermoedelijk door de hele dag lopen op houten vloeren; zoekt lichte huisschoenen met boogsteun, prijs maakt niet uit.",
+   "regions": [
+    "arch",
+    "heel"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "stay at home mom",
+   "situations": [
+    "daily_walking",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "pijnvrij opstaan uit bed en bank",
+    "lichte huisschoen met boogsteun"
+   ],
+   "solutions": [
+    {
+     "solution": "Crocs als huisschoen",
+     "category": "shoes",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Na röntgenfoto 'voetpijn' en advies niet blootsvoets op hout; licht, wasbaar, geen schuim dat inzakt",
+     "source_id": "oc4izn8"
+    },
+    {
+     "solution": "Crocs thuis en op het werk",
+     "category": "shoes",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Houten vloer thuis, beton op het werk; geen pijn meer",
+     "source_id": "oc4uwms"
+    },
+    {
+     "solution": "Crocs na fasciitis door thuiswerken op blote voeten",
+     "category": "shoes",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Klachten grotendeels verdwenen met betere huisschoenen",
+     "source_id": "oc4wtet"
+    },
+    {
+     "solution": "Birkenstock Arizona",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Saved my feet'",
+     "source_id": "oc4ovfp"
+    },
+    {
+     "solution": "Hoka-slides vs Oofos",
+     "category": "shoes",
+     "brand_or_product": "Hoka, Oofos",
+     "verdict": "mixed",
+     "first_hand": true,
+     "reason": "De een vindt Oofos comfortabeler, de ander Hoka steviger en Oofos te smal",
+     "source_id": "oc61267"
+    },
+    {
+     "solution": "Vionic-huisslippers op advies podotherapeut",
+     "category": "shoes",
+     "brand_or_product": "Vionic",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Fasciitispijn volledig gestopt",
+     "source_id": "oc50va6"
+    },
+    {
+     "solution": "Kuru-schoenen, rekken en nachtbrace",
+     "category": "shoes",
+     "brand_or_product": "Kuru",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Met Kuru nauwelijks pijn, zonder wel",
+     "source_id": "oc4s7ym"
+    },
+    {
+     "solution": "Birkenstock Zermatt-pantoffels",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Pijn door blootsvoets lopen volledig opgelost",
+     "source_id": "oc4rdos"
+    },
+    {
+     "solution": "Haflinger-pantoffels na drie voetoperaties",
+     "category": "shoes",
+     "brand_or_product": "Haflinger",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Beste wat gevonden is",
+     "source_id": "oc4ef1i"
+    }
+   ],
+   "brands_mentioned": [
+    "Crocs",
+    "Birkenstock",
+    "Hoka",
+    "Oofos",
+    "Orthofeet",
+    "On",
+    "Vionic",
+    "Kuru",
+    "Haflinger",
+    "Birdies"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "They're about $50 but last forever.",
+    "They are pricey but totally worth it."
+   ],
+   "quotes": [
+    {
+     "text": "I’m assuming standing and walking all around the house with hardwood floors is  causing my foot pain every time I get out of bed or couch.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik neem aan dat het staan en lopen door het huis op houten vloeren mijn voetpijn veroorzaakt, elke keer als ik uit bed of van de bank opsta."
+    },
+    {
+     "text": "was diagnosed with “foot pain” and told to stop walking around barefoot on hardwood floors.",
+     "source_id": "oc4izn8",
+     "kind": "pain",
+     "nl_meaning": "Kreeg de diagnose 'voetpijn' en het advies niet meer blootsvoets op houten vloeren te lopen."
+    },
+    {
+     "text": "There’s no memory foam to sink/deflate or lining to get stinky.",
+     "source_id": "oc4izn8",
+     "kind": "works",
+     "nl_meaning": "Er zit geen traagschuim in dat inzakt en geen voering die gaat stinken."
+    },
+    {
+     "text": "I developed plantar fasciitis during covid after working from home and walking around on my hardwood floors with no shoes on for multiple months.",
+     "source_id": "oc4wtet",
+     "kind": "pain",
+     "nl_meaning": "Ik kreeg fasciitis in de coronatijd na maanden thuiswerken en blootsvoets lopen op mijn houten vloeren."
+    },
+    {
+     "text": "The hardness of the Hoka was more supportive than the Oofos foam.",
+     "source_id": "oc61267",
+     "kind": "works",
+     "nl_meaning": "De hardheid van de Hoka gaf meer steun dan het Oofos-schuim."
+    },
+    {
+     "text": "The Vionic house slide were reco'd by my podiatrist and they completely stopped my plantar fasciitis pain.",
+     "source_id": "oc50va6",
+     "kind": "works",
+     "nl_meaning": "De Vionic-huisslipper werd door mijn podotherapeut aangeraden en stopte mijn fasciitispijn volledig."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'thuis op harde vloeren' is een duidelijk en groeiend koopmoment (thuiswerken, ouders). Mensen waarderen dat iets niet inzakt en niet gaat stinken: ruimte voor een frisse, stevige zool voor huisschoenen."
+  }
+ },
+ {
+  "post_id": "109ybw2",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Recreatieve hardloper kreeg na loopanalyse stabiliteitsschoenen aangeraden, maar twijfelt omdat zachte neutrale schoenen fijner voelen; heeft wat kniepijn.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "overpronation"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "other"
+   ],
+   "desired_outcomes_nl": [
+    "comfortabel kunnen joggen zonder blessures"
+   ],
+   "solutions": [
+    {
+     "solution": "Stabiliteitsschoenen na loopanalyse in de winkel",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "mixed",
+     "first_hand": false,
+     "reason": "Volgens reacties vooral marketing; winkels raden iedereen stabiliteit aan",
+     "source_id": "j40xzq9"
+    },
+    {
+     "solution": "Overstap van GT-2000 en Kayano naar Brooks Ghost (stabiel neutraal)",
+     "category": "shoes",
+     "brand_or_product": "Brooks Ghost",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Slechte ervaringen met stabiliteitsschoenen, succes met stabiel neutraal",
+     "source_id": "j41pvui"
+    }
+   ],
+   "brands_mentioned": [
+    "Asics",
+    "Brooks",
+    "Nike"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "The stability shoe thing is mostly marketing pseudoscience.",
+     "source_id": "j40xzq9",
+     "kind": "objection",
+     "nl_meaning": "Dat hele stabiliteitsschoenenverhaal is vooral marketing-pseudowetenschap."
+    },
+    {
+     "text": "If the shoe works for you, do not listen to store advice, since they literally give everyone stability shoes.",
+     "source_id": "j410i1b",
+     "kind": "objection",
+     "nl_meaning": "Als de schoen voor je werkt, luister dan niet naar winkeladvies, want ze geven letterlijk iedereen stabiliteitsschoenen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: lopers wantrouwen 'correctie'-verhalen en loopanalyses in winkels. Ook voor zolen: beloof comfort, niet het corrigeren van pronatie."
+  }
+ },
+ {
+  "post_id": "1cezcqg",
+  "label": {
+   "relevant": false,
+   "language": "nl",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Nieuws over veroordeelden 'op vrije voeten'; geen voeten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Ruis door uitdrukking."
+  }
+ }
+]

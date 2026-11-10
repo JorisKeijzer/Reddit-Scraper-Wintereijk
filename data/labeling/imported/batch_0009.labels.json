@@ -1,0 +1,277 @@
+[
+ {
+  "post_id": "wjezfl",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Iemand toont nieuw gekochte hardloopschoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "l730w4",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Hardloper vindt de Nike Pegasus 37 na 70 mijl oncomfortabel met pijn bovenop de voet; anderen kregen blessures aan achillespees en boog.",
+   "regions": [
+    "top_of_foot",
+    "arch",
+    "achilles",
+    "legs_knees_back",
+    "toes"
+   ],
+   "conditions": [
+    "Achilles tendinosis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "other"
+   ],
+   "desired_outcomes_nl": [
+    "comfortabel trainen zonder blessures"
+   ],
+   "solutions": [
+    {
+     "solution": "Nike Pegasus 37",
+     "category": "shoes",
+     "brand_or_product": "Nike Pegasus 37",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Zwarte teennagels en pijn overal; New Balance 1080 loste het op",
+     "source_id": "gl4ecyp"
+    },
+    {
+     "solution": "Nike Pegasus 37",
+     "category": "shoes",
+     "brand_or_product": "Nike Pegasus 37",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Achillespees ontstoken, 2-3 maanden niet lopen",
+     "source_id": "gl60a65"
+    },
+    {
+     "solution": "Inlopen van de schoen (50 km)",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Daarna geen klachten meer",
+     "source_id": "gl4lvq4"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "New Balance",
+    "Asics",
+    "Saucony"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I get a pain in my left foot around where the tongue area is (I've tried different lacing etc).",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik krijg pijn in mijn linkervoet rond de tong (ik heb verschillende manieren van strikken geprobeerd)."
+    },
+    {
+     "text": "Currently I’m into my third week off due to this shoe. I got an ache in the arch of my left foot",
+     "source_id": "gl4oc8m",
+     "kind": "fails",
+     "nl_meaning": "Ik zit door deze schoen nu in mijn derde week rust. Ik kreeg pijn in de boog van mijn linkervoet."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Beperkt relevant; populaire schoenen werken niet voor iedereen, pasvorm is persoonlijk."
+  }
+ },
+ {
+  "post_id": "1213a2h",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Grap over de duurzaamheid van de Adizero SL-zool; prestaties, geen voetklachten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "1crsus0",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Hardloper met boogpijn wisselde PowerStep-zolen af en ontdekte dat de dikke binnenzool van een andere schoen zijn Superblast veel comfortabeler maakt; anderen ruilen ook binnenzolen.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "Powerstep insoles"
+   ],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [
+    "meer demping en comfort in bestaande schoenen"
+   ],
+   "solutions": [
+    {
+     "solution": "Dikke Triumph 20-binnenzool in Superblast",
+     "category": "otc_insole",
+     "brand_or_product": "Saucony PWRRUN+",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Voelt geweldig, geen stabiliteits- of pasvormproblemen",
+     "source_id": "post"
+    },
+    {
+     "solution": "Triumph 20-binnenzool in Boston 12",
+     "category": "otc_insole",
+     "brand_or_product": "Saucony",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Smalle middenvoet werd comfortabel",
+     "source_id": "l40heg4"
+    },
+    {
+     "solution": "Binnenzool van Ride 16 in Speed 3",
+     "category": "otc_insole",
+     "brand_or_product": "Saucony",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Boogpijn leek te verdwijnen",
+     "source_id": "l405ua6"
+    },
+    {
+     "solution": "Andere binnenzool in Adizero SL",
+     "category": "otc_insole",
+     "brand_or_product": "Skechers",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Geen blaren meer in de boog",
+     "source_id": "l40cuo7"
+    },
+    {
+     "solution": "Dikkere binnenzool",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Bovenkant drukte tenen, paarse teennagels",
+     "source_id": "l40r6fr"
+    },
+    {
+     "solution": "Voetboog tapen met Leukotape",
+     "category": "taping",
+     "brand_or_product": "Leukotape",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Gebruikt in plaats van orthopedische zolen in wedstrijdschoenen",
+     "source_id": "l40rljy"
+    }
+   ],
+   "brands_mentioned": [
+    "Saucony",
+    "Asics",
+    "Powerstep",
+    "Skechers",
+    "Adidas",
+    "Leukotape"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "It's like a recovery shoe that you can step on the gas at any moment and still feels great at speed.",
+     "source_id": "post",
+     "kind": "works",
+     "nl_meaning": "Het is als een herstelschoen waarmee je op elk moment gas kunt geven en die op snelheid nog steeds geweldig voelt."
+    },
+    {
+     "text": "They should sell the pwrrun + insoles separately",
+     "source_id": "l4124k8",
+     "kind": "desire",
+     "nl_meaning": "Ze zouden die PWRRUN+-binnenzolen los moeten verkopen."
+    },
+    {
+     "text": "Only issue is the upper volume got squeezed and I got all kind of purple toe nails..",
+     "source_id": "l40r6fr",
+     "kind": "fails",
+     "nl_meaning": "Enige probleem is dat de ruimte in de schoen kleiner werd en ik allerlei paarse teennagels kreeg."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: hardlopers zijn bereid zolen te wisselen voor comfort en vragen letterlijk om losse 'premium binnenzolen'. Een dikke zool kost ruimte: dikte communiceren."
+  }
+ }
+]

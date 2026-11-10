@@ -1,0 +1,401 @@
+[
+ {
+  "post_id": "16staxr",
+  "label": {
+   "relevant": false,
+   "language": "nl",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Nieuws over een verdachte die niet 'op vrije voeten' komt; geen voeten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Ruis door uitdrukking."
+  }
+ },
+ {
+  "post_id": "tabn49",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "product_review",
+   "problem_summary_nl": "Hardloper deelt dat Hoka Ora-herstelslippers zijn voeten beter laten voelen; draagt ze thuis op houten vloer en heeft een staand beroep.",
+   "regions": [
+    "arch",
+    "whole_foot"
+   ],
+   "conditions": [
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running",
+    "standing_work",
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "arch_too_high",
+    "flattened_wore_out",
+    "too_soft"
+   ],
+   "desired_outcomes_nl": [
+    "vermoeide voeten laten herstellen",
+    "comfort thuis op harde vloeren"
+   ],
+   "solutions": [
+    {
+     "solution": "Hoka Ora-herstelslippers",
+     "category": "shoes",
+     "brand_or_product": "Hoka Ora",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Gestructureerder dan Oofos en lijken langer mee te gaan",
+     "source_id": "i004ls5"
+    },
+    {
+     "solution": "Oofos",
+     "category": "shoes",
+     "brand_or_product": "Oofos",
+     "verdict": "mixed",
+     "first_hand": true,
+     "reason": "Heel zacht, voor zwaardere mensen soms te zacht; gaan 6-12 maanden mee",
+     "source_id": "i0050rw"
+    },
+    {
+     "solution": "Hoka Ora met platte voeten",
+     "category": "shoes",
+     "brand_or_product": "Hoka Ora",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Te uitgesproken boogsteun, teruggestuurd",
+     "source_id": "i006p8z"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Oofos"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I’ve had feet issues so I wear them ALL the time at home due to hardwood floors.",
+     "source_id": "hzzppiw",
+     "kind": "works",
+     "nl_meaning": "Ik heb voetproblemen gehad, dus ik draag ze thuis ALTIJD vanwege de houten vloeren."
+    },
+    {
+     "text": "Oofos are extremely soft but sometimes that’s to a persons detriment.",
+     "source_id": "i0050rw",
+     "kind": "objection",
+     "nl_meaning": "Oofos zijn extreem zacht, maar dat is soms in iemands nadeel."
+    },
+    {
+     "text": "Very prominent arch support makes them uncomfortable if you have flat feet",
+     "source_id": "i00f1pn",
+     "kind": "fails",
+     "nl_meaning": "De zeer uitgesproken boogsteun maakt ze oncomfortabel als je platvoeten hebt."
+    },
+    {
+     "text": "My fulltime job also involves standing up for most of the shift so I bit the bullet and bought these",
+     "source_id": "hzzr7kl",
+     "kind": "buying_trigger",
+     "nl_meaning": "Mijn fulltime baan betekent ook het grootste deel van de dienst staan, dus ik heb de knoop doorgehakt en deze gekocht."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'herstel na de dienst' en 'thuis op houten vloer' zijn koopmomenten; zachtheid versus structuur blijft een terugkerende afweging. Boogsteun moet gematigd zijn voor platvoeten."
+  }
+ },
+ {
+  "post_id": "112w6n7",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Beginnende hardloper (80 kg) kreeg pijnlijke voeten van de Nike Pegasus 39 en zoekt een comfortabeler schoen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [
+    "comfortabel korte afstanden lopen"
+   ],
+   "solutions": [
+    {
+     "solution": "Nike Pegasus 39",
+     "category": "shoes",
+     "brand_or_product": "Nike Pegasus 39",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Voeten deden na een paar dagen pijn, voelt hard",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Asics"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "used it for a couple of days and my feet really hurt, felt it's tough on the foot",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Een paar dagen gebruikt en mijn voeten deden echt pijn, het voelde hard voor de voet."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant; beginners koppelen pijn direct aan de schoen."
+  }
+ },
+ {
+  "post_id": "phgz4d",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Marathonloper kreeg in de Endorphin Speed na een paar mijl pijn aan de buitenkant van de voet en zag zijn voet naar binnen kantelen; vraagt of hij moet doorgaan.",
+   "regions": [
+    "midfoot",
+    "ankle",
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "overpronation",
+    "extensor tendonitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "other",
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [
+    "sneller lopen zonder blessure"
+   ],
+   "solutions": [
+    {
+     "solution": "Saucony Endorphin Speed",
+     "category": "shoes",
+     "brand_or_product": "Saucony Endorphin Speed",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Kuitblessure, waarschijnlijk door instabiliteit; teruggestuurd",
+     "source_id": "hbiwh40"
+    },
+    {
+     "solution": "Halve maat groter",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Hielp maar haalde de pronatie niet weg",
+     "source_id": "hbikb5k"
+    },
+    {
+     "solution": "Gewenning door meer kilometers",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Na 60 mijl geen probleem meer",
+     "source_id": "hbks3r4"
+    }
+   ],
+   "brands_mentioned": [
+    "Saucony",
+    "Puma"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Endorphin Speeds feel waay too unstable for myself as well.",
+     "source_id": "hbj1v27",
+     "kind": "fails",
+     "nl_meaning": "Endorphin Speeds voelen voor mij ook veel te instabiel."
+    },
+    {
+     "text": "came away with extensor tendonitis that sidelined me for nearly 3 weeks afterwards.",
+     "source_id": "hbm9zud",
+     "kind": "fails",
+     "nl_meaning": "Ik hield er een peesontsteking aan over waardoor ik bijna 3 weken niet kon lopen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Beperkt relevant; signaal dat zachte, verende schoenen instabiliteit geven, wat het 'stevig, niet zacht'-verhaal ondersteunt."
+  }
+ },
+ {
+  "post_id": "1m8k3ks",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met jarenlange voetpijn had geen pijn meer in Skechers met veel demping, maar die waren na anderhalve maand versleten; zoekt de zachtste schoenen die er zijn.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "short_lived_effect"
+   ],
+   "desired_outcomes_nl": [
+    "geen voetpijn",
+    "zachtheid die blijft"
+   ],
+   "solutions": [
+    {
+     "solution": "Skechers D'Lux Walker",
+     "category": "shoes",
+     "brand_or_product": "Skechers",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Geen pijn meer, maar demping na anderhalve maand weg",
+     "source_id": "post"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "In de winkel 'trash' gevonden",
+     "source_id": "post"
+    },
+    {
+     "solution": "Asics Gel Nimbus",
+     "category": "shoes",
+     "brand_or_product": "Asics Gel Nimbus",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Loste voetpijn op, al voelt het minder als een wolk",
+     "source_id": "n50b3ar"
+    },
+    {
+     "solution": "Schoenen afwisselen zodat schuim kan herstellen",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "n50oeej"
+    },
+    {
+     "solution": "Brooks Ghost Max 2 met orthopedische zolen",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Na Hoka overgestapt, erg tevreden",
+     "source_id": "n56me4s"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers",
+    "Nike",
+    "Hoka",
+    "Asics",
+    "On",
+    "Brooks",
+    "Vionic",
+    "Allbirds",
+    "Dr. Scholl's",
+    "FitFlop"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "No more foot pain AT ALL. However, these shoes wore out in like a month and a half. And now the cushion is totally gone.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Helemaal geen voetpijn meer. Maar deze schoenen waren na anderhalve maand versleten, en nu is de demping helemaal weg."
+    },
+    {
+     "text": "Any fluffy-puffy-marshmallow-cloud shoe is going to wear out rather quickly. The softer, the faster.",
+     "source_id": "n50eydp",
+     "kind": "objection",
+     "nl_meaning": "Elke zachte marshmallow-wolkschoen slijt vrij snel. Hoe zachter, hoe sneller."
+    },
+    {
+     "text": "So, does that mean there’s no “long lasting” solution? And that only firmer shoes last longer?",
+     "source_id": "n50fo43",
+     "kind": "desire",
+     "nl_meaning": "Dus er is geen oplossing die lang meegaat? En alleen stevigere schoenen gaan langer mee?"
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: dé spanning in de markt is 'zacht voelt goed maar slijt snel'. Een zool die comfort combineert met slijtvastheid (en dat aantoont, bijv. na 3 maanden) beantwoordt een letterlijke vraag van klanten."
+  }
+ }
+]

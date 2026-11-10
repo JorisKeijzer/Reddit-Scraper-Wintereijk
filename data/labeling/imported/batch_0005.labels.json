@@ -1,0 +1,229 @@
+[
+ {
+  "post_id": "1b31jc9",
+  "label": {
+   "relevant": false,
+   "language": "nl",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Opiniestuk over populisme ('vaste grond onder de voeten'); geen voeten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Ruis door uitdrukking."
+  }
+ },
+ {
+  "post_id": "wl60y0",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Hardloper met extreem platte voeten (zonder pijn) zoekt schoenen met plaat die passen; de reacties zijn vooral grappen.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "wedstrijdschoenen die passen bij platte voeten"
+   ],
+   "solutions": [
+    {
+     "solution": "Metaspeed Sky, Endorphin Pro 3, Hoka Carbon",
+     "category": "shoes",
+     "brand_or_product": "Asics, Saucony, Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Werkt voor iemand met vergelijkbare voeten",
+     "source_id": "ijrhh0z"
+    },
+    {
+     "solution": "Brooks Adrenaline GTS of New Balance 860 voor platte voet en ingezakte enkel",
+     "category": "shoes",
+     "brand_or_product": "Brooks, New Balance",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Afwisselend gebruikt; Nikes vallen na 150 mijl uit elkaar",
+     "source_id": "ijrmooh"
+    }
+   ],
+   "brands_mentioned": [
+    "Asics",
+    "Saucony",
+    "Hoka",
+    "Brooks",
+    "New Balance",
+    "Nike",
+    "Altra"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "0 pain! Just emotional pain",
+     "source_id": "ijsnl6f",
+     "kind": "pain",
+     "nl_meaning": "Nul pijn! Alleen emotionele pijn."
+    },
+    {
+     "text": "Nikes look cool but they fall apart after like 150miles.",
+     "source_id": "ijrmooh",
+     "kind": "objection",
+     "nl_meaning": "Nikes zien er cool uit, maar vallen na zo'n 240 km uit elkaar."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: platte voeten zonder pijn zoeken vooral pasvorm, geen 'correctie'. Weinig koopintentie voor zolen."
+  }
+ },
+ {
+  "post_id": "1953eg3",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Na bijna twee jaar zitten er gaten in de binnenzolen van Vans; vraag of je ze moet weggooien.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [
+    "schoenen langer kunnen dragen"
+   ],
+   "solutions": [
+    {
+     "solution": "Nieuwe inlegzolen kopen (ca. $6-10)",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Veel genoemd advies",
+     "source_id": "khkfwoe"
+    },
+    {
+     "solution": "Feel Your Sole-inlegzolen in Vans",
+     "category": "otc_insole",
+     "brand_or_product": "Feel Your Sole",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Voelen raar, draagt de schoenen nu zelden",
+     "source_id": "khnm4mg"
+    },
+    {
+     "solution": "Eigen inlegzolen omdat Vans te laag en plat zijn",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Moet altijd zolen toevoegen",
+     "source_id": "khn5wg8"
+    }
+   ],
+   "brands_mentioned": [
+    "Vans",
+    "Feel Your Sole"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "You can buy new insoles for like $10",
+    "You can get super cheap ones for like $6 on amazon"
+   ],
+   "quotes": [
+    {
+     "text": "I also have to put insoles in my vans anyway as they’re too low and flat inside otherwise.",
+     "source_id": "khn5wg8",
+     "kind": "pain",
+     "nl_meaning": "Ik moet sowieso zolen in mijn Vans doen, want anders zijn ze van binnen te laag en plat."
+    },
+    {
+     "text": "They just feel super weird now. I rarely wear them anymore.",
+     "source_id": "khnm4mg",
+     "kind": "fails",
+     "nl_meaning": "Ze voelen nu heel raar. Ik draag ze bijna niet meer."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: lifestyle-sneakers (Vans) hebben een platte binnenzool; 'upgrade de zool van je favoriete sneaker' is een laagdrempelige angle. Prijsanker ligt laag ($6-10)."
+  }
+ },
+ {
+  "post_id": "126jbsk",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardloper vraagt welke wedstrijdschoen hij moet verkopen; geen klacht of comfortvraag.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

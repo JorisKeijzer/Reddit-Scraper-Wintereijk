@@ -1,0 +1,346 @@
+[
+ {
+  "post_id": "xxbmfa",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Een 14-jarige met jeugdreuma in de voorvoet kan na twee jaar weer lopen, begon op barefootschoenen te rennen en wil sneller worden.",
+   "regions": [
+    "forefoot"
+   ],
+   "conditions": [
+    "juvenile arthritis"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": "2 jaar",
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "weer kunnen hardlopen zoals vroeger"
+   ],
+   "solutions": [
+    {
+     "solution": "Vivobarefoot-schoenen meteen voor 5 km",
+     "category": "barefoot_minimal",
+     "brand_or_product": "Vivobarefoot",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Pijn in de voeten, niet gewend",
+     "source_id": "post"
+    },
+    {
+     "solution": "Geleidelijk opbouwen, eerst zero-drop met demping",
+     "category": "barefoot_minimal",
+     "brand_or_product": "Altra, Merrell",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies: te veel te snel geeft blessures",
+     "source_id": "irbvk7b"
+    }
+   ],
+   "brands_mentioned": [
+    "Vivobarefoot",
+    "Altra",
+    "Merrell"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "This kinda sucked cause i always loved running around in the school and in the breaks, and this put a stop to this.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Dat was balen, want ik rende altijd graag rond op school en in de pauzes, en dit maakte daar een eind aan."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Niet onze doelgroep (minderjarig, medisch); bevestigt wel de populariteit van barefoot na 'Born to Run'."
+  }
+ },
+ {
+  "post_id": "16gu1tq",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Beginnende hardloper met lage boog en overpronatie heeft al lang klachten aan achillespees, enkel en knie; maatwerkzolen voelden te stijf en gaven kniepijn. Vraagt of stabiliteitsschoenen nodig zijn.",
+   "regions": [
+    "achilles",
+    "ankle",
+    "legs_knees_back",
+    "arch"
+   ],
+   "conditions": [
+    "flat feet",
+    "overpronation"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": "sinds 2020",
+   "previous_fixes": [
+    "custom orthotics",
+    "Nike Free",
+    "Saucony Kinvara 13",
+    "New Balance 880v13"
+   ],
+   "complaints_about_products": [
+    "too_hard",
+    "made_worse"
+   ],
+   "desired_outcomes_nl": [
+    "hardlopen zonder klachten",
+    "leuke verende schoenen kunnen dragen"
+   ],
+   "solutions": [
+    {
+     "solution": "Maatwerkzolen in Nike Free",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Te stijf, gaven vermoedelijk kniepijn",
+     "source_id": "post"
+    },
+    {
+     "solution": "New Balance 880v13",
+     "category": "shoes",
+     "brand_or_product": "New Balance",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Voelt goed bij wandelen en joggen",
+     "source_id": "post"
+    },
+    {
+     "solution": "Rustiger opbouwen in plaats van andere schoenen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies: overtraining is de meest voorkomende oorzaak",
+     "source_id": "k09pylb"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Saucony",
+    "New Balance",
+    "Hoka",
+    "Asics"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "i got customized orthotics back in like 2018/2019 and i put those into my nike free's but after awhile i started hating them coz how rigid they felt and i think gave me knee pain when i walking in them",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik kreeg rond 2018/2019 maatwerkzolen en deed die in mijn Nike Frees, maar na een tijd begon ik ze te haten omdat ze zo stijf voelden, en ik denk dat ze kniepijn gaven bij het lopen."
+    },
+    {
+     "text": "Shoes are much less important than gradually increasing intensity in physical activity of all kinds.",
+     "source_id": "k09wy0l",
+     "kind": "objection",
+     "nl_meaning": "Schoenen zijn veel minder belangrijk dan geleidelijk de intensiteit opbouwen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: stijve maatwerkzolen worden afgewezen; een zool die steun geeft zonder stijf te voelen past bij deze groep."
+  }
+ },
+ {
+  "post_id": "wpv4kz",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "product_review",
+   "problem_summary_nl": "Hardloper met brede voeten is blij met de Saucony Endorphin Speed 2 een halve maat groter; anderen krijgen er blaren van.",
+   "regions": [
+    "forefoot",
+    "skin"
+   ],
+   "conditions": [
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "other"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Endorphin Speed 2, halve maat groter",
+     "category": "shoes",
+     "brand_or_product": "Saucony",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Perfecte pasvorm voor brede voeten",
+     "source_id": "post"
+    },
+    {
+     "solution": "Endorphin Speed 2",
+     "category": "shoes",
+     "brand_or_product": "Saucony",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Blaren aan de buitenkant van de voorvoet",
+     "source_id": "ikj5wxg"
+    }
+   ],
+   "brands_mentioned": [
+    "Saucony"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "my speed 2s definitely give me blister issues i haven't had before. On the outsides of the balls of my feet.",
+     "source_id": "ikj5wxg",
+     "kind": "fails",
+     "nl_meaning": "Mijn Speed 2's geven me blaren die ik eerder niet had, aan de buitenkant van de voorvoet."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant; brede voeten vragen om breedtematen."
+  }
+ },
+ {
+  "post_id": "1u6k83q",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand die voor het werk veel loopt, heeft FILA-sneakers die binnen een jaar scheuren en vraagt of On-schoenen het geld waard zijn en helpen tegen pijn onder de voet.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [
+    "schoenen die lang meegaan",
+    "minder pijn onder de voet"
+   ],
+   "solutions": [
+    {
+     "solution": "Brooks met brede teenbox en stevige zool voor veel lopen",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Favoriet voor al het wandelen",
+     "source_id": "ort5j3u"
+    },
+    {
+     "solution": "Advies bij lokale hardloopwinkel",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "ort5j3u"
+    }
+   ],
+   "brands_mentioned": [
+    "FILA",
+    "On",
+    "Brooks"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "And also does the cushioning help with pain in the sole of the foot?",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "En helpt de demping ook tegen pijn onder de voet?"
+    },
+    {
+     "text": "I prefer a wide toe box and a rigid soul, so I LOVE brooks running shoes for all the walking I do.",
+     "source_id": "ort5j3u",
+     "kind": "works",
+     "nl_meaning": "Ik heb liever een brede teenbox en een stevige zool, dus ik ben dol op Brooks voor al het lopen dat ik doe."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: werkenden die veel lopen twijfelen tussen dure merkschoenen en goedkope sneakers; een zool als goedkopere upgrade van hun huidige schoen is een angle."
+  }
+ },
+ {
+  "post_id": "lhgflf",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Aankondiging van een nieuwe Nike-hardloopschoen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

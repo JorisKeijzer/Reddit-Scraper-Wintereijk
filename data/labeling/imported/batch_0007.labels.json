@@ -1,0 +1,217 @@
+[
+ {
+  "post_id": "vhhmd4",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Discussie over de hype rond de Saucony Endorphin Speed; prestaties, geen voetklachten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "uzxhzr",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Melding van een uitverkoop van hardloopschoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "10d2jye",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Lange, zware hardloper (1,96 m, 98 kg) kreeg kniepijn van zijn favoriete schoen op lange afstand en zoekt een schoen voor marathontraining.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running",
+    "overweight"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "made_worse"
+   ],
+   "desired_outcomes_nl": [
+    "lange duurlopen zonder kniepijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Asics Novablast voor 14 mijl",
+     "category": "shoes",
+     "brand_or_product": "Asics Novablast",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Verwoestte zijn knieën op lange afstand",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Asics",
+    "Saucony",
+    "Nike",
+    "Adidas"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "they absolutely destroyed my knees.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ze hebben mijn knieën volledig gesloopt."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Weinig relevant voor zolen; wel signaal dat zware sporters andere eisen hebben."
+  }
+ },
+ {
+  "post_id": "1r05m08",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Werknemer die veel loopt slijt schoenen en zolen binnen twee maanden door op de bal van de voet en krijgt gaten in sokken; scanner-zolen van Walmart hielpen niet. Zoekt goedkopere opties.",
+   "regions": [
+    "forefoot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "Walmart insole scanner"
+   ],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [
+    "schoenen en zolen die langer meegaan",
+    "goedkope oplossing"
+   ],
+   "solutions": [
+    {
+     "solution": "Gangbeeldanalyse in een loop-/wandelspeciaalzaak",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "o4fsj54"
+    },
+    {
+     "solution": "Twee paar schoenen afwisselen",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "o4fsni1"
+    },
+    {
+     "solution": "Maatwerkzolen via podotherapeut",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies; vaak niet vergoed bij alleen comfortklachten",
+     "source_id": "o4k3yvp"
+    }
+   ],
+   "brands_mentioned": [
+    "Walmart",
+    "Darn Tough",
+    "Road Runner"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "Road Runner, a running shoe store, sells custom inserts for maybe $150.",
+    "Wish I would've looked about a year ago when I had great insurance, now my insurance sucks"
+   ],
+   "quotes": [
+    {
+     "text": "I've tried those scanners thing you stand on at like Walmart to buy specific insoles, but within ~2 months, my shoes typically end up like this",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik heb die scanners geprobeerd waar je op gaat staan bij Walmart om specifieke zolen te kopen, maar binnen twee maanden zien mijn schoenen er meestal zo uit."
+    },
+    {
+     "text": "A lot of commercial policies do *not* cover orthotics unless there's some underlying disease or disability",
+     "source_id": "o4k3yvp",
+     "kind": "objection",
+     "nl_meaning": "Veel verzekeringen vergoeden orthopedische zolen níet, tenzij er een onderliggende ziekte of beperking is."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: slijtvastheid op de voorvoet is een koopargument voor mensen die veel lopen voor hun werk; maatwerk wordt vaak niet vergoed, dus er is ruimte voor een betaalbaar, duurzaam alternatief."
+  }
+ }
+]
