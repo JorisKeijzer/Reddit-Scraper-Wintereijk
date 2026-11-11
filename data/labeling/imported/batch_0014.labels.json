@@ -1,0 +1,306 @@
+[
+ {
+  "post_id": "2tbby9",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand heeft al 2,5 jaar invaliderende voetpijn zonder trauma; tarsaal tunnel, fasciitis en cuboïdsyndroom gediagnosticeerd, maar geen enkele behandeling hielp en artsen weten het niet meer.",
+   "regions": [
+    "arch",
+    "heel",
+    "forefoot",
+    "midfoot"
+   ],
+   "conditions": [
+    "tarsal tunnel syndrome",
+    "plantar fasciitis",
+    "cuboid syndrome",
+    "myofasciitis",
+    "Morton's neuroma"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [],
+   "duration": "2,5 jaar",
+   "previous_fixes": [
+    "hard orthotics",
+    "steroid injections",
+    "physical therapy",
+    "night splints",
+    "Strassburg sock",
+    "Dynasplint",
+    "shockwave therapy",
+    "dry needling",
+    "massage",
+    "oral steroids",
+    "chiropractor",
+    "air boot and crutches"
+   ],
+   "complaints_about_products": [
+    "no_effect",
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [
+    "kunnen staan en lopen zonder tranen"
+   ],
+   "solutions": [
+    {
+     "solution": "Harde orthopedische zolen en steroïde-injecties",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Hielpen niet",
+     "source_id": "post"
+    },
+    {
+     "solution": "Schokgolf, dry needling, nachtspalken, luchtlaars",
+     "category": "shockwave",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Niets hielp",
+     "source_id": "post"
+    },
+    {
+     "solution": "Ondersteunende sandalen bij het bed, nooit blootsvoets, ijs en handdoekrekken",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Herstel na 18 maanden fasciitis",
+     "source_id": "cnxtd6e"
+    },
+    {
+     "solution": "Indometacine (NSAID)",
+     "category": "medication_injection",
+     "brand_or_product": "Indocid",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "30 jaar gebruikt bij artritis",
+     "source_id": "cnxhlqd"
+    }
+   ],
+   "brands_mentioned": [
+    "Indocid"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I can't really function with this pain because standing and walking sometimes bring me to the point of tears.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik kan met deze pijn niet echt functioneren, want staan en lopen brengen me soms tot tranen."
+    },
+    {
+     "text": "keep sandals with support by the bed and never walk barefoot ( except the shower)",
+     "source_id": "cnxtd6e",
+     "kind": "works",
+     "nl_meaning": "Houd sandalen met steun naast je bed en loop nooit blootsvoets (behalve in de douche)."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'sandalen met steun naast het bed' is een concreet, herkenbaar ritueel; een zool/slipper voor de eerste stappen 's ochtends sluit daarop aan."
+  }
+ },
+ {
+  "post_id": "1c6rpth",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "27-jarige met onbehandelde platvoeten en naar buiten gedraaide voeten vanaf kindertijd heeft nu pijn door het hele lichaam, kan geen baan volhouden en is boos op zijn ouders.",
+   "regions": [
+    "arch",
+    "legs_knees_back",
+    "whole_foot"
+   ],
+   "conditions": [
+    "flat feet",
+    "out-toeing",
+    "tibial torsion",
+    "Ehlers-Danlos syndrome"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [
+    "standing_work",
+    "office"
+   ],
+   "duration": "sinds kindertijd",
+   "previous_fixes": [
+    "custom orthotics",
+    "chiropractor",
+    "medication"
+   ],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [
+    "pijnvrij kunnen werken",
+    "kunnen wandelen met een eigen kind"
+   ],
+   "solutions": [
+    {
+     "solution": "Maatwerkzolen op 15-jarige leeftijd",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Konden stress verminderen maar niets meer corrigeren",
+     "source_id": "post"
+    },
+    {
+     "solution": "Chiropractor",
+     "category": "doctor_podiatrist",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Helpt maar een beetje",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "It’s made it kinda impossible to hold down a long term job because physical work hurts my legs and feet and working in an office chair makes my back hurt.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Het maakt het bijna onmogelijk een baan te houden, want fysiek werk doet pijn aan mijn benen en voeten en in een bureaustoel doet mijn rug pijn."
+    },
+    {
+     "text": "to have a son and take him hiking and show him the world.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Een zoon krijgen, met hem gaan wandelen en hem de wereld laten zien."
+    }
+   ],
+   "emotional_intensity": 5,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Medisch en emotioneel zwaar; niet targeten. Wel: werk en gezinsleven zijn wat mensen terug willen."
+  }
+ },
+ {
+  "post_id": "192s4jz",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand die veel loopt vindt alleen Skechers comfortabel genoeg, maar wil iets met grip dat langer meegaat en geen pijn doet; wil daar meer voor betalen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [
+    "comfort zoals Skechers maar duurzamer"
+   ],
+   "solutions": [
+    {
+     "solution": "Inlegzolen vervangen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies: elke schoen kan zo de comfortabelste worden",
+     "source_id": "kh6hnco"
+    },
+    {
+     "solution": "Asics Gel Nimbus",
+     "category": "shoes",
+     "brand_or_product": "Asics",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "13 jaar elk jaar een paar, als wolken",
+     "source_id": "kh6difr"
+    },
+    {
+     "solution": "Vionic na voetblessure",
+     "category": "shoes",
+     "brand_or_product": "Vionic",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Comfortabelste schoenen, al jaren",
+     "source_id": "kh5c7bd"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Na een bruiloft zonder stoelen een week het enige draagbare; nu dagelijks",
+     "source_id": "khbvpor"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers",
+    "Asics",
+    "Adidas",
+    "Dansko",
+    "New Balance",
+    "Merrell",
+    "Vionic",
+    "Hoka",
+    "Kuru",
+    "On",
+    "Guess"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Im willing to pay more as long as it lasts a long time",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Ik wil meer betalen, zolang het maar lang meegaat."
+    },
+    {
+     "text": "Replace the insoles and any shoes can become your most comfortable shoes",
+     "source_id": "kh6hnco",
+     "kind": "works",
+     "nl_meaning": "Vervang de binnenzolen en elke schoen kan je comfortabelste schoen worden."
+    },
+    {
+     "text": "wearing my dunks or jordans feels like walking on cardboard now",
+     "source_id": "khbvpor",
+     "kind": "pain",
+     "nl_meaning": "Mijn Dunks of Jordans dragen voelt nu als lopen op karton."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'Skechers-comfort dat niet na een paar maanden weg is' en 'maak je eigen schoen de comfortabelste' zijn letterlijk door klanten verwoorde beloftes."
+  }
+ }
+]

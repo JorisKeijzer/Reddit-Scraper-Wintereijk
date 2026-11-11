@@ -1,0 +1,337 @@
+[
+ {
+  "post_id": "11vs0rd",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "28-jarige heeft al 20 jaar een pijnlijke, gezwollen grote teen en bal van de voet en staat daarom op de zijkant van haar voet; artsen zeggen dat ze het zich inbeeldt.",
+   "regions": [
+    "toes",
+    "forefoot",
+    "arch"
+   ],
+   "conditions": [
+    "sesamoiditis",
+    "ankylosing spondylitis",
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": "20 jaar",
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "een diagnose",
+    "serieus genomen worden"
+   ],
+   "solutions": [
+    {
+     "solution": "Dancer's pads, walking boot, KT-tape, boogsteunzolen en maatwerkzolen",
+     "category": "metatarsal_pad",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Zo behandelt een lotgenoot alle drie de mogelijke oorzaken",
+     "source_id": "jcurh9d"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I have been to numerous doctors, but am always told that I am either imagining the pain or that my pain threshold is rather low",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik ben bij talloze artsen geweest, maar krijg altijd te horen dat ik me de pijn inbeeld of dat mijn pijngrens laag is."
+    },
+    {
+     "text": "Dancer’s pads for walking (tape in place)",
+     "source_id": "jcurh9d",
+     "kind": "works",
+     "nl_meaning": "Dancer's pads om mee te lopen (vastgetapet)."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: gerichte voorvoetontlasting (dancer's pad) komt opnieuw terug als praktische oplossing."
+  }
+ },
+ {
+  "post_id": "smmow7",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardloper met platvoeten maakt zich zorgen dat zijn voet over de zool van zijn wedstrijdschoen bolt, zelfs in brede uitvoering.",
+   "regions": [
+    "arch",
+    "midfoot"
+   ],
+   "conditions": [
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "other"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Blarenpleisters over de rand van de binnenzool",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Rand van de binnenzool groef na halverwege een 20-mijlsloop in de boog; pleisters losten het op",
+     "source_id": "hw0j4i6"
+    },
+    {
+     "solution": "Injinji-teensokken",
+     "category": "lifestyle_other",
+     "brand_or_product": "Injinji",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Geen blaren meer aan de tenen",
+     "source_id": "hvxh9el"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Altra",
+    "Injinji"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "started to feel the outer edge of the insole dig into my inner arch just over halfway through. Made the end of the run miserable.",
+     "source_id": "hw0j4i6",
+     "kind": "fails",
+     "nl_meaning": "Iets over de helft voelde ik de rand van de binnenzool in mijn binnenboog graven. Het maakte het einde van de loop ellendig."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant; de rand van een zool mag niet in de boog drukken."
+  }
+ },
+ {
+  "post_id": "14dvttl",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Iemand met hernia-achtige rugpijn heeft nu 'foot drop'; humoristische post over rugklachten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant (rug/zenuw, medisch)."
+  }
+ },
+ {
+  "post_id": "rd7gjs",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand zoekt een 'trampolineachtige' hardloopschoen als cadeau voor een depressieve, te zware vriendin met gewrichtspijn en fasciitis die weer wil gaan hardlopen.",
+   "regions": [
+    "heel",
+    "arch",
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running",
+    "overweight"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "weer kunnen hardlopen zonder pijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Stevige, niet te zachte schoen en rustig opbouwen",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies: zachte midzool geeft bij overgewicht meer blessures",
+     "source_id": "ho08umv"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "New Balance",
+    "Hoka",
+    "Saucony",
+    "On"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "A bouncy shoe isn't going to solve joint pain and plantar fasciitis and to look at it from that angle is just not good in general.",
+     "source_id": "hnzpdy2",
+     "kind": "objection",
+     "nl_meaning": "Een verende schoen lost gewrichtspijn en fasciitis niet op, en het zo bekijken is gewoon niet goed."
+    },
+    {
+     "text": "If you're overweight, a squashier midsole is going to be more likely to cause injuries by being far less stable than a firm midsole.",
+     "source_id": "ho08umv",
+     "kind": "objection",
+     "nl_meaning": "Bij overgewicht geeft een zachtere middenzool eerder blessures, omdat die veel minder stabiel is dan een stevige."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: voor zwaardere mensen is stevig en stabiel belangrijker dan zacht; past bij de 'stevig is niet hard'-angle."
+  }
+ },
+ {
+  "post_id": "i4s0ky",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "product_review",
+   "problem_summary_nl": "Hardloper met platte, brede voeten deelt ervaringen met twee schoenen; liep twee blessures op voordat een 3D-scan liet zien dat hij de verkeerde maat droeg.",
+   "regions": [
+    "arch",
+    "midfoot"
+   ],
+   "conditions": [
+    "flat feet",
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "3D-voetscan voor juiste maat en breedte",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Ontdekte na twee blessures dat hij de verkeerde maat droeg",
+     "source_id": "g0km4jo"
+    }
+   ],
+   "brands_mentioned": [
+    "New Balance",
+    "Nike"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I had to injure my feet twice before I got a 3D scan to tell me I’ve been wearing the wrong shoe size because of my wide feet!",
+     "source_id": "g0km4jo",
+     "kind": "pain",
+     "nl_meaning": "Ik moest mijn voeten twee keer blesseren voordat een 3D-scan me vertelde dat ik door mijn brede voeten de verkeerde maat droeg!"
+    },
+    {
+     "text": "With some shoes i had some trouble with thin midfeet where my foot would hang over the sole and hurt.",
+     "source_id": "g0letkf",
+     "kind": "fails",
+     "nl_meaning": "Bij sommige schoenen met een smalle middenvoet hing mijn voet over de zool en deed het pijn."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant; brede middenvoet is een pasvormeis."
+  }
+ },
+ {
+  "post_id": "mve9xq",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Maatadvies voor de Saucony Endorphin Speed bij brede voeten (halve maat groter).",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant; alleen maatadvies."
+  }
+ }
+]

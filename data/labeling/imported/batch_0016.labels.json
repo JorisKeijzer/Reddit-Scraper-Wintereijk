@@ -1,0 +1,347 @@
+[
+ {
+  "post_id": "kwtwu6",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand met platvoeten die voor zijn werk veel loopt, ziet slijtage aan de buitenkant van zijn schoenen en weet niet of hij stabiliteits- of neutrale schoenen nodig heeft.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [
+    "flat feet",
+    "supination"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "de juiste schoen zonder speciaalzaak in de buurt"
+   ],
+   "solutions": [
+    {
+     "solution": "Neutrale schoenen met veel demping (Saucony Triumph)",
+     "category": "shoes",
+     "brand_or_product": "Saucony Triumph",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Comfortabelste dagelijkse schoen voor platvoet met supinatie",
+     "source_id": "gj7h281"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Saucony"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I would go to a specialized running store but they don't have one where I live and the closest one is almost 3 hours away.",
+     "source_id": "post",
+     "kind": "objection",
+     "nl_meaning": "Ik zou naar een speciaalzaak gaan, maar die is er niet bij mij in de buurt; de dichtstbijzijnde is bijna 3 uur rijden."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: wie ver van een speciaalzaak woont, wil online duidelijke keuzehulp per voettype."
+  }
+ },
+ {
+  "post_id": "1146t1f",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Geneeskundestudent die lange periodes staat, zoekt opvolger van Hoka Bondi 6 om vermoeidheid door staan te beperken; geen echte pijnklachten.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": "medical student",
+   "situations": [
+    "standing_work",
+    "healthcare_shift"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [
+    "zo lang mogelijk staan voordat vermoeidheid toeslaat"
+   ],
+   "solutions": [
+    {
+     "solution": "Hoka Bondi voor lange dagen staan",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Nog altijd de populairste keuze bij klanten in de zorg",
+     "source_id": "j8upegx"
+    },
+    {
+     "solution": "Saucony Freedom 5 bij 8+ uur staan",
+     "category": "shoes",
+     "brand_or_product": "Saucony",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Goede mix van stevigheid en stabiele basis",
+     "source_id": "j8v8n9p"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "On",
+    "Asics",
+    "Saucony",
+    "New Balance",
+    "Brooks"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I don't run marathons, but I have marathon standing-sessions.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik loop geen marathons, maar ik heb marathon-sessies staan."
+    },
+    {
+     "text": "You want cushioning but you also want something that's stable and not too soft.",
+     "source_id": "j8ukggb",
+     "kind": "works",
+     "nl_meaning": "Je wilt demping, maar ook iets dat stabiel is en niet te zacht."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'marathon staan' is een sterke, herkenbare formulering voor zorgpersoneel; stabiel en niet te zacht is weer de eis."
+  }
+ },
+ {
+  "post_id": "w99v5d",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardloper toont gescheurde middenzool na 650 km en vraagt welke schoen hij nu moet kopen; gaat over duurzaamheid van hardloopschoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: schuim veroudert ook ongebruikt."
+  }
+ },
+ {
+  "post_id": "10bsih6",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Hardloper krijgt pijn midden onder de voet en kan geen nieuwe schoen betalen; overweegt Dr. Scholl's-zolen via de Walmart-kiosk.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "Nike Pegasus 38",
+    "Hoka Mach 4"
+   ],
+   "complaints_about_products": [
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [
+    "hardlopen zonder voetpijn",
+    "goedkope oplossing"
+   ],
+   "solutions": [
+    {
+     "solution": "Zolen tot de voet sterker is, plus voet- en enkeloefeningen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "j4bzeva"
+    },
+    {
+     "solution": "Superfeet in plaats van Dr. Scholl's",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Superfeet are amazing'",
+     "source_id": "j4c9c60"
+    },
+    {
+     "solution": "Extra dempende zolen in Hoka's",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Anders gaan de schoenen maar 6 maanden mee",
+     "source_id": "j4bvvyy"
+    }
+   ],
+   "brands_mentioned": [
+    "Dr. Scholl's",
+    "Walmart",
+    "Nike",
+    "Hoka",
+    "Superfeet"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Insoles are okay until you build up your foot strength.",
+     "source_id": "j4bzeva",
+     "kind": "objection",
+     "nl_meaning": "Inlegzolen zijn prima totdat je voeten sterker zijn."
+    },
+    {
+     "text": "All the insert will do is pad the bottom of your foot and work as a crutch, never allowing the muscle to fully extend as it should.",
+     "source_id": "j4c1z12",
+     "kind": "objection",
+     "nl_meaning": "Het enige wat de zool doet is je voetzool opvullen en als kruk dienen, waardoor de spier nooit goed kan strekken."
+    },
+    {
+     "text": "Way too expensive to buy those shoes twice a year.",
+     "source_id": "j4bvvyy",
+     "kind": "buying_trigger",
+     "nl_meaning": "Veel te duur om die schoenen twee keer per jaar te kopen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'zool als goedkoper alternatief voor een nieuwe schoen' en 'laat dure schoenen langer meegaan' zijn sterke prijsargumenten; het 'kruk'-bezwaar blijft terugkomen."
+  }
+ },
+ {
+  "post_id": "wo64b4",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Hardloopster in marathontraining krijgt eelt en blaren aan de grote teen van Hoka Cliftons en heeft fasciitis die opspeelt; zoekt brede teenbox met veel demping.",
+   "regions": [
+    "toes",
+    "heel",
+    "arch",
+    "skin"
+   ],
+   "conditions": [
+    "plantar fasciitis",
+    "high arches"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight",
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [
+    "lange duurlopen zonder blaren"
+   ],
+   "solutions": [
+    {
+     "solution": "New Balance 1080 bij fasciitis en hoge boog",
+     "category": "shoes",
+     "brand_or_product": "New Balance",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Nummer 1",
+     "source_id": "ik9dsm2"
+    },
+    {
+     "solution": "Hoka Clifton",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Eelt en blaren aan de grote teen; na 250 mijl versleten",
+     "source_id": "ika1r0e"
+    }
+   ],
+   "brands_mentioned": [
+    "Saucony",
+    "Hoka",
+    "Altra",
+    "Topo",
+    "New Balance",
+    "Nike"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "The Hokas are giving me nasty callouses/blisters on the side of my big toes so I think I need something with a wider toe box.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "De Hoka's geven me nare eelt en blaren aan de zijkant van mijn grote tenen, dus ik denk dat ik een bredere teenbox nodig heb."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Beperkt relevant; ruimte bij de tenen blijft een eis."
+  }
+ }
+]

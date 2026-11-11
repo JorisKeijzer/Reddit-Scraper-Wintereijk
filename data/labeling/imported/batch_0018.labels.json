@@ -1,0 +1,234 @@
+[
+ {
+  "post_id": "ioe28d",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Hardloopster zoekt een snelheidsschoen; meerdere schoenen gingen terug omdat ze te smal waren, pijn deden of te zacht waren.",
+   "regions": [
+    "whole_foot",
+    "heel",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight",
+    "too_soft",
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Nike Pegasus 37",
+     "category": "shoes",
+     "brand_or_product": "Nike",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Te smal, deed op den duur pijn aan voeten en knieën; luchtkussens voelden als steentjes",
+     "source_id": "post"
+    },
+    {
+     "solution": "Adidas Solarboost 19",
+     "category": "shoes",
+     "brand_or_product": "Adidas",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Veel te zacht en ruim, voet zwom",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Adidas",
+    "Nike",
+    "Hoka",
+    "Brooks",
+    "Saucony",
+    "New Balance",
+    "Skechers"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Also the airbags started to feel like little pebbles underneath my feet.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ook begonnen de luchtkussens als steentjes onder mijn voeten te voelen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant."
+  }
+ },
+ {
+  "post_id": "ikmndr",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Beginnende marathonloper zoekt een schoen voor de wedstrijd en lange duurlopen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant (schoenkeuze voor wedstrijd)."
+  }
+ },
+ {
+  "post_id": "xauybp",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardloper zoekt een schoen voor zijn eerste marathon; advies: niets nieuws op de wedstrijddag.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant (schoenkeuze voor wedstrijd)."
+  }
+ },
+ {
+  "post_id": "zi8a87",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Hardloper met pronatie kreeg meer enkelpijn in stabiliteitsschoenen (Brooks Adrenaline) en liep pijnvrij in neutrale Brooks Ghost; anderen herkennen dat stabiliteit erger kan maken.",
+   "regions": [
+    "ankle",
+    "arch",
+    "toes"
+   ],
+   "conditions": [
+    "overpronation",
+    "tendinitis",
+    "high arches",
+    "bone spur",
+    "supination"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "arch_too_high",
+    "made_worse"
+   ],
+   "desired_outcomes_nl": [
+    "weer echt kunnen hardlopen"
+   ],
+   "solutions": [
+    {
+     "solution": "Brooks Adrenaline GTS (stabiliteit)",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Enkelpijn werd erger; kon amper twee mijl lopen",
+     "source_id": "post"
+    },
+    {
+     "solution": "Brooks Ghost 15 (neutraal)",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Ruim vier mijl vrijwel pijnvrij",
+     "source_id": "post"
+    },
+    {
+     "solution": "Mizuno Wave Inspire met agressieve boogsteun",
+     "category": "shoes",
+     "brand_or_product": "Mizuno",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Ging onbewust op de buitenkant landen; nu een botspoor",
+     "source_id": "izq81cc"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Brooks",
+    "Saucony",
+    "Mizuno",
+    "New Balance"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "My primary issue is when there's an overly aggressive arch.",
+     "source_id": "izq4asp",
+     "kind": "fails",
+     "nl_meaning": "Mijn grootste probleem is een te agressieve boog."
+    },
+    {
+     "text": "Wear shoes that are comfortable not ones that claim to reduce injury via changing your gait. It's just marketing bollox.",
+     "source_id": "izq4dcp",
+     "kind": "objection",
+     "nl_meaning": "Draag schoenen die comfortabel zijn, niet schoenen die beweren blessures te voorkomen door je looppatroon te veranderen. Dat is gewoon marketingonzin."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'correctie'-claims worden gewantrouwd en een te agressieve boog wordt vaak genoemd als probleem; communiceer gematigde steun en comfort, geen looppatrooncorrectie."
+  }
+ }
+]

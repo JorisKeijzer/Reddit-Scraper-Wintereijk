@@ -207,9 +207,15 @@ def pending_posts(conn: sqlite3.Connection, limit: int | None, relabel: bool = F
     copper = " OR ".join(f"{text} LIKE '%{w}%'" for w in (
         "copper insole", "copper sock", "copper bracelet", "copper compression", "copper infused",
         "copper fit", "tommie copper", "magnetic insole", "koperen", "kupfer"))
+    # Daarna threads waarvan de titel over voeten, schoenen of zolen gaat. Alleen de titel: posts uit
+    # algemene subreddits (ChronicPain, beroepen) zijn juist gevonden op zo'n woord in de tekst.
+    foot = " OR ".join(f"lower(p.title) LIKE '%{w}%'" for w in (
+        "foot", "feet", "heel", "insole", "orthotic", "plantar", "arch", "shoe", "slipper", "sandal",
+        "toe", "bunion", "neuroma", "voet", "zool", "zolen", "fuß", "füße", "einlage"))
     sql += f""" ORDER BY
         (({copper}) AND p.subreddit NOT IN ('goodyearwelt', 'BuyItForLife')) DESC,
         (p.num_comments > 0) DESC,
+        ({foot}) DESC,
         p.num_comments DESC"""
     if limit:
         sql += f" LIMIT {int(limit)}"

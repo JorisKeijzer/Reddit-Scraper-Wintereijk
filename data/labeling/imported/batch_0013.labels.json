@@ -1,0 +1,198 @@
+[
+ {
+  "post_id": "1kk7vpn",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met hypermobiliteit, zwakke enkels en platvoeten moet altijd stijve wandelschoenen met maatwerkzolen dragen, maar heeft hete, sterk zwetende voeten; Birkenstocks met ingebouwde zolen gingen stinken en vielen uit elkaar.",
+   "regions": [
+    "ankle",
+    "arch",
+    "skin",
+    "whole_foot"
+   ],
+   "conditions": [
+    "hypermobility",
+    "flat feet",
+    "overpronation",
+    "erythromelalgia"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "rigid hiking boots",
+    "custom orthotics",
+    "Birkenstock with built-in orthotics"
+   ],
+   "complaints_about_products": [
+    "heat_sweat",
+    "odor",
+    "flattened_wore_out",
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [
+    "koele, ventilerende sandaal met enkelsteun en zool",
+    "geen geur",
+    "iets dat afwasbaar is"
+   ],
+   "solutions": [
+    {
+     "solution": "Birkenstocks met ingebouwde maatwerkzolen",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Stoffen voetbed ging stinken en viel na 2 jaar uit elkaar door wassen",
+     "source_id": "post"
+    },
+    {
+     "solution": "Schoenmaker laten maken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "mrssqkv"
+    },
+    {
+     "solution": "Dr Comfort-schoenen gemaakt voor orthopedische zolen",
+     "category": "shoes",
+     "brand_or_product": "Dr Comfort",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Bovenkant met klittenband afneembaar",
+     "source_id": "mrsvlbs"
+    }
+   ],
+   "brands_mentioned": [
+    "Birkenstock",
+    "Dr Comfort"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "They were quite expensive and barely lasted 2 years"
+   ],
+   "quotes": [
+    {
+     "text": "they reeked because of the fabric insoles which would build up dead skin cells because my feet sweat so much it's like soaking them in water",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ze stonken door de stoffen binnenzolen waarin dode huidcellen bleven zitten, omdat mijn voeten zo zweten dat het is alsof ze in water liggen."
+    },
+    {
+     "text": "They were quite expensive and barely lasted 2 years so I'd rather not go through all that again with un-ideal sandals.",
+     "source_id": "post",
+     "kind": "objection",
+     "nl_meaning": "Ze waren behoorlijk duur en gingen amper 2 jaar mee, dus ik wil dat niet nog eens meemaken met niet-ideale sandalen."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: geur en zweet in zolen zijn een echt, terugkerend probleem (stoffen voetbed neemt vocht op). Een afwasbare, geurremmende bovenlaag (koper, na lab-onderbouwing) beantwoordt dit direct: dit is de sterkste koper-aanknoping tot nu toe."
+  }
+ },
+ {
+  "post_id": "yamnus",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand brak de hiel op drie plekken toen de hond haar van een stoeprand trok; na negen weken nog ondraaglijke pijn en de orthopeed biedt alleen paracetamol.",
+   "regions": [
+    "heel",
+    "ankle"
+   ],
+   "conditions": [
+    "calcaneus fracture"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [
+    "after_injury"
+   ],
+   "duration": "9 weken",
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "pijnbestrijding en goede zorg"
+   ],
+   "solutions": [
+    {
+     "solution": "Drie maanden niet belasten, daarna twee maanden alleen op de tenen",
+     "category": "rest_ice",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Herstelde zo van een hielbreuk",
+     "source_id": "itdfcvn"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "To say it aches would be an understatement. It ACHES. I can't sleep, can't eat much, due to the pain.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Zeggen dat het pijn doet is een understatement. Het DOET PIJN. Ik kan niet slapen en nauwelijks eten door de pijn."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Medisch (fractuur); niet onze doelgroep."
+  }
+ },
+ {
+  "post_id": "tg6rkm",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Jonge vrouw met ernstige voet-, teen- en beenpijn na een levensbedreigende ziekenhuisopname vraagt naar prognose en pijnmedicatie.",
+   "regions": [
+    "whole_foot",
+    "toes",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "after_injury"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 4,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Niet relevant: zwaar medisch."
+  }
+ }
+]

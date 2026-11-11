@@ -1,0 +1,434 @@
+[
+ {
+  "post_id": "1eyxgud",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Gezonde 21-jarige heeft al 5 jaar constante doffe pijn in hiel en voetboog die hem 's nachts wakker houdt; heeft 'alles' geprobeerd, inclusief koperen compressiebanden.",
+   "regions": [
+    "arch",
+    "heel"
+   ],
+   "conditions": [
+    "plantar fasciitis",
+    "tarsal tunnel syndrome"
+   ],
+   "diagnosed_by_professional": false,
+   "occupation": null,
+   "situations": [
+    "standing_work"
+   ],
+   "duration": "5+ jaar",
+   "previous_fixes": [
+    "rest",
+    "stretching",
+    "night splint",
+    "elevation",
+    "20+ insoles and orthotics",
+    "meloxicam",
+    "pain killers",
+    "topical creams",
+    "MRI",
+    "cortisone injections",
+    "Hoka and Keen footwear",
+    "copper compression bands",
+    "foot massages",
+    "CBD creams"
+   ],
+   "complaints_about_products": [
+    "no_effect",
+    "short_lived_effect"
+   ],
+   "desired_outcomes_nl": [
+    "een dag zonder constante pijn",
+    "doorslapen zonder pijn",
+    "een diagnose"
+   ],
+   "solutions": [
+    {
+     "solution": "20+ inlegzolen en orthopedische zolen (maatwerk en kant-en-klaar)",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Pijn blijft",
+     "source_id": "post"
+    },
+    {
+     "solution": "Koperen compressiebanden dagelijks",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Staat in de lijst van wat niet hielp",
+     "source_id": "post"
+    },
+    {
+     "solution": "Cortisone-injecties in beide voeten",
+     "category": "medication_injection",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Geen verandering",
+     "source_id": "post"
+    },
+    {
+     "solution": "Dure schoenen (Hoka, Keen)",
+     "category": "shoes",
+     "brand_or_product": "Hoka, Keen",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Geen verandering",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Keen"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "negative",
+    "summary_nl": "Draagt dagelijks koperen compressiebanden; staan in de lijst van alles wat niet hielp."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I wake up with pain and go to bed with pain.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik word wakker met pijn en ga naar bed met pijn."
+    },
+    {
+     "text": "Had over 20+ insoles and orthotics both custom and over the counter",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Meer dan 20 inlegzolen en orthopedische zolen gehad, zowel op maat als kant-en-klaar."
+    },
+    {
+     "text": "Copper compression bands that I we are daily",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Koperen compressiebanden die ik dagelijks draag."
+    },
+    {
+     "text": "Taking a minute if you know something that I do not could change my life and free me from this pain.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Als je even de tijd neemt en iets weet wat ik niet weet, kan dat mijn leven veranderen en me van deze pijn bevrijden."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: chronische 'alles-geprobeerd'-klanten kopen koper als zoveelste poging, en het verdwijnt net zo stil in de lijst van mislukkingen. Koper als pijnoplossing verkopen aan deze groep levert teleurstelling en retouren op."
+  }
+ },
+ {
+  "post_id": "1emrx2u",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Dezelfde 21-jarige (dubbele post): constante voetboogpijn die voelt als een kneuzing, ook na een week rust; werkt lange diensten staand. Heeft o.a. Good Feet Store-zolen, chiropractor-zolen, PowerStep en koperen compressiebanden geprobeerd.",
+   "regions": [
+    "arch",
+    "heel"
+   ],
+   "conditions": [
+    "plantar fasciitis",
+    "tarsal tunnel syndrome"
+   ],
+   "diagnosed_by_professional": false,
+   "occupation": null,
+   "situations": [
+    "standing_work"
+   ],
+   "duration": "5+ jaar",
+   "previous_fixes": [
+    "Good Feet Store custom orthotics",
+    "chiropractor orthotics",
+    "Powerstep",
+    "20+ insoles and shoes incl. Hoka",
+    "cortisone",
+    "copper compression bands",
+    "toe stretchers",
+    "frozen water bottle",
+    "meloxicam",
+    "MRI"
+   ],
+   "complaints_about_products": [
+    "no_effect",
+    "short_lived_effect"
+   ],
+   "desired_outcomes_nl": [
+    "een dag zonder constante pijn",
+    "doorslapen zonder pijn",
+    "een diagnose"
+   ],
+   "solutions": [
+    {
+     "solution": "Maatwerkzolen van de Good Feet Store",
+     "category": "custom_orthotic",
+     "brand_or_product": "The Good Feet Store",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Pijn blijft",
+     "source_id": "post"
+    },
+    {
+     "solution": "Maatwerkzolen van de chiropractor",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Pijn blijft",
+     "source_id": "post"
+    },
+    {
+     "solution": "PowerStep op advies van podotherapeut",
+     "category": "otc_insole",
+     "brand_or_product": "Powerstep",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Pijn blijft",
+     "source_id": "post"
+    },
+    {
+     "solution": "Koperen compressiebanden",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Staat in de lijst van wat niet hielp",
+     "source_id": "post"
+    },
+    {
+     "solution": "Pijncrèmes en voetmassages",
+     "category": "massage_rolling",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Zeer beperkte, kortdurende verlichting",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "The Good Feet Store",
+    "Powerstep",
+    "Hoka"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "negative",
+    "summary_nl": "Koperen compressiebanden geprobeerd zonder effect."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Work a long shift on my feet. Foot pain.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Een lange dienst op mijn benen werken. Voetpijn."
+    },
+    {
+     "text": "It feel like a constant compressed bruise and the only thing that changes is the pressure level of the compression.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Het voelt als een constante, samengedrukte kneuzing en alleen de mate van druk verandert."
+    },
+    {
+     "text": "Pain creams, foot massages that give very limited and short temporary relief",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Pijncrèmes en voetmassages die heel beperkt en kort verlichting geven."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: ook 'custom' van Good Feet Store en chiropractor stelt teleur; de markt zit vol dure beloftes. Eerlijkheid en retourgarantie zijn onderscheidend."
+  }
+ },
+ {
+  "post_id": "1efe7b8",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Dubbele post van dezelfde 21-jarige met constante voetboogpijn; reacties suggereren zenuwproblemen of een rugoorzaak.",
+   "regions": [
+    "arch",
+    "heel"
+   ],
+   "conditions": [
+    "plantar fasciitis",
+    "tarsal tunnel syndrome"
+   ],
+   "diagnosed_by_professional": false,
+   "occupation": null,
+   "situations": [
+    "standing_work"
+   ],
+   "duration": "5+ jaar",
+   "previous_fixes": [
+    "Good Feet Store custom orthotics",
+    "chiropractor orthotics",
+    "Powerstep",
+    "copper compression bands",
+    "cortisone",
+    "meloxicam"
+   ],
+   "complaints_about_products": [
+    "no_effect",
+    "short_lived_effect"
+   ],
+   "desired_outcomes_nl": [
+    "een dag zonder constante pijn",
+    "doorslapen zonder pijn",
+    "een diagnose"
+   ],
+   "solutions": [
+    {
+     "solution": "Koperen compressiebanden",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Staat in de lijst van wat niet hielp",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "The Good Feet Store",
+    "Powerstep",
+    "Hoka"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "negative",
+    "summary_nl": "Koperen compressiebanden geprobeerd zonder effect (zelfde persoon als 1emrx2u)."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Not be on my feet for a whole week. Foot pain.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Een hele week niet op mijn benen staan. Voetpijn."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Dubbele post; zie 1emrx2u."
+  }
+ },
+ {
+  "post_id": "n3ankq",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "21-jarige met pijn aan de hele rechterkant van het lichaam (ook voet) zonder diagnose na 9 zorgverleners; probeerde onder meer een koperen armband.",
+   "regions": [
+    "legs_knees_back",
+    "whole_foot"
+   ],
+   "conditions": [
+    "scoliosis"
+   ],
+   "diagnosed_by_professional": false,
+   "occupation": null,
+   "situations": [
+    "standing_work"
+   ],
+   "duration": "sinds november 2019",
+   "previous_fixes": [
+    "inversion table",
+    "copper bracelet",
+    "diet changes",
+    "supplements",
+    "NSAIDs"
+   ],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [
+    "een diagnose",
+    "pijn die niet verergert"
+   ],
+   "solutions": [
+    {
+     "solution": "Koperen armband",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Weken gedragen zonder resultaat; schrijver gelooft zelf niet in medische werking",
+     "source_id": "post"
+    },
+    {
+     "solution": "Inversietafel",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Klachten werden erger",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "skeptical",
+    "summary_nl": "Koperen armband als 'goedkoop experiment' geprobeerd zonder effect; schrijver zegt dat koper volgens hem geen medische werking heeft."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "From what I've seen, copper doesn't have medicinal effects anyways but it's a cheap experiment.",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Voor zover ik weet heeft koper toch geen medische werking, maar het is een goedkoop experiment."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: koper wordt gezien als 'goedkoop experiment' zonder verwachting. Positioneer koper niet als werkzaam middel; anders sluit je aan bij dit sceptische beeld."
+  }
+ },
+ {
+  "post_id": "10wa1dw",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Iemand met tinnitus en fasciitis vraagt hoe te reageren op een ongevoelige opmerking ('in your shoes'); geen voet- of schoeiselinhoud.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant; wel een herinnering dat chronische pijn mensen emotioneel raakt."
+  }
+ }
+]

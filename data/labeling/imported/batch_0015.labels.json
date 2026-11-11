@@ -1,0 +1,312 @@
+[
+ {
+  "post_id": "a4dto3",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vrouw met maandenlange bil-, heup-, rug- en scheenpijn na lang zitten, nu ook wat pijn bij de grote teen; vooral rug/bekken.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Grotendeels niet relevant (rug en bekken)."
+  }
+ },
+ {
+  "post_id": "185vmt9",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met fasciitis, fibromyalgie en artritis verhuisde naar een groter huis met houten vloeren en trappen; voeten bonken na een rondje door het huis. Zoekt huisslippers.",
+   "regions": [
+    "heel",
+    "arch",
+    "whole_foot"
+   ],
+   "conditions": [
+    "plantar fasciitis",
+    "fibromyalgia",
+    "psoriatic arthritis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "slipping",
+    "flattened_wore_out",
+    "too_soft"
+   ],
+   "desired_outcomes_nl": [
+    "pijnvrij door het huis lopen",
+    "slippers die steun geven en niet doen vallen"
+   ],
+   "solutions": [
+    {
+     "solution": "Oofos extra dikke herstelschoen",
+     "category": "shoes",
+     "brand_or_product": "Oofos",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Life changing', duur maar het waard",
+     "source_id": "kb43vjo"
+    },
+    {
+     "solution": "Skechers-instappers met traagschuim en laarzenzool",
+     "category": "shoes",
+     "brand_or_product": "Skechers",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Gaan al een jaar mee, waar slippers anders binnen 6 maanden op zijn",
+     "source_id": "kb4fg4n"
+    },
+    {
+     "solution": "Chacos of Birkenstocks het hele jaar in huis",
+     "category": "shoes",
+     "brand_or_product": "Chaco, Birkenstock",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Nooit een slipper gevonden die genoeg steun geeft",
+     "source_id": "kb5e61x"
+    },
+    {
+     "solution": "Oofos-slides",
+     "category": "shoes",
+     "brand_or_product": "Oofos",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Vaak uitgegleden en gevallen; alleen van bed naar badkamer",
+     "source_id": "kb4xmpp"
+    },
+    {
+     "solution": "Orthofeet-slippers met breedtes en inlegzolen",
+     "category": "shoes",
+     "brand_or_product": "Orthofeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Ondersteunend en comfortabel",
+     "source_id": "kb4vbnt"
+    },
+    {
+     "solution": "Ergofoot van Amazon",
+     "category": "shoes",
+     "brand_or_product": "Ergofoot",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Stevig met goede boogsteun, middenprijs",
+     "source_id": "kb47wvv"
+    }
+   ],
+   "brands_mentioned": [
+    "Oofos",
+    "Skechers",
+    "Chaco",
+    "Birkenstock",
+    "Crocs",
+    "Orthofeet",
+    "Ergofoot",
+    "Dansko",
+    "Glerups"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "It’s expensive, but worth every penny."
+   ],
+   "quotes": [
+    {
+     "text": "my feet absolutely kill me and throb after simply walking across the house.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Mijn voeten doen ontzettend pijn en bonzen na gewoon een rondje door het huis."
+    },
+    {
+     "text": "Usually I burn through slippers in 6 months or less but these have been going strong for a year now.",
+     "source_id": "kb4fg4n",
+     "kind": "works",
+     "nl_meaning": "Normaal verslijt ik slippers in 6 maanden of minder, maar deze gaan nu al een jaar mee."
+    },
+    {
+     "text": "I’ve never found a slipper that’s supportive enough for all my issues :(",
+     "source_id": "kb5e61x",
+     "kind": "fails",
+     "nl_meaning": "Ik heb nog nooit een slipper gevonden die genoeg steun geeft voor al mijn klachten :("
+    },
+    {
+     "text": "I have slipped and fallen very many times in my Oofos,",
+     "source_id": "kb4xmpp",
+     "kind": "fails",
+     "nl_meaning": "Ik ben heel vaak uitgegleden en gevallen in mijn Oofos."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: huisschoenen op harde vloeren komen opnieuw terug, nu met trappen; steun, slijtvastheid en niet-uitglijden zijn de drie eisen. Een zool voor pantoffels/huisschoenen is een kans."
+  }
+ },
+ {
+  "post_id": "rtoh0j",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand die jaarlijks 100.000 stappen in 24 uur loopt, zoekt een wandelschoen voor 30+ mijl; zijn hardloopschoenen met rocker gaven kniepijn bij wandelen.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking",
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_soft",
+    "other"
+   ],
+   "desired_outcomes_nl": [
+    "30 mijl wandelen zonder knie- en heuppijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Endorphin Shift en Speed voor wandelen",
+     "category": "shoes",
+     "brand_or_product": "Saucony",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Knieën doen pijn na vijf mijl wandelen",
+     "source_id": "post"
+    },
+    {
+     "solution": "Minimalistische, flexibele schoen voor lange afstanden",
+     "category": "barefoot_minimal",
+     "brand_or_product": "Altra Escalante",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies op basis van biomechanica-onderzoek; te veel demping gaf heup-/kniepijn",
+     "source_id": "hqugpuk"
+    }
+   ],
+   "brands_mentioned": [
+    "Brooks",
+    "Saucony",
+    "Altra",
+    "Nike",
+    "Adidas",
+    "Hoka"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Too much cushion seems to cause hip and/or knee pain in a substantial number after a few hours of walking.",
+     "source_id": "hqugpuk",
+     "kind": "objection",
+     "nl_meaning": "Te veel demping lijkt bij een flink deel na een paar uur wandelen heup- en/of kniepijn te geven."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: voor lang wandelen is 'meer demping' niet beter; ondersteunt de 'stevig in plaats van zacht'-angle."
+  }
+ },
+ {
+  "post_id": "1baizsl",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Een kind schrijft over de vader met maandenlange, constante zwelling en pijn bij het vijfde middenvoetsbeentje; alleen cortisone helpt, artsen vinden niets en het gezin raakt depressief.",
+   "regions": [
+    "forefoot",
+    "midfoot"
+   ],
+   "conditions": [
+    "scoliosis",
+    "suspected gout",
+    "suspected arthritis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "after_injury"
+   ],
+   "duration": "2-3 maanden",
+   "previous_fixes": [
+    "cortisone",
+    "MRI",
+    "X-ray",
+    "blood tests"
+   ],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "een diagnose",
+    "vader weer aan het werk"
+   ],
+   "solutions": [
+    {
+     "solution": "Luchtlaars (walking boot)",
+     "category": "night_splint",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Helpt bij levenslange voetpijn; goedkoop op Amazon",
+     "source_id": "ku2qvrf"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "He can't go outside, he can't go to work and the cortisone is starting to show sideeffects.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Hij kan niet naar buiten, niet naar zijn werk, en de cortisone begint bijwerkingen te geven."
+    }
+   ],
+   "emotional_intensity": 5,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Medisch; niet onze doelgroep."
+  }
+ }
+]
