@@ -24,7 +24,7 @@ class ArcticShiftSource:
     name = "arctic_shift"
     supports_sitewide = False
 
-    def __init__(self, http: HttpClient | None = None, retry_delays: tuple[int, ...] = (5, 15, 30)):
+    def __init__(self, http: HttpClient | None = None, retry_delays: tuple[int, ...] = (3, 10)):
         self.http = http or HttpClient(min_interval=2.0)
         self.retry_delays = retry_delays
 
