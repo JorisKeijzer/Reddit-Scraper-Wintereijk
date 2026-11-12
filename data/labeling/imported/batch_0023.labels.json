@@ -1,0 +1,226 @@
+[
+ {
+  "post_id": "55ers7",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Laarzenliefhebber gebruikt Superfeet Orange en goedkopere Dr. Scholl's en vraagt welke zolen anderen gebruiken en of je per paar schoenen een nieuwe zool nodig hebt.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_expensive",
+    "other"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Dr. Scholl's gel sportzolen met harde boog",
+     "category": "otc_insole",
+     "brand_or_product": "Dr. Scholl's",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Comfortabeler dan Superfeet en goedkoper ($25 vs $55)",
+     "source_id": "d8a2lzz"
+    },
+    {
+     "solution": "Superfeet",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Irriteren rond de bal van de voet",
+     "source_id": "d8a2lzz"
+    },
+    {
+     "solution": "Superfeet Black in schoenen zonder steun",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Gebruikt in schoenen zonder goede steun",
+     "source_id": "d89zg6t"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "Dr. Scholl's",
+    "Red Wing"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "which cost 25 vs 55 for the superfeet."
+   ],
+   "quotes": [
+    {
+     "text": "Ever work a job where you stand and walk and work all day? Ya need insoles.",
+     "source_id": "d8a6z7l",
+     "kind": "buying_trigger",
+     "nl_meaning": "Ooit een baan gehad waarin je de hele dag staat, loopt en werkt? Dan heb je zolen nodig."
+    },
+    {
+     "text": "Treat yourself right, sore feet will affect everything you do.",
+     "source_id": "d8ad9q5",
+     "kind": "desire",
+     "nl_meaning": "Zorg goed voor jezelf; pijnlijke voeten beïnvloeden alles wat je doet."
+    },
+    {
+     "text": "I actually prefer the Dr. Scholls gel sports inserts over my superfeet inserts, which cost 25 vs 55 for the superfeet.",
+     "source_id": "d8a2lzz",
+     "kind": "works",
+     "nl_meaning": "Ik heb eigenlijk liever de Dr. Scholl's-gelzolen dan mijn Superfeet; $25 tegenover $55."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'Ever work a job where you stand and walk all day? Ya need insoles.' is letterlijk een hook. Prijsanker: $25-55; meerdere paren voor meerdere schoenen is een bundelkans."
+  }
+ },
+ {
+  "post_id": "2tfwps",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vraag over blootsvoets hardlopen in sneeuw.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "juqnr8",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "product_review",
+   "problem_summary_nl": "Vergelijking van Superfeet Green/Blue en Spenco-zolen in laarzen: structuur en dikte per zone, voor wie ruimte wil vullen of boogsteun zoekt.",
+   "regions": [
+    "arch",
+    "heel",
+    "forefoot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Superfeet Green/Blue",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Veel structuur, diepe hielkom; slechts 6 mm schuim bij de hiel, dus voet zit laag",
+     "source_id": "post"
+    },
+    {
+     "solution": "Spenco Polysorb / RX",
+     "category": "otc_insole",
+     "brand_or_product": "Spenco",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Vooral zacht schuim en ruimte vullen; 13 mm bij de hiel",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "Spenco",
+    "Merrell"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "keep in mind that these are around $40-50.",
+    "The RX Insole is about $10 and the Polysorb is about $20."
+   ],
+   "quotes": [
+    {
+     "text": "Although they look thick, the actual foam in the middle of the heel cup is only 6mm thick, and the foam at the toes is about 3mm.",
+     "source_id": "post",
+     "kind": "works",
+     "nl_meaning": "Ze zien er dik uit, maar het schuim midden in de hielkom is maar 6 mm en bij de tenen ongeveer 3 mm."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: kopers vergelijken dikte per zone in millimeters; die specificaties tonen op de productpagina beantwoordt de pasvormvraag."
+  }
+ },
+ {
+  "post_id": "1xpj9x1",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Maatvraag over te grote hakken.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

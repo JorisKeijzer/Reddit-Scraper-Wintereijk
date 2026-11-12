@@ -1,0 +1,200 @@
+[
+ {
+  "post_id": "1fvksnb",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met rugpijn en ischias draagt Vans zonder steun en zoekt schoenen voor dagelijks gebruik en wandelen; vader wil later zolen laten maken.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "sciatica",
+    "back pain"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "Vans"
+   ],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "minder rugpijn door betere schoenen"
+   ],
+   "solutions": [
+    {
+     "solution": "Maatwerkzolen via podotherapeut in Vans",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Vans hebben geen enkele steun",
+     "source_id": "lq7sx8c"
+    },
+    {
+     "solution": "Brooks Ghost",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Beste schoenen ooit, na drie rugfusies en voetoperatie",
+     "source_id": "lq7w69j"
+    },
+    {
+     "solution": "Birkenstocks",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "De boogsteun helpt",
+     "source_id": "lq7tdsd"
+    },
+    {
+     "solution": "Keen en Clarks",
+     "category": "shoes",
+     "brand_or_product": "Keen, Clarks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Ondersteunend, ruimte voor tenen, goede hieldemping",
+     "source_id": "lq83iha"
+    }
+   ],
+   "brands_mentioned": [
+    "Vans",
+    "Brooks",
+    "Birkenstock",
+    "Skechers",
+    "Hoka",
+    "Orthofeet",
+    "Keen",
+    "Clarks"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I love my Vans but they have zero support.",
+     "source_id": "lq7sx8c",
+     "kind": "objection",
+     "nl_meaning": "Ik ben dol op mijn Vans, maar ze geven nul steun."
+    },
+    {
+     "text": "Shoes have a big impact on my back too.",
+     "source_id": "lq7ues4",
+     "kind": "pain",
+     "nl_meaning": "Schoenen hebben ook een grote invloed op mijn rug."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: mensen met rugklachten zoeken steun in hun schoen; 'upgrade je favoriete sneaker' (Vans) speelt in op de wens om de schoen te houden."
+  }
+ },
+ {
+  "post_id": "zq0j2o",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Uitleg van een schoenmaker over kleine fabrieksfouten bij dure leren schoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "tz7r1f",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Beginnende hardloper kreeg na een voetanalyse in een winkel orthopedische zolen en On-schoenen aangesmeerd en wil ze terugbrengen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_expensive",
+    "other"
+   ],
+   "desired_outcomes_nl": [
+    "geld terug",
+    "eerlijk advies"
+   ],
+   "solutions": [
+    {
+     "solution": "Zolen na voetanalyse in een loopwinkel",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Gezien als upsell; terugbrengen",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "On"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Remember that these things are NOT designed to solve a specific problem you have; they're designed to sell you something by providing a veneer of legitimacy to an up-sell.",
+     "source_id": "i3xgrm9",
+     "kind": "objection",
+     "nl_meaning": "Onthoud dat deze dingen NIET zijn ontworpen om jouw specifieke probleem op te lossen; ze zijn ontworpen om je iets te verkopen met een laagje geloofwaardigheid voor een upsell."
+    },
+    {
+     "text": "I believed what they told me about how the pressure points of my feet will eventually cause injury in time.",
+     "source_id": "i3xgn3e",
+     "kind": "objection",
+     "nl_meaning": "Ik geloofde wat ze zeiden: dat de drukpunten van mijn voeten op termijn tot blessures zouden leiden."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: angst-verkopen ('je drukpunten geven later blessures') wekt achteraf woede; vermijd die toon. Comfort laten voelen en makkelijk retourneren werkt beter."
+  }
+ }
+]

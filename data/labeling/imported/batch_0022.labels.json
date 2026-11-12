@@ -1,0 +1,185 @@
+[
+ {
+  "post_id": "31yomv",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met hoge voetbogen vindt zijn Red Wing-laarzen na 50 keer dragen nog steeds oncomfortabel, ook met verschillende zolen; zoekt comfortabelere stoere laarzen.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [
+    "high arches"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [
+    "stoere laarzen die net zo comfortabel zijn als sneakers"
+   ],
+   "solutions": [
+    {
+     "solution": "Verschillende inlegzolen in Red Wing Iron Rangers",
+     "category": "otc_insole",
+     "brand_or_product": "Red Wing",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Geen verbetering",
+     "source_id": "post"
+    },
+    {
+     "solution": "Hittevormbare zolen van Sole (ook als Red Wing-versie)",
+     "category": "otc_insole",
+     "brand_or_product": "Sole",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Geweldig voor hoge boog; duur maar het waard als je op je benen werkt",
+     "source_id": "cq6aq9u"
+    },
+    {
+     "solution": "White's-laarzen",
+     "category": "shoes",
+     "brand_or_product": "White's",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Ongeëvenaarde boogsteun",
+     "source_id": "cq6gd78"
+    }
+   ],
+   "brands_mentioned": [
+    "Red Wing",
+    "New Balance",
+    "Timberland",
+    "White's",
+    "Nick's",
+    "Sole",
+    "Alden"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I LOVE the look of them. However, they are NOT comfortable. I've tried several different insoles, to no avail.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik ben DOL op het uiterlijk. Maar ze zijn NIET comfortabel. Ik heb verschillende zolen geprobeerd, zonder resultaat."
+    },
+    {
+     "text": "Pricey, But when you work on your feet its worth it.",
+     "source_id": "cq6aq9u",
+     "kind": "buying_trigger",
+     "nl_meaning": "Prijzig, maar als je op je benen werkt is het het waard."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: werkschoen-dragers betalen voor comfort ('when you work on your feet its worth it'); zolen voor laarzen met hoge boog zijn een niche."
+  }
+ },
+ {
+  "post_id": "rsy855",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardlopers over populaire schoenen die zij niet goed vonden; prestaties.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "js4l1b",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Review van maatwerklaarzen van White's.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "72pnt3",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Discussie over schoenen die mensen mooi vinden maar zelden dragen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

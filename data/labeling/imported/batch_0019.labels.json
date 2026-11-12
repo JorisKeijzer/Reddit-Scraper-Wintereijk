@@ -1,0 +1,157 @@
+[
+ {
+  "post_id": "tt6cgn",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Koper van John Doe-laarzen had pijn onder de bal van de voet; de schoenmaker ontdekte dat de laars geen volledig leren binnenzool heeft.",
+   "regions": [
+    "forefoot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_hard",
+    "other"
+   ],
+   "desired_outcomes_nl": [
+    "laarzen zonder pijn onder de voorvoet"
+   ],
+   "solutions": [
+    {
+     "solution": "Laars laten verzolen naar dubbele zool",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": true,
+     "reason": "Uitgevoerd vanwege voorvoetpijn; resultaat niet vermeld",
+     "source_id": "i2vqfwz"
+    }
+   ],
+   "brands_mentioned": [
+    "John Doe Shoes",
+    "Viberg",
+    "Grant Stone"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I felt a lot of ball of foot pain while wearing them.",
+     "source_id": "i2vqfwz",
+     "kind": "pain",
+     "nl_meaning": "Ik had veel pijn onder de bal van mijn voet als ik ze droeg."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: ook liefhebbers van dure laarzen hebben voorvoetpijn; een dunne voorvoetdemping past in die niche."
+  }
+ },
+ {
+  "post_id": "bdipgq",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Onderhoudsgids voor leren schoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "6xv979",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Truman Boots verving de leren binnenzool door kurk 'voor comfort en bacteriën'; koper vindt de bovenlaag glad.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "slipping"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Kurken binnenzool (sockliner)",
+     "category": "otc_insole",
+     "brand_or_product": "Truman Boots",
+     "verdict": "mixed",
+     "first_hand": true,
+     "reason": "Mogelijk comfortabeler en vormt zich naar de hiel, maar papieren toplaag voelt glad",
+     "source_id": "dmiuvl6"
+    }
+   ],
+   "brands_mentioned": [
+    "Truman Boots",
+    "Allen Edmonds"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "The footbed side has a glossy paper lining which makes everything inside the boot feel slippery.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "De bovenkant heeft een glanzende papieren laag waardoor alles in de laars glad aanvoelt."
+    },
+    {
+     "text": "I asked them about this change and they told me cork insoles are better for comfort and bacteria.",
+     "source_id": "post",
+     "kind": "objection",
+     "nl_meaning": "Ik vroeg ernaar en ze zeiden dat kurken zolen beter zijn voor comfort en tegen bacteriën."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: materiaalclaims ('beter tegen bacteriën') worden in deze groep kritisch bekeken; een koperclaim over hygiëne moet net zo goed onderbouwd zijn."
+  }
+ }
+]

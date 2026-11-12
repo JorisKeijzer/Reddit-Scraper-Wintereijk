@@ -1,0 +1,178 @@
+[
+ {
+  "post_id": "14673au",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Bedrijfsleider in een supermarkt kocht Wolverine-laarzen te groot; zonder boogsteun deden voeten en knieën pijn tot hij er Superfeet Green in deed.",
+   "regions": [
+    "arch",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": "grocery store produce manager",
+   "situations": [
+    "standing_work",
+    "work_boots",
+    "retail"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "other"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Superfeet Green in te grote laarzen",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Vulde de laars op en gaf steun; 'Night and Day difference', geen pijn meer",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Wolverine",
+    "Superfeet",
+    "Timberland"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I also have *atrocious* arches so the lack of any support in these things absolutely killed my feet and knees.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik heb ook *vreselijke* voetbogen, dus het gebrek aan steun in deze dingen sloopte mijn voeten en knieën."
+    },
+    {
+     "text": "Night and Day difference. They no longer hurt to wear.",
+     "source_id": "post",
+     "kind": "works",
+     "nl_meaning": "Een verschil van dag en nacht. Ze doen niet meer pijn."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: zolen redden dure laarzen die anders in de kast blijven; 'red je favoriete laarzen' is een angle voor werkschoen-dragers."
+  }
+ },
+ {
+  "post_id": "2z7c0y",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand met platvoeten droeg 15 jaar orthopedische zolen zonder ooit goed te voelen; na overstap op Vibrams veel beter, maar kan nog steeds niet hardlopen zonder blessure in de middenvoet.",
+   "regions": [
+    "arch",
+    "midfoot"
+   ],
+   "conditions": [
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "orthotics for 15 years",
+    "Vibrams"
+   ],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Orthopedische zolen 15 jaar",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Voeten en benen voelden nooit goed, altijd pijn",
+     "source_id": "post"
+    },
+    {
+     "solution": "Overstap op Vibram FiveFingers",
+     "category": "barefoot_minimal",
+     "brand_or_product": "Vibram",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Huge improvement'; hele dag op de been op het werk zonder problemen",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Vibram"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Got orthotics at 13 or so.  Wore them for maybe 15 years.  Feet and legs never felt right.  Always in pain.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Kreeg rond mijn 13e orthopedische zolen. Droeg ze misschien 15 jaar. Voeten en benen voelden nooit goed. Altijd pijn."
+    },
+    {
+     "text": "Every time I've talked to a PT they've tried to cast me back up in more restrictive shoes.",
+     "source_id": "cph0mts",
+     "kind": "objection",
+     "nl_meaning": "Elke keer dat ik met een fysio praatte, probeerden ze me weer in beperkendere schoenen te stoppen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: het barefoot-kamp heeft slechte ervaringen met jarenlange orthopedische zolen; zij zijn geen doelgroep, maar hun verhaal voedt het bezwaar 'zolen maken je zwakker'."
+  }
+ },
+ {
+  "post_id": "1dchjnk",
+  "label": {
+   "relevant": false,
+   "language": "nl",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vraag naar een locatie voor een blotevoetenwandeling in Zuid-Holland.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant; wel teken van een blotevoeten-trend in NL."
+  }
+ }
+]

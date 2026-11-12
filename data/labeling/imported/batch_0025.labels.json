@@ -1,0 +1,251 @@
+[
+ {
+  "post_id": "48h3rj",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Verslag van een schoenmaakcursus.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "3hwh6b",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Ervaren barefoot-loper kreeg na twee hikes van ruim 20 km in Vibram FiveFingers pijnlijke hielen en voorvoet; zijn zus in Nike Free had niets.",
+   "regions": [
+    "heel",
+    "forefoot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hiking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Vibram FiveFingers voor lange hikes",
+     "category": "barefoot_minimal",
+     "brand_or_product": "Vibram",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Pijnlijke hielen en voorvoet na 42 km in twee dagen",
+     "source_id": "post"
+    },
+    {
+     "solution": "Minimalistische trailschoenen met wat demping",
+     "category": "barefoot_minimal",
+     "brand_or_product": "Merrell",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "15 mijl twee dagen achter elkaar zonder problemen",
+     "source_id": "cubrrkt"
+    }
+   ],
+   "brands_mentioned": [
+    "Vibram",
+    "Nike",
+    "Merrell"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "It soured my mood quite a bit and ruined most of the experience.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Het verpestte mijn humeur behoorlijk en het grootste deel van de ervaring."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: ook barefoot-fans hebben demping nodig bij lange afstanden."
+  }
+ },
+ {
+  "post_id": "gco1dg",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardloper zoekt een neutrale schoen na stabiliteitsschoenen; prestaties en duurzaamheid.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "gzapb0",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Review van Viberg-slippers; schuivende binnenzolen vastgelijmd.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: binnenzolen mogen niet schuiven."
+  }
+ },
+ {
+  "post_id": "w4wl1v",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Beginnende hardloper met hoge voetbogen krijgt hevige pijn aan de buitenkant en boog van de voet in nieuwe Nike Pegasus 38, die bij wandelen prima voelen.",
+   "regions": [
+    "midfoot",
+    "arch"
+   ],
+   "conditions": [
+    "high arches",
+    "peroneal tendinitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "arch_too_high",
+    "other"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Hoka een maat groter na voetscan",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Pijn aan de buitenkant volledig weg",
+     "source_id": "ih5xkhp"
+    },
+    {
+     "solution": "Eerst versterken en rekken, geen dure zolen",
+     "category": "stretching_exercise",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "ih4ozmz"
+    },
+    {
+     "solution": "Nike React Infinity",
+     "category": "shoes",
+     "brand_or_product": "Nike",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Boogsteun te hoog, groef in de boog",
+     "source_id": "ih7bnr3"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Hoka",
+    "Puma",
+    "Reebok"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I get extremely intense pain in the outsides of my feet and partially the arch of my feet",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik krijg extreem hevige pijn aan de buitenkant van mijn voeten en deels in de voetboog."
+    },
+    {
+     "text": "arch support was too high for me, digging into my arches and causing pain.",
+     "source_id": "ih7bnr3",
+     "kind": "fails",
+     "nl_meaning": "De boogsteun was te hoog voor mij, groef in mijn bogen en deed pijn."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: te hoge boogsteun komt opnieuw terug als klacht; gematigde steun en de juiste maat zijn belangrijker."
+  }
+ }
+]

@@ -1,0 +1,334 @@
+[
+ {
+  "post_id": "2xx58w",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand moet dagelijks zo'n 8 mijl lopen naar en van de bus en zoekt een minimalistische wandelschoen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Vivobarefoot en Merrell Trail Glove",
+     "category": "barefoot_minimal",
+     "brand_or_product": "Vivobarefoot, Merrell",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Jaren mee, ook op de Appalachian Trail",
+     "source_id": "cp46ygn"
+    }
+   ],
+   "brands_mentioned": [
+    "Merrell",
+    "Vivobarefoot",
+    "Vibram",
+    "New Balance"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I'm actually a bit worried about the daily mileage alone",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik maak me eigenlijk wat zorgen over alleen al het dagelijkse aantal kilometers."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant (barefoot-kamp)."
+  }
+ },
+ {
+  "post_id": "owa4jt",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Hardloper kreeg kniepijn na een lange loop in versleten Brooks Ghosts en zoekt een schoen met meer demping.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Versleten Brooks Ghost 10",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Kniepijn na 14 km",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Brooks",
+    "New Balance",
+    "Asics",
+    "Nike"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "The Brooks are worn out to be honest so it’s my own fault I’ll admit. Im experiencing pain in my knees today.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "De Brooks zijn eerlijk gezegd versleten, dus het is mijn eigen schuld. Ik heb vandaag pijn in mijn knieën."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant; versleten demping wordt als oorzaak gezien."
+  }
+ },
+ {
+  "post_id": "17h0w41",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardlopers delen waarvoor ze orthopedische zolen gebruiken: kniepijn, scheenbeenklachten, hoge boog, tibialis-posterior; anderen vinden spierversterking beter.",
+   "regions": [
+    "legs_knees_back",
+    "arch",
+    "ankle"
+   ],
+   "conditions": [
+    "shin splints",
+    "high arches",
+    "posterior tibial tendinopathy",
+    "flat feet",
+    "overpronation"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "running"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Orthopedische zolen tegen knie- en scheenbeenpijn",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Genoemd als wat het oploste",
+     "source_id": "k6k7koo"
+    },
+    {
+     "solution": "Maatwerkzolen bij zeer hoge boog",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'A godsend' tegen stressfracturen",
+     "source_id": "k6la8rd"
+    },
+    {
+     "solution": "Kant-en-klare zool bij tibialis-posterior",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Net wat meer steun, sneller weer lopen",
+     "source_id": "k6l1pn3"
+    },
+    {
+     "solution": "Goedkope orthopedische zolen (~$90)",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Hielpen nauwelijks; specialistische van $250 wel",
+     "source_id": "k6ncx8p"
+    },
+    {
+     "solution": "Superfeet Run",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Worked wonders'",
+     "source_id": "k6ocxdu"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "Saucony"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "I had cheap (around 90 USD) orthotics before and they hardly helped.",
+    "(around 250usd)"
+   ],
+   "quotes": [
+    {
+     "text": "Custom orthotics are a godsend for preventing stress fractures.",
+     "source_id": "k6la8rd",
+     "kind": "works",
+     "nl_meaning": "Maatwerkzolen zijn een geschenk om stressfracturen te voorkomen."
+    },
+    {
+     "text": "Address your underlying muscle issues.  Far easier and cheaper.",
+     "source_id": "k6lergm",
+     "kind": "objection",
+     "nl_meaning": "Pak je onderliggende spierproblemen aan. Veel makkelijker en goedkoper."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: lopers zien zolen als hulpmiddel náást kracht; geen tegenstelling. Prijs bepaalt verwachting ($90 'hielp nauwelijks')."
+  }
+ },
+ {
+  "post_id": "4ni93b",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Vrouw met brede voeten wil overstappen op barefoot lopen maar vindt geen flexibele, brede schoenen; stijve schoenen geven brandende, scherpe pijn.",
+   "regions": [
+    "toes",
+    "forefoot",
+    "arch"
+   ],
+   "conditions": [
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight",
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "New Balance Minimus en Altra",
+     "category": "barefoot_minimal",
+     "brand_or_product": "New Balance, Altra",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Te krap bij de boog of te kort en te stijf",
+     "source_id": "post"
+    },
+    {
+     "solution": "Birkenstocks in wijde maat",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Nog wat te stijf, tenen kunnen niet spreiden",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "New Balance",
+    "Altra",
+    "Birkenstock",
+    "Nike",
+    "Vivobarefoot",
+    "Lems",
+    "Softstar"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Whenever I wear stiff shoes that crunch my toes up I get burning, sharp pains running up my feet into my legs",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Als ik stijve schoenen draag die mijn tenen samendrukken, krijg ik brandende, scherpe pijn die van mijn voeten naar mijn benen trekt."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant; ruimte voor de tenen blijft een eis."
+  }
+ },
+ {
+  "post_id": "ggjmvx",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Hardlopers over schoenen die ze teleurstelden; prestaties.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

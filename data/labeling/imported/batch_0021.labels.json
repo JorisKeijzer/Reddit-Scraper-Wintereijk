@@ -1,0 +1,225 @@
+[
+ {
+  "post_id": "6egaa4",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand met hoge voetbogen en 25 jaar voetklachten draagt liever laarzen en nette schoenen; goedkope zolen hielpen weinig en pasten niet, maatwerk wordt niet vergoed.",
+   "regions": [
+    "arch",
+    "top_of_foot"
+   ],
+   "conditions": [
+    "high arches",
+    "metatarsus adductus"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [
+    "daily_walking",
+    "office"
+   ],
+   "duration": "25 jaar",
+   "previous_fixes": [
+    "cheap insoles",
+    "Clarks Desert Boots",
+    "Allbirds"
+   ],
+   "complaints_about_products": [
+    "no_effect",
+    "other",
+    "too_expensive",
+    "short_lived_effect"
+   ],
+   "desired_outcomes_nl": [
+    "nette schoenen en laarzen zonder pijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Goedkope inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Minimaal effect en pasten in maar één paar schoenen",
+     "source_id": "post"
+    },
+    {
+     "solution": "Allbirds",
+     "category": "shoes",
+     "brand_or_product": "Allbirds",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Twee weken het comfortabelste ooit, daarna 'meh'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Verschillende zolen proberen en afwisselen ($20-50)",
+     "category": "otc_insole",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Birkenstock-kurkzolen bevallen; data verzamelen voor de volgende stap",
+     "source_id": "diakyk8"
+    }
+   ],
+   "brands_mentioned": [
+    "Clarks",
+    "Allbirds",
+    "New Balance",
+    "Birkenstock",
+    "Crocs"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "custom insoles (which my insurance won't cover)",
+    "insoles run $20-50 usually"
+   ],
+   "quotes": [
+    {
+     "text": "When the cheap insoles proved minimally beneficial and ill-fitting in all but one pair of shoes",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Toen de goedkope zolen minimaal hielpen en in alle schoenen op één paar na slecht pasten..."
+    },
+    {
+     "text": "I like boots, dress shoes, or otherwise simple and clean looking shoes without obnoxious logos.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Ik houd van laarzen, nette schoenen of andere simpele, strak ogende schoenen zonder opzichtige logo's."
+    },
+    {
+     "text": "you could drop $200 on insoles and have a good chance of buying yourself some immediate relief.",
+     "source_id": "diakyk8",
+     "kind": "works",
+     "nl_meaning": "Je kunt $200 aan zolen uitgeven met een goede kans op directe verlichting."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: een aparte doelgroep wil geen sportschoenen maar nette schoenen en laarzen; een dunne zool die in nette schoenen past, is daar onderscheidend."
+  }
+ },
+ {
+  "post_id": "6blcfy",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Liefhebbers van dure leren schoenen bespreken dat hun orthopedische zolen in de meeste mooie schoenen niet passen.",
+   "regions": [
+    "arch",
+    "forefoot",
+    "heel"
+   ],
+   "conditions": [
+    "Morton's neuroma",
+    "metatarsalgia",
+    "overpronation",
+    "high arches"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking",
+    "office"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "other",
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [
+    "mooie schoenen kunnen dragen mét steun"
+   ],
+   "solutions": [
+    {
+     "solution": "Alden Modified Last (geen zolen nodig)",
+     "category": "shoes",
+     "brand_or_product": "Alden",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Game changer', voor hoge boog en brede teenbox",
+     "source_id": "dhnm70y"
+    },
+    {
+     "solution": "Wesco-laarzen met uitneembare leren binnenzool",
+     "category": "shoes",
+     "brand_or_product": "Wesco",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Met of zonder eigen inzet te dragen; comfortabelste gestikte schoen",
+     "source_id": "dhns37q"
+    }
+   ],
+   "brands_mentioned": [
+    "Alden",
+    "Wesco",
+    "Østmo",
+    "Dr. Scholl's"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Usually, it goes something like \"these shoes won't fit my orthotics\".",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Meestal komt het neer op 'deze schoenen passen niet bij mijn orthopedische zolen'."
+    },
+    {
+     "text": "Sure, there are orthopedic shoes and other medicinal options, but often these look more like potatoes than shoes.",
+     "source_id": "post",
+     "kind": "objection",
+     "nl_meaning": "Natuurlijk zijn er orthopedische schoenen, maar die zien er vaak meer uit als aardappels dan als schoenen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'steun zonder lelijke schoenen' is een emotioneel sterke belofte; een dunne zool die in nette schoenen past, vult dat gat."
+  }
+ },
+ {
+  "post_id": "9bo8pc",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Waarschuwing over beschadigde Allen Edmonds-schoenen uit een uitverkoop.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

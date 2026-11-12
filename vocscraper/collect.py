@@ -136,6 +136,10 @@ def run(
             added = run_job(conn, source, job, _since_ts(since), max_posts, langs, cfg.get("exclude_phrases", []))
         except Exception:  # één kapotte subreddit/zoekterm mag de run niet stoppen
             log.exception("zoekopdracht mislukt: %s", job)
+            # Wel als 'gedraaid' markeren (zonder de nieuwste datum te verschuiven), anders staat
+            # deze zoekopdracht elke run weer vooraan en komen de andere nooit aan de beurt.
+            db.log_query(conn, source.name, job.subreddit or "*", job.query or "*", None)
+            conn.commit()
             continue
         total += added
         log.info("[%d/%d] r/%s '%s': %d nieuw", n, len(jobs), job.subreddit or "*", job.query or "*", added)
