@@ -1,0 +1,184 @@
+[
+ {
+  "post_id": "1h8fzmp",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vergelijking van twee laarzen voor iets bredere voeten; vooral pasvorm en uiterlijk.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "17dxz10",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand met spinale stenose en gevoelloze linkervoet kreeg van een chiropractor Foot Levelers-zolen; slijtage van zijn schoenen klopt niet met de 'overpronatie'-meting.",
+   "regions": [
+    "nerve",
+    "arch"
+   ],
+   "conditions": [
+    "spinal stenosis",
+    "overpronation",
+    "supination"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "Foot Levelers custom orthotics",
+    "Hoka Arahi",
+    "Asics Kayano"
+   ],
+   "complaints_about_products": [
+    "other",
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Foot Levelers-zolen van een chiropractor",
+     "category": "custom_orthotic",
+     "brand_or_product": "Foot Levelers",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Reageerders noemen het oplichterij; schoenen slijten alsof hij supineert",
+     "source_id": "k603h1c"
+    }
+   ],
+   "brands_mentioned": [
+    "Foot Levelers",
+    "Hoka",
+    "Asics",
+    "Brooks"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Oh foot levelers. Throw those away. Foot levelers is a scam.",
+     "source_id": "k603h1c",
+     "kind": "objection",
+     "nl_meaning": "O, Foot Levelers. Gooi die weg. Foot Levelers is oplichterij."
+    },
+    {
+     "text": "Don't buy \"orthotics\" from chiropractors, PTs, or shoe salesmen.",
+     "source_id": "k603h1c",
+     "kind": "objection",
+     "nl_meaning": "Koop geen 'orthopedische zolen' van chiropractors, fysio's of schoenverkopers."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: wantrouwen tegen 'verkochte' orthesen is groot en heeft namen (Foot Levelers). Wij moeten ons nadrukkelijk niet als orthese presenteren maar als comfortzool."
+  }
+ },
+ {
+  "post_id": "a3uecc",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Iemand met maat 14B probeerde een jaar lang tientallen laarzen; vrijwel alles knelde, slipte of gaf knie- en voetpijn.",
+   "regions": [
+    "toes",
+    "heel",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots"
+   ],
+   "duration": "ruim een jaar",
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight",
+    "slipping"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Te grote laarzen met inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "LL Bean",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Hielslip bleef, kniepijn begon",
+     "source_id": "post"
+    },
+    {
+     "solution": "Dr Martens 1460 Smooth (comfortleest)",
+     "category": "shoes",
+     "brand_or_product": "Dr Martens",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Paste wel",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Red Wing",
+    "Thorogood",
+    "LL Bean",
+    "Wolverine",
+    "RM Williams",
+    "Solovair",
+    "Dr Martens",
+    "Loake",
+    "Trickers"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Too big, tried to wear them with insoles and the heel slip never went away. Started causing knee pain.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Te groot, geprobeerd met inlegzolen, maar de hielslip ging nooit weg. Het begon kniepijn te geven."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: een zool lost een verkeerde maat niet op."
+  }
+ }
+]

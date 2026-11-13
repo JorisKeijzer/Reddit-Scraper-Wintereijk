@@ -1,0 +1,629 @@
+[
+ {
+  "post_id": "bripuw",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Vrouw vraagt namens haar man met brandende voeten door (diabetische) neuropathie of Tommie Copper-producten of compressiesokken helpen.",
+   "regions": [
+    "nerve",
+    "whole_foot"
+   ],
+   "conditions": [
+    "diabetic neuropathy",
+    "peripheral neuropathy"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "een beetje verlichting van brandende voeten"
+   ],
+   "solutions": [
+    {
+     "solution": "Lichte compressiesokken (SB Sox) en Dr. Scholl's-zolen uit de Walmart-kiosk",
+     "category": "compression_socks",
+     "brand_or_product": "SB Sox, Dr. Scholl's",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Helpt wat; dunne schoenen en lage hakken maken het erger",
+     "source_id": "eoeqyp2"
+    },
+    {
+     "solution": "Compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Benen voelen beter, effect op neuropathie onduidelijk",
+     "source_id": "eoe8ndg"
+    },
+    {
+     "solution": "Voeten omhoog, koel douchen, gabapentine, lidocaïnecrème",
+     "category": "medication_injection",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Lidocaïne 's nachts 'total lifesaver'",
+     "source_id": "eopnqmw"
+    }
+   ],
+   "brands_mentioned": [
+    "Tommie Copper",
+    "SB Sox",
+    "Dr. Scholl's",
+    "NatraCure"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "neutral",
+    "summary_nl": "Vraagt of Tommie Copper-producten helpen; niemand reageert daarop. Koper wordt dus genoemd als optie, zonder ervaringen."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Has anyone tried something like the Tommy Copper type products or the compression socks ot ANYTHING that might help?",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Heeft iemand iets als Tommie Copper-producten of compressiesokken geprobeerd, of WAT DAN OOK dat zou kunnen helpen?"
+    },
+    {
+     "text": "DH wears a cheap shoe even though He has a quality medical shoes.",
+     "source_id": "eoergt8",
+     "kind": "objection",
+     "nl_meaning": "Mijn man draagt goedkope schoenen, ook al heeft hij goede medische schoenen."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: koper staat bij partners/mantelzorgers op het lijstje 'misschien helpt het'. Neuropathie is echter een uitsluitingsgroep; hier geen claims."
+  }
+ },
+ {
+  "post_id": "1qfgm8h",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Vrouw met ernstige neuropathische voetpijn na een maagverkleining en operatie heeft een vastgesteld kopertekort in het bloed.",
+   "regions": [
+    "nerve",
+    "whole_foot"
+   ],
+   "conditions": [
+    "copper deficiency myeloneuropathy",
+    "rheumatoid arthritis",
+    "fibromyalgia"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [
+    "after_injury"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "een diagnose en pijnbestrijding"
+   ],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "neutral",
+    "summary_nl": "Gaat over kopertekort in het lichaam (voeding/opname), niet over koper in producten. Niet bruikbaar als productclaim."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Unbearable at night (7PM-morning), allodynia (can't touch or wear socks), crying from pain",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ondraaglijk 's nachts, kan niets verdragen op de huid (geen sokken), huilen van de pijn."
+    }
+   ],
+   "emotional_intensity": 5,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Let op: 'koper en zenuwen' bestaat in de medische context als tekort; dat mag nooit doorvertaald worden naar een koperzool-claim."
+  }
+ },
+ {
+  "post_id": "1rw77ke",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Bouwvakker heeft sinds een klus met stof (ook van koper zagen) zes maanden tintelende, brandende en diep vermoeide voeten, erger in werkschoenen en bij staan; EMG gaf geen afwijking.",
+   "regions": [
+    "arch",
+    "nerve",
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots",
+    "standing_work",
+    "construction"
+   ],
+   "duration": "6 maanden",
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "weten wat het is",
+    "zonder pijn werken"
+   ],
+   "solutions": [
+    {
+     "solution": "Nieuwe werkschoenen met orthopedische zolen, compressiesokken en elke 15-30 min bewegen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies van een verpleegkundige: werkt bij veel staande beroepen",
+     "source_id": "oaxt6mq"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Like i ran miles and miles or like i was beaten on my feet. And gets worse when wearing work shoes or standing for a period of time.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Alsof ik kilometers heb gerend of op mijn voeten ben geslagen. En het wordt erger in werkschoenen of als ik een tijd sta."
+    },
+    {
+     "text": "The symptoms you describe sound like what many nurses (like me) or doctors suffer from (or anyone who has to stand for prolonged periods of time)",
+     "source_id": "oaxt6mq",
+     "kind": "pain",
+     "nl_meaning": "Wat je beschrijft klinkt als waar veel verpleegkundigen (zoals ik) of artsen last van hebben, of iedereen die lang moet staan."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'werkschoenen maken het erger' komt terug bij bouwvakkers; zorgpersoneel herkent het beeld van lang staan."
+  }
+ },
+ {
+  "post_id": "3jmgdv",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Verslag van een rugoperatie; noemt een 'magnetic pole' als eerder geprobeerde behandeling.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant (rug)."
+  }
+ },
+ {
+  "post_id": "ezju9p",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Gewichtsprobleem bij chronische pijn; 'copper' is een koperspiraal (anticonceptie).",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse koper-match."
+  }
+ },
+ {
+  "post_id": "zykm29",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Iemand met chronische pijn deelt haar 'comfort items', waaronder een koperen kussen, matrasbeschermer, kniebrace en rugbrace, en twijfelt of koper ertoe doet.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "comfort en minder pijn in het dagelijks leven"
+   ],
+   "solutions": [
+    {
+     "solution": "Met koper doordrenkte kniebrace, rugbrace, kussen en matrasbeschermer",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": true,
+     "reason": "Schrijver weet niet of koper uitmaakt, maar zonder haar spullen voelt ze zich veel slechter",
+     "source_id": "post"
+    },
+    {
+     "solution": "Warmtekussen, tijgerbalsem, verwarmde oogmaskers",
+     "category": "lifestyle_other",
+     "brand_or_product": "Tiger Balm",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Comfortspullen",
+     "source_id": "j27puxo"
+    }
+   ],
+   "brands_mentioned": [
+    "Sharper Image",
+    "Tiger Balm"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "mixed",
+    "summary_nl": "Gebruikt veel koperproducten (kussen, matrasbeschermer, knie- en rugbrace) en zegt dat koper 'pretty commonly used for pain relief' is, maar weet niet of het ertoe doet. Een reageerder is 'super keen' op de koper-matras."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "a copper infused memory foam pillow, copper infused mattress cover, a copper infused compression sleeve for one knee (recently realized I need one for both knees), a copper infused back brace",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Een traagschuimkussen met koper, een matrasbeschermer met koper, een compressiekniebrace met koper (ik heb er voor beide knieën een nodig) en een rugbrace met koper."
+    },
+    {
+     "text": "I'm not sure if copper matters at all but it seems to be pretty commonly used for pain relief.",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Ik weet niet of koper er überhaupt toe doet, maar het lijkt vrij vaak gebruikt te worden tegen pijn."
+    },
+    {
+     "text": "Love this post!! I’m super keen on the copper mattress!!",
+     "source_id": "k2odjot",
+     "kind": "copper",
+     "nl_meaning": "Geweldige post!! Ik ben heel benieuwd naar die koperen matras!!"
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: er bestaat een koper-ecosysteem-koper: iemand die meerdere koperproducten verzamelt als onderdeel van een 'comfortritueel', zonder harde verwachting. Voor die groep kan een koperzool een logische aanvulling zijn, als comfortproduct, niet als medicijn."
+  }
+ },
+ {
+  "post_id": "1xtcqce",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand met artritis in beide handen gebruikte altijd warmte, massage, koperen compressiehandschoenen en pijnmedicatie, maar dit jaar is de kou-pijn zo erg dat het haar wakker maakt.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "arthritis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "doorslapen zonder handpijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Koperen compressiehandschoenen samen met warmte, massage en medicatie",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Hielp jaren, maar dit jaar niet meer",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "mixed",
+    "summary_nl": "Koperen compressiehandschoenen hoorden jarenlang bij haar vaste aanpak; dit jaar voldoen ze niet meer."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Until now, I’ve been able to circumvent this with moist heat, massage, copper compression gloves, and my usual prescription pain meds.",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Tot nu toe kon ik dit opvangen met vochtige warmte, massage, koperen compressiehandschoenen en mijn gebruikelijke pijnmedicatie."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Relevant vanwege koper (niet voeten): koperen compressieproducten zijn voor artritispatiënten een normaal onderdeel van hun 'gereedschapskist', naast warmte en medicatie."
+  }
+ },
+ {
+  "post_id": "xcqebj",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met instabiele gewrichten werkt urenlang staand en zoekt een kniebrace; wil Tommie Copper thuis proberen.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "joint hypermobility"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "de werkdag doorkomen zonder veel pijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Tommie Copper/Copper Fit",
+     "category": "copper_or_magnetic",
+     "brand_or_product": "Tommie Copper, Copper Fit",
+     "verdict": "unknown",
+     "first_hand": true,
+     "reason": "Wil het thuis proberen; reageerder vindt Copper Fit 'decent stuff'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Compressiekousen en eerst goede schoenen",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'They help like you wouldnt believe'; schoenen zijn de basis",
+     "source_id": "io7hi2a"
+    }
+   ],
+   "brands_mentioned": [
+    "Tommie Copper",
+    "Copper Fit",
+    "Red Wing"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "positive",
+    "summary_nl": "Heeft 'good things' gehoord over Tommie Copper; een reageerder vindt dat Copper Fit 'decent stuff' maakt. Wordt gezien als lichte, betaalbare ondersteuning voor thuis."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I've heard good things about Tommie Copper and I plan to try that at home",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Ik heb goede dingen gehoord over Tommie Copper en ben van plan dat thuis te proberen."
+    },
+    {
+     "text": "Copperfit seems to male decent stuff.",
+     "source_id": "io7hi2a",
+     "kind": "copper",
+     "nl_meaning": "Copper Fit lijkt behoorlijke spullen te maken."
+    },
+    {
+     "text": "Being on your feet, you need to look at your shoes.",
+     "source_id": "io7hi2a",
+     "kind": "buying_trigger",
+     "nl_meaning": "Als je op je benen staat, moet je naar je schoenen kijken."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: Tommie Copper/Copper Fit hebben merkbekendheid opgebouwd als 'lichte ondersteuning'; koper wordt in deze context positief maar zonder medische verwachting genoemd."
+  }
+ },
+ {
+  "post_id": "1hbof0r",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand zoekt duurzame compressiehandschoenen; de goedkope van Amazon gaan snel kapot en apotheken verkopen alleen het 'copper'-merk.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "arthritis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Koperen compressiehandschoenen van de apotheek",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "'Fine', maar zoekt iets anders",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "IMAK",
+    "Amazon"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "neutral",
+    "summary_nl": "Apotheken verkopen alleen het 'copper'-merk compressiehandschoen; dat is 'fine'."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "all they carry are the copper brand, which has been fine but I'm looking for something different.",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Ze verkopen alleen het koper-merk, dat prima was, maar ik zoek iets anders."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: koper is in Amerikaanse apotheken het standaardmerk voor compressie; bekendheid is er, enthousiasme niet."
+  }
+ },
+ {
+  "post_id": "1u0bfrr",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Lang verhaal over de rugpijn van een moeder na een anesthesiefout.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant (rug, medisch)."
+  }
+ },
+ {
+  "post_id": "ux868v",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Lege advertentiepost voor een 'Pure Copper Magnetic Bracelet' in r/ChronicPain.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Laat zien dat koper/magneet-armbanden in pijnfora geadverteerd worden."
+  }
+ },
+ {
+  "post_id": "3ozqpk",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Dagelijkse praatthread in r/goodyearwelt over gekochte laarzen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

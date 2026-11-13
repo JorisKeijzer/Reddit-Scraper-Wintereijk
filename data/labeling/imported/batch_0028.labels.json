@@ -1,0 +1,144 @@
+[
+ {
+  "post_id": "3oq438",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Dagelijkse vragenthread in r/goodyearwelt; 'copper' is hier een leerkleur.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "eu6imt",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Laarzenliefhebber vraagt zich af of stevige laarzen met hak schadelijk zijn ten opzichte van barefoot/zero-drop; een fysiotherapeut zegt dat schoeneffecten klein en tijdelijk zijn.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Orthopedische zolen en ander schoeisel",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": false,
+     "reason": "Volgens een fysiotherapeut kleine veranderingen die na 6-12 weken verdwijnen",
+     "source_id": "ffm03qv"
+    }
+   ],
+   "brands_mentioned": [
+    "Vibram",
+    "Vivobarefoot",
+    "Lems",
+    "Softstar",
+    "White's"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Orthotics and shoe type can make small changes, enough to ease a painful and inflamed joint in your ankle, knee, hip or back, but only for 6 weeks or so.",
+     "source_id": "ffm03qv",
+     "kind": "objection",
+     "nl_meaning": "Zolen en schoentype kunnen kleine veranderingen geven, genoeg om een pijnlijk gewricht te ontlasten, maar maar zo'n 6 weken."
+    },
+    {
+     "text": "Didn't vibram get a class action law suit for hyping the benefit of \"barefoot\" running?",
+     "source_id": "fflxjno",
+     "kind": "objection",
+     "nl_meaning": "Kreeg Vibram niet een groepsrechtszaak omdat ze de voordelen van 'barefoot' lopen overdreven?"
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: ook in schoenenfora kennen mensen rechtszaken over overdreven claims (Vibram); voorzichtige claims zijn ook commercieel verstandig."
+  }
+ },
+ {
+  "post_id": "qksd7l",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "Iemand met gewrichtspijn in de voeten kreeg van een internist te horen dat er 'geen gewrichten in je voeten' zitten; veel herkenning over niet serieus genomen worden.",
+   "regions": [
+    "whole_foot",
+    "toes"
+   ],
+   "conditions": [
+    "joint pain",
+    "osteoarthritis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "serieus genomen worden door artsen"
+   ],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "There aren't even joints in your feet!",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Er zitten niet eens gewrichten in je voeten!"
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: mensen met voetpijn voelen zich vaak niet serieus genomen; een merk dat hun ervaring erkent ('je bent niet gek, je voeten doen gewoon pijn') kan aanslaan, zonder medische belofte."
+  }
+ }
+]

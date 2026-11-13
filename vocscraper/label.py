@@ -201,8 +201,8 @@ def pending_posts(conn: sqlite3.Connection, limit: int | None, relabel: bool = F
              WHERE (p.comments_fetched_at IS NOT NULL OR p.num_comments = 0)"""
     if not relabel:
         sql += " AND l.post_id IS NULL"
-    # Voorrang: eerst threads waarin koper/magneten als wellness-materiaal voorkomen (niet de
-    # leerkleur 'copper' in schoenenfora), dan threads met reacties (meeste eerst).
+    # Voorrang: eerst threads waarin koper/magneten voorkomen, behalve in schoenen- en leerfora
+    # (daar is 'copper' meestal een kleur), dan threads met reacties (meeste eerst).
     text = "lower(p.title || ' ' || coalesce(p.selftext, ''))"
     copper = " OR ".join(f"{text} LIKE '%{w}%'" for w in (
         "copper insole", "copper sock", "copper bracelet", "copper compression", "copper infused",
@@ -213,7 +213,8 @@ def pending_posts(conn: sqlite3.Connection, limit: int | None, relabel: bool = F
         "foot", "feet", "heel", "insole", "orthotic", "plantar", "arch", "shoe", "slipper", "sandal",
         "toe", "bunion", "neuroma", "voet", "zool", "zolen", "fuß", "füße", "einlage"))
     sql += f""" ORDER BY
-        (({copper}) AND p.subreddit NOT IN ('goodyearwelt', 'BuyItForLife')) DESC,
+        (({copper}) OR {text} LIKE '%copper%' OR {text} LIKE '%magnet%')
+            AND p.subreddit NOT IN ('goodyearwelt', 'BuyItForLife', 'Shoes', 'RunningShoeGeeks') DESC,
         (p.num_comments > 0) DESC,
         ({foot}) DESC,
         p.num_comments DESC"""

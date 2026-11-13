@@ -1,0 +1,136 @@
+[
+ {
+  "post_id": "8qa8gk",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Foto's van Meermin-laarzen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "btngrd",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Gids voor brede voeten in r/goodyearwelt: hoe je weet of je brede maten nodig hebt en waarom een halve maat groter geen oplossing is.",
+   "regions": [
+    "forefoot",
+    "whole_foot"
+   ],
+   "conditions": [
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "When you take the shoe or boot off does it feel like circulation is returning to your foot? (far too narrow)",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Voelt het als je de schoen uitdoet alsof de bloedsomloop naar je voet terugkeert? (veel te smal)"
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant."
+  }
+ },
+ {
+  "post_id": "3jnf28",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand twijfelt of stijve, zware laarzen goed zijn voor de voeten; zijn voeten worden warm.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat",
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede binnenzool en wollen sokken (Darn Tough)",
+     "category": "otc_insole",
+     "brand_or_product": "Darn Tough",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies: binnenzool zorgt voor een gelijkmatige voetafdruk",
+     "source_id": "cuqpyn2"
+    }
+   ],
+   "brands_mentioned": [
+    "Wolverine",
+    "Darn Tough"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Most leather are quite thick, and don't breathe well. My feet run hot, and this is an issue for me.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Het meeste leer is vrij dik en ademt slecht. Mijn voeten worden snel warm, en dat is een probleem voor mij."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: warme, zwetende voeten in laarzen komen opnieuw terug; ventilatie/frisheid is een terugkerende wens."
+  }
+ }
+]

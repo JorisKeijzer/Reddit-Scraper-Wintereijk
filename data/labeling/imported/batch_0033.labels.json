@@ -1,0 +1,158 @@
+[
+ {
+  "post_id": "mms7dy",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "34-jarige bouwvakker heeft door zwaar werk hernia's, slechte knieën, schouder, voeten en handen; reacties delen vergelijkbare verhalen.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [
+    "heel spurs",
+    "hernia"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "construction worker",
+   "situations": [
+    "construction",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Eating keto and doing yoga isn't going to undo hernias popping through muscle walls or shave down heel spurs.",
+     "source_id": "gtu99wr",
+     "kind": "objection",
+     "nl_meaning": "Keto en yoga gaan geen hernia's terugdraaien of hielsporen wegslijpen."
+    }
+   ],
+   "emotional_intensity": 5,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: zware beroepen leven met een opeenstapeling van klachten; zij reageren allergisch op simpele oplossingen ('have you tried yoga'). Bescheiden belofte: een beetje meer comfort per dag."
+  }
+ },
+ {
+  "post_id": "2vk0u0",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Review van maatwerk-servicelaarzen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "1iid1j5",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Liefhebber van nette schoenen met platte voeten herstelt van 14 maanden boogpijn; vlakke leren binnenzolen zonder demping gaan niet meer, orthopedische schoenen vindt hij lelijk.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "office",
+    "daily_walking",
+    "running"
+   ],
+   "duration": "14 maanden",
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_hard",
+    "other"
+   ],
+   "desired_outcomes_nl": [
+    "nette schoenen met steun en demping die niet op sneakers lijken"
+   ],
+   "solutions": [
+    {
+     "solution": "Halve maat groter en eigen zolen erin",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies: geeft vaak genoeg ruimte",
+     "source_id": "mb4iwgn"
+    }
+   ],
+   "brands_mentioned": [
+    "Riderboot",
+    "Blundstone",
+    "Red Wing",
+    "Alden"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "flat insoles, especially those made of thick, firm leather, along with uncushioned soles are probably not for me anymore. It really sucks.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Vlakke binnenzolen, vooral van dik, stevig leer, en zolen zonder demping zijn waarschijnlijk niets meer voor mij. Het is echt balen."
+    },
+    {
+     "text": "orthotic shoes are…incredibly ugly, and barefoot/zero drop shoes are most decidedly not for my foot either.",
+     "source_id": "post",
+     "kind": "objection",
+     "nl_meaning": "Orthopedische schoenen zijn… ongelooflijk lelijk, en barefoot/zero-drop is ook beslist niets voor mijn voet."
+    },
+    {
+     "text": "If the Red Wing 875s had a soft, molded insole rather than a thick veg tan leather insole, they’d probably work well for me.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Als de Red Wing 875 een zachte, gevormde binnenzool had in plaats van dik leer, zou hij waarschijnlijk goed voor mij werken."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: de 'nette schoenen/laarzen'-niche komt opnieuw terug: steun en demping zonder sneaker-uiterlijk. Een dunne zool die in nette schoenen past is een duidelijke wens."
+  }
+ }
+]

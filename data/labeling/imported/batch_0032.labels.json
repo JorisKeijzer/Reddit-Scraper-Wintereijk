@@ -1,0 +1,212 @@
+[
+ {
+  "post_id": "17e359l",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Beveiligingsmanager (130+ kg, bijna 40) loopt en staat 8-14 uur op beton; elke laars liet zijn voeten 'schreeuwen' tot hij dure maatlaarzen met goede hielsteun kocht.",
+   "regions": [
+    "heel",
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": "security manager",
+   "situations": [
+    "standing_work",
+    "walking_work",
+    "work_boots",
+    "overweight"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "slipping"
+   ],
+   "desired_outcomes_nl": [
+    "wakker worden zonder voetpijn na een lange dienst"
+   ],
+   "solutions": [
+    {
+     "solution": "Nick's-laarzen met strakke hielsteun",
+     "category": "shoes",
+     "brand_or_product": "Nick's",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Voor het eerst in jaren een ochtend zonder voetpijn; $450+",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Nick's",
+    "Danner"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "This was my first time buying a boot north of $450 and I wish I had made the leap a dozen pairs ago."
+   ],
+   "quotes": [
+    {
+     "text": "Longer post after waking up on a Sunday with no foot pain for the first time in years.",
+     "source_id": "post",
+     "kind": "works",
+     "nl_meaning": "Langere post nadat ik op zondag voor het eerst in jaren zonder voetpijn wakker werd."
+    },
+    {
+     "text": "Since I'm 300lbs and near 40 I've moved through a number of brands and all of them leave my feet screaming during the shift and the mornings after.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Omdat ik 136 kilo ben en bijna 40, heb ik allerlei merken geprobeerd en ze laten allemaal mijn voeten schreeuwen tijdens de dienst en de ochtenden erna."
+    },
+    {
+     "text": "Buy once cry once",
+     "source_id": "k60trkw",
+     "kind": "buying_trigger",
+     "nl_meaning": "Koop één keer goed, huil één keer."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'wakker worden zonder voetpijn na je dienst' is een sterke belofte (comfort, geen medische claim); zware mannen in staande beroepen geven veel uit als het werkt."
+  }
+ },
+ {
+  "post_id": "14a8a50",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand kan door ernstige zwelling en pijn niet meer op hiel en enkel staan en loopt op de tenen; iedereen raadt de spoedeisende hulp aan.",
+   "regions": [
+    "heel",
+    "ankle"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "It hurts a lot to put pressure on my heel/ankle I just tips to help the pain",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Het doet veel pijn om druk op mijn hiel/enkel te zetten, ik loop gewoon op mijn tenen."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Medisch spoedgeval; niet onze doelgroep."
+  }
+ },
+ {
+  "post_id": "17tqyfm",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Hardloper en laarzenliefhebber kreeg twee jaar fasciitis; zachte schoenen maakten het erger, podotherapeut zei 'stevige boogsteun'. Alden Indy-laarzen hielpen na drie maanden inlopen.",
+   "regions": [
+    "heel",
+    "arch"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": true,
+   "occupation": null,
+   "situations": [
+    "running",
+    "daily_walking"
+   ],
+   "duration": "2 jaar",
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_soft"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Zachte schoenen (Hoka, New Balance, Nike)",
+     "category": "shoes",
+     "brand_or_product": "Hoka, New Balance, Nike",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "'Soft squishy shoes just made it worse'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Birkenstocks",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Enige comfort tijdens de ergste periode",
+     "source_id": "post"
+    },
+    {
+     "solution": "Alden Indy met stevige boogsteun",
+     "category": "shoes",
+     "brand_or_product": "Alden",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Na drie maanden inlopen pijn bijna weg",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Alden",
+    "Birkenstock",
+    "Hoka",
+    "New Balance",
+    "Nike",
+    "Thursday Boots",
+    "Viberg"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "soft squishy shoes just made it worse. Eventually the podiatrist I saw said \"ditch the soft rubber shoes and get something with firm arch support.\"",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Zachte, sponzige schoenen maakten het alleen maar erger. Uiteindelijk zei de podotherapeut: 'laat die zachte rubberen schoenen staan en neem iets met stevige boogsteun.'"
+    },
+    {
+     "text": "The arch support felt just right – noticeable but not too intense.",
+     "source_id": "post",
+     "kind": "works",
+     "nl_meaning": "De boogsteun voelde precies goed: merkbaar maar niet te heftig."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'merkbaar maar niet te heftig' is precies de gewenste boogsteun; bevestigt opnieuw 'stevig, niet zacht'."
+  }
+ }
+]

@@ -1,0 +1,160 @@
+[
+ {
+  "post_id": "8vqao0",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Review van een John Doe Shoes-aanbieding.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "ojg63w",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "FAQ in r/goodyearwelt over merken met brede maten; waarschuwing dat te smalle schoenen metatarsaalpijn en bunions geven.",
+   "regions": [
+    "forefoot",
+    "toes"
+   ],
+   "conditions": [
+    "wide feet",
+    "metatarsalgia",
+    "bunions"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Laarzen in EE/EEE-breedtes (White's, Grant Stone, Red Wing)",
+     "category": "shoes",
+     "brand_or_product": "White's, Grant Stone, Red Wing",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Juiste breedte in plaats van een maat groter",
+     "source_id": "h51p9t9"
+    }
+   ],
+   "brands_mentioned": [
+    "White's",
+    "Nick's",
+    "Wesco",
+    "Grant Stone",
+    "Rancourt",
+    "Quoddy",
+    "Red Wing",
+    "Allen Edmonds"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "You're going to get metatarsal pain. Your little toe is going to want to fuse with the second last toe.",
+     "source_id": "h51p9t9",
+     "kind": "pain",
+     "nl_meaning": "Je gaat pijn in je middenvoet krijgen. Je kleine teen gaat willen vergroeien met de teen ernaast."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: brede voeten vragen om een zool die niet smaller is dan de schoen."
+  }
+ },
+ {
+  "post_id": "ez7zu7",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Iemand met brede voorvoet en smalle hiel ('duck feet') deelt welke leesten passen; gebruikt een binnenzool en tongpad om extra volume op te vullen.",
+   "regions": [
+    "forefoot",
+    "toes",
+    "heel"
+   ],
+   "conditions": [
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzool en tongpad om volume op te vullen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Laat een leest met brede neus passen",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Viberg",
+    "Alden",
+    "Birkenstock",
+    "Altra"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Sizing up for width makes the fit sloppy and loose, but [sizing for the right length and volume is murder on the toes]",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Een maat groter voor de breedte maakt de pasvorm slordig en los, maar de juiste lengte en volume is moordend voor de tenen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: zolen worden ook gebruikt om volume op te vullen in te ruime schoenen; dikte is een feature, niet alleen comfort."
+  }
+ }
+]
