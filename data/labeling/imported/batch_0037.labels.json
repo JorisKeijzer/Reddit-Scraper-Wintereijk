@@ -1,0 +1,163 @@
+[
+ {
+  "post_id": "8olrzk",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "New Yorker die veel loopt en staand werkt, vervangt de inlegzolen van oncomfortabel geworden schoenen voor $30 in plaats van $120 aan nieuwe schoenen uit te geven.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work",
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Nieuwe inlegzolen in versleten schoenen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Twee paar schoenen langer mee laten gaan",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "consider buying some nice $30 soles instead of paying $120 on a new pair of shoes"
+   ],
+   "quotes": [
+    {
+     "text": "When a pair of shoes become uncomfortable, see what kind of shape the sole is in and consider buying some nice $30 soles instead of paying $120 on a new pair of shoes.",
+     "source_id": "post",
+     "kind": "buying_trigger",
+     "nl_meaning": "Als schoenen oncomfortabel worden, kijk dan hoe de zool eraan toe is en overweeg mooie zolen van $30 in plaats van $120 voor nieuwe schoenen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'je schoen is niet op, je zool wel' is een sterke, zuinige koopreden (1.600+ upvotes)."
+  }
+ },
+ {
+  "post_id": "1mqifyk",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand die 10 uur per dag op beton loopt (15.000 stappen) laat versleten zolen na zes maanden zien en zoekt een goed paar.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Superfeet",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Ook een podotherapeut raadt ze aan; ze gaan ongeveer zes maanden mee",
+     "source_id": "n8rtp6z"
+    },
+    {
+     "solution": "Red Wing-inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Red Wing",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'They're very good'",
+     "source_id": "n8r1265"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "Red Wing"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Superfeet are only expected to last for six months, and same even for custom insoles. I'd say they did you good.",
+     "source_id": "n8r2fqf",
+     "kind": "objection",
+     "nl_meaning": "Superfeet gaan maar zo'n zes maanden mee, en maatwerkzolen ook. Ik zou zeggen dat ze hun werk gedaan hebben."
+    },
+    {
+     "text": "Podiatrist here. Second superfeet.",
+     "source_id": "n8rtp6z",
+     "kind": "works",
+     "nl_meaning": "Podotherapeut hier. Ik sluit me aan: Superfeet."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: zolen zijn een verbruiksartikel (ongeveer zes maanden); dat opent een abonnement- of vervangingsmodel."
+  }
+ },
+ {
+  "post_id": "unch1x",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Foto van schoenen die iemand al sinds zijn 13e draagt.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

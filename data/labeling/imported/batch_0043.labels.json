@@ -1,0 +1,124 @@
+[
+ {
+  "post_id": "1jlt4xc",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand zoekt de beste schoenen om de hele dag te lopen en staan; zorgmedewerkers delen wat zij dragen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "standing_work",
+    "healthcare_shift"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Halverwege de dag van schoenen wisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'the best way to alleviate any pain'",
+     "source_id": "mk64zt8"
+    },
+    {
+     "solution": "Brooks Adrenaline GTS",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Jaren gedragen bij diensten van 10 uur",
+     "source_id": "mk68t29"
+    },
+    {
+     "solution": "Maatwerkzolen",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "'make a big diffrrence', vaak vergoed",
+     "source_id": "mk7velx"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Brooks",
+    "Asics",
+    "New Balance",
+    "Skechers",
+    "On",
+    "Dansko",
+    "Vivobarefoot",
+    "Altra"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "switching shoes halfway through your day is the best way to alleviate any pain / soreness.",
+     "source_id": "mk64zt8",
+     "kind": "works",
+     "nl_meaning": "Halverwege de dag van schoenen wisselen is de beste manier om pijn te verlichten."
+    },
+    {
+     "text": "Cushion and durability are almost always mutually exclusive.",
+     "source_id": "mk6kapf",
+     "kind": "objection",
+     "nl_meaning": "Demping en duurzaamheid sluiten elkaar bijna altijd uit."
+    },
+    {
+     "text": "Most nurses I know wear either on cloud or hoka.",
+     "source_id": "mk64ohw",
+     "kind": "buying_trigger",
+     "nl_meaning": "De meeste verpleegkundigen die ik ken dragen On Cloud of Hoka."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'demping en duurzaamheid sluiten elkaar uit'; een zool kan beloven dat je het comfort vervangt in plaats van de schoen."
+  }
+ },
+ {
+  "post_id": "582t6n",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Student slaapt in een schoollounge en wil warme voeten in schoenen; reacties gaan vooral over dakloosheid.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ }
+]

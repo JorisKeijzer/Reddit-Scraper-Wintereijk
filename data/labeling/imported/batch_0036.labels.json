@@ -1,0 +1,190 @@
+[
+ {
+  "post_id": "n1vtv3",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand die 10.000-20.000 stappen per dag op het werk loopt, zoekt comfortabele schoenen; memory foam schoenen waren fijn maar zweetten erg. Vraagt of inlegzolen zin hebben.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat",
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Superfeet-inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'they lasted longer than the soles of the shoes'",
+     "source_id": "gwg8nfp"
+    },
+    {
+     "solution": "Wandelschoenen plus Superfeet",
+     "category": "shoes",
+     "brand_or_product": "Keen, Oboz, Merrell",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies; anderen waarschuwen dat stijve wandelschoenen niet comfortabel zijn",
+     "source_id": "gwfn6te"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "New Balance",
+    "Adidas",
+    "Sperry",
+    "Hoka",
+    "Ecco",
+    "Birkenstock",
+    "Keen",
+    "Oboz"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I had a pair of sperry memory foam, and they were amazing but they made my feet sweat horribly",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik had een paar Sperry's met memory foam, geweldig, maar mijn voeten zweetten er vreselijk in."
+    },
+    {
+     "text": "I'm also curious about insoles, do you use them? Are they meant to make your shoes last longer?",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Ik ben ook benieuwd naar inlegzolen, gebruiken jullie die? Zijn ze bedoeld om je schoenen langer mee te laten gaan?"
+    },
+    {
+     "text": "I swear by superfeet insoles. I bought a new pair yesterday. they lasted longer than the soles of the shoes.",
+     "source_id": "gwg8nfp",
+     "kind": "works",
+     "nl_meaning": "Ik zweer bij Superfeet-zolen. Gisteren een nieuw paar gekocht. Ze gingen langer mee dan de zolen van de schoenen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: zweet bij comfortabel schuim is een bekend nadeel; een zool die comfort geeft en frisser blijft spreekt aan."
+  }
+ },
+ {
+  "post_id": "jsa24q",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Bouillon trekken van kippenpootjes.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "qmq6eg",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand stookt weinig en heeft aan het bureau ijskoude voeten, zelfs met wollen sokken.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [
+    "cold feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "office"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Voeten isoleren van de vloer met een opgevouwen deken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Meest gewaardeerde tip",
+     "source_id": "hjbbwo7"
+    },
+    {
+     "solution": "Wollen pantoffels met fleecevoering (LL Bean)",
+     "category": "shoes",
+     "brand_or_product": "LL Bean",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'worth every penny'",
+     "source_id": "hjbag7j"
+    }
+   ],
+   "brands_mentioned": [
+    "LL Bean"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Insulate your feet from the floor.",
+     "source_id": "hjbbwo7",
+     "kind": "works",
+     "nl_meaning": "Isoleer je voeten van de vloer."
+    },
+    {
+     "text": "Wool socks don't seem to make a dent at all, as if my feet can't even produce their own heat!",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Wollen sokken lijken helemaal niets te doen, alsof mijn voeten zelf geen warmte kunnen maken!"
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'isoleer je voeten van de koude vloer' is een herkenbaar winterinzicht waar een zool (of thuiszool) op kan inspelen."
+  }
+ }
+]

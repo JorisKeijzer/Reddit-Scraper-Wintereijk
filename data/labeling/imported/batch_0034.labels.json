@@ -1,0 +1,257 @@
+[
+ {
+  "post_id": "1tuora8",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "product_review",
+   "problem_summary_nl": "Arbeider die de hele dag koper tilt, beoordeelt Jim Green-veiligheidslaarzen: comfortabel en breed, maar zonder binnenzool, dus hij gebruikt zelf Sole-zolen voor boogsteun.",
+   "regions": [
+    "arch",
+    "toes"
+   ],
+   "conditions": [
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots",
+    "warehouse_factory"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight",
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Sole Wide-inlegzolen in veiligheidslaarzen zonder binnenzool",
+     "category": "otc_insole",
+     "brand_or_product": "Sole",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Een beetje boogsteun en past in de brede neus",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Jim Green",
+    "Red Wing",
+    "Sole"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "at a very reasonable price $240ish"
+   ],
+   "quotes": [
+    {
+     "text": "They do not have an insole which I need support (lifting copper all day) so I use Sole Wide insoles giving me a little arch support and they fit the wider toe box perfectly.",
+     "source_id": "post",
+     "kind": "works",
+     "nl_meaning": "Ze hebben geen binnenzool, terwijl ik steun nodig heb (ik til de hele dag koper), dus gebruik ik Sole Wide-zolen; die geven me wat boogsteun en passen perfect in de bredere neus."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: zware werkers kopen zolen apart als hun werkschoen geen goede binnenzool heeft; breedte moet passen. ('Copper' is hier het materiaal dat hij tilt, geen product.)"
+  }
+ },
+ {
+  "post_id": "1xes6ai",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Man vraagt namens zijn vrouw met diabetes naar zuinige manieren om koude voeten warm te houden zonder elektrische verwarming; wollen sokken zijn soms niet genoeg.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [
+    "diabetes",
+    "cold feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "warme voeten in de winter, veilig bij diabetes, zonder veel geld"
+   ],
+   "solutions": [
+    {
+     "solution": "Wollen sokken plus pantoffels",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Sokken en pantoffels samen maken 'a huge difference'",
+     "source_id": "19rm5pwk969s5"
+    },
+    {
+     "solution": "Inlegzolen van alpacawol",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Extra laag die voeten warm houdt",
+     "source_id": "19rmjyrzm6nsx"
+    },
+    {
+     "solution": "Hittereflecterende inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Gezien maar nog niet geprobeerd",
+     "source_id": "19rm4v2nfe8zo"
+    },
+    {
+     "solution": "Speciale diabetessokken (los en dik)",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies; niet knellen voor de doorbloeding",
+     "source_id": "19rm5559h08hx"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "She has diabetes and is well managed in that regard, but has incredible cold feet.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ze heeft diabetes, goed onder controle, maar ongelooflijk koude voeten."
+    },
+    {
+     "text": "I have alpaca insoles in my shoes that add a layer & keep my feet toasty.",
+     "source_id": "19rmjyrzm6nsx",
+     "kind": "works",
+     "nl_meaning": "Ik heb alpaca-inlegzolen in mijn schoenen; die geven een extra laag en houden mijn voeten lekker warm."
+    },
+    {
+     "text": "I have seen heat reflective insoles but I haven't tried them yet",
+     "source_id": "19rm4v2nfe8zo",
+     "kind": "desire",
+     "nl_meaning": "Ik heb hittereflecterende inlegzolen gezien maar nog niet geprobeerd."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'koude voeten' is een aparte winterbehoefte waarin zolen (wol, isolatie) een rol spelen. Diabetes is wel een uitsluitingsgroep voor claims."
+  }
+ },
+ {
+  "post_id": "2yc9mk",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vraag over een hoge energierekening; 'foot' staat voor vierkante voet.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1i1azlm",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Thuiswerker heeft ondanks merino sokken en pantoffels altijd koude voeten en handen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [
+    "cold feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "office"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "warme voeten tijdens thuiswerken"
+   ],
+   "solutions": [
+    {
+     "solution": "Elektrische verwarmde sokken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Heated socks are the answer'",
+     "source_id": "m74l4cg"
+    },
+    {
+     "solution": "Deken of elektrische deken over de benen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Meest genoemde oplossing",
+     "source_id": "m74l0wo"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I wear slippers with Merino wool socks (from a hike I did a few years back in the mountains) but still my feet are cold",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik draag pantoffels met merino sokken, maar toch zijn mijn voeten koud."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: koude voeten thuis lossen mensen op met warmte, niet met zolen."
+  }
+ }
+]

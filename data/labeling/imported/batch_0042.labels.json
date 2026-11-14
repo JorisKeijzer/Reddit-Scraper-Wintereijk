@@ -1,0 +1,166 @@
+[
+ {
+  "post_id": "oq2t8y",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Thuiswerker in India die de hele dag staat, zoekt pantoffels met goede demping en boogsteun tegen pijn in hiel en voorvoet; heeft lage boog, pronatie en brede voorvoet.",
+   "regions": [
+    "heel",
+    "forefoot",
+    "arch"
+   ],
+   "conditions": [
+    "flat feet",
+    "overpronation",
+    "wide feet",
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "office",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Birkenstock (originele kurk)",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'total game changers'",
+     "source_id": "h69bfd3"
+    },
+    {
+     "solution": "Oofos",
+     "category": "shoes",
+     "brand_or_product": "Oofos",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Helpt bij fasciitis en platvoeten, ook in het ziekenhuis",
+     "source_id": "h69asym"
+    },
+    {
+     "solution": "Haflinger",
+     "category": "shoes",
+     "brand_or_product": "Haflinger",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'a revolution for my feet'",
+     "source_id": "h69s95m"
+    },
+    {
+     "solution": "Crocs met voorgeschreven orthesen erin",
+     "category": "custom_orthotic",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Goede boogsteun",
+     "source_id": "h691bex"
+    }
+   ],
+   "brands_mentioned": [
+    "Birkenstock",
+    "Oofos",
+    "Haflinger",
+    "Crocs",
+    "Vionic",
+    "Skechers"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Great padding, thick sole to prevent pain in hell and balls of feet",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Goede demping, dikke zool om pijn in de hiel en voorvoet te voorkomen."
+    },
+    {
+     "text": "Haflingers are a revolution for my feet.",
+     "source_id": "h69s95m",
+     "kind": "works",
+     "nl_meaning": "Haflingers zijn een revolutie voor mijn voeten."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: thuiswerkers met voetklachten zoeken steun in huis; bevestigt 'harde vloeren thuis' als koopmoment."
+  }
+ },
+ {
+  "post_id": "y1b4tc",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Kaptafel opgeknapt met nieuwe knoppen en pootjes.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1h2zoah",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Freelancer zoekt kerstcadeau-ideeën om geld te besparen; 'back on my feet' als uitdrukking.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ }
+]

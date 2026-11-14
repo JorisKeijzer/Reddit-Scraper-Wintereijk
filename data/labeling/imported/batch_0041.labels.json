@@ -1,0 +1,162 @@
+[
+  {
+    "post_id": "c19c1u",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Oproep in r/Frugal om niet te bezuinigen op schoenen als je veel staat; reacties over sokken, nette damesschoenen en pijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "standing_work",
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Of course, I had to get sore feet, sore legs, sore hips, sore everything, before it sunk in.",
+          "source_id": "erbpzs0",
+          "kind": "impact_on_life",
+          "nl_meaning": "Natuurlijk moest ik eerst pijnlijke voeten, benen, heupen, alles krijgen voordat het doordrong."
+        },
+        {
+          "text": "Having so much trouble finding women's dress shoes that are comfortable. I would throw everything I own out if I could find a good pair.",
+          "source_id": "erci345",
+          "kind": "desire",
+          "nl_meaning": "Ik heb zoveel moeite om comfortabele nette damesschoenen te vinden. Ik zou alles weggooien als ik een goed paar kon vinden."
+        },
+        {
+          "text": "Don't cheap out on socks either. Every time I've bought cheap socks, I've had foot pain even if I'm wearing ergonomic shoes.",
+          "source_id": "erc0iqc",
+          "kind": "pain",
+          "nl_meaning": "Bezuinig ook niet op sokken. Elke keer dat ik goedkope sokken kocht, kreeg ik voetpijn, zelfs met ergonomische schoenen."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: nette damesschoenen zijn een sterke pijnplek ('I would throw everything I own out'); een dunne zool voor nette schoenen past daar."
+    }
+  },
+  {
+    "post_id": "9a3y0x",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Medewerker van een podotherapiepraktijk legt uit waar je op let bij goedkope schoenen (voeten overtrekken, maat laten meten); reacties delen ervaringen met dure orthesen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Maatwerkzolen en dure schoenen via de podotherapeut",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'close to $1,000. No help at all.'",
+          "source_id": "e4szwz0"
+        }
+      ],
+      "brands_mentioned": [
+        "Ecco",
+        "New Balance",
+        "Dansko",
+        "Red Wing"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The podiatrist gets me custom inserts, fancy shoes, etc (all covered by insurance, but it was close to $1,000). No help at all.",
+          "source_id": "e4szwz0",
+          "kind": "fails",
+          "nl_meaning": "De podotherapeut gaf me maatwerkzolen, dure schoenen enz. (alles vergoed, maar bijna $1.000). Hielp helemaal niets."
+        },
+        {
+          "text": "conventional, good quality, \"supportive\" shoes make my feet hurt like hell and being barefoot instantly relieves that pain.",
+          "source_id": "e4t11nf",
+          "kind": "fails",
+          "nl_meaning": "Gewone, goede 'ondersteunende' schoenen doen mijn voeten enorm pijn en blootsvoets lopen haalt die pijn meteen weg."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: dure maatwerkzolen die niets deden zijn een terugkerend verhaal; een betaalbare zool met proefperiode verlaagt het risico voor de koper."
+    }
+  },
+  {
+    "post_id": "1oxf7vt",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "other",
+      "problem_summary_nl": "Magazijn- en bezorgmedewerker krijgt jaarlijks $110 van de werkgever voor schoenen, zolen en sokken en slaat Darn Tough-sokken in.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "warehouse/delivery",
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [
+        "Darn Tough",
+        "Carhartt"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "Every year we get a subsidy for 110 bucks off shoes and accessories, insoles and socks."
+      ],
+      "quotes": [
+        {
+          "text": "Every year we get a subsidy for 110 bucks off shoes and accessories, insoles and socks.",
+          "source_id": "post",
+          "kind": "buying_trigger",
+          "nl_meaning": "Elk jaar krijgen we $110 subsidie voor schoenen en accessoires, inlegzolen en sokken."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: werkgevers in logistiek vergoeden schoenen, zolen en sokken; B2B of een 'declarabel' aanbod kan een kanaal zijn."
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+ {
+  "post_id": "hib5u7",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vraag over een goedkoop telefoonabonnement in Alaska.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "58whh3",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Kantoormedewerker koos na de 'Boots theory' (Pratchett) voor dure schoenen; reacties over goedkope schoenen die steeds kapotgaan.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "office"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Those shoes will pay off dividends to you for years in comfort, style, and orthopedic health.",
+     "source_id": "d949shj",
+     "kind": "buying_trigger",
+     "nl_meaning": "Die schoenen betalen zich jarenlang terug in comfort, stijl en gezondheid van je voeten."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: de 'Boots theory' (goedkoop is duurkoop) is een bekend frame om een duurdere zool te verantwoorden."
+  }
+ },
+ {
+  "post_id": "1xlgr7l",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Man koopt elk jaar nieuwe pantoffels; schapenvacht plat, synthetische voering laat zijn voeten zweten.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat",
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "LL Bean Wicked Good",
+     "category": "shoes",
+     "brand_or_product": "LL Bean",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Gemiddeld tien jaar per paar",
+     "source_id": "19s016ve71ryd"
+    },
+    {
+     "solution": "Glerups",
+     "category": "shoes",
+     "brand_or_product": "Glerups",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Warm maar nooit zweterig",
+     "source_id": "19s03gprvdneo"
+    },
+    {
+     "solution": "Vervangende schapenvachtzolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Geeft pantoffels nieuw leven",
+     "source_id": "19s0aaaedp0at"
+    }
+   ],
+   "brands_mentioned": [
+    "UGG",
+    "Glerups",
+    "LL Bean",
+    "Since 74",
+    "Olukai",
+    "Birkenstock"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "I'm tired of spending $25-$50 every year for a pair of basic house slippers."
+   ],
+   "quotes": [
+    {
+     "text": "Most shearling insoles are nice to first step into but the synthetic materials make my feet sweat without fail.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "De meeste schapenvachtzolen voelen fijn als je erin stapt, maar de synthetische materialen laten mijn voeten altijd zweten."
+    },
+    {
+     "text": "They keep my feet warm but never sweaty",
+     "source_id": "19s03gprvdneo",
+     "kind": "works",
+     "nl_meaning": "Ze houden mijn voeten warm maar nooit zweterig."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: 'warm maar niet zweterig' is de wens bij thuisschoeisel; een frisse thuiszool past bij het eerdere inzicht over harde vloeren thuis."
+  }
+ }
+]

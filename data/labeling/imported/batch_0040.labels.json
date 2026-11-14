@@ -1,0 +1,162 @@
+[
+ {
+  "post_id": "100g0so",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Man koopt jaarlijks nieuwe pantoffels omdat de binnenzool platloopt en niet te vervangen is; voeten worden warm en zweten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Geisswein merino pantoffels",
+     "category": "shoes",
+     "brand_or_product": "Geisswein",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'somehow warm and cool at the same time'",
+     "source_id": "j2hkla2"
+    },
+    {
+     "solution": "LL Bean Wicked Good Moccasins",
+     "category": "shoes",
+     "brand_or_product": "LL Bean",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'a godsend'",
+     "source_id": "j2hxbsw"
+    }
+   ],
+   "brands_mentioned": [
+    "Geisswein",
+    "Glerups",
+    "LL Bean",
+    "Birkenstock",
+    "UGG",
+    "Olukai"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I’ve been buying new slippers just about once every year, mostly due to the fact that the interior soles wear down to the point were any cushion is nonexistent, and you can’t really insert new soles due to this type of slipper.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik koop zo ongeveer elk jaar nieuwe pantoffels, vooral omdat de binnenzolen zo afslijten dat er geen demping meer over is, en bij dit type pantoffel kun je geen nieuwe zolen erin doen."
+    },
+    {
+     "text": "it makes sense that the brand should have replacement insoles for sale",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Het is logisch dat het merk vervangende binnenzolen zou verkopen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: vervangbare binnenzolen voor pantoffels zijn een onvervulde wens; een dunne thuiszool kan dat gat vullen."
+  }
+ },
+ {
+  "post_id": "8pliaw",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Gratis kruk opgeknapt met spuitverf.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "zly2y8",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "experience_report",
+   "problem_summary_nl": "Redback-laarzen hielden vijf jaar dagelijks dragen vol; de inlegzolen moesten wel steeds vervangen worden. Een autotechnicus verving ze door orthopedische zolen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Orthopedische inlegzolen in Redback-laarzen",
+     "category": "otc_insole",
+     "brand_or_product": "Redback",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Laarzen hebben zich ruimschoots terugbetaald",
+     "source_id": "j07wby2"
+    }
+   ],
+   "brands_mentioned": [
+    "Redback",
+    "Blundstone"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "as an automotive tech i was going through tennis shoes every couple months so i bought them and they’ve way more than paid for themselves!",
+     "source_id": "j07wby2",
+     "kind": "buying_trigger",
+     "nl_meaning": "Als autotechnicus versleet ik om de paar maanden sportschoenen, dus ik kocht deze en ze hebben zichzelf ruimschoots terugverdiend!"
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: de laars gaat jaren mee, de zool niet; dat maakt de zool het terugkerende aankoopmoment."
+  }
+ }
+]

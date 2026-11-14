@@ -1,0 +1,204 @@
+[
+ {
+  "post_id": "1214li3",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vrouw met kleine voeten koopt kinderschoenen om geld te besparen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "1llr90i",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Zuinige vrouw zoekt een goedkope manier om droge, harde huid op de hielen te verwijderen zonder pedicure.",
+   "regions": [
+    "skin",
+    "heel"
+   ],
+   "conditions": [
+    "calluses",
+    "dry skin"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Baby Foot-peeling",
+     "category": "lifestyle_other",
+     "brand_or_product": "Baby Foot",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Huid vervelt na een week; 'it works'",
+     "source_id": "n01p079"
+    },
+    {
+     "solution": "Ureumcrème (40%)",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Speciaal voor eelt; onder $20",
+     "source_id": "n01p36q"
+    },
+    {
+     "solution": "Puimsteen na het weken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Het ontbrekende deel van het voetbad",
+     "source_id": "n01no3w"
+    }
+   ],
+   "brands_mentioned": [
+    "Baby Foot",
+    "Kerasal",
+    "Eucerin"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "But it works, I have elephant like feet.",
+     "source_id": "n01p079",
+     "kind": "works",
+     "nl_meaning": "Maar het werkt, ik heb olifantenvoeten."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: voetverzorging (huid) is een aparte markt; mogelijke cross-sell maar geen kern."
+  }
+ },
+ {
+  "post_id": "1ajptgq",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met handwerk op beton koopt elke 3 maanden goedkope schoenen omdat anders zijn knieën pijn doen, en vraagt of Hoka's van $150 het waard zijn.",
+   "regions": [
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "standing_work",
+    "warehouse_factory"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [
+    "schoenen die langer meegaan zonder kniepijn"
+   ],
+   "solutions": [
+    {
+     "solution": "Goede inlegzolen in plaats van nieuwe schoenen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'improve comfort by 20-30% easily' voor minder dan $20",
+     "source_id": "kp2qpdd"
+    },
+    {
+     "solution": "Werklaarzen met orthopedische zolen van $25 die je regelmatig vervangt",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "kp2noul"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "mixed",
+     "first_hand": true,
+     "reason": "Sommigen zweren erbij; anderen vonden de boogsteun op een rare plek",
+     "source_id": "kp3o4d1"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Brooks",
+    "Nike",
+    "Vibram"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "I buy new shoes on clearance for 20 to 30 usd or 80 to 120 USD a year. But Hoka shoes cost about 150 on average"
+   ],
+   "quotes": [
+    {
+     "text": "I work a manual job on concrete. So that means I have to buy new shoes every 3 ish months otherwise my knees hurt.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik doe handwerk op beton. Daardoor moet ik ongeveer elke 3 maanden nieuwe schoenen kopen, anders doen mijn knieën pijn."
+    },
+    {
+     "text": "Good shoe pads improve comfort by 20-30% easily (don't quote me on the numbers) for less than $20",
+     "source_id": "kp2qpdd",
+     "kind": "works",
+     "nl_meaning": "Goede schoenzolen verbeteren het comfort makkelijk met 20-30% (pin me niet vast op de getallen) voor minder dan $20."
+    },
+    {
+     "text": "Good work boots with orthotic insoles ($25) that you replace regularly are a better bet",
+     "source_id": "kp2noul",
+     "kind": "buying_trigger",
+     "nl_meaning": "Goede werklaarzen met orthopedische zolen ($25) die je regelmatig vervangt, zijn een betere keuze."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: voor zuinige kopers is een zool het goedkope alternatief voor dure schoenen ('nieuwe zolen in plaats van nieuwe schoenen'); prijspunt rond $20-25."
+  }
+ }
+]

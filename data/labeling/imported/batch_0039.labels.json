@@ -1,0 +1,187 @@
+[
+ {
+  "post_id": "8au70o",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Tip: jeugdmaten zijn goedkoper voor dezelfde schoen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "18olz18",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Bouwvakker met extreem brede voeten, vooral rechts, vindt geen werklaars zonder ongemak; grote teen raakt de neus, nagel doet pijn.",
+   "regions": [
+    "toes",
+    "forefoot"
+   ],
+   "conditions": [
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots",
+    "construction"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Red Wing King Toe",
+     "category": "shoes",
+     "brand_or_product": "Red Wing",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "De enige veiligheidsschoenen die de reageerder draagt",
+     "source_id": "kei124e"
+    },
+    {
+     "solution": "Maatwerk (Nick's, White's)",
+     "category": "shoes",
+     "brand_or_product": "Nick's, White's",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Enige pasvorm voor EEEEE",
+     "source_id": "keizzav"
+    },
+    {
+     "solution": "Keen-laarzen in brede maat",
+     "category": "shoes",
+     "brand_or_product": "Keen",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Tenen niet platgedrukt",
+     "source_id": "keig4pe"
+    }
+   ],
+   "brands_mentioned": [
+    "Red Wing",
+    "Keen",
+    "Merrell",
+    "Irish Setter",
+    "Nick's",
+    "White's"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "The big toe always touching the wall, and nail is always in pain.",
+     "source_id": "kehy13k",
+     "kind": "pain",
+     "nl_meaning": "De grote teen raakt altijd de wand, en de nagel doet altijd pijn."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: brede voeten; een zool mag geen ruimte kosten in de neus."
+  }
+ },
+ {
+  "post_id": "1k2vtgb",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand zoekt comfortabele sandalen met goede boogsteun voor de zomer.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Birkenstock",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'make my feet feel better than any other sandals'",
+     "source_id": "mnx6ako"
+    },
+    {
+     "solution": "Vionic-sandalen",
+     "category": "shoes",
+     "brand_or_product": "Vionic",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Fasciitis verdween na overstap van Clarks",
+     "source_id": "mnx7oio"
+    }
+   ],
+   "brands_mentioned": [
+    "Birkenstock",
+    "Chaco",
+    "Olukai",
+    "Vionic",
+    "Oofos",
+    "Hoka",
+    "Teva"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Switching from Clarks to Vionic sandals got rid of my planter fasciatis",
+     "source_id": "mnx7oio",
+     "kind": "works",
+     "nl_meaning": "Overstappen van Clarks naar Vionic-sandalen heeft mijn fasciitis weggehaald."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: in de zomer verschuift de vraag naar sandalen met steun; een zool helpt daar niet. Seizoensdip om rekening mee te houden."
+  }
+ }
+]
