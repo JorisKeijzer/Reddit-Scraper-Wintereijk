@@ -1,0 +1,170 @@
+[
+ {
+  "post_id": "tr6rmu",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Lange kok laat zien hoe hij aan een lage werkbank staat; grappen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match (lengte in feet)."
+  }
+ },
+ {
+  "post_id": "18qm2ms",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Klacht over een plank voor een schakelkast.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "bzozza",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Foto van kokschoenen met vlammenprint; reacties over smaak.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Nauwelijks inhoud."
+  }
+ },
+ {
+  "post_id": "vvd7hh",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Oudere farmaciestudent vraagt welke werkschoenen met goede steun werken voor lange dagen staan.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "standing_work",
+    "healthcare_shift"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Dr. Scholl's of andere inlegzolen plus compressiesokken",
+     "category": "otc_insole",
+     "brand_or_product": "Dr. Scholl's",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "12-uursdiensten zonder pijn in knieën, rug en benen",
+     "source_id": "ifj5sb5"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'the best work shoes I've ever had'",
+     "source_id": "ifj92in"
+    }
+   ],
+   "brands_mentioned": [
+    "Adidas Ultraboost",
+    "Hoka",
+    "Dr. Scholl's",
+    "Brooks",
+    "Cole Haan",
+    "Crocs",
+    "Vivobarefoot",
+    "Mediven"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "on top of shoes, i highly highly recommend getting  dr scholls or some kind of insert AND compression socks. i work 12 hour shifts and my knees, back, legs don't hurt.",
+     "source_id": "ifj5sb5",
+     "kind": "works",
+     "nl_meaning": "Naast schoenen raad ik echt aan om Dr. Scholl's of een andere zool EN compressiesokken te nemen. Ik werk diensten van 12 uur en mijn knieën, rug en benen doen geen pijn."
+    },
+    {
+     "text": "Too many years of 12 hour shifts and an addiction to ridiculous heels in my",
+     "source_id": "ifjcsrn",
+     "kind": "pain",
+     "nl_meaning": "Te veel jaren met diensten van 12 uur en een verslaving aan belachelijke hakken in mijn [jeugd]."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'zool + compressiesok' is een bekende combinatie bij zorgpersoneel; een bundel met compressiesokken kan logisch zijn."
+  }
+ }
+]

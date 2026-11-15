@@ -1,0 +1,197 @@
+[
+ {
+  "post_id": "es0ngs",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Waarschuwing om je voeten niet op het dashboard te leggen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "542g08",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Nieuwe magazijnmedewerker loopt de hele dag; na twee weken 'my feet have been killing me' en wil van zijn eerste salaris goede schoenen kopen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "betaalbare schoenen die pijn wegnemen"
+   ],
+   "solutions": [
+    {
+     "solution": "Shoes for Crews",
+     "category": "shoes",
+     "brand_or_product": "Shoes for Crews",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Enige schoenen die goed voelden en langer dan een maand steun gaven",
+     "source_id": "d7ycayt"
+    },
+    {
+     "solution": "New Balance-sneakers",
+     "category": "shoes",
+     "brand_or_product": "New Balance",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'ended my aching feet'",
+     "source_id": "d7yceft"
+    }
+   ],
+   "brands_mentioned": [
+    "Shoes for Crews",
+    "New Balance",
+    "Merrell",
+    "Brooks"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "I'm only getting ~400$ for a week of work.",
+    "Good boots are gonna avg about 120-150"
+   ],
+   "quotes": [
+    {
+     "text": "Been working there for two weeks and my feet have been killing me.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik werk er twee weken en mijn voeten vermoorden me."
+    },
+    {
+     "text": "I wouldn't blink before spending 200 if the boots made my feet smile.",
+     "source_id": "d7ybmaa",
+     "kind": "buying_trigger",
+     "nl_meaning": "Ik zou zonder knipperen 200 uitgeven als de laarzen mijn voeten laten lachen."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: het eerste salaris van een nieuwe staande baan is een duidelijk koopmoment ('first thing I'm doing')."
+  }
+ },
+ {
+  "post_id": "1cidp1r",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met fasciitis draagt Crocs voor demping in huis en tuin en zoekt iets goedkopers onder $50.",
+   "regions": [
+    "heel"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Crocs",
+     "category": "shoes",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Demping voor de hiel in huis",
+     "source_id": "post"
+    },
+    {
+     "solution": "Oofos",
+     "category": "shoes",
+     "brand_or_product": "Oofos",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Aangeraden door podotherapeut",
+     "source_id": "l29ay3h"
+    },
+    {
+     "solution": "Namaak-Crocs",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Minder steun dan echte",
+     "source_id": "l28iate"
+    }
+   ],
+   "brands_mentioned": [
+    "Crocs",
+    "Oofos",
+    "Okabashi",
+    "TJ Maxx",
+    "Walmart"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "During the summer I would love to go around barefooted but it is too hard on my feet.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "In de zomer zou ik graag op blote voeten lopen, maar dat is te zwaar voor mijn voeten."
+    },
+    {
+     "text": "Having tried fake crocs and real crocs, there really is a difference in the foot support.",
+     "source_id": "l28iate",
+     "kind": "objection",
+     "nl_meaning": "Ik heb namaak- en echte Crocs geprobeerd, en er is echt verschil in steun."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: mensen met hielpijn willen in huis niet blootsvoets lopen; thuisschoeisel met demping is een eigen markt."
+  }
+ }
+]

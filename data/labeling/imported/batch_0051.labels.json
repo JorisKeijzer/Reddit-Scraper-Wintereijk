@@ -1,0 +1,230 @@
+[
+ {
+  "post_id": "1dxly9k",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Arts-assistenten delen schoenen voor lange visites en dagen in het ziekenhuis.",
+   "regions": [],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "medical resident",
+   "situations": [
+    "healthcare_shift",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Dikke zolen helpen bij fasciitis",
+     "source_id": "lc2h0ht"
+    },
+    {
+     "solution": "Barefoot-schoenen",
+     "category": "barefoot_minimal",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Jaren geen fasciitis",
+     "source_id": "lc3i2p3"
+    },
+    {
+     "solution": "Birkenstock Boston",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Hele dag staan in de OK",
+     "source_id": "lc384t2"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Crocs",
+    "Nike",
+    "Adidas Ultraboost",
+    "Rothys",
+    "Ecco",
+    "Birkenstock",
+    "On"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Hokas :) the thicc soles help my plantar fasciitis a lot.",
+     "source_id": "lc2h0ht",
+     "kind": "works",
+     "nl_meaning": "Hoka's :) de dikke zolen helpen veel bij mijn fasciitis."
+    },
+    {
+     "text": "They truly are, but me limping around the hospital is even more unsightly 😞",
+     "source_id": "lc2kkp6",
+     "kind": "impact_on_life",
+     "nl_meaning": "Dat zijn ze echt, maar mij door het ziekenhuis zien strompelen is nog lelijker."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: zorgpersoneel kiest functie boven uiterlijk ('strompelen is nog lelijker'); in nette specialismen wil men iets dat in nette schoenen past (Ecco)."
+  }
+ },
+ {
+  "post_id": "a3jaad",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Burger King-actie binnen 600 feet van McDonald's.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "17kgudb",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Nederlander die soms reist, krijgt na 3-4 uur lopen pijnlijke voetzolen in schoenen van 20 tot 150 euro.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "travel",
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Betere inlegzolen erbij",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'that helped a lot'",
+     "source_id": "k77wfd2"
+    },
+    {
+     "solution": "Brooks na meting in een hardloopwinkel",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Deden eerst altijd pijn",
+     "source_id": "k78440o"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "On",
+    "Brooks",
+    "Superfeet",
+    "New Balance"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "whenever I do I am reminded of how painful my feet and soles get after walking for a while.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Elke keer word ik eraan herinnerd hoe pijnlijk mijn voeten en zolen worden na een tijdje lopen."
+    },
+    {
+     "text": "I also bought a better pair of inserts and that helped a lot.",
+     "source_id": "k77wfd2",
+     "kind": "works",
+     "nl_meaning": "Ik kocht ook betere inlegzolen en dat hielp veel."
+    },
+    {
+     "text": "Podiatrists are often quacks for their industry.",
+     "source_id": "k78rqi5",
+     "kind": "objection",
+     "nl_meaning": "Podotherapeuten zijn vaak kwakzalvers voor hun branche."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: Nederlanders op stedentrip zijn een seizoensdoelgroep ('voeten kapot na een dag lopen'); ook regenbestendigheid wordt gevraagd."
+  }
+ },
+ {
+  "post_id": "s2mm8i",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Ambulancepersoneel deelt waar ze van walgen (voeten, ogen).",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ }
+]

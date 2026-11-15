@@ -1,0 +1,192 @@
+[
+ {
+  "post_id": "xj4eyu",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Apotheker van 9 jaar komt na een lange dienst thuis met brandende, kapotte voeten.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [
+    "plantar fasciitis",
+    "achilles tendinitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "pharmacist",
+   "situations": [
+    "standing_work",
+    "retail"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Voltaren-gel",
+     "category": "medication_injection",
+     "brand_or_product": "Voltaren",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'I wake up like new'",
+     "source_id": "ip6k9e1"
+    },
+    {
+     "solution": "Compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Night & day difference' na 12-uursdienst",
+     "source_id": "ip6y6hg"
+    },
+    {
+     "solution": "Goede schoenen met maatwerkzolen",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Kan nu 12 uur pijnvrij staan",
+     "source_id": "ip717zc"
+    }
+   ],
+   "brands_mentioned": [
+    "Voltaren",
+    "Asics",
+    "Brooks",
+    "Dansko",
+    "Clarks",
+    "Skechers",
+    "Crocs",
+    "On",
+    "Hoka"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "when I come home from a long shift my body is a wreck, and especially my feet are killing me 😱",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Als ik thuiskom van een lange dienst is mijn lichaam een wrak, en vooral mijn voeten doen ontzettend pijn."
+    },
+    {
+     "text": "We are giving away our knees, feet, and health to these organizations",
+     "source_id": "ip7i4sw",
+     "kind": "impact_on_life",
+     "nl_meaning": "We geven onze knieën, voeten en gezondheid weg aan deze organisaties."
+    },
+    {
+     "text": "I can stand 12 hours now without pain. It’s like I got new feet 😂",
+     "source_id": "ip717zc",
+     "kind": "works",
+     "nl_meaning": "Ik kan nu 12 uur staan zonder pijn. Het is alsof ik nieuwe voeten heb gekregen."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'brandende voeten aan het eind van je dienst' en frustratie over werkgevers zijn emotionele hooks voor winkel- en apotheekmedewerkers ('we give away our feet')."
+  }
+ },
+ {
+  "post_id": "rp05ja",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Apotheekmedewerker houdt van memory foam, maar het schuim in Skechers is na een paar weken weg; zoekt sneakers en tips voor lang staan.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "standing_work",
+    "retail"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Leren nette schoenen met Superfeet",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Geen pijn na 5 diensten van 11 uur",
+     "source_id": "hq1tm28"
+    },
+    {
+     "solution": "Adidas Ultraboost met compressiesokken",
+     "category": "shoes",
+     "brand_or_product": "Adidas, Sockwell",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'You’ll never change'",
+     "source_id": "hq1r9dg"
+    },
+    {
+     "solution": "Memory foam-zolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Voelt goed bij opstaan, maar geeft te weinig steun en breekt snel af",
+     "source_id": "hq1u83b"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers",
+    "Brooks",
+    "Adidas Ultraboost",
+    "Hoka",
+    "Asics",
+    "Dansko",
+    "Superfeet",
+    "Sockwell",
+    "New Balance"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I tried many skechers before, but the insoles/foam tend to disappear few weeks later.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik heb veel Skechers geprobeerd, maar de binnenzolen/het schuim verdwijnen na een paar weken."
+    },
+    {
+     "text": "The memory foam feels great when you first stand up in them but doesn’t give your feet the support they need to actually last the whole day.",
+     "source_id": "hq1u83b",
+     "kind": "fails",
+     "nl_meaning": "Memory foam voelt geweldig als je net opstaat, maar geeft je voeten niet de steun die ze nodig hebben om de hele dag vol te houden."
+    },
+    {
+     "text": "I wear leather dress shoes with \"super feet\" inserts, makes all the difference, no pain even after 5x11 hour shifts.",
+     "source_id": "hq1tm28",
+     "kind": "works",
+     "nl_meaning": "Ik draag leren nette schoenen met Superfeet-zolen; dat maakt het verschil, geen pijn, zelfs na vijf diensten van 11 uur."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'memory foam voelt fijn maar zakt in' bevestigt opnieuw 'stevig, niet zacht'; zolen in nette leren schoenen werken voor wie er professioneel uit wil zien."
+  }
+ }
+]

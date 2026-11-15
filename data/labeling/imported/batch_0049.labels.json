@@ -1,0 +1,184 @@
+[
+ {
+  "post_id": "3smho8",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Vrouw van ruim 136 kg loopt 8-10 uur per dag in een nieuwe baan met zakelijke kledingvoorschriften; na 5 uur doen haar voeten enorm pijn.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "walking_work",
+    "overweight",
+    "office"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "nette schoenen of zolen die de pijn verminderen"
+   ],
+   "solutions": [
+    {
+     "solution": "Superfeet Green in werklaarzen",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Niet zacht, maar voorkomt het 'bruised pancake feeling'",
+     "source_id": "cwypse6"
+    },
+    {
+     "solution": "Maatwerkzolen in sneakers",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'a great choice', een paar honderd dollar",
+     "source_id": "cwyzqvr"
+    },
+    {
+     "solution": "Superfeet met 30 dagen garantie",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'They saved my feet, my legs, my back'",
+     "source_id": "cwyxky9"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "Rockport",
+    "Red Wing",
+    "Asics"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "By the 5th hour, I am in so much pain, my feet are aching so bad.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Tegen het vijfde uur heb ik zoveel pijn, mijn voeten doen zo'n pijn."
+    },
+    {
+     "text": "They are not squishy but do prevent your feet from getting that bruised pancake feeling at the end of the day.",
+     "source_id": "cwypse6",
+     "kind": "works",
+     "nl_meaning": "Ze zijn niet zacht, maar ze voorkomen dat je voeten aan het eind van de dag als een gekneusde pannenkoek voelen."
+    },
+    {
+     "text": "OP, please try Superfeet. They saved my feet, my legs, my back. They have a 30 day guarantee.",
+     "source_id": "cwyxky9",
+     "kind": "buying_trigger",
+     "nl_meaning": "Probeer alsjeblieft Superfeet. Ze hebben mijn voeten, benen en rug gered. Ze hebben 30 dagen garantie."
+    },
+    {
+     "text": "No quality of shoe can counteract being 300+lbs, and on your feet 10hrs a day.",
+     "source_id": "cwyl8ao",
+     "kind": "objection",
+     "nl_meaning": "Geen enkele schoen kan opwegen tegen 136+ kilo en 10 uur per dag op je voeten."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'bruised pancake feeling' is een sterke beschrijving; 30 dagen garantie verlaagt de drempel. Wees respectvol tegenover zwaardere klanten, die vaak 'val eerst af' horen."
+  }
+ },
+ {
+  "post_id": "135q31x",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Medische aansprakelijkheidszaak over rugpijn en verkleurde voet.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Medisch, niet relevant."
+  }
+ },
+ {
+  "post_id": "5g4o82",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "product_review",
+   "problem_summary_nl": "Hiker liep 2.500+ mijl op Superfeet Green; een verkoper zegt dat ze na ongeveer twee jaar minder steunen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hiking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Superfeet Green",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "2.500+ mijl, nog bruikbaar",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "the average lifespan is about two years before they stop being as supportive as they should be.",
+     "source_id": "dapkave",
+     "kind": "objection",
+     "nl_meaning": "De gemiddelde levensduur is ongeveer twee jaar voordat ze minder goed steunen dan zou moeten."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: duurzaamheid wordt gewaardeerd; 'wanneer vervangen' is een vraag die we kunnen beantwoorden."
+  }
+ }
+]

@@ -1,0 +1,137 @@
+[
+ {
+  "post_id": "17b51si",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Arts-assistent zegt per ongeluk 'doctors love feet' tegen een patiënt.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "111acbz",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Grap over Heelys dragen in het ziekenhuis.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1b28wao",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Vrouw zag de voering van haar LL Bean-pantoffels binnen zes maanden verslijten en zoekt warme pantoffels met harde zool en boogsteun.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Vervangende schapenvachtzolen van LL Bean",
+     "category": "otc_insole",
+     "brand_or_product": "LL Bean",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Nieuw leven, maar de hiel blijft versleten",
+     "source_id": "ksjvtil"
+    },
+    {
+     "solution": "UGG Ascot met vervangbare binnenzolen",
+     "category": "otc_insole",
+     "brand_or_product": "UGG",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Elke 1-2 jaar voor $20 nieuwe zolen",
+     "source_id": "kskkge8"
+    }
+   ],
+   "brands_mentioned": [
+    "LL Bean",
+    "UGG",
+    "Glerups",
+    "Minnetonka",
+    "Birkenstock"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "just spend 20 bucks getting new insoles every year or two"
+   ],
+   "quotes": [
+    {
+     "text": "I'm looking for women's house slippers that are warm and have hard soles. Bonus points for arch support.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Ik zoek damespantoffels die warm zijn en een harde zool hebben. Bonuspunten voor boogsteun."
+    },
+    {
+     "text": "I have been wearing the same pairs of ugg ascots for a long time, just spend 20 bucks getting new insoles every year or two.",
+     "source_id": "kskkge8",
+     "kind": "works",
+     "nl_meaning": "Ik draag al lang dezelfde UGG Ascots en geef gewoon elke één à twee jaar 20 dollar uit aan nieuwe binnenzolen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: thuiszolen voor pantoffels zijn een bestaande, betaalde gewoonte ($20 per 1-2 jaar); warm + boogsteun is de wens."
+  }
+ }
+]

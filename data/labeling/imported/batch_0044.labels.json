@@ -1,0 +1,322 @@
+[
+ {
+  "post_id": "16gqyie",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Apotheker in een winkelapotheek vindt Nikes niet genoeg voor lange dagen staan en vraagt naar schoenen en compressiesokken.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": "pharmacist",
+   "situations": [
+    "standing_work",
+    "retail"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Hoka en Asics",
+     "category": "shoes",
+     "brand_or_product": "Hoka, Asics",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Veel genoemd",
+     "source_id": "k09bn8h"
+    },
+    {
+     "solution": "Brooks Glycerin met compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Genoemde combinatie",
+     "source_id": "k095uog"
+    },
+    {
+     "solution": "Dansko-klompen",
+     "category": "shoes",
+     "brand_or_product": "Dansko",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Unmatched comfort'",
+     "source_id": "k09njew"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Hoka",
+    "Asics",
+    "Crocs",
+    "Adidas Ultraboost",
+    "Bombas",
+    "Brooks",
+    "Skechers",
+    "Dansko",
+    "Clarks"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I know nothing will be 100% comfortable being on your feet for that long but my Nikes just aren’t cutting it.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik weet dat niets 100% comfortabel is als je zo lang op je benen staat, maar mijn Nikes voldoen gewoon niet."
+    },
+    {
+     "text": "Crocs because I don't give a fuck anymore",
+     "source_id": "k0a66jw",
+     "kind": "impact_on_life",
+     "nl_meaning": "Crocs, want het kan me niets meer schelen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: apothekers zijn een staande beroepsgroep met dezelfde vraag als verpleegkundigen; ze kiezen vooral schoenmerken, zolen worden weinig genoemd."
+  }
+ },
+ {
+  "post_id": "17htwlv",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Koks delen welke schoenen ze in de keuken dragen: Crocs, Birkenstock-klompen, goedkope antislipschoenen met gelzolen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goedkope werkschoenen van Walmart met gelinlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Walmart",
+     "verdict": "unknown",
+     "first_hand": true,
+     "reason": "Genoemd zonder oordeel",
+     "source_id": "k6q2h8j"
+    },
+    {
+     "solution": "Birkenstock-klompen met goede sokken, halve maat groter",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Favoriet",
+     "source_id": "k6qk779"
+    }
+   ],
+   "brands_mentioned": [
+    "Crocs",
+    "Birkenstock",
+    "Dr Martens",
+    "Walmart"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "wearing $15 work shoes from walmart that have gel inserts and raised heels",
+     "source_id": "k6q2h8j",
+     "kind": "buying_trigger",
+     "nl_meaning": "Ik draag werkschoenen van $15 van Walmart met gelinlegzolen en verhoogde hakken."
+    },
+    {
+     "text": "with no venting that i can see in those, does your shoe become a swamp by the end of the day?",
+     "source_id": "k6psqkl",
+     "kind": "objection",
+     "nl_meaning": "Zonder ventilatie die ik kan zien: wordt je schoen aan het eind van de dag een moeras?"
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: in de horeca zijn zweet en 'een moeras in je schoen' vanzelfsprekend; frisheid is daar een concreet argument."
+  }
+ },
+ {
+  "post_id": "ydkqgu",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Arts-assistent zoekt betaalbare, comfortabele schoenen om de hele dag te staan; huidige Skechers passen slecht en zijn glad.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": "medical resident",
+   "situations": [
+    "healthcare_shift",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "slipping"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Birkenstock Boston-klompen",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "30.000 stappen op een 24-uursdienst, voeten voelden goed",
+     "source_id": "ittfyb1"
+    },
+    {
+     "solution": "Brooks",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Nog steeds pijn na 12 uur, maar veel minder",
+     "source_id": "itt9aj3"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers",
+    "Birkenstock",
+    "Hoka",
+    "On",
+    "Saucony",
+    "Crocs",
+    "Allbirds",
+    "Merrell",
+    "Brooks",
+    "Adidas Ultraboost"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Birki, don't go cheap when it comes to your feet.",
+     "source_id": "ittbd1i",
+     "kind": "buying_trigger",
+     "nl_meaning": "Birkenstock; bezuinig niet als het om je voeten gaat."
+    },
+    {
+     "text": "I was in so much pain on a surgery rotation standing on those concrete floors in my regular shoes. I still hurt after a 12-hour day but much better",
+     "source_id": "itt9aj3",
+     "kind": "pain",
+     "nl_meaning": "Ik had zoveel pijn tijdens mijn chirurgiestage op die betonnen vloeren in gewone schoenen. Ik heb nog steeds pijn na een dag van 12 uur, maar veel minder."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'veel minder pijn, maar niet weg' is de realistische ervaring; een eerlijke belofte ('je dienst draaglijker') past daarbij."
+  }
+ },
+ {
+  "post_id": "qxjyf5",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Foto van kippenpootjes in r/KitchenConfidential.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "cznhv6",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "other",
+   "problem_summary_nl": "Ambulancemedewerker deelt een actie met gratis inlegzolen voor hulpverleners en militairen; velen bestellen meteen.",
+   "regions": [],
+   "conditions": [
+    "flat feet",
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "EMT / paramedic",
+   "situations": [
+    "healthcare_shift"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "This is so nice of them. They got a customer for life if these things are any good",
+     "source_id": "ez0fhsl",
+     "kind": "buying_trigger",
+     "nl_meaning": "Wat aardig van ze. Ze hebben een klant voor het leven als deze dingen goed zijn."
+    },
+    {
+     "text": "Took their survey to pick out soles and then went through the verification process. The whole thing took me 5 minutes",
+     "source_id": "eyzephl",
+     "kind": "buying_trigger",
+     "nl_meaning": "Hun vragenlijst ingevuld om zolen te kiezen en daarna de verificatie gedaan. Het hele proces duurde 5 minuten."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: een gratis of korting-actie voor zorg- en hulpverleners (met verificatie) verspreidt zich vanzelf via collega's en levert 'klanten voor het leven' op."
+  }
+ }
+]

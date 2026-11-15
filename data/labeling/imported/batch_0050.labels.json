@@ -1,0 +1,231 @@
+[
+ {
+  "post_id": "1mbz6ko",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Hulphondtrainer met platvoeten loopt 10-15k stappen per dag en krijgt $100 van de werkgever voor schoenen.",
+   "regions": [],
+   "conditions": [
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "service dog trainer",
+   "situations": [
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Brooks",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'saved me so much pain' bij ernstige fasciitis",
+     "source_id": "n5qaqgz"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "mixed",
+     "first_hand": true,
+     "reason": "Comfortabel maar de zool slijt twee keer zo snel",
+     "source_id": "n5q1rpy"
+    }
+   ],
+   "brands_mentioned": [
+    "Converse",
+    "Hoka",
+    "Brooks",
+    "Asics",
+    "Lems",
+    "Altra"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "The company gives us a $100 stipend to buy walking shoes."
+   ],
+   "quotes": [
+    {
+     "text": "Hokas are comfortable but their outsoles are extremely soft.  They wear out twice as quickly as the other running shoe brands",
+     "source_id": "n5q1rpy",
+     "kind": "objection",
+     "nl_meaning": "Hoka's zijn comfortabel, maar hun zolen zijn extreem zacht. Ze slijten twee keer zo snel als andere hardloopmerken."
+    },
+    {
+     "text": "I work in an environment we’re folks are on their feet all day. 95% of the footwear is Brooks and Hoka.",
+     "source_id": "n5q2lbi",
+     "kind": "buying_trigger",
+     "nl_meaning": "Ik werk in een omgeving waar mensen de hele dag op hun benen staan. 95% van het schoeisel is Brooks en Hoka."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: opnieuw een werkgever die meebetaalt ($100); werkgeversbudgetten zijn een terugkerend patroon."
+  }
+ },
+ {
+  "post_id": "1bl7wu1",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand zoekt veiligheidsschoenen die geen grote laarzen zijn; zijn voeten doen pijn en Timberlands gaan snel kapot.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Red Wing met passende inlegzool, die je vervangt als hij versleten voelt",
+     "category": "otc_insole",
+     "brand_or_product": "Red Wing",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Jaren intensief gebruik op beton",
+     "source_id": "kw47ozf"
+    },
+    {
+     "solution": "Keen",
+     "category": "shoes",
+     "brand_or_product": "Keen",
+     "verdict": "mixed",
+     "first_hand": true,
+     "reason": "Brede neus, maar 'destroyed my arches' bij veel lopen",
+     "source_id": "kw6hphc"
+    }
+   ],
+   "brands_mentioned": [
+    "Timberland",
+    "Reebok",
+    "Red Wing",
+    "Keen",
+    "Wolverine",
+    "Irish Setter",
+    "Ariat"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Just replace the inserts when they start to feel worn.",
+     "source_id": "kw47ozf",
+     "kind": "buying_trigger",
+     "nl_meaning": "Vervang gewoon de inlegzolen als ze versleten beginnen te voelen."
+    },
+    {
+     "text": "I had some keens and they were comfortable but they destroyed my arches if I was doing a lot of walking in them.",
+     "source_id": "kw6hphc",
+     "kind": "fails",
+     "nl_meaning": "Ik had Keens, die waren comfortabel, maar ze sloopten mijn bogen als ik er veel in liep."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: ook bij dure werklaarzen is 'zool vervangen als hij versleten voelt' het advies; een herinnering of abonnement past."
+  }
+ },
+ {
+  "post_id": "spa8c9",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Britse wandelaar loopt dagelijks 10 km op stoep en wil maximale demping; Skechers voelen goed maar slijten snel, wandelschoenen zijn te hard.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "New Balance met Superfeet-zool",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet, New Balance",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'has changed my walking life completely'",
+     "source_id": "hwej2q4"
+    },
+    {
+     "solution": "Vionic-slippers en -sandalen",
+     "category": "shoes",
+     "brand_or_product": "Vionic",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Bij fasciitis en hoge boog",
+     "source_id": "hweawy7"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers",
+    "Hoka",
+    "New Balance",
+    "Superfeet",
+    "Vionic",
+    "Adidas Ultraboost",
+    "Allbirds"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I like really cushiony shoes otherwise the soles of my feet start to hurt.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik hou van heel zachte schoenen, anders gaan mijn voetzolen pijn doen."
+    },
+    {
+     "text": "I would recommend getting New Balance, removing the insole, and replacing it with a SuperFeet insole.  My podiatrist best buddy recommended this and it has changed my walking life completely!",
+     "source_id": "hwej2q4",
+     "kind": "works",
+     "nl_meaning": "Ik raad aan New Balance te nemen, de binnenzool eruit te halen en te vervangen door een Superfeet-zool. Mijn beste vriend, een podotherapeut, raadde dit aan en het heeft mijn wandelleven totaal veranderd!"
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'gewone schoen + betere zool' is een bekend recept; zachte demping slijt snel, wat een terugkerende vraag oplevert."
+  }
+ }
+]
