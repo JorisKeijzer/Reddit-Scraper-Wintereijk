@@ -1,0 +1,203 @@
+[
+ {
+  "post_id": "13rjdgb",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Arts-assistent schaamt zich om tijdens een 24-uursdienst schoenen uit te doen in de slaapkamer omdat zijn voeten stinken.",
+   "regions": [
+    "skin"
+   ],
+   "conditions": [
+    "bromodosis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "medical resident",
+   "situations": [
+    "healthcare_shift"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "odor"
+   ],
+   "desired_outcomes_nl": [
+    "geen stinkende voeten tijdens lange diensten"
+   ],
+   "solutions": [
+    {
+     "solution": "Nieuwe schoenen en babypoeder",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Oude schoenen veroorzaken het",
+     "source_id": "jlkjo31"
+    },
+    {
+     "solution": "Wollen (merino) sokken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'game changer'",
+     "source_id": "jlkq9y9"
+    },
+    {
+     "solution": "Cederzakjes in de schoenen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Genoemd",
+     "source_id": "jlktgal"
+    }
+   ],
+   "brands_mentioned": [
+    "Smartwool",
+    "Kirkland",
+    "Lume",
+    "Carpe"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "its too embarrassing to take off my shoes to lay down in the bed.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Het is te gênant om mijn schoenen uit te doen om in bed te gaan liggen."
+    },
+    {
+     "text": "Usually, it's caused by types of bacterial or yeast populations. To stop it, we need to eradicate the existing population and stop creating their ideal habitat.",
+     "source_id": "jlkr00f",
+     "kind": "desire",
+     "nl_meaning": "Meestal komt het door bacteriën of gisten. Om het te stoppen moet je die bestaande populatie uitroeien en hun ideale leefomgeving niet meer creëren."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: schaamte over voetgeur op het werk is een sterke emotie. Hier past de koperhoek (fris, minder geur) het best, als materiaalclaim die we moeten kunnen onderbouwen."
+  }
+ },
+ {
+  "post_id": "etykrf",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Vervolg op de waarschuwing over voeten op het dashboard.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1aqdypo",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Serveerster is blij met een goede groep ('kissed their feet').",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "5d97m7",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand draagt goedkope nette schoenen van $30 waarin zijn bogen altijd pijn doen en zoekt duurzame zakelijke schoenen.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "office"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [
+    "Red Wing",
+    "Alden",
+    "Allen Edmonds",
+    "Dr Martens",
+    "Ecco",
+    "Cole Haan",
+    "SAS"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "My main concern is comfort as my arches always hurt in dress/business casual shoes",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Mijn grootste zorg is comfort, want mijn bogen doen altijd pijn in nette schoenen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: boogpijn in nette schoenen bevestigt opnieuw de niche voor zakelijke schoenen."
+  }
+ }
+]

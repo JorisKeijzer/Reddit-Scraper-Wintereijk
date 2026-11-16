@@ -1,0 +1,222 @@
+[
+ {
+  "post_id": "y66yyf",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Bartender/serveerster (22) heeft na dagen van 11 uur zoveel voetpijn dat het tot in haar rug trekt en ze mank loopt; Walmart-zolen en pijnstillers helpen niet.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Walmart-inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Walmart",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "'aren’t helping'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Powerstep-zolen van ~$60",
+     "category": "otc_insole",
+     "brand_or_product": "Powerstep",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'work wonders'; winkelzolen zijn volgens de podotherapeut 'garbage'",
+     "source_id": "isomifa"
+    },
+    {
+     "solution": "Dr Martens met inlegzolen",
+     "category": "shoes",
+     "brand_or_product": "Dr Martens",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Minder rug- en voetpijn",
+     "source_id": "isofqen"
+    },
+    {
+     "solution": "Compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'feel the immediate difference'",
+     "source_id": "isnsubt"
+    }
+   ],
+   "brands_mentioned": [
+    "Walmart",
+    "Skechers",
+    "Crocs",
+    "Dr Martens",
+    "Powerstep"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "i bought powerstep insoles from the doctor, about $60"
+   ],
+   "quotes": [
+    {
+     "text": "I’m only 22 and I feel like my serving years are going to be cut short bc of my feet.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik ben pas 22 en heb het gevoel dat mijn jaren in de bediening worden ingekort door mijn voeten."
+    },
+    {
+     "text": "i went to a podiatrist who told me that the insoles you buy from the store are basically garbage. i bought powerstep insoles from the doctor, about $60",
+     "source_id": "isomifa",
+     "kind": "objection",
+     "nl_meaning": "Ik ging naar een podotherapeut die zei dat de zolen uit de winkel eigenlijk rommel zijn. Ik kocht Powerstep-zolen bij de dokter, ongeveer $60."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'winkelzolen zijn rommel' is een bestaand bezwaar; een zool rond $40-60 met duidelijke opbouw moet zich van goedkope supermarktzolen onderscheiden."
+  }
+ },
+ {
+  "post_id": "1owc5zu",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Reacties op een gerucht over het '10-4'-begroetingsbeleid bij Target.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1o89m34",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand met extreem hoge bogen wil thuis geen sneakers met inlegzool dragen; Amazon-huisschoenen met boogsteun zijn lang niet hoog genoeg.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [
+    "high arches"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "arch_too_low"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzool in elke pantoffel",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Meest gewaardeerde advies",
+     "source_id": "njtalde"
+    },
+    {
+     "solution": "SOLE-zolen met metatarsaalpad",
+     "category": "otc_insole",
+     "brand_or_product": "SOLE",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Thuis vormbaar, 'saved my feet'",
+     "source_id": "njv2goz"
+    },
+    {
+     "solution": "Maatwerkzolen in UGG-pantoffels",
+     "category": "custom_orthotic",
+     "brand_or_product": "UGG",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'It works!'",
+     "source_id": "njtesc0"
+    }
+   ],
+   "brands_mentioned": [
+    "Birkenstock",
+    "Oofos",
+    "SOLE",
+    "UGG",
+    "Amazon"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I really dont want to have to wear actual sneakers with an insole inside all the time.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Ik wil echt niet altijd echte sneakers met een inlegzool erin dragen."
+    },
+    {
+     "text": "You probably need to have a shoe insert - maybe one specifically made for your arch issue. Then you can put it in whatever shoe or slipper you want.",
+     "source_id": "njtalde",
+     "kind": "buying_trigger",
+     "nl_meaning": "Je hebt waarschijnlijk een inlegzool nodig, misschien een speciaal voor jouw boogprobleem. Die kun je in elke schoen of pantoffel doen."
+    },
+    {
+     "text": "I put my custom orthotics right inside my Ugg slippers. It works!",
+     "source_id": "njtesc0",
+     "kind": "works",
+     "nl_meaning": "Ik doe mijn maatwerkzolen gewoon in mijn UGG-pantoffels. Het werkt!"
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: thuis steun willen zonder sneakers is opnieuw een wens; een zool die in pantoffels past, sluit aan bij het 'harde vloeren thuis'-moment."
+  }
+ }
+]

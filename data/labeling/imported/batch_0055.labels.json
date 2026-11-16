@@ -1,0 +1,306 @@
+[
+ {
+  "post_id": "1wl1sbi",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Chef die 50+ uur per week werkt, krijgt 'chef toe' in Hoka's van $180; anderen wijzen op de smalle neus van Hoka.",
+   "regions": [
+    "toes"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Gaan langer mee en geen pijn, maar wel teenproblemen",
+     "source_id": "post"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Brooks",
+    "Red Wing"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Hoka’s have a notoriously small toe box.",
+     "source_id": "pavfdhp",
+     "kind": "objection",
+     "nl_meaning": "Hoka's hebben een berucht kleine neus."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Beperkt relevant: teenruimte is belangrijk; een zool mag de neus niet verder vullen."
+  }
+ },
+ {
+  "post_id": "1415zu5",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Beginnende bartender (39) werkt 26 uur in twee dagen en heeft pijnlijke voeten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Compressiesokken en goede inlegzolen",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'game changer'",
+     "source_id": "jmypynu"
+    },
+    {
+     "solution": "Dr Martens met inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Dr Martens",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Elke dag",
+     "source_id": "jn05xm0"
+    },
+    {
+     "solution": "Blundstones met kniebraces",
+     "category": "shoes",
+     "brand_or_product": "Blundstone",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'no pain at all'",
+     "source_id": "jmzhkad"
+    }
+   ],
+   "brands_mentioned": [
+    "Dr Martens",
+    "Skechers",
+    "Converse",
+    "Blundstone",
+    "Red Wing",
+    "Dansko"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Don’t underestimate the power of compression socks and good insoles as well!",
+     "source_id": "jmypynu",
+     "kind": "works",
+     "nl_meaning": "Onderschat de kracht van compressiesokken en goede zolen niet!"
+    },
+    {
+     "text": "Docs with insoles, every day.",
+     "source_id": "jn05xm0",
+     "kind": "works",
+     "nl_meaning": "Docs met inlegzolen, elke dag."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: Dr Martens + inlegzool is een standaardcombinatie in de bar; laarzen hebben vaak een te harde binnenzool."
+  }
+ },
+ {
+  "post_id": "1guo8b4",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Target-medewerker heeft pijnlijke voeten en vraagt welke schoenen collega's dragen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "retail",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Brooks met inlegzolen na een paar maanden",
+     "category": "otc_insole",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Na alles geprobeerd te hebben",
+     "source_id": "lxvq6y0"
+    },
+    {
+     "solution": "Brede neus en goede inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Advies van iemand met 11 jaar staand werk",
+     "source_id": "lxw66xa"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Adidas",
+    "Crocs",
+    "Brooks",
+    "Saucony",
+    "Asics",
+    "New Balance"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Brooks. I’ve tried all the others. After a couple months I get inserts",
+     "source_id": "lxvq6y0",
+     "kind": "buying_trigger",
+     "nl_meaning": "Brooks. Ik heb alle andere geprobeerd. Na een paar maanden koop ik inlegzolen."
+    },
+    {
+     "text": "12 hours on concrete will do a number on anybody.",
+     "source_id": "lxxzha3",
+     "kind": "pain",
+     "nl_meaning": "12 uur op beton sloopt iedereen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'na een paar maanden koop ik zolen' is het moment waarop de schoen zijn demping verliest; dat is ons instapmoment."
+  }
+ },
+ {
+  "post_id": "10dj2rk",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Kok vindt Shoes for Crews pijnlijk en Vans glad; zoekt nieuwe keukenschoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "slipping",
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Gelinlegzool",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'all shoes for crews hurt everyone's feet'",
+     "source_id": "j4lq95r"
+    },
+    {
+     "solution": "Blundstone-antisliplaarzen met Dr. Scholl's gelzool",
+     "category": "otc_insole",
+     "brand_or_product": "Blundstone, Dr. Scholl's",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Al jaren",
+     "source_id": "j4ludhh"
+    },
+    {
+     "solution": "Maatwerkzolen van de podotherapeut",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "'make every shoe feel like' maatwerk",
+     "source_id": "j4m1xek"
+    }
+   ],
+   "brands_mentioned": [
+    "Shoes for Crews",
+    "Vans",
+    "Birkenstock",
+    "Crocs",
+    "Dr Martens",
+    "Blundstone",
+    "Dr. Scholl's",
+    "Walmart"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Grab a gel insole. I think all shoes for crews hurt everyone's feet!",
+     "source_id": "j4lq95r",
+     "kind": "buying_trigger",
+     "nl_meaning": "Pak een gelzool. Ik denk dat Shoes for Crews bij iedereen pijn doet!"
+    },
+    {
+     "text": "Blundstones nonslip work boots with a Dr scholls gel insole. Been using them for years.",
+     "source_id": "j4ludhh",
+     "kind": "works",
+     "nl_meaning": "Blundstone-antisliplaarzen met een Dr. Scholl's-gelzool. Gebruik ik al jaren."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: goedkope verplichte antislipschoenen (Shoes for Crews) zijn een vast pijnpunt; een zool die je daarin legt is de goedkope oplossing."
+  }
+ }
+]

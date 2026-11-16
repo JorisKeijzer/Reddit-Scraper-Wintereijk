@@ -1,0 +1,225 @@
+[
+ {
+  "post_id": "16y7clz",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Jonge, zwaardere kokstudent krijgt na 1-2 uur staan al veel voetpijn en moet van voet wisselen; klasgenoten hebben minder last.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work",
+    "overweight"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Shoes for Crews met gelzolen en keukenmatten",
+     "category": "otc_insole",
+     "brand_or_product": "Shoes for Crews",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "k3781pt"
+    },
+    {
+     "solution": "Afvallen",
+     "category": "weight_loss",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Van 265 naar 200 pond in een jaar",
+     "source_id": "k370mei"
+    }
+   ],
+   "brands_mentioned": [
+    "Shoes for Crews"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "(Really hard to work efficiently when I have to bounce from one foot to the other to reduce the pain)",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "(Heel moeilijk om efficiënt te werken als ik van de ene op de andere voet moet wippen om de pijn te verminderen.)"
+    },
+    {
+     "text": "Footwear has a huge impact on the pain your feeling, especially if you’re heavyset.",
+     "source_id": "k36wj18",
+     "kind": "buying_trigger",
+     "nl_meaning": "Schoeisel heeft enorme invloed op je pijn, vooral als je zwaarder bent."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: zwaardere starters voelen zich buitenstaander; een zool die ondersteunt zonder 'eerst afvallen'-oordeel spreekt aan."
+  }
+ },
+ {
+  "post_id": "psq5gl",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bartender met platte voeten wil schoenen met demping maar weinig boogsteun en zo min mogelijk drop; Stan Smiths geven pijn.",
+   "regions": [],
+   "conditions": [
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "arch_too_high"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Ingevette Docs met inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Dr Martens",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Acht jaar, twee paar",
+     "source_id": "hdrifq6"
+    },
+    {
+     "solution": "Danner-laarzen",
+     "category": "shoes",
+     "brand_or_product": "Danner",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "3 jaar, 50 uur per week",
+     "source_id": "hdrbtmo"
+    }
+   ],
+   "brands_mentioned": [
+    "Adidas Stan Smith",
+    "Vans",
+    "Nike",
+    "Dr Martens",
+    "Dansko",
+    "Skechers",
+    "Danner"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Ideally something with little to no arch support. I have super flat feet, so shoes with high arches aren't comfortable.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Het liefst iets met weinig tot geen boogsteun. Ik heb erg platte voeten, dus schoenen met hoge bogen zijn niet comfortabel."
+    },
+    {
+     "text": "Greased Docs with inserts for the last 8 years.",
+     "source_id": "hdrifq6",
+     "kind": "works",
+     "nl_meaning": "De laatste acht jaar ingevette Docs met inlegzolen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: niet iedereen wil boogsteun; een variant met lage boog (alleen demping/comfort) kan een extra doelgroep bedienen."
+  }
+ },
+ {
+  "post_id": "1r1u4xt",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Iemand vraagt hoe kassamedewerkers 6-8 uur per dag staan zonder enorme voetpijn; het antwoord is: dat lukt niet.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "retail",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede schoenen, antivermoeidheidsmatten en 'very good insoles'",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Het doet nog steeds pijn",
+     "source_id": "o4s1xgj"
+    },
+    {
+     "solution": "Antivermoeidheidsmatten",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Helpen, maar lossen het niet op",
+     "source_id": "o4svna2"
+    }
+   ],
+   "brands_mentioned": [
+    "Dr. Scholl's"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "We don’t.",
+     "source_id": "o4s4vki",
+     "kind": "impact_on_life",
+     "nl_meaning": "Dat doen we niet."
+    },
+    {
+     "text": "I have decent shoes, two anti fatigue mats and very good insoles and it still hurts.",
+     "source_id": "o4s1xgj",
+     "kind": "objection",
+     "nl_meaning": "Ik heb goede schoenen, twee antivermoeidheidsmatten en heel goede zolen, en het doet nog steeds pijn."
+    },
+    {
+     "text": "Those Dr. Scholl's insoles commercials generally don't name cashiers, but they could.",
+     "source_id": "o4sb5lm",
+     "kind": "buying_trigger",
+     "nl_meaning": "Die reclames van Dr. Scholl's noemen meestal geen kassamedewerkers, maar dat zou wel kunnen."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: kassamedewerkers voelen zich vergeten in reclames ('they could'); een campagne die hen expliciet noemt, met een eerlijke belofte (minder, niet geen pijn), is onderscheidend."
+  }
+ }
+]

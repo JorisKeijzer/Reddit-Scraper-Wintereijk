@@ -1,0 +1,237 @@
+[
+ {
+  "post_id": "13qjwes",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bartender draait door personeelstekort diensten van 14 uur; Adidas-sneakers geven te weinig steun.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Superfeet passend bij je boogtype",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'helped me a lot'",
+     "source_id": "jlf3671"
+    },
+    {
+     "solution": "Crocs met betere zolen",
+     "category": "otc_insole",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Let them feets breathe'",
+     "source_id": "jlfaukp"
+    },
+    {
+     "solution": "Compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'a god send'",
+     "source_id": "jlf6s6v"
+    }
+   ],
+   "brands_mentioned": [
+    "Adidas",
+    "Dr Martens",
+    "Superfeet",
+    "Skechers",
+    "Hoka",
+    "Crocs",
+    "Dansko"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Superfeet inserts helped me a lot. Find the one that suits your arch type",
+     "source_id": "jlf3671",
+     "kind": "works",
+     "nl_meaning": "Superfeet-zolen hielpen me veel. Zoek degene die bij je boogtype past."
+    },
+    {
+     "text": "Try Hoka brand- expensive but they’re saving my feet on a cement floor I wish I knew about them sooner",
+     "source_id": "jlfhtfy",
+     "kind": "works",
+     "nl_meaning": "Probeer Hoka: duur, maar ze redden mijn voeten op een betonvloer. Had ik ze maar eerder gekend."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: personeelstekorten maken diensten langer; 'je dienst is langer geworden, je schoenen niet beter' kan een seizoensboodschap zijn."
+  }
+ },
+ {
+  "post_id": "o8japa",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Kok staat 12+ uur zonder te zitten; Crocs met inlegzolen voldoen niet meer.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzolen in Crocs",
+     "category": "otc_insole",
+     "brand_or_product": "Crocs",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Weinig effect",
+     "source_id": "post"
+    },
+    {
+     "solution": "Birkenstock-klompen",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Gaan bijna twee jaar mee bij 65+ uur per week",
+     "source_id": "h361gu1"
+    },
+    {
+     "solution": "Compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'will change your life'",
+     "source_id": "h35x3wq"
+    }
+   ],
+   "brands_mentioned": [
+    "Crocs",
+    "Birkenstock",
+    "Skechers"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "It is not necessarily the shoes, it’s more important to have good insoles.",
+     "source_id": "h35fzit",
+     "kind": "works",
+     "nl_meaning": "Het zijn niet per se de schoenen; goede zolen zijn belangrijker."
+    },
+    {
+     "text": "Do not rely on a machine in a drug store that is conveniently situated next to a rack of insoles",
+     "source_id": "h35fzit",
+     "kind": "objection",
+     "nl_meaning": "Vertrouw niet op een apparaat in de drogist dat toevallig naast een rek inlegzolen staat."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: wantrouwen tegen voetscanners in winkels ('handig naast het rek zolen') komt terug; niet verkopen met een scan-gimmick."
+  }
+ },
+ {
+  "post_id": "1xc7vtu",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Leerling-kok met dagen van 9-10 uur vindt nieuwe Crocs slecht geventileerd; voeten zweten snel. Schoenen moeten afspuitbaar zijn.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Birkenstock Tokio Supergrip",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "De enige schoenen in de keuken",
+     "source_id": "19rgx1cvdy2qr"
+    },
+    {
+     "solution": "Vans Made for the Makers",
+     "category": "shoes",
+     "brand_or_product": "Vans",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'best work shoes I’ve ever had'",
+     "source_id": "19rgsm4ebq7hf"
+    }
+   ],
+   "brands_mentioned": [
+    "Crocs",
+    "Birkenstock",
+    "Vans",
+    "Blundstone"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Think about what you're investing in. Can you put a price on foot, ankle, knee, hip, and back health? $200 is cheap, friend",
+     "source_id": "19rhcojn9rotf",
+     "kind": "buying_trigger",
+     "nl_meaning": "Denk na waarin je investeert. Kun je een prijs zetten op de gezondheid van je voeten, enkels, knieën, heupen en rug? $200 is goedkoop, vriend."
+    },
+    {
+     "text": "idc if insoles come out or not but i love the privilege of spraying out my shoes and letting them sit for my days off.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Het maakt me niet uit of de zolen eruit kunnen, maar ik vind het fijn om mijn schoenen uit te spuiten en ze op mijn vrije dagen te laten drogen."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: in de keuken moet een zool afwasbaar of snel drogend zijn; zweet in afgesloten klompen is een terugkerend probleem."
+  }
+ }
+]

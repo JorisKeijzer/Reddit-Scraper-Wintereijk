@@ -1,0 +1,187 @@
+[
+ {
+  "post_id": "graeri",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Serveerster vertelt over een klant die drankjes voor haar voeten gooide.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "115kv1k",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Bartender (33) vraagt of je met genoeg fitheid geen pijn meer hebt na 10+ uur staan; de meesten zeggen nee, schoenen en zolen helpen meer.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Helpen ook rug, nek en schouders",
+     "source_id": "j92wu6g"
+    },
+    {
+     "solution": "Barmatten",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Helpt altijd",
+     "source_id": "j92dz5u"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "At the peak of my fitness, shredded, jacked, literally on drugs to make me perform and recover like a superhuman, I would still be fucked up from bartending. So no, it doesn’t get better.",
+     "source_id": "j92b2xp",
+     "kind": "impact_on_life",
+     "nl_meaning": "Op het hoogtepunt van mijn fitheid, gespierd, letterlijk aan middelen om als een supermens te herstellen, was ik nog steeds kapot van het bartenden. Dus nee, het wordt niet beter."
+    },
+    {
+     "text": "You'd be surprised what a good set of insoles will do to help your back, neck, and shoulders",
+     "source_id": "j92wu6g",
+     "kind": "works",
+     "nl_meaning": "Je zou verbaasd zijn wat een goede set zolen doet voor je rug, nek en schouders."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: fitheid lost het niet op ('it doesn't get better'); dat maakt de pijn een vast gegeven waar een zool een kleine verbetering geeft."
+  }
+ },
+ {
+  "post_id": "1vdqknx",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Serveerster met tien jaar ervaring heeft na elke dienst zoveel voetpijn dat haar voeten de volgende ochtend nog herstellen; zoekt antislipschoenen met brede neus en hoge boogsteun.",
+   "regions": [
+    "arch",
+    "forefoot",
+    "whole_foot"
+   ],
+   "conditions": [
+    "wide feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight",
+    "arch_too_low",
+    "slipping"
+   ],
+   "desired_outcomes_nl": [
+    "boogsteun met brede neus",
+    "uitgerust aan de volgende dienst beginnen"
+   ],
+   "solutions": [
+    {
+     "solution": "Dansko-klompen",
+     "category": "shoes",
+     "brand_or_product": "Dansko",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'absolutely fell in love'",
+     "source_id": "p1b7db4"
+    },
+    {
+     "solution": "Hoka antislip met brede neus",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Lang meegaand, ongeveer $150",
+     "source_id": "p1bg0rz"
+    }
+   ],
+   "brands_mentioned": [
+    "Walmart",
+    "Dansko",
+    "Hoka",
+    "Skechers",
+    "Vans"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "my horror story is how bad my feet hurt after every shift that I wake up to them still in recovery and have to hop on over to work before they had time to fully chill.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Mijn horrorverhaal is hoe erg mijn voeten pijn doen na elke dienst: ik word wakker terwijl ze nog herstellen en moet weer naar mijn werk voordat ze tot rust zijn gekomen."
+    },
+    {
+     "text": "if I get wides the whole shoe ends up being wide and are loose on my entire foot. So I just need a good arch support with wide toe box.",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Als ik brede maten neem, wordt de hele schoen breed en zit hij los. Ik heb dus gewoon goede boogsteun nodig met een brede neus."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'mijn voeten zijn nog niet hersteld als de volgende dienst begint' is een sterke pijnzin voor horeca. Een zool die boogsteun toevoegt in een schoen met brede neus lost haar dilemma op."
+  }
+ }
+]

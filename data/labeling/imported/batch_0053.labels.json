@@ -1,0 +1,344 @@
+[
+ {
+  "post_id": "1ui18ib",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bartender met dagen van 12+ uur zag Hoka Bondi SR binnen een jaar uit elkaar vallen; de Superfeet Copper-zolen waren 'WAY too hard' en gaven geen demping.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "too_hard",
+    "slipping"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Superfeet Copper-inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Eerst goed, maar veel te hard en geen demping",
+     "source_id": "post"
+    },
+    {
+     "solution": "Dr. Scholl's-zolen van Amazon",
+     "category": "otc_insole",
+     "brand_or_product": "Dr. Scholl's",
+     "verdict": "unknown",
+     "first_hand": true,
+     "reason": "Noodoplossing",
+     "source_id": "post"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'as long as I don't wake up in pain'",
+     "source_id": "oucro4n"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers",
+    "Hoka",
+    "Superfeet",
+    "Dr. Scholl's",
+    "Dr Martens",
+    "Solovair",
+    "Birkenstock",
+    "Blundstone"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "I'll spend 170 bucks every seven months on shoes as long as I don't wake up in pain"
+   ],
+   "quotes": [
+    {
+     "text": "Also, the copper SuperFeet insoles were good at first but they were WAY too hard. Felt like they provided no cushioning…",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "De Superfeet Copper-zolen waren eerst goed, maar VEEL te hard. Het voelde alsof ze geen demping gaven."
+    },
+    {
+     "text": "I love my hokas. I'll spend 170 bucks every seven months on shoes as long as I don't wake up in pain",
+     "source_id": "oucro4n",
+     "kind": "buying_trigger",
+     "nl_meaning": "Ik hou van mijn Hoka's. Ik geef elke zeven maanden 170 dollar uit aan schoenen, zolang ik maar niet met pijn wakker word."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'Copper' is ook een productlijn van Superfeet (geen koper); ons merk moet zich daarvan duidelijk onderscheiden. Stevig mag, maar niet 'way too hard'. Opnieuw 'wakker worden zonder pijn' als koopreden."
+  }
+ },
+ {
+  "post_id": "4f0kh7",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Kok heeft altijd stinkende, pijnlijke voeten; probeerde laarzen, sneakers, Crocs en allerlei sokken, waaronder dure koperen sokken die bacteriën zouden doden.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "odor",
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [
+    "voeten die niet stinken",
+    "meer demping"
+   ],
+   "solutions": [
+    {
+     "solution": "Dure koperen sokken tegen bacteriën",
+     "category": "copper_or_magnetic",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": true,
+     "reason": "Weet niet wat hij ervan moet denken",
+     "source_id": "post"
+    },
+    {
+     "solution": "Dunne merino wollen sokken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'work surprisingly well'",
+     "source_id": "d25166h"
+    },
+    {
+     "solution": "Echte Crocs in de keuken",
+     "category": "shoes",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Nooit meer kniepijn",
+     "source_id": "d2597iw"
+    }
+   ],
+   "brands_mentioned": [
+    "Timberland",
+    "Crocs",
+    "Dickies",
+    "Keen",
+    "Mozo"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "skeptical",
+    "summary_nl": "Kocht 'really expensive copper infused socks that claim to kill bacteria' omdat geur zijn grootste probleem is, maar weet niet wat hij ervan moet denken."
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "They smell bad, they hurt, the usual kitchen stuff.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ze stinken, ze doen pijn, het gebruikelijke keukengedoe."
+    },
+    {
+     "text": "I found some really expensive copper infused socks that claim to kill bacteria, and smell is my biggest concern, padding is second. Not sure what to think of those.",
+     "source_id": "post",
+     "kind": "copper",
+     "nl_meaning": "Ik vond heel dure sokken met koper die beweren bacteriën te doden, en geur is mijn grootste zorg, demping de tweede. Ik weet niet wat ik ervan moet denken."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: bevestigt het sterkste koperhoek: geur. Koks noemen 'smell' als grootste zorg, vóór demping. De twijfel ('not sure what to think') vraagt om eerlijke, onderbouwde claims."
+  }
+ },
+ {
+  "post_id": "t89a6n",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Bartender voelt zich '90' door pijn in voeten, benen, rug, schouders en onderarmen; draagt al zijn hele leven skateschoenen.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'game changer'",
+     "source_id": "hzmrrpr"
+    },
+    {
+     "solution": "Keukenklompen van Shoes for Crews met gelzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Shoes for Crews",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Al lang de vaste keuze",
+     "source_id": "hzmsz1w"
+    },
+    {
+     "solution": "Epsomzoutbad na een dubbele dienst",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Favoriet herstel",
+     "source_id": "hzmsxbv"
+    }
+   ],
+   "brands_mentioned": [
+    "Shoes for Crews",
+    "Tiger Balm"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "You need better shoes.",
+     "source_id": "hzmn2xw",
+     "kind": "buying_trigger",
+     "nl_meaning": "Je hebt betere schoenen nodig."
+    },
+    {
+     "text": "I started nursing as a shoe size 9.  Now I’m a 12.",
+     "source_id": "hzmsspd",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik begon als verpleegkundige met schoenmaat 9. Nu heb ik 12."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'ik voel me 90' is herkenbare taal bij horecapersoneel; het eerste antwoord is altijd 'betere schoenen' en daarna zolen en compressie."
+  }
+ },
+ {
+  "post_id": "p8xddt",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Nieuwe Target-medewerker in fulfillment heeft in de lunchpauze al zoveel voetpijn dat lopen pijn doet; wil na de dienst inlegzolen kopen.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "retail",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzolen en betere schoenen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Meest gewaardeerde advies",
+     "source_id": "h9tkry6"
+    },
+    {
+     "solution": "Massage-werkzolen plus boogsteun en lichte sneakers",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Gebruikt beide soorten",
+     "source_id": "h9tnfjo"
+    },
+    {
+     "solution": "Brooks",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Voetpijn stopte bijna meteen",
+     "source_id": "h9u9si2"
+    }
+   ],
+   "brands_mentioned": [
+    "New Balance",
+    "Brooks",
+    "Hoka",
+    "Under Armour"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "i’m currently on my lunch break and my feet hurt so bad it hurts to walk. i’m probably gonna buy insoles once my shift ends",
+     "source_id": "post",
+     "kind": "buying_trigger",
+     "nl_meaning": "Ik heb nu lunchpauze en mijn voeten doen zo'n pijn dat lopen pijn doet. Ik ga waarschijnlijk inlegzolen kopen na mijn dienst."
+    },
+    {
+     "text": "I take an average of 25k steps a day. Support is what you need.",
+     "source_id": "h9u5psb",
+     "kind": "desire",
+     "nl_meaning": "Ik zet gemiddeld 25.000 stappen per dag. Steun is wat je nodig hebt."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: de eerste weken van een nieuwe staande baan zijn het moment van 'vandaag nog zolen kopen'; denk aan snelle levering of winkelverkoop."
+  }
+ }
+]

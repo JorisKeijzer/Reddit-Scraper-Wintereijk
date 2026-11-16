@@ -1,0 +1,283 @@
+[
+ {
+  "post_id": "roepv9",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bartender met 15 jaar ervaring probeerde Shoes for Crews, Dr. Scholl's, Skechers en alle soorten zolen; de nieuwe baan sloopt elke schoen en gaf haar eerder fasciitis, die nu terugkomt.",
+   "regions": [
+    "heel",
+    "arch"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [
+    "Shoes for Crews",
+    "Dr. Scholl's",
+    "Skechers",
+    "every kind of insert"
+   ],
+   "complaints_about_products": [
+    "flattened_wore_out",
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Elke soort inlegzool",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Niets hield stand",
+     "source_id": "post"
+    },
+    {
+     "solution": "Blundstones",
+     "category": "shoes",
+     "brand_or_product": "Blundstone",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Licht, comfortabel, waterdicht, goede grip",
+     "source_id": "hpyd89e"
+    },
+    {
+     "solution": "Dansko-klompen",
+     "category": "shoes",
+     "brand_or_product": "Dansko",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'I live and breath by my dansko clogs'",
+     "source_id": "hpyaqvf"
+    }
+   ],
+   "brands_mentioned": [
+    "Shoes for Crews",
+    "Dr. Scholl's",
+    "Skechers",
+    "Dr Martens",
+    "Blundstone",
+    "Hoka",
+    "Jessica Simpson",
+    "Dansko"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I've used every kind of insert imaginable",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik heb elke denkbare inlegzool gebruikt."
+    },
+    {
+     "text": "I just roll with Doc Martens and say a prayer every shift.",
+     "source_id": "hpxyc6j",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik draag gewoon Doc Martens en bid elke dienst een schietgebedje."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: ervaren horecamensen hebben 'alles al geprobeerd'; zij reageren alleen op een concreet verschil en een garantie."
+  }
+ },
+ {
+  "post_id": "ryo66t",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "Tiener in haar eerste baan als vakkenvuller zonder pauzes heeft al pijnlijke voeten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "retail",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede schoenen en Dr. Scholl's-zolen",
+     "category": "otc_insole",
+     "brand_or_product": "Dr. Scholl's",
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'Protect your feet while you’re young.'",
+     "source_id": "hrq21st"
+    },
+    {
+     "solution": "Compressiesokken plus goede schoenen",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'unbeatable'",
+     "source_id": "hrq2d5f"
+    },
+    {
+     "solution": "Antivermoeidheidsmatten",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "'didn't do *anything*'",
+     "source_id": "hrqez8p"
+    }
+   ],
+   "brands_mentioned": [
+    "Hush Puppies",
+    "Ascent",
+    "Skechers",
+    "Dr. Scholl's"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "im a teen my feet shouldn't be hurting at this age",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik ben een tiener, mijn voeten zouden op deze leeftijd geen pijn moeten doen."
+    },
+    {
+     "text": "You need good shoes and a pair of Dr. Scholls insoles. Protect your feet while you’re young.",
+     "source_id": "hrq21st",
+     "kind": "buying_trigger",
+     "nl_meaning": "Je hebt goede schoenen nodig en Dr. Scholl's-zolen. Bescherm je voeten nu je jong bent."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: ook jonge starters in de retail hebben voetpijn; 'bescherm je voeten nu je jong bent' kan jonge werknemers aanspreken."
+  }
+ },
+ {
+  "post_id": "1anrn7r",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Serveerster heeft na diensten van 6-8 uur altijd pijnlijke voeten, vooral aan de buitenkant en de zolen; Hoka, Crocs, Skechers en inlegzolen hielpen niet.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Hittevormbare zolen van ~$40",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'just as good' als maatwerk van $400",
+     "source_id": "kpub18d"
+    },
+    {
+     "solution": "Medische compressiesokken (geen Copper Fit)",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Redden haar bij uren serveren",
+     "source_id": "kpun43l"
+    },
+    {
+     "solution": "Copper Fit-compressiesokken",
+     "category": "copper_or_magnetic",
+     "brand_or_product": "Copper Fit",
+     "verdict": "no_effect",
+     "first_hand": false,
+     "reason": "Geen 'echte' medische compressie volgens reageerder",
+     "source_id": "kpun43l"
+    },
+    {
+     "solution": "Brooks",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Voeten 'no longer kill me'",
+     "source_id": "kpua26b"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Crocs",
+    "Skechers",
+    "Brooks",
+    "Copper Fit",
+    "Sore Dawgs",
+    "Dansko"
+   ],
+   "copper": {
+    "mentioned": true,
+    "sentiment": "negative",
+    "summary_nl": "Een reageerder raadt compressiesokken aan, 'And not copper fit. Real medical ones': Copper Fit wordt gezien als geen echte (medische) compressie."
+   },
+   "price_mentions": [
+    "Customs can be pricey, like $400 but heat molded imo are just as good usually around $40"
+   ],
+   "quotes": [
+    {
+     "text": "Gotta do compression socks. It will make such a difference. And not copper fit. Real medical ones that are made for each foot, left or right.",
+     "source_id": "kpun43l",
+     "kind": "copper",
+     "nl_meaning": "Je moet compressiesokken nemen. Dat maakt zo'n verschil. En geen Copper Fit. Echte medische, gemaakt voor elke voet, links of rechts."
+    },
+    {
+     "text": "Customs can be pricey, like $400 but heat molded imo are just as good usually around $40 and work great.",
+     "source_id": "kpub18d",
+     "kind": "works",
+     "nl_meaning": "Maatwerk kan duur zijn, zo'n $400, maar hittevormbare zolen zijn volgens mij net zo goed, meestal rond $40, en werken prima."
+    },
+    {
+     "text": "When using an add-on insole, remove the shoe manufacturer's standard issue insole before inserting the upgrade insole.",
+     "source_id": "kpwzebn",
+     "kind": "works",
+     "nl_meaning": "Als je een extra zool gebruikt, haal dan eerst de standaard binnenzool van de fabrikant eruit."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: koper (Copper Fit) wordt in horecafora afgezet tegen 'echte medische' producten; claims rond koper moeten we daarom niet als medisch presenteren. Prijsanker: $40 hittevormbaar versus $400 maatwerk."
+  }
+ }
+]

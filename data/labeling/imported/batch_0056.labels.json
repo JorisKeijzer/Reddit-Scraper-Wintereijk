@@ -1,0 +1,193 @@
+[
+ {
+  "post_id": "tcw9pk",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Klant legde een tijdschrift verkeerd terug ('two feet').",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1khag9j",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bartender liep na 8 uur in Nike Dunks mank naar huis; Crocs mogen niet op het nieuwe werk; zoekt goedkope schoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "too_expensive"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Skechers van $100 per jaar met elke zes maanden nieuwe zolen",
+     "category": "otc_insole",
+     "brand_or_product": "Skechers",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Zorg voor voeten, benen en rug",
+     "source_id": "mr5e2rt"
+    },
+    {
+     "solution": "New Balance 740 met inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "New Balance",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Jaren voor diensten van 10 uur",
+     "source_id": "mr5e3dk"
+    }
+   ],
+   "brands_mentioned": [
+    "Nike",
+    "Crocs",
+    "New Balance",
+    "Skechers",
+    "Hoka",
+    "Red Wing"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I wore dunks to work and was limping home by the end of my 8hr shift.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik droeg Dunks naar mijn werk en liep aan het eind van mijn dienst van 8 uur mank naar huis."
+    },
+    {
+     "text": "Don't get budget shoes. You'll regret it. I wear Skechers that run about $100, but l and I buy new ones every year. New insoles every six months.",
+     "source_id": "mr5e2rt",
+     "kind": "buying_trigger",
+     "nl_meaning": "Koop geen budgetschoenen, daar krijg je spijt van. Ik draag Skechers van ongeveer $100 en koop elk jaar nieuwe. Elke zes maanden nieuwe zolen."
+    },
+    {
+     "text": "Pay for shoes now, or Advil and podiatrist later.",
+     "source_id": "mr5mvsi",
+     "kind": "buying_trigger",
+     "nl_meaning": "Betaal nu voor schoenen, of later voor pijnstillers en de podotherapeut."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'Pay for shoes now, or Advil and podiatrist later' is een kant-en-klare hook. 'Nieuwe zolen elke zes maanden' bevestigt het vervangingsritme."
+  }
+ },
+ {
+  "post_id": "umpeer",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Chef met brede voeten maakt dagen van 12-16 uur; comfort is alles.",
+   "regions": [],
+   "conditions": [
+    "wide feet",
+    "flat feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "odor"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Crocs Bistro Pro",
+     "category": "shoes",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Platvoet en overgewicht, voeten nooit pijnlijk; stinken niet",
+     "source_id": "i833neb"
+    },
+    {
+     "solution": "Birkenstocks met orthesen",
+     "category": "custom_orthotic",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Genoemd",
+     "source_id": "i832dj4"
+    }
+   ],
+   "brands_mentioned": [
+    "Crocs",
+    "Snibbs",
+    "Birkenstock",
+    "White's",
+    "Vibram",
+    "Vans",
+    "Skechers"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I'm flat footed as fuck and overweight. I wear bistro pro Crocs and my feet never hurt after long shifts",
+     "source_id": "i833neb",
+     "kind": "works",
+     "nl_meaning": "Ik heb extreme platvoeten en overgewicht. Ik draag Bistro Pro Crocs en mijn voeten doen nooit pijn na lange diensten."
+    },
+    {
+     "text": "They’re also the only kitchen shoes I’ve ever owned that don’t smell like the inside of the devil’s asshole after a month.",
+     "source_id": "i83ddqt",
+     "kind": "works",
+     "nl_meaning": "Het zijn ook de enige keukenschoenen die ik ooit had die na een maand niet stinken als de hel."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: in de keuken is 'stinkt niet na een maand' een echt verkoopargument; geur komt in de horeca steeds terug."
+  }
+ }
+]
