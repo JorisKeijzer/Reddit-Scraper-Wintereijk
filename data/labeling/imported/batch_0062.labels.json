@@ -1,0 +1,167 @@
+[
+ {
+  "post_id": "1vrqm6w",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Wekelijks nieuwsoverzicht over logistiek.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "ttxsct",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Beginnende bouwvakker heeft 'dode' voeten en zweet enorm in zijn werklaarzen.",
+   "regions": [
+    "whole_foot",
+    "skin"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "construction",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Merino sokken (Darn Tough, Smartwool) in plaats van katoen",
+     "category": "lifestyle_other",
+     "brand_or_product": "Darn Tough, Smartwool",
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Ademen het best",
+     "source_id": "i30thkw"
+    },
+    {
+     "solution": "Laarzendroger en twee paar laarzen afwisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Bacteriën bouwen zich niet op",
+     "source_id": "i30k26c"
+    }
+   ],
+   "brands_mentioned": [
+    "Darn Tough",
+    "Smartwool"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "my feet are dead. how do i stop them from sweating in my work boots?? does it go away after a while??",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Mijn voeten zijn dood. Hoe zorg ik dat ze niet meer zweten in mijn werklaarzen?? Gaat het na een tijdje over??"
+    },
+    {
+     "text": "get a boot dryer.  It helps keep your boots and bacteria doesn’t really build up in there if you use it every day.",
+     "source_id": "i30k26c",
+     "kind": "works",
+     "nl_meaning": "Neem een laarzendroger. Die houdt je laarzen goed en er bouwen zich niet echt bacteriën op als je hem elke dag gebruikt."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: zweet en bacteriën in werklaarzen zijn een groot probleem (342 reacties); een zool die vocht en geur beperkt past goed bij koper, mits onderbouwd."
+  }
+ },
+ {
+  "post_id": "13y6n17",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Nieuwe Amazon-medewerker heeft na drie weken elke dag pijn in benen, voeten en rug, zelfs op vrije dagen.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede inlegzolen en juiste til- en buktechniek",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'dropped the level of pain drastically'",
+     "source_id": "jmla5ls"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "oh for the love of god ive been at this job 3 weeks and everyday my body (specifically legs, feet and back) be killing me.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "O god, ik werk hier drie weken en elke dag doet mijn lichaam (vooral benen, voeten en rug) me enorm pijn."
+    },
+    {
+     "text": "Buy good insoles and actually do correct lifting and bending techniques. Once I did that I dropped the level of pain drastically it was ridiculous.",
+     "source_id": "jmla5ls",
+     "kind": "works",
+     "nl_meaning": "Koop goede zolen en til en buk echt op de juiste manier. Toen ik dat deed, nam de pijn belachelijk veel af."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: de eerste drie weken in een magazijnbaan zijn hét moment; 'niemand vertelt dit bij de introductie' is een opening voor voorlichting."
+  }
+ }
+]

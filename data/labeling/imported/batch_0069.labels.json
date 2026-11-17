@@ -1,0 +1,180 @@
+[
+ {
+  "post_id": "11coapw",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Elektriciens vergelijken hoeveel voet buis ze per dag leggen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match (lengtemaat)."
+  }
+ },
+ {
+  "post_id": "17crc22",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Amazon-picker werkt drie maanden en kan nog steeds geen volle week aan; ondanks goede zolen en voetbaden wennen haar voeten niet.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede inlegzolen en epsomzout",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Voeten nog steeds niet gewend",
+     "source_id": "post"
+    },
+    {
+     "solution": "Skechers met memory foam",
+     "category": "shoes",
+     "brand_or_product": "Skechers",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'changed my entire day'",
+     "source_id": "k5s4mwm"
+    },
+    {
+     "solution": "Twee paar schoenen afwisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'does wonders'",
+     "source_id": "k5sdrdp"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "The first week was HELL for my feet. I could barely walk by the time I was out.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "De eerste week was een HEL voor mijn voeten. Ik kon nauwelijks lopen toen ik klaar was."
+    },
+    {
+     "text": "Been here 8 years, define “better”",
+     "source_id": "k5rzyyq",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik ben hier 8 jaar, definieer 'beter'."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: voetpijn kost medewerkers uren (PTO om eerder weg te gaan); dat is ook een argument richting werkgevers."
+  }
+ },
+ {
+  "post_id": "vfj5jb",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Amazon-medewerker zou zijn 10-uursdiensten leuk vinden als zijn voeten niet zo'n pijn deden.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Schoenen afwisselen, gelinlegzolen, extra dikke sokken",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "'The pain lessens a bit'",
+     "source_id": "icw5up2"
+    },
+    {
+     "solution": "Altijd de fabrieksbinnenzool vervangen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Fabrikanten bezuinigen daarop",
+     "source_id": "icyiu75"
+    }
+   ],
+   "brands_mentioned": [
+    "Zappos",
+    "Walmart",
+    "Vans"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I would honestly genuinely enjoy coming to work my 10 hour shifts if my feet didn't hurt as bad as they do, that is the only thing that ruins my entire day.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik zou mijn diensten van 10 uur echt leuk vinden als mijn voeten niet zo'n pijn deden; dat is het enige wat mijn hele dag verpest."
+    },
+    {
+     "text": "you should always replace the insoles on shoes since it is usually the thing manufacturers cheap out on.",
+     "source_id": "icyiu75",
+     "kind": "buying_trigger",
+     "nl_meaning": "Je moet altijd de binnenzolen van schoenen vervangen, want daar bezuinigen fabrikanten meestal op."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'fabrikanten bezuinigen op de binnenzool' is een sterk argument om altijd een eigen zool te kopen."
+  }
+ }
+]

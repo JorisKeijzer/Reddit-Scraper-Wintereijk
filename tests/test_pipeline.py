@@ -134,3 +134,15 @@ def test_collect_label_export_roundtrip(tmp_path, monkeypatch):
     assert statuses[0].startswith("Exact") and statuses[1].startswith("NIET")
     urls = [r[9] for r in wb["Oplossingen"].iter_rows(min_row=2, values_only=True)]
     assert urls[0].endswith("/abc123/insoles/c1/")
+
+
+def test_noise_filter_for_labeling_order():
+    def post(title, text=""):
+        return {"title": title, "selftext": text}
+
+    assert label._is_noise(post("If you needed 500 feet of indoor copper wiring"))
+    assert label._is_noise(post("First time seeing chicken feet"))
+    assert label._is_noise(post("12 feet deep no box or shoring"))
+    assert not label._is_noise(post("My feet are KILLING ME"))
+    assert not label._is_noise(post("Walked 200 feet to the break room", "my feet hurt in these boots"))
+    assert not label._is_noise(post("Copper insoles for heel pain?"))

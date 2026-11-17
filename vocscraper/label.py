@@ -218,9 +218,34 @@ def pending_posts(conn: sqlite3.Connection, limit: int | None, relabel: bool = F
         (p.num_comments > 0) DESC,
         ({foot}) DESC,
         p.num_comments DESC"""
-    if limit:
-        sql += f" LIMIT {int(limit)}"
-    return conn.execute(sql).fetchall()
+    rows = conn.execute(sql).fetchall()
+    # Valse matches naar achteren: koper als bedrading/materiaal en 'feet' als lengtemaat of in
+    # uitdrukkingen ("200 feet of cable", "chicken feet", "back on my feet").
+    rows.sort(key=lambda p: _is_noise(p))
+    return rows[:limit] if limit else rows
+
+
+_UNIT_FEET = re.compile(r"\d[\d,.]*\s*(?:-|\s)?(?:feet|foot|ft)\b|\b(?:square|sq|cubic|linear)\s+(?:feet|foot)\b", re.I)
+_FEET_PHRASES = ("chicken feet", "back on my feet", "back on our feet", "cold feet about", "kissed their feet",
+                 "feet on the dash", "pets (and feet)")
+_COPPER_MATERIAL = ("copper wir", "copper pipe", "copper cable", "copper ethernet", "copper line", "copper dust",
+                    "copper iud", "lifting copper", "scrap copper")
+_FOOT_CONTEXT = ("foot pain", "feet hurt", "my feet", "sore feet", "insole", "heel", "arch", "plantar", "shoe",
+                 "boot", "sock", "orthotic", "toe", "neuropath", "voet", "zool", "fuß", "füße")
+
+
+def _is_noise(post: sqlite3.Row) -> bool:
+    title = (post["title"] or "").lower()
+    text = f"{title} {(post['selftext'] or '').lower()}"
+    if any(w in text for w in _COPPER_MATERIAL) and not any(w in text for w in _FOOT_CONTEXT):
+        return True
+    title_without_units = _UNIT_FEET.sub("", title)
+    for phrase in _FEET_PHRASES:
+        title_without_units = title_without_units.replace(phrase, "")
+    if ("feet" in title or "foot" in title) and not re.search(r"\b(feet|foot)\b", title_without_units) \
+            and not any(w in text for w in _FOOT_CONTEXT):
+        return True
+    return False
 
 
 def run(db_path: str, limit: int | None, model: str = DEFAULT_MODEL, workers: int = 4, relabel: bool = False) -> int:

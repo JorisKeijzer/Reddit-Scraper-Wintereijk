@@ -1,0 +1,190 @@
+[
+ {
+  "post_id": "10iru42",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Leidinggevenden bij Amazon smeken om vrijwillig vrij te nemen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "sosif2",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Amazon-medewerker na twee weken: hoe lang duurt het voordat voeten wennen aan diensten van 10 uur?",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede inlegzolen, epsomzout, massage",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Good insoles are also what made the difference for me'",
+     "source_id": "hwayxbl"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Been here almost 10 years…my body and feet will never get used to it. Eventually, you’ll get to where the pain is manageable.",
+     "source_id": "hwavhry",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik ben hier bijna 10 jaar... mijn lichaam en voeten wennen er nooit aan. Uiteindelijk wordt de pijn wel draaglijk."
+    },
+    {
+     "text": "Good insoles are also what made the difference for me.",
+     "source_id": "hwayxbl",
+     "kind": "works",
+     "nl_meaning": "Goede zolen maakten voor mij ook het verschil."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'draaglijk' is het realistische doel; beloof geen pijnvrijheid maar een betere dienst."
+  }
+ },
+ {
+  "post_id": "1juty75",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "Amazon-medewerker: extra dikke sokken en gelzolen maken niet uit, de voeten zijn 'cooked'; eelt, bunions en klachten sinds de verplichte veiligheidsschoenen.",
+   "regions": [
+    "skin",
+    "toes",
+    "arch",
+    "heel"
+   ],
+   "conditions": [
+    "calluses",
+    "bunions"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Gelinlegzolen en extra dikke sokken",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "'don't matter'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Dr. Scholl's in eigen schoenen (vóór de verplichte veiligheidsschoenen)",
+     "category": "otc_insole",
+     "brand_or_product": "Dr. Scholl's",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'I was good'",
+     "source_id": "mm52gdi"
+    },
+    {
+     "solution": "Alleen boogondersteuning",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Vaak over het hoofd gezien; volledige zolen tillen de hele voet op",
+     "source_id": "mm576xm"
+    }
+   ],
+   "brands_mentioned": [
+    "Dr. Scholl's"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Extra cushion socks, gel insoles, don't matter. After working here, these shit stompers are cooked.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Extra dikke sokken, gelzolen, maakt niet uit. Na hier gewerkt te hebben zijn deze stampers kapot."
+    },
+    {
+     "text": "All I had to do was buy a pair of Dr. Scholls insoles and I was good. Didn't start getting callusses until the safety shoes were actually made mandatory.",
+     "source_id": "mm52gdi",
+     "kind": "works",
+     "nl_meaning": "Ik hoefde alleen een paar Dr. Scholl's-zolen te kopen en het was goed. Pas toen veiligheidsschoenen verplicht werden, kreeg ik eelt."
+    },
+    {
+     "text": "Insoles tend to lift the whole foot which doesn't change much for your arch.",
+     "source_id": "mm576xm",
+     "kind": "objection",
+     "nl_meaning": "Inlegzolen tillen vaak de hele voet op, wat weinig verandert voor je boog."
+    },
+    {
+     "text": "Thanks to Amazon I learned what a bunion is and how painful it is 🥲",
+     "source_id": "mm5ate1",
+     "kind": "pain",
+     "nl_meaning": "Dankzij Amazon weet ik wat een bunion is en hoe pijnlijk dat is."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: gelzolen hebben bij deze groep een slechte naam ('don't matter'); stevige boogsteun onderscheidt zich."
+  }
+ }
+]

@@ -1,0 +1,184 @@
+[
+ {
+  "post_id": "1giv7iw",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Prijsscanner bij Costco hangt 'six feet' hoog.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match (lengtemaat)."
+  }
+ },
+ {
+  "post_id": "15j6w7o",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Nieuwe Amazon-medewerker ging op dag één vroeg naar huis omdat zijn voeten 'felt like exploding' in de verplichte veiligheidsschoenen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "'help for a bit, but then the pain comes back'",
+     "source_id": "juyvkst"
+    },
+    {
+     "solution": "Halve maat groter",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Voeten zwellen op",
+     "source_id": "juyusb1"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I wasn't allowed to wear my normal shoes that were desgined for support.",
+     "source_id": "juy94ug",
+     "kind": "pain",
+     "nl_meaning": "Ik mocht mijn normale schoenen met steun niet dragen."
+    },
+    {
+     "text": "Felt like I was walking on knives. Every step I was wincing.",
+     "source_id": "juyuy8q",
+     "kind": "pain",
+     "nl_meaning": "Het voelde alsof ik op messen liep. Bij elke stap kromp ik ineen."
+    },
+    {
+     "text": "Insoles help for a bit, but then the pain comes back.",
+     "source_id": "juyvkst",
+     "kind": "objection",
+     "nl_meaning": "Inlegzolen helpen even, maar dan komt de pijn terug."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'zolen helpen even' is een bezwaar; kwaliteit en vervangingsadvies moeten dat weerleggen."
+  }
+ },
+ {
+  "post_id": "1tly0gp",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Bouwvakker die 10 uur per dag in de hitte in laarzen werkt, heeft schilferende huid tussen de kleinste tenen.",
+   "regions": [
+    "skin",
+    "toes"
+   ],
+   "conditions": [
+    "athlete's foot"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "construction",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Gold Bond-poeder in sokken",
+     "category": "lifestyle_other",
+     "brand_or_product": "Gold Bond",
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Meest genoemd",
+     "source_id": "onj0da8"
+    },
+    {
+     "solution": "Laarzendroger en twee paar afwisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Leer droogt traag",
+     "source_id": "onj1ofy"
+    },
+    {
+     "solution": "Schimmelwerend poeder in de laarzen",
+     "category": "medication_injection",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Bij zwemmerseczeem",
+     "source_id": "onj1jhy"
+    }
+   ],
+   "brands_mentioned": [
+    "Gold Bond"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "The peeling between toes is classic athlete's foot territory - moisture gets trapped there even with good sock changes.",
+     "source_id": "onj1jhy",
+     "kind": "pain",
+     "nl_meaning": "Het vervellen tussen de tenen is typisch zwemmerseczeem: vocht blijft daar hangen, zelfs als je goed van sokken wisselt."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": true,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: vocht in werklaarzen leidt tot schimmel; 'droog en fris' is een concrete wens. Geen antischimmelclaim zonder onderbouwing."
+  }
+ }
+]

@@ -1,0 +1,237 @@
+[
+ {
+  "post_id": "1qkt9tp",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand vraagt of de inlegzolen van Costco goed zijn; reacties raden maatwerkzolen ($300-500) of 'Fit My Foot' aan.",
+   "regions": [],
+   "conditions": [
+    "flat feet",
+    "high arches"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Maatwerkzolen van de podotherapeut",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'truly changed my life'; $300-500",
+     "source_id": "o191a2y"
+    },
+    {
+     "solution": "Fit My Foot",
+     "category": "otc_insole",
+     "brand_or_product": "Fit My Foot",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'simply terrific', aangeraden door podotherapeut",
+     "source_id": "o192blu"
+    }
+   ],
+   "brands_mentioned": [
+    "Costco",
+    "Fit My Foot"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "Mine were $300 a few years ago",
+    "I paid about $500 for a pair at my podiatrist office. Insurance didn't cover for me."
+   ],
+   "quotes": [
+    {
+     "text": "They’re stupidly expensive, but have truly changed my life as someone with very flat feet.",
+     "source_id": "o191a2y",
+     "kind": "works",
+     "nl_meaning": "Ze zijn belachelijk duur, maar hebben mijn leven echt veranderd met mijn erg platte voeten."
+    },
+    {
+     "text": "I paid about $500 for a pair at my podiatrist office. Insurance didn't cover for me.",
+     "source_id": "o193g4v",
+     "kind": "objection",
+     "nl_meaning": "Ik betaalde zo'n $500 voor een paar bij mijn podotherapeut. De verzekering vergoedde niets."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: prijsankers voor maatwerk zijn $300-500 en vaak niet vergoed; een goede zool voor een fractie daarvan is een sterk prijsargument."
+  }
+ },
+ {
+  "post_id": "1iiqigl",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Amazon-medewerker kocht composietschoenen met memory foam-zolen en stapelt nu vier zolen tegelijk, maar de pijn blijft.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "no_effect",
+    "too_soft"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Meerdere memory foam-zolen op elkaar",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Pijn blijft hetzelfde",
+     "source_id": "post"
+    },
+    {
+     "solution": "Kuitheffen op een verhoging",
+     "category": "stretching_exercise",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Spieren en pezen versterken",
+     "source_id": "mb89h4b"
+    }
+   ],
+   "brands_mentioned": [
+    "Skechers",
+    "Zappos"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "It didnt really help so now i have 3 more insoles i use at the same time and the pain is still the same.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Het hielp niet echt, dus nu gebruik ik er nog drie zolen bij, tegelijk, en de pijn is nog steeds hetzelfde."
+    },
+    {
+     "text": "I don’t manage it. I live with the pain",
+     "source_id": "mb7ybs9",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik beheer het niet. Ik leef met de pijn."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: mensen stapelen zachte zolen in wanhoop; 'meer zacht is niet beter' is een sterke educatieve boodschap."
+  }
+ },
+ {
+  "post_id": "u5k1df",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "Na een week in verplichte veiligheidsschoenen doen voeten, knieën en rug weer pijn, terwijl ze na 45 kg afvallen pijnvrij waren.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "made_worse"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Verplichte veiligheidsschoenen",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "Pijn kwam terug",
+     "source_id": "i52ghzs"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I've dropped well over 100lbs and my feet, knees and back stopped hurting. 1 week in saftey shoes my feet, knees and back are hurting again.",
+     "source_id": "i52ghzs",
+     "kind": "fails",
+     "nl_meaning": "Ik ben ruim 45 kilo afgevallen en mijn voeten, knieën en rug deden geen pijn meer. Eén week in veiligheidsschoenen en alles doet weer pijn."
+    },
+    {
+     "text": "I have four pairs of safety shoes and they’re all awful.  Next step is trying more insoles.",
+     "source_id": "i52fjqd",
+     "kind": "buying_trigger",
+     "nl_meaning": "Ik heb vier paar veiligheidsschoenen en ze zijn allemaal vreselijk. De volgende stap is meer zolen proberen."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'de volgende stap is zolen proberen' na verplichte schoenen; Amazon-magazijnen zijn een concentratie van kopers."
+  }
+ },
+ {
+  "post_id": "1hkxtti",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Elektricien zonder armen werkt met zijn voeten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ }
+]

@@ -1,0 +1,179 @@
+[
+ {
+  "post_id": "1nn20vt",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Klacht over collega's die hun voeten in de wasbak wassen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet relevant."
+  }
+ },
+ {
+  "post_id": "1gi1q0l",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Amazon biedt medewerkers gratis inlegzolen aan; sommigen wantrouwen het, anderen zeggen dat het hun heup- en kniepijn verbeterde.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Gratis inlegzolen van Amazon",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'significantly improved my hip and knee pain'",
+     "source_id": "lv1yv3i"
+    }
+   ],
+   "brands_mentioned": [
+    "Amazon",
+    "Zappos"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Insoles are cheaper than someone going to the doctor for their feet.",
+     "source_id": "lv1rsot",
+     "kind": "buying_trigger",
+     "nl_meaning": "Zolen zijn goedkoper dan iemand die met zijn voeten naar de dokter gaat."
+    },
+    {
+     "text": "Because they want us to stop complaining that the stupid shoes hurt our feet",
+     "source_id": "lv3rpgr",
+     "kind": "objection",
+     "nl_meaning": "Omdat ze willen dat we ophouden met klagen dat die stomme schoenen pijn doen."
+    },
+    {
+     "text": "They are free and significantly improved my hip and knee pain.",
+     "source_id": "lv1yv3i",
+     "kind": "works",
+     "nl_meaning": "Ze zijn gratis en hebben mijn heup- en kniepijn flink verbeterd."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: werkgevers (Amazon) investeren al in zolen omdat het goedkoper is dan verzuim; dat is een B2B-argument."
+  }
+ },
+ {
+  "post_id": "vdopf2",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bouwvakkers delen tips tegen stinkende voeten na een dag in laarzen.",
+   "regions": [
+    "skin"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "construction",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "odor",
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Echte leren laarzen met merino sokken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'no stink'",
+     "source_id": "icle6rp"
+    },
+    {
+     "solution": "Twee paar laarzen afwisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Laarzen gaan langer mee",
+     "source_id": "iclny75"
+    },
+    {
+     "solution": "Sokken wisselen, poeder en laarzenfan",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "icldk85"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Real leather boots + merino wool socks = no stink.",
+     "source_id": "icle6rp",
+     "kind": "works",
+     "nl_meaning": "Echte leren laarzen + merino sokken = geen stank."
+    },
+    {
+     "text": "Reason why trainers/sneakers get smelly are the plastics capture oils which bacteria feed on.",
+     "source_id": "iclu3g0",
+     "kind": "objection",
+     "nl_meaning": "Sneakers gaan stinken omdat het plastic oliën vasthoudt waar bacteriën van eten."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: bouwvakkers geloven in natuurlijke materialen tegen geur (wol, leer) en wantrouwen plastic; koper als natuurlijk materiaal past in dat frame."
+  }
+ }
+]

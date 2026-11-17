@@ -1,0 +1,140 @@
+[
+ {
+  "post_id": "s4ab1o",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "Amazon maakt veiligheidsschoenen verplicht; medewerkers klagen dat ze niet gemaakt zijn om 20 mijl per nacht in te lopen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goede inlegzolen en correct veteren in werklaarzen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Elektricien loopt 10 mijl per dag in stalen neuzen",
+     "source_id": "hsrwann"
+    }
+   ],
+   "brands_mentioned": [
+    "Timberland"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I feel so bad for the pickers .. ouch these shoes aren't made to walk 20 miles a night..",
+     "source_id": "hsqq9to",
+     "kind": "pain",
+     "nl_meaning": "Ik heb zo met de pickers te doen... au, deze schoenen zijn niet gemaakt om 20 mijl per nacht te lopen."
+    },
+    {
+     "text": "Get proper inserts, lace them correctly, and save yourself some missing toes.",
+     "source_id": "hsrwann",
+     "kind": "buying_trigger",
+     "nl_meaning": "Neem goede inlegzolen, veter ze goed en bespaar jezelf een paar missende tenen."
+    },
+    {
+     "text": "It’s the worst.  The shoes are the worst.  I have four pairs and none are comfortable.",
+     "source_id": "hspw6tw",
+     "kind": "fails",
+     "nl_meaning": "Het is verschrikkelijk. De schoenen zijn verschrikkelijk. Ik heb er vier paar en geen enkel paar is comfortabel."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: verplichte veiligheidsschoenen maken zolen noodzakelijk; de schoen kies je niet, de zool wel. Sterke positie: 'maak je verplichte werkschoen draaglijk'."
+  }
+ },
+ {
+  "post_id": "rmm65t",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "other",
+   "problem_summary_nl": "Amazon-medewerker die totes rijdt, liep volgens zijn horloge 16 mijl in één dienst; 'feet and legs have left the chat'.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "According to my Apple watch i walked 16 miles yesterday which is kinda insane, Feet and legs have left the chat 💀",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Volgens mijn Apple Watch liep ik gisteren 16 mijl, best krankzinnig. Voeten en benen hebben de chat verlaten."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: stappentellers maken de belasting concreet (16 mijl/dag); een getal als '25.000 stappen' is herkenbaar in advertenties."
+  }
+ },
+ {
+  "post_id": "k7zf3o",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Scheuren in een nieuwbouwhuis 'every few feet'.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match (lengtemaat)."
+  }
+ }
+]

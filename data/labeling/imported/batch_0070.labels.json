@@ -1,0 +1,225 @@
+[
+ {
+  "post_id": "1mn0yys",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Zwaardere Amazon-medewerker in decant kan na twee weken bij de tweede pauze nauwelijks lopen; Dr. Scholl's maakte het erger.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "overweight"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "made_worse"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Dr. Scholl's-zolen",
+     "category": "otc_insole",
+     "brand_or_product": "Dr. Scholl's",
+     "verdict": "made_worse",
+     "first_hand": true,
+     "reason": "'that hurt even worse'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Goede sokken (Fox River)",
+     "category": "lifestyle_other",
+     "brand_or_product": "Fox River",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Geen pijn of blaren",
+     "source_id": "n81odpm"
+    },
+    {
+     "solution": "Timberland Pro met eigen zolen",
+     "category": "shoes",
+     "brand_or_product": "Timberland Pro",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'insoles are the best'",
+     "source_id": "n81rclf"
+    }
+   ],
+   "brands_mentioned": [
+    "Zappos",
+    "Reebok",
+    "Dr. Scholl's",
+    "Fox River",
+    "Timberland Pro"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "I'd like to use the $110 for a better pair of shoes"
+   ],
+   "quotes": [
+    {
+     "text": "although the job itself is easy, my feet are going to make me quit.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Hoewel het werk zelf makkelijk is, gaan mijn voeten ervoor zorgen dat ik stop."
+    },
+    {
+     "text": "I switched them out for Dr Scholls and that hurt even worse.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Ik verving ze door Dr. Scholl's en dat deed nog meer pijn."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'mijn voeten laten me stoppen' komt steeds terug; ook Amazon geeft Zappos-tegoed ($110) voor schoenen: werkgeversbudget."
+  }
+ },
+ {
+  "post_id": "1ayi8ac",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Chip in de vorm van een voet in een zak Lay's.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1d17rjk",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Waardering voor stowers bij Amazon ('keep us on our feet').",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "pvjrqk",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Amazon-medewerker gebruikt compressiesokken, comfortabele schoenen en nieuwe zolen; dat helpt een beetje en hij zoekt meer.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Nieuwe inlegzolen, compressiesokken, comfortabele schoenen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "'helps a little'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Brooks",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Halverwege de dienst geen pijn",
+     "source_id": "heasanf"
+    },
+    {
+     "solution": "IJspakken onder de voeten tijdens lunch",
+     "category": "rest_ice",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'works wonders'",
+     "source_id": "heai755"
+    }
+   ],
+   "brands_mentioned": [
+    "Brooks",
+    "Adidas Ultraboost",
+    "Nike",
+    "Hoka",
+    "Superfeet"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "First time I wore them, I realized about half way into shift that my feet didn't hurt at all. I think I stared at them like a dumbass for about 15 seconds. I was in shock.",
+     "source_id": "heasanf",
+     "kind": "works",
+     "nl_meaning": "De eerste keer dat ik ze droeg, besefte ik halverwege de dienst dat mijn voeten helemaal geen pijn deden. Ik heb er volgens mij 15 seconden als een idioot naar gestaard. Ik was in shock."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: het 'ik merkte halverwege dat mijn voeten geen pijn deden'-moment is een sterk testimonialformat."
+  }
+ }
+]

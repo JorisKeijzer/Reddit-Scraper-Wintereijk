@@ -1,0 +1,248 @@
+[
+ {
+  "post_id": "1iiyl7t",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Bouwvakker overweegt te stoppen omdat verplichte stalen/composiet-laarzen en lang staan zijn voeten kapot hebben gemaakt.",
+   "regions": [
+    "whole_foot"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "construction",
+    "work_boots",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Orthesen van de podotherapeut",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Vijf jaar geen problemen",
+     "source_id": "mb9nju0"
+    },
+    {
+     "solution": "Dr. Scholl's Tri-Comfort onder $10",
+     "category": "otc_insole",
+     "brand_or_product": "Dr. Scholl's",
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "mb9pd96"
+    },
+    {
+     "solution": "Keen Cincinnati met Darn Tough-sokken",
+     "category": "shoes",
+     "brand_or_product": "Keen, Darn Tough",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'the best for me'",
+     "source_id": "mb9rvtv"
+    }
+   ],
+   "brands_mentioned": [
+    "Keen",
+    "Darn Tough",
+    "Dr. Scholl's"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Currently on the verge of quitting the construction industry due to being forced to wear steel / composite boots ( and standing all day long hours ) which have eventually lead to my feet developing issues.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Ik sta op het punt de bouw te verlaten omdat ik verplicht stalen/composiet-laarzen moet dragen (en de hele dag lang sta), waardoor mijn voeten problemen kregen."
+    },
+    {
+     "text": "Went to one of those foot doctor guys and they game me orthotics. Never had an issue again and that was about five years ago.",
+     "source_id": "mb9nju0",
+     "kind": "works",
+     "nl_meaning": "Ik ging naar zo'n voetendokter en kreeg orthesen. Daarna nooit meer een probleem, en dat is vijf jaar geleden."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: voetpijn jaagt mensen uit hun vak; 'blijf doen wat je doet' is een emotionele belofte zonder medische claim."
+  }
+ },
+ {
+  "post_id": "y2yp9y",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "other",
+   "problem_summary_nl": "Iemand met maat 17 wil de verwarmde merino sokken van Costco ($90); reacties over koude voeten bij buitenwerk.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "other"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [
+    "Costco",
+    "Darn Tough"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "A little pricey at $90 but dreams are expensive."
+   ],
+   "quotes": [
+    {
+     "text": "As someone who has to work outside in all seasons $90 is a small price to pay for toasty toesies.",
+     "source_id": "is68c3p",
+     "kind": "buying_trigger",
+     "nl_meaning": "Voor iemand die in alle seizoenen buiten werkt, is $90 een kleine prijs voor warme teentjes."
+    },
+    {
+     "text": "My feet don't smell anymore and never have that sweatiness to them, plus they're warm.",
+     "source_id": "is6wga1",
+     "kind": "works",
+     "nl_meaning": "Mijn voeten ruiken niet meer en zijn nooit meer zweterig, en ze zijn warm."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: buitenwerkers betalen graag voor warme, droge, geurloze voeten."
+  }
+ },
+ {
+  "post_id": "153nlpc",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Amazon-medewerker huilt aan haar werkplek van de pijn; drie soorten zolen en compressiesokken werkten niet.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "no_effect"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Drie soorten inlegzolen en compressiesokken",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "'nothing works'",
+     "source_id": "post"
+    },
+    {
+     "solution": "Vier paar schoenen afwisselen, allemaal met Superfeet",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Boog laten meten",
+     "source_id": "jskhrsh"
+    },
+    {
+     "solution": "Arts bezoeken",
+     "category": "doctor_podiatrist",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Bleek diabetes; met medicatie en minder koolhydraten veel beter",
+     "source_id": "jskcuyp"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "Skechers"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Literally crying at my station from the pain, I’ve bought three different types of insoles and compression socks but nothing works!",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik zit letterlijk te huilen aan mijn werkplek van de pijn. Ik heb drie soorten zolen en compressiesokken gekocht, maar niets werkt!"
+    },
+    {
+     "text": "How much is being pain free worth to you?? Lol",
+     "source_id": "jslcvfb",
+     "kind": "buying_trigger",
+     "nl_meaning": "Hoeveel is pijnvrij zijn je waard?? Lol"
+    }
+   ],
+   "emotional_intensity": 5,
+   "medical_red_flag": true,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: na drie mislukte zolen is vertrouwen laag; garantie en een eerlijke 'als het niet helpt, ga naar een arts' geven geloofwaardigheid."
+  }
+ },
+ {
+  "post_id": "1lwcw3u",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Amazon-medewerker kreeg een ijsje als beloning na 12 uur.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Alleen een grap over vermoeide voeten."
+  }
+ }
+]
