@@ -1,0 +1,143 @@
+[
+ {
+  "post_id": "6q8q7z",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Beginnende leraar zoekt schoenen die er goed uitzien en geen pijn doen.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "teaching",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Goedkope leuke schoenen met goede inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": true,
+     "reason": "'you can rock a shoe that fits with a nice inside'",
+     "source_id": "dkvk09o"
+    },
+    {
+     "solution": "Clarks",
+     "category": "shoes",
+     "brand_or_product": "Clarks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Comfortabel en professioneel",
+     "source_id": "dkvh867"
+    },
+    {
+     "solution": "Dansko Professional",
+     "category": "shoes",
+     "brand_or_product": "Dansko",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'all the way'",
+     "source_id": "dkvtkjs"
+    }
+   ],
+   "brands_mentioned": [
+    "Clarks",
+    "Nike",
+    "Toms",
+    "Target",
+    "Dansko",
+    "Keen",
+    "Merrell",
+    "Hoka"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Get a good pair of insoles. Honestly, you can rock a shoe that fits with a nice inside. I got some knock off Tom's at Target today that are super cute. I'm just going to throw some insoles in there!",
+     "source_id": "dkvk09o",
+     "kind": "buying_trigger",
+     "nl_meaning": "Neem een goed paar zolen. Eerlijk, je kunt elke passende schoen dragen met een goede binnenkant. Ik kocht vandaag namaak-Toms bij Target die superleuk zijn. Ik doe er gewoon zolen in!"
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'leuke goedkope schoen + goede zool' is een herkenbaar recept voor jonge leraren."
+  }
+ },
+ {
+  "post_id": "1f0wrfr",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Nieuwe kleuterjuf (voorheen thuiswerker) heeft na de eerste week zoveel pijn in voeten en benen dat het weekend niet genoeg is om te herstellen.",
+   "regions": [
+    "whole_foot",
+    "legs_knees_back"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "teaching",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Compressiesokken",
+     "category": "compression_socks",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'They really do help'",
+     "source_id": "ljuv7mz"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Nike Air Force 1"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "With the kinders I'm constantly on my feet watching them/redirecting them. My feet are dying.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Bij de kleuters sta ik constant op mijn voeten om ze in de gaten te houden en bij te sturen. Mijn voeten gaan dood."
+    },
+    {
+     "text": "At least until you hit 35 and realize you've ruined your legs and feet for the rest of your life and your doctor just shrugs.",
+     "source_id": "ljv7ol6",
+     "kind": "impact_on_life",
+     "nl_meaning": "Tenminste tot je 35 wordt en beseft dat je je benen en voeten voor de rest van je leven hebt verpest, en je dokter haalt alleen zijn schouders op."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: overstappers van thuiswerk naar staand werk (leraren, kleuterjuffen) zijn een groep die het eerste schooljaar zolen zoekt; augustus/september is het koopmoment."
+  }
+ }
+]

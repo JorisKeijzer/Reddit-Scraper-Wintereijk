@@ -1,0 +1,201 @@
+[
+ {
+  "post_id": "1d6o7ek",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Nieuwe zorgassistent (CNA) heeft na twee diensten pijnlijke voeten.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "healthcare_shift"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Crocs met compressiekousen",
+     "category": "compression_socks",
+     "brand_or_product": "Crocs",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'the best I’ve tried'; wel wat zweterig",
+     "source_id": "l6v0yan"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'ugly, and kind of expensive' maar geliefd",
+     "source_id": "l6u62v5"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Skechers",
+    "Crocs",
+    "Clove",
+    "Asics",
+    "Brooks"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Compression stockings with crocs are the best I’ve tried. I have the “bistro” style crocs with no holes in them. A little sweaty in there but nothing gets in and they are easy to clean!",
+     "source_id": "l6v0yan",
+     "kind": "works",
+     "nl_meaning": "Compressiekousen met Crocs zijn het beste wat ik geprobeerd heb. Ik heb de 'bistro'-Crocs zonder gaten. Een beetje zweterig, maar er komt niets in en ze zijn makkelijk schoon te maken!"
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: in de zorg zijn dichte, afwasbare schoenen de norm, maar 'a little sweaty'; een frisse zool past daarin."
+  }
+ },
+ {
+  "post_id": "y9dg0w",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Makelaar vergelijkt een goedkope en een betere schoen en concludeert dat de goedkoopste niet altijd het best is.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "daily_walking"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [
+    "Teva",
+    "Dr Martens",
+    "Rose Anvil"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Footwear should be as quality as possible.  Life is a drag when every step hurts.",
+     "source_id": "it4y6bz",
+     "kind": "impact_on_life",
+     "nl_meaning": "Schoeisel moet zo goed mogelijk zijn. Het leven is een opgave als elke stap pijn doet."
+    },
+    {
+     "text": "It is surprising that more expensive doesn’t always mean best construction or even better materials.",
+     "source_id": "it52w87",
+     "kind": "objection",
+     "nl_meaning": "Het is verrassend dat duurder niet altijd betere constructie of materialen betekent."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: kopers zijn alert op 'duur maar niet beter' (Rose Anvil-video's); laat de opbouw van de zool zien."
+  }
+ },
+ {
+  "post_id": "1rvw7cm",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "Amazon-medewerker heeft zoveel blaren en pijn van de goedkope schoenen en standaardzool dat ze verlof moest nemen om te herstellen.",
+   "regions": [
+    "skin",
+    "whole_foot"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "no_effect",
+    "too_hard"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Gratis Protalus-zool met de fabriekszool erbovenop",
+     "category": "otc_insole",
+     "brand_or_product": "Protalus, Caterpillar",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Via Amazon-tegoed",
+     "source_id": "oavjbsp"
+    },
+    {
+     "solution": "Zelf schoenen van $45 gekocht",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Best $45 I’ve ever spent'",
+     "source_id": "oavkhlb"
+    }
+   ],
+   "brands_mentioned": [
+    "Dr. Scholl's",
+    "Caterpillar",
+    "Protalus",
+    "Zappos"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [
+    "Since they give you a $110 credit, and a 15-20% discount on any shoe listed",
+    "Best $45 I’ve ever spent"
+   ],
+   "quotes": [
+    {
+     "text": "These cheap ass shoes they let us order are not cutting it .. even with that basic ass insole. I have mad blisters on my shit.",
+     "source_id": "post",
+     "kind": "fails",
+     "nl_meaning": "Die goedkope schoenen die we mogen bestellen voldoen niet... zelfs niet met die basiszool. Ik zit onder de blaren."
+    },
+    {
+     "text": "I get the free Protalus insole with the shoe, and I stack the factory insole on top of it.",
+     "source_id": "oavjbsp",
+     "kind": "works",
+     "nl_meaning": "Ik krijg de gratis Protalus-zool bij de schoen en leg de fabriekszool erbovenop."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: Amazon werkt al met een zolenpartner (Protalus) via het schoentegoed; dat is precies het B2B-kanaal dat wij ook zouden kunnen benaderen."
+  }
+ }
+]

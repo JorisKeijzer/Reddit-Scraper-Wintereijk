@@ -1,0 +1,145 @@
+[
+ {
+  "post_id": "qjg147",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Amazon-medewerker van ruim 90 kg in AFE pack heeft enorme voetpijn en wil iets anders dan 'val af'.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "overweight"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzolen voor fasciitis",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "'Cheaper than shoes! Can use them in multiple shoes!'",
+     "source_id": "hiq28bk"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Insoles insoles insoles! Try ones for plantar fasciitis. Cheaper than shoes! Can use them in multiple shoes!",
+     "source_id": "hiq28bk",
+     "kind": "buying_trigger",
+     "nl_meaning": "Inlegzolen, inlegzolen, inlegzolen! Probeer die voor fasciitis. Goedkoper dan schoenen! Je kunt ze in meerdere schoenen gebruiken!"
+    },
+    {
+     "text": "Tell me something I don’t know, I can’t lose it overnight, so for the time being I’m looking for alternatives.",
+     "source_id": "hiq6uzn",
+     "kind": "desire",
+     "nl_meaning": "Vertel me iets nieuws, ik kan het niet in één nacht kwijtraken, dus voorlopig zoek ik alternatieven."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: zwaardere mensen zijn moe van 'val af'; 'iets voor nu' zonder oordeel spreekt hen aan."
+  }
+ },
+ {
+  "post_id": "1hp61xv",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "rant",
+   "problem_summary_nl": "Amazon-medewerker van 6 jaar heeft alle veiligheidsschoenen geprobeerd, ze doen allemaal pijn; dreigt met een claim.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "toe_box_tight"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Brede veiligheidsschoenen zodat er een zool in past",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'That’s what I do'",
+     "source_id": "m4f4l5y"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Get wide width safety shoes so they won’t fit so tight when you put in insoles. That’s what I do.",
+     "source_id": "m4f4l5y",
+     "kind": "buying_trigger",
+     "nl_meaning": "Neem brede veiligheidsschoenen, dan zitten ze niet zo strak als je er zolen in doet. Dat doe ik."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: in veiligheidsschoenen moet een zool dun genoeg zijn om te passen; 'past in je werkschoen' is een functie."
+  }
+ },
+ {
+  "post_id": "16nyj3d",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Video van een bouwvakker die door een kabel wordt meegesleurd.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ }
+]

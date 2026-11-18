@@ -1,0 +1,142 @@
+[
+ {
+  "post_id": "h8unm2",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Schooldistrict 'dragging their feet' over het volgende schooljaar.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1dnpku2",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Lerares met hoge bogen heeft aan het eind van de dag vreselijke voetpijn en zoekt nette en casual schoenen.",
+   "regions": [
+    "arch"
+   ],
+   "conditions": [
+    "high arches"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "teaching",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzolen zodat je meer schoenkeuze hebt",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Meest gewaardeerde advies",
+     "source_id": "la46oar"
+    },
+    {
+     "solution": "Allbirds",
+     "category": "shoes",
+     "brand_or_product": "Allbirds",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Hoge bogen, wasbaar",
+     "source_id": "la4ug9z"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Dansko",
+    "Allbirds",
+    "Skechers",
+    "Nike",
+    "Clarks",
+    "Orthofeet"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I need some professional, business casual shoes that won’t kill my feet please!",
+     "source_id": "post",
+     "kind": "desire",
+     "nl_meaning": "Ik heb nette, zakelijke schoenen nodig die mijn voeten niet slopen, alsjeblieft!"
+    },
+    {
+     "text": "Look into inserts. Then you're not as limited in the shoes you can choose from.",
+     "source_id": "la46oar",
+     "kind": "buying_trigger",
+     "nl_meaning": "Kijk naar inlegzolen. Dan ben je minder beperkt in de schoenen die je kunt kiezen."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'met een zool kun je je eigen schoenen blijven dragen' is een sterk argument voor vrouwen in nette beroepen."
+  }
+ },
+ {
+  "post_id": "i0b1jf",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Leerlingen zes feet uit elkaar zetten tijdens corona.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match (lengtemaat)."
+  }
+ }
+]

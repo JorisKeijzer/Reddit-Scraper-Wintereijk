@@ -1,0 +1,251 @@
+[
+ {
+  "post_id": "1nx9n7t",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Beginnende leraar heeft voor het eerst voetpijn en vervellende voetzolen; vraagt of inlegzolen zin hebben.",
+   "regions": [
+    "whole_foot",
+    "skin"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "teaching",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Hoka of Brooks plus inlegzolen uit de winkel",
+     "category": "otc_insole",
+     "brand_or_product": "Hoka, Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Van mank lopen naar 10.000 stappen",
+     "source_id": "nhm0l3o"
+    },
+    {
+     "solution": "Hoka",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "Op harde vloeren 'feet were BURNING'",
+     "source_id": "nhlvh18"
+    },
+    {
+     "solution": "Birkenstocks",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'saved me' na fasciitis van ballerina's",
+     "source_id": "nhm096e"
+    }
+   ],
+   "brands_mentioned": [
+    "Hoka",
+    "Brooks",
+    "Birkenstock",
+    "Dansko",
+    "Clarks",
+    "Dawgs"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Made a world of difference between limping and getting back to being able to walk 10k steps",
+     "source_id": "nhm0l3o",
+     "kind": "works",
+     "nl_meaning": "Het maakte een wereld van verschil: van mank lopen naar weer 10.000 stappen kunnen zetten."
+    },
+    {
+     "text": "I walk mainly on hard floors and my feet were BURNING by the end of a shift.",
+     "source_id": "nhlvh18",
+     "kind": "fails",
+     "nl_meaning": "Ik loop vooral op harde vloeren en mijn voeten BRANDDEN aan het eind van een dienst."
+    },
+    {
+     "text": "I developed plantar fasciitis from wearing ballet flats all day when I started teaching.",
+     "source_id": "nhm096e",
+     "kind": "pain",
+     "nl_meaning": "Ik kreeg fasciitis van de hele dag ballerina's dragen toen ik begon met lesgeven."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: platte, nette schoenen (ballerina's) veroorzaken klachten bij leraressen; een dunne zool voor ballerina's/flats is een niche."
+  }
+ },
+ {
+  "post_id": "1ikzppz",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Iemand met zweetvoeten krijgt thuis ijskoude, natte voeten en zet daardoor de verwarming aan; elektrische sokken, poeder en droge sokken hielpen niet.",
+   "regions": [
+    "skin",
+    "whole_foot"
+   ],
+   "conditions": [
+    "hyperhidrosis",
+    "cold feet"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Merino wollen sokken",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Warm, ook als ze nat zijn, en antimicrobieel",
+     "source_id": "mbqmtxk"
+    },
+    {
+     "solution": "Antitranspirant op de voeten",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "mbqn5lu"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "usually my feet end up wet and absolutely freezing, so I'll end up turning on the heat needlessly.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Meestal worden mijn voeten nat en ijskoud, dus zet ik onnodig de verwarming aan."
+    },
+    {
+     "text": "Wool will keep you warm even when it gets wet AND is anti microbial.",
+     "source_id": "mbqmtxk",
+     "kind": "works",
+     "nl_meaning": "Wol houdt je warm, ook als hij nat wordt, EN is antimicrobieel."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: zweet + kou thuis is één probleem; een zool die vocht afvoert en isoleert kan winter- en geurhoek combineren."
+  }
+ },
+ {
+  "post_id": "124aedv",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Apotheker heeft scherpe pijn achter in de voet en weet niet hoe ze morgen weer de hele dag moet staan.",
+   "regions": [
+    "heel",
+    "achilles"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": "pharmacist",
+   "situations": [
+    "standing_work",
+    "retail"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Kruk bij het werk, met verwijzing naar de ADA",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Werkgever mag niet terugslaan",
+     "source_id": "jdz110l"
+    },
+    {
+     "solution": "Alles geprobeerd: Adidas, Asics, Hoka, compressiesokken, ijs, massage",
+     "category": "shoes",
+     "brand_or_product": null,
+     "verdict": "no_effect",
+     "first_hand": true,
+     "reason": "'You name it I tried it.'",
+     "source_id": "jdyqsba"
+    },
+    {
+     "solution": "Compressiesokken, Hoka en ibuprofen",
+     "category": "compression_socks",
+     "brand_or_product": "Hoka",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "Maakt het draaglijk",
+     "source_id": "jdylknc"
+    }
+   ],
+   "brands_mentioned": [
+    "Adidas",
+    "Asics",
+    "Hoka",
+    "Oofos"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I have this sharp pain at the back of my foot and I have no idea how I’m gonna go to work tomorrow and stand all day again.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik heb een scherpe pijn achter in mijn voet en weet niet hoe ik morgen weer de hele dag moet staan op mijn werk."
+    },
+    {
+     "text": "Won’t eliminate it completely but might Atleast make it bearable.",
+     "source_id": "jdylknc",
+     "kind": "works",
+     "nl_meaning": "Het haalt het niet helemaal weg, maar maakt het in ieder geval draaglijk."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: 'draaglijk' is het eerlijke doel; apothekers zijn een herhaalde doelgroep."
+  }
+ }
+]

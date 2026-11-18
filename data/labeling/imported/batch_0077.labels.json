@@ -1,0 +1,153 @@
+[
+ {
+  "post_id": "16e5znd",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Lerares van 53 die na 20 jaar kantoorwerk is gaan lesgeven, heeft zulke pijnlijke voeten (en fasciitis) dat ze na school alleen nog kan rusten.",
+   "regions": [
+    "heel",
+    "whole_foot"
+   ],
+   "conditions": [
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "teaching",
+    "standing_work",
+    "aging",
+    "overweight"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Dansko",
+     "category": "shoes",
+     "brand_or_product": "Dansko",
+     "verdict": "partly",
+     "first_hand": true,
+     "reason": "'definitely helping'",
+     "source_id": "post"
+    },
+    {
+     "solution": "SAS-schoenen",
+     "category": "shoes",
+     "brand_or_product": "SAS",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Ugly as fuck. Comfortable as a cloud.'",
+     "source_id": "jztgbzy"
+    },
+    {
+     "solution": "Asics met maatwerkzolen",
+     "category": "custom_orthotic",
+     "brand_or_product": "Asics",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Bij ouder worden en fasciitis",
+     "source_id": "jztqs4c"
+    }
+   ],
+   "brands_mentioned": [
+    "Dansko",
+    "SAS",
+    "Skechers",
+    "Asics",
+    "Birkenstock",
+    "New Balance"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "At the end of every day my feet are so sore that I have to run home and rest, I can't really do other things other than teaching these days.",
+     "source_id": "post",
+     "kind": "impact_on_life",
+     "nl_meaning": "Aan het eind van elke dag zijn mijn voeten zo pijnlijk dat ik naar huis moet om te rusten; ik kan tegenwoordig eigenlijk niets anders dan lesgeven."
+    },
+    {
+     "text": "SAS shoes. Ugly as fuck. Comfortable as a cloud.",
+     "source_id": "jztgbzy",
+     "kind": "works",
+     "nl_meaning": "SAS-schoenen. Lelijk als de nacht. Comfortabel als een wolk."
+    }
+   ],
+   "emotional_intensity": 4,
+   "medical_red_flag": false,
+   "claims_risk": "medical",
+   "marketing_insight_nl": "Hypothese: oudere carrièreswitchers naar het onderwijs verliezen hun vrije tijd aan voetpijn; 'na school weer iets kunnen doen' is een sterke belofte."
+  }
+ },
+ {
+  "post_id": "lfvfau",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Discussie onder verpleegkundigen over overgewicht.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Niet over voetklachten."
+  }
+ },
+ {
+  "post_id": "zf3u88",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "3D-geprinte toetsenbordpootjes.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ }
+]

@@ -1,0 +1,178 @@
+[
+ {
+  "post_id": "qne0y1",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bartender met Fluevogs en Shoes for Crews zoekt meer boogsteun.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "arch_too_low"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Blundstones met inlegzolen",
+     "category": "otc_insole",
+     "brand_or_product": "Blundstone",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Genoemd",
+     "source_id": "hjgtqmv"
+    },
+    {
+     "solution": "Passende schoen en de binnenzool vervangen door een steunende",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "'One shoe does not fit or support all'",
+     "source_id": "hjfl0m9"
+    }
+   ],
+   "brands_mentioned": [
+    "Fluevog",
+    "Shoes for Crews",
+    "Vans",
+    "Dr Martens",
+    "Blundstone",
+    "New Balance",
+    "Crocs"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Buy shoes that fit your feet correctly, then replace the insole with one that supports your feet correctly. One shoe does not fit or support all or even most.",
+     "source_id": "hjfl0m9",
+     "kind": "buying_trigger",
+     "nl_meaning": "Koop schoenen die goed passen en vervang dan de binnenzool door een die je voeten goed ondersteunt. Eén schoen past of steunt niet iedereen, zelfs niet de meesten."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'schoen voor pasvorm, zool voor steun' is een helder koopadvies dat we kunnen overnemen."
+  }
+ },
+ {
+  "post_id": "5t1c3j",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Iemand begint in een magazijn met diensten van 12 uur op beton en is bang voor voetpijn.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzolen in (verplichte) stalen neuzen",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'even \"comfortable\" steel toes have nothing on wearing insoles'",
+     "source_id": "ddje20k"
+    },
+    {
+     "solution": "Superfeet",
+     "category": "otc_insole",
+     "brand_or_product": "Superfeet",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Vormen zich in een paar dagen naar je voet",
+     "source_id": "ddjs0dk"
+    },
+    {
+     "solution": "Twee paar afwisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Minder drukplekken",
+     "source_id": "ddjinzl"
+    }
+   ],
+   "brands_mentioned": [
+    "Superfeet",
+    "Red Wing",
+    "Clarks",
+    "Dansko"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Insoles.  Because you will most likely need steel toes. And even \"comfortable\" steel toes have nothing on wearing insoles.  Source : work in a warehouse 12 hours a day.",
+     "source_id": "ddje20k",
+     "kind": "buying_trigger",
+     "nl_meaning": "Inlegzolen. Want je hebt waarschijnlijk stalen neuzen nodig. En zelfs 'comfortabele' stalen neuzen kunnen niet tippen aan zolen erin. Bron: ik werk 12 uur per dag in een magazijn."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: nieuwe magazijnmedewerkers zoeken vóór de eerste dienst; 'start je nieuwe baan zonder pijn' is een preventieve hook."
+  }
+ },
+ {
+  "post_id": "aau13a",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Ambulanceverhaal over een patiënt.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ }
+]

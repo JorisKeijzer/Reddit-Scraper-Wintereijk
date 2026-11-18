@@ -1,0 +1,211 @@
+[
+ {
+  "post_id": "1cxz5y2",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Bouwvakker draagt minimaal 13 uur per dag laarzen en wil zweet en geur in de zomer beperken.",
+   "regions": [
+    "skin"
+   ],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "construction",
+    "work_boots"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [
+    "heat_sweat",
+    "odor"
+   ],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Darn Tough-sokken",
+     "category": "lifestyle_other",
+     "brand_or_product": "Darn Tough",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Levenslange garantie",
+     "source_id": "l55xudj"
+    },
+    {
+     "solution": "Twee paar laarzen afwisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Drogen uit en doden bacteriën",
+     "source_id": "l55ytb6"
+    },
+    {
+     "solution": "Laarzendroger",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'Essential!'",
+     "source_id": "l572b2w"
+    }
+   ],
+   "brands_mentioned": [
+    "Darn Tough",
+    "Red Wing"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Boots are on my feet for a minimum of 13 hours a day and I don’t want to be putting on damp boots for the next 4-5 months",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik draag minimaal 13 uur per dag laarzen en wil de komende 4-5 maanden geen vochtige laarzen aantrekken."
+    },
+    {
+     "text": "Two pairs of boots.  It sounds stupid, but they get to dry out and kill bacteria.",
+     "source_id": "l55ytb6",
+     "kind": "works",
+     "nl_meaning": "Twee paar laarzen. Klinkt stom, maar dan drogen ze en sterven de bacteriën af."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "material",
+   "marketing_insight_nl": "Hypothese: zomer in werklaarzen = 'liquifying feet'; geur- en vochtclaim is de sterkste koperhoek, seizoensgebonden (mei-september)."
+  }
+ },
+ {
+  "post_id": "1hf21q0",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Kok heeft pijnlijke voeten en benen van lange dagen; de chef vindt On Cloud 'crap'.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "hospitality",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Hoka Bondi",
+     "category": "shoes",
+     "brand_or_product": "Hoka",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "'I run circles around the younger folk now.'",
+     "source_id": "m286v8o"
+    },
+    {
+     "solution": "Birkenstock Boston Super Grip",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Elk jaar een nieuw paar",
+     "source_id": "m28ala7"
+    }
+   ],
+   "brands_mentioned": [
+    "On",
+    "Blundstone",
+    "Birkenstock",
+    "Hoka",
+    "Crocs",
+    "Dansko",
+    "Merrell",
+    "Shoes for Crews"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I'm old (for kitchen work) and wish I found these shoes a long time ago. I run circles around the younger folk now.",
+     "source_id": "m286v8o",
+     "kind": "works",
+     "nl_meaning": "Ik ben oud (voor keukenwerk) en had deze schoenen graag veel eerder gevonden. Nu loop ik rondjes om de jongeren."
+    }
+   ],
+   "emotional_intensity": 2,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'ik loop rondjes om de jongeren' is een sterk testimonial voor oudere vakmensen."
+  }
+ },
+ {
+  "post_id": "ygk1h0",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "asking_help",
+   "problem_summary_nl": "Nieuwe Amazon-medewerker vindt diensten van 10 uur zwaar en is 'ready to cut my feet off'.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "warehouse_factory",
+    "walking_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Inlegzolen en goede werkschoenen, niet van Zappos",
+     "category": "otc_insole",
+     "brand_or_product": null,
+     "verdict": "unknown",
+     "first_hand": false,
+     "reason": "Advies",
+     "source_id": "iuc211v"
+    }
+   ],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Welcome to Amazon, where you suffer for your pay.",
+     "source_id": "iu9z4y7",
+     "kind": "impact_on_life",
+     "nl_meaning": "Welkom bij Amazon, waar je lijdt voor je loon."
+    },
+    {
+     "text": "Insoles, and GOOD work shoes. Nothing from Zappos.",
+     "source_id": "iuc211v",
+     "kind": "buying_trigger",
+     "nl_meaning": "Inlegzolen, en GOEDE werkschoenen. Niets van Zappos."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: wantrouwen tegen de werkgeverschoenen ('nothing from Zappos') maakt ruimte voor een eigen keuze: de zool."
+  }
+ }
+]

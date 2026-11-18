@@ -1,0 +1,189 @@
+[
+ {
+  "post_id": "1bdde64",
+  "label": {
+   "relevant": false,
+   "language": "en",
+   "thread_type": "discussion",
+   "problem_summary_nl": "Leraren discussiëren over strengere eisen aan leerlingen ('hold their feet to the fire').",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [],
+   "brands_mentioned": [],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Valse match."
+  }
+ },
+ {
+  "post_id": "1k3vcrl",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Jonge lerares in opleiding met platvoeten en zwakke enkels heeft al pijn van het staan en zoekt schoenen die bij nette kleding passen.",
+   "regions": [
+    "ankle",
+    "arch"
+   ],
+   "conditions": [
+    "flat feet",
+    "plantar fasciitis"
+   ],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "teaching",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [
+    "steun die er ook netjes uitziet"
+   ],
+   "solutions": [
+    {
+     "solution": "Birkenstocks (en Birkenstock-sneakers)",
+     "category": "shoes",
+     "brand_or_product": "Birkenstock",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Enige verlichting bij fasciitis",
+     "source_id": "mo5bzcu"
+    },
+    {
+     "solution": "Maatwerkzolen van de podotherapeut in elke dichte schoen",
+     "category": "custom_orthotic",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Advies van iemand met platvoeten",
+     "source_id": "mo5bm3o"
+    }
+   ],
+   "brands_mentioned": [
+    "Asyllum",
+    "Birkenstock",
+    "Hoka"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "I haven’t even officially STARTED my career and my ankles are absolutely killing me with standing on my feet most of the day every day.",
+     "source_id": "post",
+     "kind": "pain",
+     "nl_meaning": "Ik ben mijn carrière nog niet eens officieel BEGONNEN en mijn enkels doen enorm pijn van het grootste deel van de dag staan."
+    },
+    {
+     "text": "Ankle support sneakers are great but they don’t look cute with my teacher outfits",
+     "source_id": "post",
+     "kind": "objection",
+     "nl_meaning": "Sneakers met enkelsteun zijn fijn, maar ze staan niet leuk bij mijn lerarenoutfits."
+    },
+    {
+     "text": "You can wear them in almost any closed-toe shoe.",
+     "source_id": "mo5bm3o",
+     "kind": "buying_trigger",
+     "nl_meaning": "Je kunt ze in bijna elke dichte schoen dragen."
+    }
+   ],
+   "emotional_intensity": 3,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: leraren (vooral vrouwen) willen steun zonder 'lelijke' schoenen; een zool die in nette schoenen past is precies hun wens."
+  }
+ },
+ {
+  "post_id": "1la455z",
+  "label": {
+   "relevant": true,
+   "language": "en",
+   "thread_type": "recommendation_request",
+   "problem_summary_nl": "Leraar krijgt pijnlijke voeten van de hele dag staan en vraagt welke schoenen het fijnst zijn.",
+   "regions": [],
+   "conditions": [],
+   "diagnosed_by_professional": null,
+   "occupation": null,
+   "situations": [
+    "teaching",
+    "standing_work"
+   ],
+   "duration": null,
+   "previous_fixes": [],
+   "complaints_about_products": [],
+   "desired_outcomes_nl": [],
+   "solutions": [
+    {
+     "solution": "Minstens twee paar schoenen afwisselen",
+     "category": "lifestyle_other",
+     "brand_or_product": null,
+     "verdict": "works",
+     "first_hand": false,
+     "reason": "Meest gewaardeerde advies",
+     "source_id": "mxi904m"
+    },
+    {
+     "solution": "Brooks",
+     "category": "shoes",
+     "brand_or_product": "Brooks",
+     "verdict": "works",
+     "first_hand": true,
+     "reason": "Vaak genoemd",
+     "source_id": "mxhvf2q"
+    }
+   ],
+   "brands_mentioned": [
+    "Brooks",
+    "Birkenstock",
+    "Skechers",
+    "Clarks",
+    "Asics"
+   ],
+   "copper": {
+    "mentioned": false,
+    "sentiment": "not_mentioned",
+    "summary_nl": ""
+   },
+   "price_mentions": [],
+   "quotes": [
+    {
+     "text": "Your feet deserve a wardrobe too, don’t make them suffer in a monogamous shoe relationship",
+     "source_id": "mxjtxry",
+     "kind": "buying_trigger",
+     "nl_meaning": "Je voeten verdienen ook een garderobe; laat ze niet lijden in een monogame schoenrelatie."
+    },
+    {
+     "text": "if they don't dry out completely the support cushioning inside gets compressed",
+     "source_id": "mxjj9zl",
+     "kind": "objection",
+     "nl_meaning": "Als ze niet helemaal opdrogen, wordt de demping binnenin samengedrukt."
+    }
+   ],
+   "emotional_intensity": 1,
+   "medical_red_flag": false,
+   "claims_risk": "comfort_only",
+   "marketing_insight_nl": "Hypothese: 'je voeten verdienen ook een garderobe' is een speelse hook; zolen wisselen tussen paren kan een tweede-zool-aanbod onderbouwen."
+  }
+ }
+]
