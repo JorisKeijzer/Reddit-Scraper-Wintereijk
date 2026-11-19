@@ -1,0 +1,219 @@
+[
+  {
+    "post_id": "eqp2br",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Fysiotherapeuten bespreken of heup- en rompzwakte bijdragen aan fasciitis.",
+      "regions": [
+        "heel",
+        "legs_knees_back"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Romp- en heupversterking",
+          "category": "physio",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Kan looppatroon verbeteren; bewijs voor fasciitis onduidelijk",
+          "source_id": "fewqtap"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Weak glutes <> hip internal rotation <> knee valgus <> flat feet (pes planus) <> plantar fasciitis",
+          "source_id": "ff1cm6v",
+          "kind": "objection",
+          "nl_meaning": "Zwakke bilspieren <> heup naar binnen <> knie naar binnen <> platvoeten <> fasciitis."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Beperkt relevant: professionals zien voetpijn als ketenprobleem; een zool is één schakel, geen totaaloplossing."
+    }
+  },
+  {
+    "post_id": "17u2nwv",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Oudere serveerster kan na haar diensten nauwelijks naar haar auto lopen en zoekt wanhopig schoenen.",
+      "regions": [],
+      "conditions": [
+        "high arches"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work",
+        "aging"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "flattened_wore_out"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Compressiekousen",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Van 'debilitating pain' naar 5 dagen achter elkaar werken",
+          "source_id": "k922rm1"
+        },
+        {
+          "solution": "Halverwege nieuwe zolen in Skechers",
+          "category": "otc_insole",
+          "brand_or_product": "Skechers",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Rekt de levensduur tot 9 maanden",
+          "source_id": "k92je3w"
+        },
+        {
+          "solution": "Professionele antislip-Birkenstocks",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'absolutely staggering'",
+          "source_id": "k91j6ni"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Hoka",
+        "Dr. Scholl's",
+        "Birkenstock",
+        "Dansko"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I am desperate, I’m getting a little older and after my shifts I can hardly walk to my car.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik ben wanhopig, ik word wat ouder en na mijn diensten kan ik nauwelijks naar mijn auto lopen."
+        },
+        {
+          "text": "I can swing about 9 months but halfway through I have to get new insoles to make them last that long.",
+          "source_id": "k92je3w",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik kom zo'n 9 maanden toe, maar halverwege moet ik nieuwe zolen kopen om het zo lang vol te houden."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'nauwelijks naar je auto kunnen lopen' is een sterk beeld; nieuwe zolen halverwege de schoenlevensduur is een bestaand gedrag."
+    }
+  },
+  {
+    "post_id": "1j3lkpw",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Ervaren serveerster komt op vrije dagen nauwelijks uit bed door voetpijn, ondanks voetbaden, massages en pedicures.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka Bondi SR met Superfeet",
+          "category": "otc_insole",
+          "brand_or_product": "Hoka, Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'a huge difference'",
+          "source_id": "mg15ozj"
+        },
+        {
+          "solution": "Goede inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'a game changer for me'",
+          "source_id": "mg16g92"
+        },
+        {
+          "solution": "Halverwege de dienst van schoenen wisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Andere drukpunten",
+          "source_id": "mg1b2wa"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Superfeet"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "After working so many days in a row it’s hard to get out of bed on my off days my feet hurt so bad.",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Na zoveel dagen achter elkaar werken kom ik op mijn vrije dagen moeilijk uit bed, zo'n pijn doen mijn voeten."
+        },
+        {
+          "text": "Invest in good quality insoles for your shoes, it was a game changer for me",
+          "source_id": "mg16g92",
+          "kind": "works",
+          "nl_meaning": "Investeer in goede zolen voor je schoenen, voor mij was het een gamechanger."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: horecamedewerkers investeren al in zelfzorg (pedicures, voetbaden); een zool past in die routine."
+    }
+  }
+]

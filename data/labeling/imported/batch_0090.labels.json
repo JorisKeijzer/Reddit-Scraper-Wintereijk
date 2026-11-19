@@ -1,0 +1,73 @@
+[
+  {
+    "post_id": "148azkv",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Amazon-picker krijgt halverwege de dienst zoveel voetpijn dat ze niet meer wil werken.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen, veters opnieuw strikken, compressiesokken, drinken, rekken",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Meest gewaardeerde advies",
+          "source_id": "jnz962g"
+        },
+        {
+          "solution": "Reebok-composietschoenen met memory-inlegzolen via Zappos",
+          "category": "shoes",
+          "brand_or_product": "Reebok",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'they’re great'",
+          "source_id": "jnz7n5c"
+        }
+      ],
+      "brands_mentioned": [
+        "Zappos",
+        "Reebok",
+        "Temu"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "mid shift my feet start to hurt so bad that I get to the point where I don’t wanna work no more 😭",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Halverwege de dienst doen mijn voeten zo'n pijn dat ik niet meer wil werken."
+        },
+        {
+          "text": "I weigh 286 lbs and it is unbearable to take the stairs after the first break.",
+          "source_id": "jnztpcq",
+          "kind": "pain",
+          "nl_meaning": "Ik weeg 130 kilo en na de eerste pauze is de trap onverdraaglijk."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'halverwege de dienst' is het pijnmoment; 'kom de tweede helft van je dienst door' is een concrete belofte."
+    }
+  }
+]

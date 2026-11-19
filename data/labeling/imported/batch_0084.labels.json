@@ -1,0 +1,138 @@
+[
+  {
+    "post_id": "1scm7tj",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "experience_report",
+      "problem_summary_nl": "Koper van Clarks Desert Boots heeft pijn tijdens het inlopen; de zool is hard en de hiel zit los.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_hard",
+        "slipping"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [
+        "Clarks",
+        "Wolverine"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "does the sole ever get more comfortable or do you just get used to the pain?",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "Wordt de zool ooit comfortabeler, of wen je gewoon aan de pijn?"
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: mooie casual laarzen met harde zolen; 'maak je mooie schoen comfortabel' is ook buiten werk een boodschap."
+    }
+  },
+  {
+    "post_id": "1kt7yf7",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Man zoekt sandalen voor lange wandelingen met echte boogsteun.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "hiking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstock",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Ribbels gaven zenuwschade en gevoelloze tenen",
+          "source_id": "mtrjl33"
+        }
+      ],
+      "brands_mentioned": [
+        "Bedrock",
+        "Teva",
+        "Chaco",
+        "Keen",
+        "Birkenstock"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I'm in the small segment of the population that experiences nerve damage leading to toe numbness from the little ridges on the Birkenstock foot pa",
+          "source_id": "mtrjl33",
+          "kind": "fails",
+          "nl_meaning": "Ik hoor bij de kleine groep mensen die door de ribbeltjes op het Birkenstock-voetbed zenuwschade en gevoelloze tenen krijgt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": true,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: noppen of ribbels op een zool kunnen klachten geven; voorzichtig met 'massage'-structuren."
+    }
+  },
+  {
+    "post_id": "uz9nvj",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Postbode over gps-afwijkingen ('two feet away').",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

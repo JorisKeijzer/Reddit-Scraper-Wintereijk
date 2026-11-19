@@ -1,0 +1,224 @@
+[
+  {
+    "post_id": "1jt5lon",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Soldaat met een grote blaar onder de hiel na een mars van 6 mijl vraagt of een (dure) inlegzool helpt voor de mars van 12 mijl.",
+      "regions": [
+        "heel",
+        "skin"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other",
+        "hiking",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Nieuwe zool vlak voor de mars",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Afgeraden: eerst inlopen",
+          "source_id": "mlrph1h"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Never introduce something new right before a 12 miler because you’ll find any issues REAL quick",
+          "source_id": "mlrph1h",
+          "kind": "objection",
+          "nl_meaning": "Introduceer nooit iets nieuws vlak voor een mars van 12 mijl, want dan ontdek je alle problemen HEEL snel."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: inloopadvies hoort bij elke zool; een 'inloopschema' in de verpakking kan klachten en retouren voorkomen."
+    }
+  },
+  {
+    "post_id": "17c7rn7",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Postmedewerker in het distributiecentrum staat de hele dag; Skechers Arch Fit met inlegzolen zijn na minder dan een jaar versleten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "flattened_wore_out"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka Bondi SR",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "Veel genoemd",
+          "source_id": "k5o5mfa"
+        },
+        {
+          "solution": "New Balance met antislip en compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": "New Balance",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'a world of difference'",
+          "source_id": "k5oanu6"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "New Balance",
+        "Hoka",
+        "Reebok",
+        "Nike",
+        "Keen",
+        "Freet"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Had them maybe more than 6 months but less than a year and they are getting worn.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb ze misschien meer dan 6 maanden maar minder dan een jaar en ze slijten al."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: postmedewerkers zijn een nieuwe staande/lopende doelgroep met hetzelfde vervangingsritme (6-12 maanden)."
+    }
+  },
+  {
+    "post_id": "y1yssd",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Beveiligers noemen hun laarzen; vooral grappen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Nauwelijks inhoud."
+    }
+  },
+  {
+    "post_id": "8ch25c",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Soldaat houdt na de basisopleiding kapotte voeten; nieuwe Rocky-kistjes, betere sokken, maandverband in de kistjes, Body Glide: niets helpt.",
+      "regions": [
+        "skin",
+        "heel"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other",
+        "hiking",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "Fox River socks",
+        "pads in boots",
+        "Body Glide",
+        "dress socks"
+      ],
+      "complaints_about_products": [
+        "slipping"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Kistjes in damesmaat bij smalle hielen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Vrouwen hebben smallere hielen",
+          "source_id": "dxeyxnu"
+        }
+      ],
+      "brands_mentioned": [
+        "Rocky",
+        "Fox River",
+        "Body Glide"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I have tried putting pads, yes female pads, in my boots to line them.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb inlegkruisjes, ja maandverband, in mijn kistjes gelegd als voering."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: militairen proberen van alles tegen blaren en wrijving; hielstabiliteit is een onderschat probleem."
+    }
+  }
+]

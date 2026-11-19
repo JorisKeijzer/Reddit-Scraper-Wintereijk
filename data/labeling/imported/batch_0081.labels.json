@@ -1,0 +1,172 @@
+[
+  {
+    "post_id": "9skgja",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Beveiliger vertelt een anekdote over een incident; 'copper' als bijnaam voor politie.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1slglji",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Nieuws over een chatbot van het Amerikaanse leger.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1p6fmpg",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Fysiotherapeut deelt een AI-prompt met klinische richtlijnen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Vakinhoudelijk, niet over klantervaringen."
+    }
+  },
+  {
+    "post_id": "hu6s98",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Soldaat kreeg al na een kwart mijl blaren nadat hij een nieuwe SOF Sole-zool in zijn legerkistjes deed; voelde 'like walking on cloud' tot de blaren.",
+      "regions": [
+        "skin",
+        "heel"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other",
+        "hiking",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_soft",
+        "slipping"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "SOF Sole-inlegzool in legerkistjes",
+          "category": "otc_insole",
+          "brand_or_product": "Sof Sole",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Voet stond hoger, blaren",
+          "source_id": "post"
+        },
+        {
+          "solution": "SOF Sole",
+          "category": "otc_insole",
+          "brand_or_product": "Sof Sole",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'too soft and let my feet roll around in my boot'",
+          "source_id": "fylf9zl"
+        }
+      ],
+      "brands_mentioned": [
+        "Sof Sole",
+        "Darn Tough",
+        "Garmont"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Btw, i felt like i was walking on cloud before the blisters.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Trouwens, ik voelde me alsof ik op een wolk liep, tot de blaren kwamen."
+        },
+        {
+          "text": "I found the SOF soles to be too soft and let my feet roll around in my boot.",
+          "source_id": "fylf9zl",
+          "kind": "fails",
+          "nl_meaning": "Ik vond de SOF-zolen te zacht; mijn voeten rolden heen en weer in mijn kistjes."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'walking on cloud' verkoopt, maar te zacht = instabiel en blaren; opnieuw 'stevig, niet zacht'. Advies: zolen eerst inlopen."
+    }
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "post_id": "v0iqib",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Klacht dat er geen stoelen zijn bij de wachtrij voor HR.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet over voetklachten zelf."
+    }
+  },
+  {
+    "post_id": "1o0q3bi",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Nieuwe Amazon-medewerker (sportschoolganger, ex-horeca) heeft na vier weken in composiet-veiligheidsschoenen erg pijnlijke voeten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Gratis inlegzolen van Amazon",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na een maand goed",
+          "source_id": "nib4hn2"
+        },
+        {
+          "solution": "'12 hour'-inlegzolen via Zappos-tegoed",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Made a world of difference'; geen goedkope van $20",
+          "source_id": "nib7rsj"
+        },
+        {
+          "solution": "Halve maat groter",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Composietneuzen rekken niet mee",
+          "source_id": "nieps8x"
+        }
+      ],
+      "brands_mentioned": [
+        "Reebok",
+        "Zappos",
+        "Keen"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I wear insoles and the whole bit but it is just walking on concrete all day that does it",
+          "source_id": "nifykhc",
+          "kind": "objection",
+          "nl_meaning": "Ik draag zolen en alles, maar het is gewoon de hele dag op beton lopen dat het doet."
+        },
+        {
+          "text": "Good insoles, not your 20 dollar ones.",
+          "source_id": "nib7rsj",
+          "kind": "buying_trigger",
+          "nl_meaning": "Goede zolen, niet die van 20 dollar."
+        },
+        {
+          "text": "Composite toe shoes do NOT.",
+          "source_id": "nibg8bw",
+          "kind": "pain",
+          "nl_meaning": "Composietneuzen [rekken] NIET [mee]."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'not your 20 dollar ones' toont bereidheid om meer te betalen voor kwaliteit; positionering boven het Walmart-segment kan werken."
+    }
+  },
+  {
+    "post_id": "k87dpt",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Soldaat heeft tijdens marsen veel pijn in de bogen en vraagt wat normaal is.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other",
+        "hiking",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Nieuwe inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "gewg67c"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "But my feet, the arches especially, hurt like a mother during the wh",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Maar mijn voeten, vooral de bogen, doen ontzettend pijn tijdens de hele [mars]."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: militaire marsen zijn een nichegroep met boogklachten."
+    }
+  }
+]

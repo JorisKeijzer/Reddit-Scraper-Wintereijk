@@ -1,0 +1,172 @@
+[
+  {
+    "post_id": "161hp7y",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "product_review",
+      "problem_summary_nl": "Iemand prijst Archies-teenslippers met boogsteun als duurzaamst; leren sandalen werden 'grimey and stinkyy'.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "odor"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Archies-slippers met boogsteun",
+          "category": "shoes",
+          "brand_or_product": "Archies",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Zeer duurzaam",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [
+        "Archies",
+        "Chaco",
+        "Rainbow"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I think I hated the leather because it gets grimey and stinkyy",
+          "source_id": "jxs4qfv",
+          "kind": "objection",
+          "nl_meaning": "Ik denk dat ik het leer haatte omdat het vies en stinkend wordt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Beperkt relevant: geur speelt ook bij sandalen."
+    }
+  },
+  {
+    "post_id": "1jj1edg",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Klacht over iemand die voeten waste in de pauzeruimte.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1cafhjq",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Arts-assistent krijgt alleen op het werk stinkende voeten door lange uren in dichte schoenen en zoekt ademende schoenen of schoendeo.",
+      "regions": [
+        "skin"
+      ],
+      "conditions": [
+        "bromodosis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "medical resident",
+      "situations": [
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "odor",
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [
+        "geen geur tijdens lange diensten in dichte schoenen"
+      ],
+      "solutions": [
+        {
+          "solution": "Twee paar werkschoenen afwisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'helps tremendously'",
+          "source_id": "l0rjt83"
+        },
+        {
+          "solution": "Wollen sokken in plaats van synthetisch",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Synthetisch veroorzaakt geur",
+          "source_id": "l0rpmy0"
+        },
+        {
+          "solution": "Schimmelwerende spray of poeder",
+          "category": "medication_injection",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "l0rke2v"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I recently noticed that I get really stinky feet at work (and only at work).",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik merk sinds kort dat ik op het werk echt stinkvoeten krijg (en alleen op het werk)."
+        },
+        {
+          "text": "Can you recommend me a brand of shoes and/or shoe deodorant I could use? They should be really breathable but still closed, as this is required",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Kunnen jullie een schoenmerk en/of schoendeodorant aanraden? Ze moeten heel ademend zijn maar wel dicht, want dat is verplicht."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: zorgpersoneel moet dichte schoenen dragen en krijgt daardoor geurproblemen; een frisse zool in verplichte schoenen is een duidelijke behoefte (koperhoek, mits onderbouwd)."
+    }
+  }
+]

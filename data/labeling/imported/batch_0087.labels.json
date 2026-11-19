@@ -1,0 +1,217 @@
+[
+  {
+    "post_id": "mmmqee",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Amazon-medewerker loopt 13+ mijl per dag op beton en vraagt hoe je je voeten blij houdt; meerdere reageerders noemen Copper Fit-werkzolen positief.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Copper Fit-werkzolen",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Copperfit work soles are great'; ongeveer 6 maanden houdbaar",
+          "source_id": "gtvp17j"
+        },
+        {
+          "solution": "Copper Fit-werkzolen van $12-16 bij Walmart",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Worth it for me personally'",
+          "source_id": "gtvp6q9"
+        },
+        {
+          "solution": "Compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meest merkbare verbetering",
+          "source_id": "gtsugz1"
+        },
+        {
+          "solution": "Z Liner-zolen in Adidas Boost",
+          "category": "otc_insole",
+          "brand_or_product": "Z Liner",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Bij 25 mijl per nacht",
+          "source_id": "gttzd32"
+        }
+      ],
+      "brands_mentioned": [
+        "Copper Fit",
+        "Walmart",
+        "Adidas Ultraboost",
+        "Hoka",
+        "Brooks",
+        "Skechers",
+        "Z Liner",
+        "Zappos"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "positive",
+        "summary_nl": "Twee reageerders raden Copper Fit-werkzolen aan: 'Copperfit work soles are great', ze gaan ongeveer zes maanden mee, en voor $12-16 bij Walmart zijn ze 'worth it'. Het gaat om comfort en duurzaamheid, niet om een koperclaim."
+      },
+      "price_mentions": [
+        "That and copperfit work soles. Like $12-16 at walmart."
+      ],
+      "quotes": [
+        {
+          "text": "Get solid good solid insoles. Copperfit work soles are great. A little higher on the price but I mean they last about 6 months for me.",
+          "source_id": "gtvp17j",
+          "kind": "copper",
+          "nl_meaning": "Neem goede, stevige zolen. Copper Fit-werkzolen zijn geweldig. Iets duurder, maar ze gaan bij mij ongeveer 6 maanden mee."
+        },
+        {
+          "text": "That and copperfit work soles. Like $12-16 at walmart. Worth it for me personally.",
+          "source_id": "gtvp6q9",
+          "kind": "copper",
+          "nl_meaning": "Dat en Copper Fit-werkzolen. Zo'n $12-16 bij Walmart. Voor mij persoonlijk de moeite waard."
+        },
+        {
+          "text": "I have tracked myself walking over 13 miles on certain days and those concrete floors are not forgiving.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb gemeten dat ik op sommige dagen meer dan 13 mijl loop, en die betonvloeren vergeven niets."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: koperzolen (Copper Fit) worden door magazijnwerkers al gekocht en positief beoordeeld, vooral op stevigheid en duurzaamheid, niet om koper. Prijsanker: $12-16 bij Walmart. Ons product moet zich onderscheiden met betere kwaliteit en een onderbouwde frisheidsclaim."
+    }
+  },
+  {
+    "post_id": "15340ts",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ergernis over voeten op stoelen in de pauzeruimte.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1ft5h3s",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Apotheker heeft zelfs op vrije dagen pijnlijke bogen en loopt blootsvoets 'funny'; vermoedt fasciitis.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "pharmacist",
+      "situations": [
+        "standing_work",
+        "retail"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Twee paar schoenen afwisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Zool kan herstellen",
+          "source_id": "lppnnmw"
+        },
+        {
+          "solution": "Voet uitrollen met een bal",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'you will absolutely feel the difference'",
+          "source_id": "lpq2321"
+        },
+        {
+          "solution": "Asics Gel Nimbus na een scan",
+          "category": "shoes",
+          "brand_or_product": "Asics",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Geen klachten meer",
+          "source_id": "lppixf9"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Asics",
+        "Skechers"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Like even on my days off my feet are extremely sore (mainly in the arch of my foot) and I’m starting to walk very funny when I’m barefoot due to pain.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Zelfs op mijn vrije dagen doen mijn voeten erg pijn (vooral de boog) en ik begin raar te lopen als ik blootsvoets ben door de pijn."
+        },
+        {
+          "text": "They need time to dry out and for the insole to recover its cushioning that has been compressed by being worn",
+          "source_id": "lppnnmw",
+          "kind": "objection",
+          "nl_meaning": "Ze hebben tijd nodig om te drogen en de binnenzool moet zijn demping terugkrijgen die door het dragen is ingedrukt."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: apothekers blijven een terugkerende doelgroep; 'pijn ook op je vrije dag' is herkenbaar."
+    }
+  }
+]

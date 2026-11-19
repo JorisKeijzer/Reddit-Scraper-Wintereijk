@@ -29,3 +29,8 @@ We labelen zonder API-sleutel: de Claude Code-sessie zelf leest de threads en vu
 - Alleen coderen wat er staat; onbekend wordt `null` of een lege lijst.
 - Ook negatieve ervaringen en tegengeluiden coderen.
 - Niet-relevante threads: `relevant: false`, de overige velden minimaal (lege lijsten, korte teksten).
+
+## Hulpscripts
+
+- `python scripts/excerpts.py 10 > uittreksels.txt` maakt korte uittreksels (post + beste reacties) van de klaargezette batches om sneller te lezen.
+- `scripts/label_helpers.py` bevat `L`, `S`, `Q`, `CU`, `irrelevant` en `write_labels`. Schrijf een klein script met een `labels`-dict per post-id en roep `write_labels(labels)` aan; het meldt welke threads nog geen label hebben.

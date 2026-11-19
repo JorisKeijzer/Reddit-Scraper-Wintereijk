@@ -1,0 +1,193 @@
+[
+  {
+    "post_id": "17q0eea",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Kok heeft ondanks poeders, sprays, inlegzolen en andere sokken stinkende voeten ('doritos and cat piss').",
+      "regions": [
+        "skin"
+      ],
+      "conditions": [
+        "bromodosis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "powders",
+        "sprays",
+        "inserts",
+        "different sock materials"
+      ],
+      "complaints_about_products": [
+        "odor",
+        "no_effect"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Poeders, sprays en inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Voeten stinken nog steeds",
+          "source_id": "post"
+        },
+        {
+          "solution": "Meerdere paar werkschoenen om te laten drogen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "Nooit aan gedacht",
+          "source_id": "k890nc4"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I've tried different powders, sprays, and inserts. I've tried different materials for my socks, and I'm sure to wash them daily. However, my feet still stink.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb verschillende poeders, sprays en inlegzolen geprobeerd, en verschillende sokmaterialen, en ik was ze dagelijks. Toch stinken mijn voeten nog steeds."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: geur is een schaamtevol probleem waarvoor mensen veel proberen; ook 'inserts' worden al gekocht tegen geur. Een zool die geur aantoonbaar vermindert vult een gat."
+    }
+  },
+  {
+    "post_id": "g0ixnq",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bartender thuis tijdens corona vraagt hoe ze de voetpijn bij terugkeer naar 12-uursdiensten kan voorkomen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Bal onder de voet rollen",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Zoals foamrollen",
+          "source_id": "fn9us4b"
+        },
+        {
+          "solution": "Compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "fn9yvnz"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Since I've gone from being on my feet behind the bar for 12-hour shifts to being at home, and ideas how to handle the inevitable feet pain when we go back to work lol?",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Nu ik van 12-uursdiensten achter de bar naar thuis ben gegaan: ideeën hoe ik de onvermijdelijke voetpijn aanpak als we weer gaan werken?"
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: terugkeer na een pauze (vakantie, ziekte) is net als een nieuwe baan een koopmoment."
+    }
+  },
+  {
+    "post_id": "16u2jug",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Bartender (25) in een sportbar werkt in het footballseizoen lange uren; Skechers zijn 'good, not great', Docs worden te heet.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Vans Made for the Makers met inlegzolen",
+          "category": "shoes",
+          "brand_or_product": "Vans",
+          "verdict": "mixed",
+          "first_hand": true,
+          "reason": "De een 3 jaar, de ander om de 6 maanden kapot",
+          "source_id": "k2iue6a"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Dr Martens",
+        "Blundstone",
+        "Hoka",
+        "Vans"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I also wear docs from time to time, but they get super hot.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik draag ook weleens Docs, maar die worden superheet."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: leren laarzen in de bar worden heet; ventilatie/frisheid is ook hier een wens."
+    }
+  }
+]
