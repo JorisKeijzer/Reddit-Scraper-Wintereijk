@@ -1,0 +1,182 @@
+[
+  {
+    "post_id": "1ws3t0f",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Vrouw met fasciitis heeft maar één paar schoenen dat werkt (New Balance 1440), versleten tot er gaten in zitten; andere schoenen doen na een half uur pijn.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [
+        "comfortabele schoenen die er ook leuk uitzien"
+      ],
+      "solutions": [
+        {
+          "solution": "Fysiotherapie",
+          "category": "physio",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'Physical therapy will help more than shoes'",
+          "source_id": "pci9s48"
+        },
+        {
+          "solution": "Inlegzolen in elke schoen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'A good pair will last ten years'",
+          "source_id": "pcigg0s"
+        },
+        {
+          "solution": "Schoenen met brede neus",
+          "category": "barefoot_minimal",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na jaren zolen en fysio zonder succes",
+          "source_id": "pcju394"
+        }
+      ],
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I own so many more pairs of shoes but when I wear them and walk around for even a half hour my feet hurt so much.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb veel meer schoenen, maar als ik die draag en zelfs maar een half uur loop, doen mijn voeten zo'n pijn."
+        },
+        {
+          "text": "Insoles, babe! A good pair will last ten years. Not a lifetime, but you can use them with whatever shoes you like!",
+          "source_id": "pcigg0s",
+          "kind": "buying_trigger",
+          "nl_meaning": "Inlegzolen, schat! Een goed paar gaat tien jaar mee. Niet je hele leven, maar je kunt ze in elke schoen gebruiken die je mooi vindt!"
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'gebruik ze in elke schoen die je mooi vindt' — het stijlargument komt opnieuw terug."
+    }
+  },
+  {
+    "post_id": "dzhuum",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ambulance-anekdote over een nachtelijke melding voor pijnlijke voeten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Grap, geen inhoud."
+    }
+  },
+  {
+    "post_id": "15gclyq",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Serveerster heeft na twee dubbele diensten van 12 uur gezwollen tenen vol blaren.",
+      "regions": [
+        "toes",
+        "skin"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Moleskin",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Blijft 12 uur zitten",
+          "source_id": "juhyr5f"
+        },
+        {
+          "solution": "Maizena/babypoeder en reservesokken",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Voeten droog houden",
+          "source_id": "jui7f76"
+        }
+      ],
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I got in the shower this morning, looked at my feet, and wanted to cry.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik stond vanochtend onder de douche, keek naar mijn voeten en wilde huilen."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: vocht en wrijving bij dubbele diensten; droog houden is een tweede functie naast steun."
+    }
+  }
+]

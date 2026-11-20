@@ -1,0 +1,133 @@
+[
+  {
+    "post_id": "48mmwq",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Trainingslogboek van een hardloper.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet relevant."
+    }
+  },
+  {
+    "post_id": "565qp2",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "experience_report",
+      "problem_summary_nl": "Hardloper schrijft over een jaar fasciitis met een tabel van wat wel en niet hielp.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": "12 maanden",
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "'Insoles hurt more than they help because they change the way that I walk.'",
+          "source_id": "d8gljf9"
+        },
+        {
+          "solution": "Shiatsu-voetmassageapparaat",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Een jaar geen fasciitis meer",
+          "source_id": "d8gm0wy"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "a stabbing pain underneath my left foot, as if I were repeatedly standing on a power plug or a Lego brick.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Een stekende pijn onder mijn linkervoet, alsof ik steeds op een stekker of een legosteentje stond."
+        },
+        {
+          "text": "Insoles hurt more than they help because they change the way that I walk.",
+          "source_id": "d8gljf9",
+          "kind": "fails",
+          "nl_meaning": "Inlegzolen doen meer pijn dan ze helpen, omdat ze veranderen hoe ik loop."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'als op een legosteentje staan' is een herkenbare pijnbeschrijving."
+    }
+  },
+  {
+    "post_id": "12iqh9o",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Historische statistiek over afgekeurde dienstplichtigen in 1917 (veel 'bad feet').",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Historisch, niet bruikbaar."
+    }
+  }
+]

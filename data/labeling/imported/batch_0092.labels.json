@@ -1,0 +1,115 @@
+[
+  {
+    "post_id": "4ang7b",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Trainingslogboek van een hardloper.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet relevant."
+    }
+  },
+  {
+    "post_id": "1u97zro",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "experience_report",
+      "problem_summary_nl": "Fanatieke wandelaar die 20.000-30.000 stappen per dag liep om af te vallen, kreeg fasciitis; reacties vinden de post vooral door AI geschreven.",
+      "regions": [
+        "heel",
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "After around the 10-mile mark, I would start feeling pain on the bottom of my foot, around the arch and heel area.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Na ongeveer 10 mijl begon ik pijn te voelen onder mijn voet, rond de boog en de hiel."
+        },
+        {
+          "text": "This reads like an AI output",
+          "source_id": "ose9l0r",
+          "kind": "objection",
+          "nl_meaning": "Dit leest als AI-tekst."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: Reddit-gebruikers prikken direct door AI-achtige, commerciële posts heen; seeding op Reddit moet echt en persoonlijk zijn."
+    }
+  },
+  {
+    "post_id": "yrkknr",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Meme over Chinese soldaten in sneakers.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Grap."
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "post_id": "1noyqd1",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Bouwvakker van 127 kg die eerder een voet brak, is nerveus voor langere werkweken.",
+      "regions": [],
+      "conditions": [
+        "jones fracture"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "construction",
+        "work_boots",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dr. Scholl's big & tall boot inserts en diabetessokken",
+          "category": "otc_insole",
+          "brand_or_product": "Dr. Scholl's",
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "nfvdjc2"
+        },
+        {
+          "solution": "Afvallen",
+          "category": "weight_loss",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meest genoemd",
+          "source_id": "nfvbxza"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I would suggest getting the Dr. Scholl's boot inserts for big and tall men and also buying diabetic socks even if you are not a diabetic; they dry fast, stretch, and are comfortable.",
+          "source_id": "nfvdjc2",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik zou de Dr. Scholl's-laarszolen voor grote, zware mannen nemen en diabetessokken kopen, ook als je geen diabetes hebt; ze drogen snel, rekken mee en zijn comfortabel."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": true,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: een 'big & tall'-variant is een bestaande categorie bij Dr. Scholl's; zware werkers zijn een segment."
+    }
+  },
+  {
+    "post_id": "4h19ts",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Elektricien met een kortere trekveer ('few feet shorter').",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "17ay4yk",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Apotheker vraagt welke schoenen of inlegzolen voorkomen dat rug en knieën na een dienst 'on fire' voelen.",
+      "regions": [
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "pharmacist",
+      "situations": [
+        "standing_work",
+        "retail"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka Bondi",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Comfortabeler dan Ultraboost",
+          "source_id": "k5fw6jn"
+        },
+        {
+          "solution": "Clove",
+          "category": "shoes",
+          "brand_or_product": "Clove",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Helpt ook vriend in retail",
+          "source_id": "k5gl2io"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Adidas Ultraboost",
+        "Brooks",
+        "Clove",
+        "New Balance"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The [Hoka shoes](https://amzn.to/3M5wUNA) are ugly AF honestly, but they are so comfy.",
+          "source_id": "k5fz6ju",
+          "kind": "objection",
+          "nl_meaning": "De Hoka-schoenen zijn eerlijk gezegd superlelijk, maar zo comfortabel."
+        },
+        {
+          "text": "have done every medical grade insert and shoe gimmick.",
+          "source_id": "k5glm3z",
+          "kind": "fails",
+          "nl_meaning": "Ik heb elke medische inlegzool en elk schoengimmick geprobeerd."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'lelijk maar comfortabel' is de standaard; een zool die in mooiere schoenen past omzeilt die afweging."
+    }
+  }
+]

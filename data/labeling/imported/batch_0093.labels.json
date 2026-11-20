@@ -1,0 +1,213 @@
+[
+  {
+    "post_id": "17jxy60",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Hardloper met fasciitis doet al zes weken trouw fysio-oefeningen en zoekt hersteltverhalen om optimistisch te blijven.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": true,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Fysiotherapie met dagelijkse oefeningen",
+          "category": "physio",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Nog steeds veel pijn na zes weken",
+          "source_id": "post"
+        },
+        {
+          "solution": "Altijd steunende schoenen als je niet loopt",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'never compromise'",
+          "source_id": "k741u8h"
+        },
+        {
+          "solution": "Arch support en orthesen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": false,
+          "reason": "'You're not going to foam roll, arch support, and orthotic your way out of it.'",
+          "source_id": "k74wa8d"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The leaves are turning and the weather is perfect and I am so sad not to be outsi",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "De bladeren verkleuren, het weer is perfect en ik ben zo verdrietig dat ik niet buiten [kan lopen]."
+        },
+        {
+          "text": "You're not going to foam roll, arch support, and orthotic your way out of it.",
+          "source_id": "k74wa8d",
+          "kind": "objection",
+          "nl_meaning": "Je gaat hier niet uitkomen met foamrollen, boogsteun en orthesen."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: hardlopers met fasciitis wantrouwen zolen als oplossing; voor deze groep alleen comfort beloven, geen herstel."
+    }
+  },
+  {
+    "post_id": "68tb9p",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Artikel over 150+ studies naar boogsteun; reacties: veel slechte informatie, verkopers zijn bevooroordeeld, sommigen vinden boogsteun juist pijnlijk.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [
+        "high arches"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "arch_too_high"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "My experience is that arch support is the most painful shoe feature ever invented.",
+          "source_id": "dh13b8k",
+          "kind": "fails",
+          "nl_meaning": "Mijn ervaring is dat boogsteun de pijnlijkste schoenfunctie ooit is."
+        },
+        {
+          "text": "No, they're salespeople, so their bias is towards recommending you purchase one of their products.",
+          "source_id": "dh1ve1j",
+          "kind": "objection",
+          "nl_meaning": "Nee, het zijn verkopers, dus ze zijn geneigd je een van hun producten aan te raden."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: hardlopers zijn sceptisch over boogsteun en verkopers; bescheiden, eerlijke claims zijn noodzakelijk."
+    }
+  },
+  {
+    "post_id": "kdzaxp",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Hardloper heeft voor het eerst fasciitis en vraagt wat hielp.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Gelinlegzool in werkschoenen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "'it was def the work shoes that gave me the PF'",
+          "source_id": "gfzilrl"
+        },
+        {
+          "solution": "Strassburg-sok",
+          "category": "night_splint",
+          "brand_or_product": "Strassburg Sock",
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Vrienden zweren erbij",
+          "source_id": "gfzi7p5"
+        },
+        {
+          "solution": "Minimalistische schoenen",
+          "category": "barefoot_minimal",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "PF 'magically went away'",
+          "source_id": "gfzo4r7"
+        },
+        {
+          "solution": "Heel drops op een trede",
+          "category": "stretching_exercise",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Works magic for PF'",
+          "source_id": "gfzvqha"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I put a gel insert in my work shoes. Dunno if it helped but it was def the work shoes that gave me the PF in the first place.",
+          "source_id": "gfzilrl",
+          "kind": "pain",
+          "nl_meaning": "Ik deed een gelzool in mijn werkschoenen. Weet niet of het hielp, maar het waren zeker de werkschoenen die me de fasciitis gaven."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: ook hardlopers wijzen werkschoenen aan als oorzaak; de werkschoen is het probleem, de zool de oplossing."
+    }
+  }
+]

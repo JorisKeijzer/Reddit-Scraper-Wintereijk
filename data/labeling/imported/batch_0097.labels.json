@@ -1,0 +1,168 @@
+[
+  {
+    "post_id": "1el0d8d",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Serveerster met bestaande voetproblemen zoekt de beste remedie tegen voetpijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work",
+        "aging"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Compressiesokken en goede schoenen",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'You will notice an immediate difference'",
+          "source_id": "lgoflzn"
+        },
+        {
+          "solution": "Voeten opnieuw laten meten na je 40e",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Droeg bijna een maat te klein",
+          "source_id": "lgow1p7"
+        }
+      ],
+      "brands_mentioned": [
+        "Shoes for Crews",
+        "Walmart"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "If you're over 40, get your feet resized. I totally effed mine up by not knowing that your feet get bigger as you age. I'm 20 years in kitchens so I just assumed foot pain was normal.",
+          "source_id": "lgow1p7",
+          "kind": "pain",
+          "nl_meaning": "Als je boven de 40 bent, laat je voeten opnieuw meten. Ik heb de mijne verpest omdat ik niet wist dat voeten groter worden met de leeftijd. Ik sta 20 jaar in keukens, dus ik dacht dat voetpijn normaal was."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'ik dacht dat voetpijn normaal was' is een herkenbare overtuiging om te doorbreken."
+    }
+  },
+  {
+    "post_id": "1gzxy8m",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met kniepijn begint na een kantoorbaan aan fysiek winkelwerk van 8 uur en is bang dat ze het niet volhoudt.",
+      "regions": [
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "standing_work",
+        "retail"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Comfortabele inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "lyzsyk3"
+        },
+        {
+          "solution": "Medische inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "'expensive, but worth it'",
+          "source_id": "lyzut8i"
+        },
+        {
+          "solution": "Compressiesokken en goede schoenen",
+          "category": "compression_socks",
+          "brand_or_product": "Brooks, Hoka, Orthofeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'a huge difference'",
+          "source_id": "lyzvb5y"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I know others do it, I've seen women much older than me that work for 7 hours everyday and i don't know how they do it, I guess I'm weak",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik weet dat anderen het doen, ik zie vrouwen die veel ouder zijn dan ik elke dag 7 uur werken en ik weet niet hoe ze het doen; ik ben zeker zwak."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: overstappers van kantoor naar fysiek werk schamen zich ('I guess I'm weak'); een geruststellende toon werkt."
+    }
+  },
+  {
+    "post_id": "wflosm",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Vraag of Amazon iemand financieel 'back on my feet' helpt.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

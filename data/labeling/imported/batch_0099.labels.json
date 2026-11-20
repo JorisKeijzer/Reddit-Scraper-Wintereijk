@@ -1,0 +1,208 @@
+[
+  {
+    "post_id": "yr3oc2",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Amazon-medewerker in de vriescel heeft na vier uur het gevoel dat zijn voeten eraf vallen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Blauwe inlegzolen van de supermarkt",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "'They help a lot for about a month.'",
+          "source_id": "ivrs716"
+        },
+        {
+          "solution": "Passende New Balance-veiligheidsschoenen met Superfeet Orange",
+          "category": "otc_insole",
+          "brand_or_product": "New Balance, Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Met boogsteunsokken",
+          "source_id": "ivsbynv"
+        }
+      ],
+      "brands_mentioned": [
+        "Zappos",
+        "Adidas",
+        "New Balance",
+        "Superfeet"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Get those blue shoe inserts from the supermarket or drug store.  They help a lot for about a month.",
+          "source_id": "ivrs716",
+          "kind": "objection",
+          "nl_meaning": "Haal die blauwe inlegzolen bij de supermarkt of drogist. Ze helpen ongeveer een maand goed."
+        },
+        {
+          "text": "Dont wear Zappos shoes. Those pieces of crap hurt my feet so bad they were going numb.",
+          "source_id": "ivruv4k",
+          "kind": "fails",
+          "nl_meaning": "Draag geen Zappos-schoenen. Die rommel deed zo'n pijn dat mijn voeten gevoelloos werden."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: goedkope gelzolen 'helpen een maand'; duurzaamheid is een duidelijk onderscheidend punt."
+    }
+  },
+  {
+    "post_id": "1rjaij4",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Amazon-medewerker (waterspider) heeft na haar dienst extreem stinkende voeten in nieuwe veiligheidslaarzen; een reageerder raadt koperen sokken aan.",
+      "regions": [
+        "skin"
+      ],
+      "conditions": [
+        "bromodosis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "odor",
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen sokken",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Copper lined socks are a game changer.'",
+          "source_id": "o8c3jm7"
+        },
+        {
+          "solution": "Voetpoeder in de sokken",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Houdt droog",
+          "source_id": "o8bt1z5"
+        },
+        {
+          "solution": "Inlegzolen om de paar maanden vervangen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "o8btkn2"
+        },
+        {
+          "solution": "Antischimmelcrème",
+          "category": "medication_injection",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Mogelijk zwemmerseczeem",
+          "source_id": "o8bxy6b"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "positive",
+        "summary_nl": "Een reageerder raadt koperen sokken aan: 'Copper lined socks are a game changer. They actively kill and prevent smell producing bacteria.' Dit is de geur-/bacterieclaim, door een gebruiker zelf verwoord."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "When I get home and take my boots off, the stench is embarssingly bad, just the with feet.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Als ik thuiskom en mijn laarzen uitdoe, is de stank gênant erg."
+        },
+        {
+          "text": "Copper socks. Yes, socks lined with copper.",
+          "source_id": "o8c3jm7",
+          "kind": "copper",
+          "nl_meaning": "Koperen sokken. Ja, sokken met koper erin."
+        },
+        {
+          "text": "Copper lined socks are a game changer. They actively kill and prevent smell producing bacteria.",
+          "source_id": "o8c3jm7",
+          "kind": "copper",
+          "nl_meaning": "Sokken met koper zijn een gamechanger. Ze doden actief geurveroorzakende bacteriën en voorkomen ze."
+        },
+        {
+          "text": "It’s the shoes man. None of them let your feet breathe .",
+          "source_id": "o8bwx47",
+          "kind": "pain",
+          "nl_meaning": "Het zijn de schoenen, man. Geen enkele laat je voeten ademen."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: de sterkste kopertaal komt van gebruikers zelf: 'game changer' tegen geur in veiligheidsschoenen. Precies onze hoek, maar 'kill bacteria' is een claim die we alleen met bewijs mogen gebruiken."
+    }
+  },
+  {
+    "post_id": "17fdc2b",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Elektriciens klagen over isolatiemonteurs die hun ladder gebruikten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

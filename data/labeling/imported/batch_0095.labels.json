@@ -1,0 +1,200 @@
+[
+  {
+    "post_id": "omt709",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Hardloper vraagt waarom artsen steeds orthesen voorschrijven; een arts zegt dat de meeste artsen weinig van voeten weten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Orthesen in plaats van nieuwe schoenen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na jaren heup- en kniepijn; goedkoper dan nieuwe schoenen",
+          "source_id": "h5nas01"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Doctor here, the truth is most don’t know any better.",
+          "source_id": "h5ny3fq",
+          "kind": "objection",
+          "nl_meaning": "Arts hier: de waarheid is dat de meesten niet beter weten."
+        },
+        {
+          "text": "I was in the wrong shoes but couldn't afford new ones, and orthotics were a",
+          "source_id": "h5nas01",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik droeg de verkeerde schoenen maar kon geen nieuwe betalen, en orthesen waren een [betaalbaardere oplossing]."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: zelfs artsen worden gewantrouwd bij zolenadvies; een zool als goedkoper alternatief voor nieuwe schoenen spreekt aan."
+    }
+  },
+  {
+    "post_id": "81qdgf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Nieuwe lerares vindt haar schoenen 'the downfall of my outfit'; hakken en ballerina's doen pijn.",
+      "regions": [],
+      "conditions": [
+        "high arches"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "teaching",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Converse met inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": "Converse",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Hele dag in de klas lopen zonder klachten",
+          "source_id": "dv4cxdk"
+        },
+        {
+          "solution": "Dr Martens Chelsea met orthesen",
+          "category": "custom_orthotic",
+          "brand_or_product": "Dr Martens",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Bij hoge bogen",
+          "source_id": "dv4dil1"
+        },
+        {
+          "solution": "Tieks-ballerina's",
+          "category": "shoes",
+          "brand_or_product": "Tieks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'walking on clouds', maar $200-300",
+          "source_id": "dv4dpwo"
+        }
+      ],
+      "brands_mentioned": [
+        "Tieks",
+        "Vans",
+        "Vionic",
+        "Birkenstock",
+        "Allbirds",
+        "Dr Martens",
+        "Converse",
+        "Toms"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I am new to the profession and feel like my shoes are always the downfall of my outfit.",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik ben nieuw in het vak en heb het gevoel dat mijn schoenen altijd mijn outfit verpesten."
+        },
+        {
+          "text": "I have three different colored pairs of converse with insoles for support in them. I can walk around my classroom all day and be fine!",
+          "source_id": "dv4cxdk",
+          "kind": "works",
+          "nl_meaning": "Ik heb drie paar Converse in verschillende kleuren met steunzolen erin. Ik kan de hele dag door mijn klas lopen en het gaat prima!"
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: leraressen willen hun favoriete (stijl)schoenen houden; 'zet een zool in je Converse' is precies onze use case."
+    }
+  },
+  {
+    "post_id": "8nwzdn",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Soldaat in opleiding met platvoeten en eigen maatwerkzolen zoekt ademende hardloopschoenen voor PT in de hitte.",
+      "regions": [],
+      "conditions": [
+        "flat feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running",
+        "other",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Maatwerkzolen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'have been a tremendous help'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I have bad flat feet but I got them to make me some custom in souls that have been a tremendous help",
+          "source_id": "post",
+          "kind": "works",
+          "nl_meaning": "Ik heb erge platvoeten, maar ik heb maatwerkzolen laten maken en die hebben enorm geholpen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  }
+]

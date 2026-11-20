@@ -1,0 +1,190 @@
+[
+  {
+    "post_id": "l2u6t6",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "other",
+      "problem_summary_nl": "Iemand kocht goedkopere zolen in maat 15 en knipte ze bij; reacties waarschuwen dat de boogsteun dan op de verkeerde plek zit.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "sizing_trimming",
+        "bad_pad_position"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Most insoles are better sized by arch location rather than foot size. You need to have the arch support in the right place.",
+          "source_id": "gk89tqu",
+          "kind": "objection",
+          "nl_meaning": "De meeste zolen kun je beter op de plaats van de boog kiezen dan op voetmaat. De boogsteun moet op de juiste plek zitten."
+        },
+        {
+          "text": "Never cheap out on things that touch the ground: Shoes, Tires, and your Bed.",
+          "source_id": "gk8g02b",
+          "kind": "buying_trigger",
+          "nl_meaning": "Bezuinig nooit op dingen die de grond raken: schoenen, banden en je bed."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: kopers weten dat 'knippen op maat' de boog verschuift; een maattabel op basis van booglengte is een kwaliteitssignaal."
+    }
+  },
+  {
+    "post_id": "169zf85",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Hardloper kreeg na één run van 3 km in Altra zero-drop schoenen fasciitis die na twee maanden nog niet over is.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": "2 maanden",
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Altra Escalante zero-drop",
+          "category": "barefoot_minimal",
+          "brand_or_product": "Altra",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Fasciitis na één run",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "About two months ago I developed Plantar Fasciitis from ONE, 3km run in my, at the time, new Altra Escalantes",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ongeveer twee maanden geleden kreeg ik fasciitis van ÉÉN run van 3 km in mijn toen nieuwe Altra Escalantes."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: overstappen naar zero-drop gaat vaak mis; er is een groep 'barefoot-spijt' die weer steun zoekt."
+    }
+  },
+  {
+    "post_id": "z2c6uw",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Nieuwe apotheker staat 12-13 uur per dag; Crocs maken haar voeten pijnvrij maar haar heupen doen nu pijn.",
+      "regions": [
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "pharmacist",
+      "situations": [
+        "standing_work",
+        "retail"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Crocs",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Voeten goed, heupen pijn",
+          "source_id": "post"
+        },
+        {
+          "solution": "Hoka met compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meest genoemd",
+          "source_id": "ixfqxea"
+        },
+        {
+          "solution": "Elke dag van schoenen wisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Switching every day is key.'",
+          "source_id": "ixfx9yp"
+        }
+      ],
+      "brands_mentioned": [
+        "Crocs",
+        "Hoka",
+        "Dansko",
+        "Reebok",
+        "Nike",
+        "Voltaren",
+        "Clarks",
+        "Allbirds",
+        "Ecco"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "while the crocs are comfortable on the feet, they aren’t offering enough supp",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Hoewel Crocs comfortabel zijn voor de voeten, bieden ze niet genoeg steun."
+        },
+        {
+          "text": "Real pharmacist answer is that Voltaren goes unmatched as the best footwear",
+          "source_id": "ixgj3p8",
+          "kind": "objection",
+          "nl_meaning": "Het echte apothekersantwoord: Voltaren is onovertroffen als beste schoeisel."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: Crocs-dragers merken dat zacht comfort niet genoeg steun geeft; een zool voor klompen is een niche."
+    }
+  }
+]
