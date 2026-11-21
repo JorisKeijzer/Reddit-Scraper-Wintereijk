@@ -1,0 +1,253 @@
+[
+  {
+    "post_id": "1otbqi3",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Jonge man (24) heeft al zes jaar fasciitis door hardlopen en heeft van fysio tot injecties alles geprobeerd; kan niet meer wandelen of marcheren.",
+      "regions": [
+        "arch",
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hiking",
+        "running"
+      ],
+      "duration": "6 jaar",
+      "previous_fixes": [
+        "physical therapy",
+        "steroid injections",
+        "icing",
+        "rolling",
+        "night splints"
+      ],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Fysio, injecties, ijs, rollen, nachtspalken",
+          "category": "medication_injection",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'Nothing helped.'",
+          "source_id": "post"
+        },
+        {
+          "solution": "Crocs als huisschoen in plaats van blootsvoets",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'made a world of difference'",
+          "source_id": "no4bdv7"
+        }
+      ],
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "It’s frustrating to be unable to hike or ruck because of plantar fasciitis, and it’s so hard and expensive to treat",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Het is frustrerend om niet te kunnen wandelen of marcheren door fasciitis, en het is zo moeilijk en duur om te behandelen."
+        },
+        {
+          "text": "Are you in firm-soled shoes or squishy-soled shoes?",
+          "source_id": "no3fwsu",
+          "kind": "objection",
+          "nl_meaning": "Draag je schoenen met een stevige zool of een zachte zool?"
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'blootsvoets thuis' is vaak de boosdoener; een thuiszool/-slipper met steun past opnieuw."
+    }
+  },
+  {
+    "post_id": "1fy3sv5",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Wandelaar mist een zomer wandelen door fasciitis; dokter wil cortisone-injecties; reacties delen wat hielp.",
+      "regions": [
+        "heel",
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hiking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Fysio en SOLE-zolen in alle schoenen",
+          "category": "otc_insole",
+          "brand_or_product": "SOLE",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'99% better'",
+          "source_id": "lqrfv1m"
+        },
+        {
+          "solution": "Altra zero-drop",
+          "category": "barefoot_minimal",
+          "brand_or_product": "Altra",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na 12-uursdiensten de enige verlichting",
+          "source_id": "lqr6s90"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'zero foot pain'",
+          "source_id": "lqra7vm"
+        },
+        {
+          "solution": "Afvallen",
+          "category": "weight_loss",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "105 pond kwijt, jaren klachtenvrij",
+          "source_id": "lqrrn7a"
+        }
+      ],
+      "brands_mentioned": [
+        "SOLE",
+        "Altra",
+        "Hoka"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "By SOLE insoles for all of my shoes to support arch.",
+          "source_id": "lqrfv1m",
+          "kind": "works",
+          "nl_meaning": "Kocht SOLE-zolen voor al mijn schoenen voor boogsteun."
+        },
+        {
+          "text": "Mine came from walking on concrete floors and boating without shoes.",
+          "source_id": "lqra7vm",
+          "kind": "pain",
+          "nl_meaning": "De mijne kwam van lopen op betonvloeren en zonder schoenen varen."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'een zool in al je schoenen' is een terugkerend recept; een meerdere-paren-bundel is logisch."
+    }
+  },
+  {
+    "post_id": "199uelt",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Disneyland-jaarkaarthouder met fasciitis en hoge bogen krijgt altijd hielpijn en zoekt betaalbare schoenen; Hoka's vindt ze te duur.",
+      "regions": [
+        "heel",
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis",
+        "high arches"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_expensive"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Verschillende schoenen en inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Hielpijn bleef",
+          "source_id": "post"
+        },
+        {
+          "solution": "Echte maatwerkzolen bij de podotherapeut",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "'You can use inserts in any shoe.'",
+          "source_id": "kigtbct"
+        }
+      ],
+      "brands_mentioned": [
+        "Merrell",
+        "Hoka",
+        "Skechers",
+        "Nordstrom Rack",
+        "Ross"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I have PF, high arches, and have tried different shoes and inserts, and inevitably, heel pain would put a big damper on my day.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb fasciitis en hoge bogen, en heb verschillende schoenen en zolen geprobeerd, maar onvermijdelijk verpestte hielpijn mijn dag."
+        },
+        {
+          "text": "Budget ain’t getting it done.",
+          "source_id": "kigjfel",
+          "kind": "objection",
+          "nl_meaning": "Met een budgetoplossing kom je er niet."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: een zool als middenprijs-alternatief voor dure Hoka's past bij jaarkaarthouders van pretparken."
+    }
+  }
+]

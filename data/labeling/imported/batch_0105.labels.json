@@ -1,0 +1,160 @@
+[
+  {
+    "post_id": "u9n5dp",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Reiziger met één paar schoenen krijgt na vijf dagen veel lopen in Europa stinkende voeten en schoenen; slaapt in hostels.",
+      "regions": [
+        "skin"
+      ],
+      "conditions": [
+        "bromodosis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "odor"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Bacteriën aanpakken",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "'You must eliminate the source of the smell: bacteria.'",
+          "source_id": "i5sizt0"
+        },
+        {
+          "solution": "Baking soda in de schoenen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Ruikt de volgende ochtend beter",
+          "source_id": "i5srnos"
+        },
+        {
+          "solution": "Kattenbakkorrels in een sok",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'It really helps.'",
+          "source_id": "i5smury"
+        },
+        {
+          "solution": "Nieuwe inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "Van plan",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I am staying in hostels and don't want to stink up the rooms, esp as it gets worse",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik slaap in hostels en wil de kamers niet laten stinken, vooral nu het erger wordt."
+        },
+        {
+          "text": "You must eliminate the source of the smell: bacteria.",
+          "source_id": "i5sizt0",
+          "kind": "desire",
+          "nl_meaning": "Je moet de bron van de geur wegnemen: bacteriën."
+        },
+        {
+          "text": "Prob gonna search for new insoles as well.",
+          "source_id": "post",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik ga waarschijnlijk ook nieuwe inlegzolen zoeken."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: reizigers zoeken bij geur meteen nieuwe zolen; 'fris tijdens je hele reis' sluit aan op de koperhoek."
+    }
+  },
+  {
+    "post_id": "1apr8av",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "'Cold feet' over een reis.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match (uitdrukking)."
+    }
+  },
+  {
+    "post_id": "5xxeh2",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "'Cold feet' over een eerste solo-reis.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match (uitdrukking)."
+    }
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "post_id": "144buzx",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Disneyland-bezoeker heeft na een parkdag altijd pijnlijke voeten en benen, ook in Nike-hardloopschoenen.",
+      "regions": [
+        "whole_foot",
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dr. Scholl's gelzolen",
+          "category": "otc_insole",
+          "brand_or_product": "Dr. Scholl's",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'you can walk around telling everyone you’re gellin'",
+          "source_id": "jnelm8w"
+        },
+        {
+          "solution": "Compressiesokken na het park",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'magical'",
+          "source_id": "jnetlpk"
+        },
+        {
+          "solution": "Vooraf oefenen en twee paar ingelopen schoenen afwisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "jnemeze"
+        },
+        {
+          "solution": "Lacrosse-bal onder de voet rollen",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Does wonders.'",
+          "source_id": "jnen64z"
+        }
+      ],
+      "brands_mentioned": [
+        "Nike",
+        "Vans",
+        "Dr. Scholl's",
+        "Adidas Ultraboost"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I like to put some of those squishy Dr scholls things in my shoes, bonus is that you can walk around telling everyone you’re “gellin”",
+          "source_id": "jnelm8w",
+          "kind": "works",
+          "nl_meaning": "Ik doe graag zo'n zachte Dr. Scholl's-zool in mijn schoenen; bonus: je kunt iedereen vertellen dat je aan het 'gellen' bent."
+        },
+        {
+          "text": "I can’t imagine that after a full day in Disney that someone’s feet don’t hurt.",
+          "source_id": "jnekcty",
+          "kind": "pain",
+          "nl_meaning": "Ik kan me niet voorstellen dat iemands voeten na een hele dag Disney geen pijn doen."
+        },
+        {
+          "text": "I wish they sold these in the park. I would buy them!",
+          "source_id": "jnenwj3",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik wou dat ze die in het park verkochten. Ik zou ze kopen!"
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: pretparkbezoekers (25.000+ stappen per dag) zijn een seizoensgroep; 'voeten pijn na een dag Efteling/Disney' is herkenbaar voor gezinnen. 621 reacties."
+    }
+  },
+  {
+    "post_id": "1xlwo9b",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Twijfel over stoppen met alles om solo te reizen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "17wh9qx",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Wandelaar twijfelt tussen schoenen die kleine teen knellen of een maat groter die voelt als clownsschoenen.",
+      "regions": [
+        "toes"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hiking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brede maat of breder merk (Merrell, Keen, Altra)",
+          "category": "shoes",
+          "brand_or_product": "Merrell, Keen, Altra",
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "k9i5ngy"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Imagine hiking 20 miles with your pinky toe jammed into your boot.",
+          "source_id": "k9h5hi7",
+          "kind": "pain",
+          "nl_meaning": "Stel je voor dat je 20 mijl wandelt met je kleine teen klemgezet in je schoen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: een zool mag geen volume in de neus kosten."
+    }
+  }
+]

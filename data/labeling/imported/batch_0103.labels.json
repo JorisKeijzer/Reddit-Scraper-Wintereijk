@@ -1,0 +1,214 @@
+[
+  {
+    "post_id": "1orjfip",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Vrouw reist met een partner met fasciitis die steeds vraagt naar het volgende bankje; reacties: goede schoenen en fysio maken het beheersbaar.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Goede (dure) schoenen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'worth every penny in order to be able to live life the way I want'",
+          "source_id": "nnqtgtv"
+        },
+        {
+          "solution": "Fysio en kuitversterking",
+          "category": "physio",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Reageert op consequente oefeningen",
+          "source_id": "nnqg5n5"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "He asks me constantly «when’s the next bench? When does this end?»",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Hij vraagt constant: 'Waar is het volgende bankje? Wanneer is dit voorbij?'"
+        },
+        {
+          "text": "Plantar fasciitis is very manageable, and while the appropriate shoes can be pricey, they are worth every penny in order to be able to live life the way I want.",
+          "source_id": "nnqtgtv",
+          "kind": "buying_trigger",
+          "nl_meaning": "Fasciitis is goed te beheersen, en hoewel de juiste schoenen prijzig kunnen zijn, zijn ze elke cent waard om te leven zoals ik wil."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: voetpijn raakt ook de partner en de vakantie ('waar is het volgende bankje?'); een cadeau-invalshoek voor partners."
+    }
+  },
+  {
+    "post_id": "13gw9j5",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Backpacker die met één paar schoenen zonder sokken reist zoekt de beste allround schoen; reacties vragen hoe hij stank voorkomt.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "odor"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [
+        "Allbirds",
+        "Merrell",
+        "Osprey"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "how do you keep your shoes from becoming ultra stinky if you wear the same pair every day and barely ever wear socks? I've never met a person who didn't use socks who's shoes didn't smell like bad gorgonzola",
+          "source_id": "jk3gr3y",
+          "kind": "objection",
+          "nl_meaning": "Hoe voorkom je dat je schoenen enorm gaan stinken als je elke dag hetzelfde paar draagt en bijna nooit sokken? Ik heb nog nooit iemand zonder sokken ontmoet wiens schoenen niet roken naar slechte gorgonzola."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: reizigers met één paar schoenen hebben een geurprobleem; een frisse zool past bij 'onebag'-reizen."
+    }
+  },
+  {
+    "post_id": "1dgr65b",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Zwangere vrouw (37, 25 weken) met platvoeten heeft brandende voeten; oude schoenen passen niet meer en slip-on flats zijn pijnlijk.",
+      "regions": [
+        "arch",
+        "whole_foot"
+      ],
+      "conditions": [
+        "flat feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "pregnancy"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Compressiesokken met een stevig, gevormd voetbed (Birkenstock)",
+          "category": "compression_socks",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'my feet are happiest'",
+          "source_id": "l8rt729"
+        },
+        {
+          "solution": "Kizik instapsneakers",
+          "category": "shoes",
+          "brand_or_product": "Kizik",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Zonder bukken aan te trekken",
+          "source_id": "l8s84vp"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'like walking on a cloud'",
+          "source_id": "l8s7nxj"
+        }
+      ],
+      "brands_mentioned": [
+        "Dr Martens",
+        "Keds",
+        "Kizik",
+        "Birdies",
+        "Crocs",
+        "Birkenstock",
+        "Asics",
+        "Hoka",
+        "Oofos"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "25 and a half weeks here and my feet are on fire.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik ben 25,5 week en mijn voeten staan in brand."
+        },
+        {
+          "text": "I already have somewhat flat feet and I think pregnancy has made them even flatter and more sensitive.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik had al een beetje platvoeten en ik denk dat de zwangerschap ze nog platter en gevoeliger heeft gemaakt."
+        },
+        {
+          "text": "I find my feet are happiest with the combo of compression socks + something with more firm/molded/supportive footbed like Birkenstocks",
+          "source_id": "l8rt729",
+          "kind": "works",
+          "nl_meaning": "Mijn voeten zijn het blijst met de combinatie compressiesokken + een steviger, gevormd, ondersteunend voetbed zoals Birkenstocks."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: zwangerschap is een nieuwe doelgroep (voeten worden platter, schoenen passen niet meer); stevig voetbed + instappen zonder bukken. Voorzichtig met claims."
+    }
+  }
+]

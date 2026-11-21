@@ -1,0 +1,186 @@
+[
+  {
+    "post_id": "ls3jbr",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ambulancemedewerker over technische redding.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "17ga1gl",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Target-medewerker krijgt aan het eind van de dag pijnlijke voeten in Adidas NMD's.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "retail",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka met brede neus",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'my savor when I worked at Target'",
+          "source_id": "k6fuua6"
+        },
+        {
+          "solution": "Compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Van bijna dagelijkse scheenbeenklachten naar nauwelijks pijn",
+          "source_id": "k6h4srv"
+        },
+        {
+          "solution": "Drie paar dezelfde schoenen afwisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Demping kan herstellen",
+          "source_id": "k6fqzih"
+        }
+      ],
+      "brands_mentioned": [
+        "Vans",
+        "Converse",
+        "Adidas",
+        "Hoka",
+        "Skechers",
+        "Topo"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Forget about what looks fashionable. You’ll regret it when your feet are all fucked up because of being on that title floor all day.",
+          "source_id": "k6fuua6",
+          "kind": "objection",
+          "nl_meaning": "Vergeet wat er modieus uitziet. Je krijgt er spijt van als je voeten kapot zijn van de hele dag op die tegelvloer."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: jongeren in retail kiezen eerst stijl en betalen met pijn; een zool laat hen stijl houden."
+    }
+  },
+  {
+    "post_id": "56brj1",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Lerares heeft door platte ballerina's veel voetpijn en zoekt goede schoenen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "teaching",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_hard"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Clarks en Born",
+          "category": "shoes",
+          "brand_or_product": "Clarks, Born",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Steunend en niet 'old lady'",
+          "source_id": "d8i02br"
+        },
+        {
+          "solution": "Converse een maat groter met een dikke zool",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "d8i5im3"
+        }
+      ],
+      "brands_mentioned": [
+        "Clarks",
+        "Born",
+        "Dansko",
+        "Nike",
+        "Skechers",
+        "Converse",
+        "Tieks",
+        "Toms"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Flats have effed up my feet and my feet are in terrible pain...",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Platte schoenen hebben mijn voeten verpest en ik heb vreselijke pijn..."
+        },
+        {
+          "text": "they're nice enough looking that you don't feel like you're wearing old lady shoes.",
+          "source_id": "d8i02br",
+          "kind": "desire",
+          "nl_meaning": "Ze zien er mooi genoeg uit dat je niet het gevoel hebt dat je oudevrouwtjesschoenen draagt."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'geen oudevrouwtjesschoenen' is precies de angst van leraressen; een onzichtbare zool in mooie schoenen lost het op."
+    }
+  }
+]

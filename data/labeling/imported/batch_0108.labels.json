@@ -1,0 +1,162 @@
+[
+  {
+    "post_id": "nwx2nu",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Langdurige reizigers over thuis vastzitten tijdens corona.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1szbhei",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Iemand die 13 jaar barefoot-schoenen droeg kreeg toch fasciitis; podotherapeut adviseert steun en demping, wat hij moeilijk vindt.",
+      "regions": [
+        "heel",
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis",
+        "high arches"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running",
+        "hiking"
+      ],
+      "duration": "3 maanden",
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Drie maanden inlegzolen en rust, daarna terug naar barefoot",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Moeder herstelde zo",
+          "source_id": "oj0uik8"
+        },
+        {
+          "solution": "Pro Stretch-kuitrekker",
+          "category": "stretching_exercise",
+          "brand_or_product": "ProStretch",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'finally able to kick my plantar fasciitis'",
+          "source_id": "oj0vj1t"
+        }
+      ],
+      "brands_mentioned": [
+        "Altra",
+        "Lems",
+        "ProStretch"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "My mom had this issue. She stopped working out and used insoles for 3 months.",
+          "source_id": "oj0uik8",
+          "kind": "works",
+          "nl_meaning": "Mijn moeder had dit. Ze stopte met sporten en gebruikte drie maanden inlegzolen."
+        },
+        {
+          "text": "My doc said the same thing. Orthotics, NEVER walk around barefoot, support, cushion. It's bullshit.",
+          "source_id": "oj1g50s",
+          "kind": "objection",
+          "nl_meaning": "Mijn dokter zei hetzelfde. Orthesen, NOOIT blootsvoets lopen, steun, demping. Het is onzin."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: ook barefoot-fans gebruiken tijdelijk zolen bij herstel; 'tijdelijke steun' is een positionering voor deze sceptische groep."
+    }
+  },
+  {
+    "post_id": "phae1r",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "other",
+      "problem_summary_nl": "Iemand vond niet-lelijke foam-slippers in de kringloop, maar ze maken een zuigend geluid door zweetvoeten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "squeaky",
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Babypoeder of maizena",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "hbh38ok"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Foot farts while wearing Birkenstock’s gets embarrassing",
+          "source_id": "hbimrso",
+          "kind": "objection",
+          "nl_meaning": "Voetscheten in Birkenstocks wordt gênant."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: piepen door vocht is een klein, gênant ongemak."
+    }
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "post_id": "1aclm0f",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Wandelaar zoekt duurzame zolen met boogsteun; Superfeet en SOLE worden vaak genoemd, maatwerk soms onprettig.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis",
+        "high arches"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hiking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Superfeet Hike Support",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Minder fasciitispijn en gevoelloosheid",
+          "source_id": "kjv0xj7"
+        },
+        {
+          "solution": "Maatwerkzolen van chiropodist en fysio",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'so uncomfortable, it’s like I can never break them in'",
+          "source_id": "kjv3ksc"
+        },
+        {
+          "solution": "SOLE in werklaarzen",
+          "category": "otc_insole",
+          "brand_or_product": "SOLE",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Lage of middenvolume-variant kiezen",
+          "source_id": "kjv7uwm"
+        }
+      ],
+      "brands_mentioned": [
+        "Superfeet",
+        "REI",
+        "SOLE",
+        "Altra"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I've tried lots of insoles and always go back to Superfeet (the green ones work best for me).",
+          "source_id": "kjv3ksc",
+          "kind": "works",
+          "nl_meaning": "Ik heb veel zolen geprobeerd en ga altijd terug naar Superfeet (de groene werken het best voor mij)."
+        },
+        {
+          "text": "Before I sized down, insoles always felt like there was a bar u",
+          "source_id": "kjvb4pn",
+          "kind": "fails",
+          "nl_meaning": "Voordat ik een maat kleiner nam, voelden zolen altijd alsof er een staaf onder [mijn voet] zat."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: maat op booglengte kiezen komt opnieuw terug; een 'boogmaat' in plaats van schoenmaat is een sterk verkoopargument."
+    }
+  },
+  {
+    "post_id": "yuurcf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Reiziger die vier maanden naar Zuidoost-Azië gaat, kreeg voet- en kniepijn van platte Vans en zoekt steunende schoenen die er goed uitzien.",
+      "regions": [
+        "whole_foot",
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_hard"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Trail runners",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Stevig genoeg en ziet eruit als sneakers",
+          "source_id": "iwbbv7t"
+        }
+      ],
+      "brands_mentioned": [
+        "Blundstone",
+        "Vans",
+        "Nike",
+        "Birkenstock",
+        "Altra",
+        "Keen"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I also have two pairs of Vans but I found out that these flat-soles shoes were the source of some significant foot pain and knee problems when I wear them often.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb ook twee paar Vans, maar ontdekte dat deze schoenen met platte zool de oorzaak waren van flinke voet- en kniepijn als ik ze vaak droeg."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: platte sneakers (Vans, Converse) veroorzaken klachten bij veel lopen; een zool erin is het makkelijkste alternatief."
+    }
+  },
+  {
+    "post_id": "1x07waq",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Solo-reiziger 'struggling to find my feet' in Argentinië.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match (uitdrukking)."
+    }
+  }
+]
