@@ -1,0 +1,181 @@
+[
+  {
+    "post_id": "7dtv2n",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Vrouw van 125 kg die net elke dag 7 km is gaan wandelen, krijgt blaren en vraagt hoe ze dat volhoudt.",
+      "regions": [
+        "skin"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Wollen of synthetische sokken in plaats van katoen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "dq0amy0"
+        },
+        {
+          "solution": "Blarenpleisters",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'go through them like crazy'",
+          "source_id": "dq0alsz"
+        },
+        {
+          "solution": "Twee paar goede schoenen afwisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Voeten en rug minder pijnlijk",
+          "source_id": "dq0hv6q"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Also keep in mind that if you walk a lot your shoes will wear out.  For me i know when my lower back starts to hurt after awhile on my feet it means I need new shoes.",
+          "source_id": "dq0b5jo",
+          "kind": "buying_trigger",
+          "nl_meaning": "Houd er ook rekening mee dat je schoenen slijten als je veel loopt. Als mijn onderrug na een tijdje pijn gaat doen, weet ik dat ik nieuwe schoenen nodig heb."
+        },
+        {
+          "text": "Go to a good shoe store that seems aimed at \"old people\", ask for walking shoes.",
+          "source_id": "dq0fabr",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ga naar een goede schoenenwinkel die op 'oude mensen' lijkt gericht en vraag om wandelschoenen."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: zware beginners met wandelen zijn een groeiende groep (afvallen); zij hebben steun en blaarpreventie nodig, zonder oordeel."
+    }
+  },
+  {
+    "post_id": "1457odj",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "'Cold feet' voor de bruiloft.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match (uitdrukking)."
+    }
+  },
+  {
+    "post_id": "31mv1v",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "experience_report",
+      "problem_summary_nl": "Vrouw met extreem platte voeten probeerde jaren boogsteunen en dure orthesen; bleek twee maten te kleine schoenen te dragen.",
+      "regions": [],
+      "conditions": [
+        "flat feet",
+        "overpronation"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "sport",
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Boogsteunen en dure orthesen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Niets hielp tot de juiste maat",
+          "source_id": "post"
+        },
+        {
+          "solution": "Juiste schoenmaat laten meten",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'life changing'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I've tried arch supports, expensive orthotics, even with most supportiv",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb boogsteunen geprobeerd, dure orthesen, zelfs met de meest ondersteunende [schoenen]."
+        },
+        {
+          "text": "I have worn a size 10 since I was 10 years old and just bought a pair of 11s that fit better with my inserts for my flat feet.",
+          "source_id": "cq33xzc",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik draag maat 10 sinds mijn tiende en kocht net maat 11, die beter past met mijn inlegzolen voor platvoeten."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: een zool werkt alleen in een passende schoen; een maatadvies ('neem je schoen eventueel een halve maat groter') voorkomt teleurstelling."
+    }
+  }
+]

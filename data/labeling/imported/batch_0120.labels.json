@@ -1,0 +1,137 @@
+[
+  {
+    "post_id": "1q4tngd",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Politieke post ('return feet first').",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1jhcvqp",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Reiziger krijgt teenpijn in de meeste sportschoenen en zoekt wandelschoenen met brede neus.",
+      "regions": [
+        "toes",
+        "forefoot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brooks Ghost",
+          "category": "shoes",
+          "brand_or_product": "Brooks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'zero forefoot/toe pain'",
+          "source_id": "mj674nj"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Te smalle neus bij teenklachten",
+          "source_id": "mj6c5tj"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Hoka",
+        "Keen",
+        "Altra",
+        "Topo",
+        "New Balance",
+        "Brooks"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "They are ugly but a pair of Brooks running shoes made a huge impact on my knee and back pain from walking",
+          "source_id": "mj66iua",
+          "kind": "works",
+          "nl_meaning": "Ze zijn lelijk, maar Brooks-hardloopschoenen hadden een enorme impact op mijn knie- en rugpijn van het lopen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: brede neus en 'lelijk maar het werkt' komen terug."
+    }
+  },
+  {
+    "post_id": "q7a16u",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Moeder met een voetbreuk wil scheiden; over mental load.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Relatie, geen voetoplossingen."
+    }
+  }
+]

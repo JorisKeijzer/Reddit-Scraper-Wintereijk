@@ -1,0 +1,214 @@
+[
+  {
+    "post_id": "1m58j1r",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Zorgassistent (CNA) heeft na 12-uursdiensten zonder te zitten pijnlijke voeten; schoenen waren maar drie maanden goed.",
+      "regions": [],
+      "conditions": [
+        "plantar fasciitis",
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "flattened_wore_out",
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Superfeet Orange",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Insoles are where it’s at.'",
+          "source_id": "n4a673o"
+        },
+        {
+          "solution": "Orthofeet",
+          "category": "shoes",
+          "brand_or_product": "Orthofeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Eerste schoenen die verlichting gaven bij fasciitis",
+          "source_id": "n4a9hlf"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Rubber laat los op plakkerige vloeren",
+          "source_id": "n4bxwyo"
+        }
+      ],
+      "brands_mentioned": [
+        "Superfeet",
+        "Brooks",
+        "Clove",
+        "Orthofeet",
+        "Hoka",
+        "New Balance"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Insoles are where it’s at. Superfeet, the orange ones.",
+          "source_id": "n4a673o",
+          "kind": "works",
+          "nl_meaning": "Inlegzolen, daar gaat het om. Superfeet, de oranje."
+        },
+        {
+          "text": "This job gave me plantar fasciitis and they’re the first shoes to give relief.",
+          "source_id": "n4a9hlf",
+          "kind": "pain",
+          "nl_meaning": "Dit werk gaf me fasciitis en dit zijn de eerste schoenen die verlichting gaven."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: zorgassistenten (CNA's, verzorgenden) zijn een staande beroepsgroep met lage lonen; een betaalbare zool kan dure schoenen vervangen."
+    }
+  },
+  {
+    "post_id": "eu7g58",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Bouwvakker kreeg in Timberland Pit Boss blaren op hielen en voetzolen en zoekt nieuwe veiligheidslaarzen en zolen.",
+      "regions": [
+        "heel",
+        "skin"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "construction",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Superfeet Orange",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Gebruikt, maar blaren",
+          "source_id": "post"
+        },
+        {
+          "solution": "Red Wing King Toe",
+          "category": "shoes",
+          "brand_or_product": "Red Wing",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Easily best boot I have worn'",
+          "source_id": "ffm89gr"
+        },
+        {
+          "solution": "Opnieuw laten meten",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Voeten veranderen met leeftijd",
+          "source_id": "ffm7oe2"
+        }
+      ],
+      "brands_mentioned": [
+        "Timberland",
+        "Superfeet",
+        "Thorogood",
+        "Carolina",
+        "Danner",
+        "Keen",
+        "Red Wing",
+        "Georgia Boot",
+        "Chippewa"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "I'm willing to spend up to $250ish"
+      ],
+      "quotes": [
+        {
+          "text": "Just spent a day working in a tight mechanical room and left with blisters on the backs of my heels, front and underside of my feet.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb net een dag in een krappe machinekamer gewerkt en kwam thuis met blaren achter op mijn hielen en voor en onder mijn voeten."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: werklaarzen + zolen, herkenbaar patroon."
+    }
+  },
+  {
+    "post_id": "673pqf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Rekruut in week 12 heeft na een mars van 15 km met 15 kg erg pijnlijke voeten; reacties zijn vooral spot.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "You'll build your slave feet overtime, keep pushing forward.",
+          "source_id": "dgneuoq",
+          "kind": "objection",
+          "nl_meaning": "Je bouwt je 'slavenvoeten' vanzelf op, gewoon doorgaan."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: militaire cultuur van 'doorbijten'."
+    }
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "post_id": "1g6xchx",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Vrouw die 23 kg afviel en 10.000 stappen per dag zet, heeft al meer dan een jaar fasciitis ondanks 'every single sole'; wil niet rusten.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "sport",
+        "overweight"
+      ],
+      "duration": "ruim een jaar",
+      "previous_fixes": [
+        "every single sole",
+        "workout shoes",
+        "inserts"
+      ],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Allerlei zolen en inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'tried every single sole there is'",
+          "source_id": "post"
+        },
+        {
+          "solution": "Niet blootsvoets lopen in huis; Oofos-slippers",
+          "category": "shoes",
+          "brand_or_product": "Oofos",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Blootsvoets maakte het erger",
+          "source_id": "lsmcitr"
+        },
+        {
+          "solution": "Rust (<2000 stappen) en fysio",
+          "category": "physio",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na 8 maanden het enige dat hielp",
+          "source_id": "lsmdvrh"
+        }
+      ],
+      "brands_mentioned": [
+        "Oofos",
+        "Hoka"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I've tried every single sole there is, every brand of workout shoe, inserts etc.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb elke zool geprobeerd die er is, elk merk sportschoen, inlegzolen enz."
+        },
+        {
+          "text": "Do not walk barefoot around the house if you are right now. That exacerbated mine so much.",
+          "source_id": "lsmcitr",
+          "kind": "objection",
+          "nl_meaning": "Loop niet blootsvoets door het huis als je dat nu doet. Dat maakte het bij mij veel erger."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'blootsvoets thuis maakt het erger' komt telkens terug; steun in huis is een terugkerende behoefte."
+    }
+  },
+  {
+    "post_id": "zr5zko",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "'Cold feet'-discussie over twijfels voor de bruiloft.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match (uitdrukking)."
+    }
+  },
+  {
+    "post_id": "5pvgn6",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ervaring met gewichthefschoenen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Sporttechniek."
+    }
+  }
+]

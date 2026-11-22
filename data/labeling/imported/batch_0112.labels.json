@@ -1,0 +1,140 @@
+[
+  {
+    "post_id": "1cucih8",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Bruid met fasciitis kan geen hakken dragen en zoekt mooie platte trouwschoenen.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [
+        "mooie trouwschoenen zonder pijn"
+      ],
+      "solutions": [
+        {
+          "solution": "Witte Allbirds-flats met inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": "Allbirds",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Op advies van chirurg, ook goed bij fasciitis",
+          "source_id": "l4i51oz"
+        },
+        {
+          "solution": "Converse met geborduurde bloemen",
+          "category": "shoes",
+          "brand_or_product": "Converse",
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "Plan",
+          "source_id": "l4htd3x"
+        }
+      ],
+      "brands_mentioned": [
+        "Converse",
+        "Allbirds",
+        "Birkenstock",
+        "Betsey Johnson"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I have plantar fasciitis so I cannot wear heels or wedges without excruciating pain.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb fasciitis, dus ik kan geen hakken of sleehakken dragen zonder ondraaglijke pijn."
+        },
+        {
+          "text": "I wore white Allbirds flats with inserts in them (my surgeon said that’s also recommended for plantar fasciitis)",
+          "source_id": "l4i51oz",
+          "kind": "works",
+          "nl_meaning": "Ik droeg witte Allbirds-flats met inlegzolen erin (mijn chirurg zei dat dat ook aanbevolen is bij fasciitis)."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: bruiden zijn een niche (hele dag staan en dansen in mooie schoenen); een dunne, onzichtbare zool in trouwschoenen past daarin."
+    }
+  },
+  {
+    "post_id": "2ten06",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Tip om te squatten met hielen op de grond (enkelmobiliteit).",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Sporttechniek."
+    }
+  },
+  {
+    "post_id": "7ec73o",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Update van een vrouw met obesitas over haar voortgang (slaap, energie).",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Weinig over voeten."
+    }
+  }
+]

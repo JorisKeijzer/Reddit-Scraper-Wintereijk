@@ -1,0 +1,151 @@
+[
+  {
+    "post_id": "6vtuty",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bruid kiest lage blokhakken om niet de hele dag pijn te hebben; haar moeder vindt ze te laag.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "lately even kitten heels get painful after an hour or so",
+          "source_id": "dm34ko2",
+          "kind": "pain",
+          "nl_meaning": "Tegenwoordig doen zelfs kittenhakjes na een uur of zo pijn."
+        },
+        {
+          "text": "I know I'd rather look comfy then wear",
+          "source_id": "dm2ytgl",
+          "kind": "desire",
+          "nl_meaning": "Ik weet dat ik er liever comfortabel uitzie dan [hakken] te dragen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: bruiden kiezen comfort; zolen voor lage hakken en flats."
+    }
+  },
+  {
+    "post_id": "3l83yr",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Hoe houd je je voeten plat tijdens squats.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Sporttechniek."
+    }
+  },
+  {
+    "post_id": "1qa9sts",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Arts-assistent heeft vermoeide voeten in Skechers-instappers en vraagt wat collega's dragen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "medical resident",
+      "situations": [
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "On Cloud verbeterd met Cloud Sole-inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": "On",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'improved … tremendously'",
+          "source_id": "nz1bs1o"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "mixed",
+          "first_hand": true,
+          "reason": "Populair, maar voor iemand 'TERRIBLE … unstable'",
+          "source_id": "nz1ru8t"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Hoka",
+        "On",
+        "Birkenstock",
+        "Brooks",
+        "Vibram"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I’ve got both hokas and on clouds. I love my hokas best but I’ve improved the on clouds tremendously by adding cloud sole insoles.",
+          "source_id": "nz1bs1o",
+          "kind": "works",
+          "nl_meaning": "Ik heb Hoka's en On Clouds. Hoka's vind ik het fijnst, maar de On Clouds zijn enorm verbeterd door er Cloud Sole-inlegzolen in te doen."
+        },
+        {
+          "text": "They feel so unstable on the ground. I never got used to them.",
+          "source_id": "nz1ru8t",
+          "kind": "fails",
+          "nl_meaning": "Ze voelen zo instabiel op de grond. Ik ben er nooit aan gewend."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: zelfs dure sneakers worden verbeterd met een eigen zool; 'upgrade je schoen' is een positionering."
+    }
+  }
+]
