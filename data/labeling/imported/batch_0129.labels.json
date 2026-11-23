@@ -1,0 +1,173 @@
+[
+  {
+    "post_id": "1siykri",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Wandelaar met brede, platte voeten heeft ondanks professioneel aangemeten Topo, Altra en Hoka blaren, zwarte teennagels en fasciitis.",
+      "regions": [
+        "skin",
+        "toes",
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis",
+        "flat feet",
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hiking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Steunende inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "'I can’t tell if they’re helping'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [
+        "Topo",
+        "Altra",
+        "Hoka",
+        "La Sportiva",
+        "Dynafit",
+        "Scarpa"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I put supportive inserts in my shoes once the PF developed, but I can’t tell if they’re helping.",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "Ik deed steunende zolen in mijn schoenen toen de fasciitis begon, maar ik kan niet zeggen of ze helpen."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'ik weet niet of het helpt' is een veelvoorkomende onzekerheid; een duidelijk proefperiode-moment (bijv. na 2 weken) maakt effect merkbaar."
+    }
+  },
+  {
+    "post_id": "bz8q6o",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Vrouw met brede voeten zoekt schoenen voor een hele dag Disneyland; voeten voelen altijd alsof ze eraf vallen.",
+      "regions": [],
+      "conditions": [
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Adidas Ultraboost",
+          "category": "shoes",
+          "brand_or_product": "Adidas",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Licht en zacht",
+          "source_id": "eqqzw1d"
+        },
+        {
+          "solution": "Halverwege de dag van sokken wisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'refreshes my feet a bit'",
+          "source_id": "eqr6vfz"
+        },
+        {
+          "solution": "OluKai-slippers met boogsteun",
+          "category": "shoes",
+          "brand_or_product": "OluKai",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "99% van de tijd in het park",
+          "source_id": "eqr1gtz"
+        }
+      ],
+      "brands_mentioned": [
+        "Adidas Ultraboost",
+        "Teva",
+        "OluKai"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "usually when i go it feels like my feet are going to fall off!",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Meestal voelt het alsof mijn voeten eraf vallen!"
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: pretparkbezoek komt opnieuw terug als seizoensmoment."
+    }
+  },
+  {
+    "post_id": "1glwb4b",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Vriend krijgt 'cold feet' voor de bruiloft.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match (uitdrukking)."
+    }
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "post_id": "mqzgsz",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bruiloftsbudget in Chicago; 'magnet' is een uitnodigingswebsite.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1lkzorf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Iemand met pijn en verkleuring aan het grote teengewricht kreeg verschillende diagnoses (jicht, bursitis, artritis); magneettherapie van de fysio hielp een beetje.",
+      "regions": [
+        "toes"
+      ],
+      "conditions": [
+        "gout",
+        "bursitis",
+        "arthritis"
+      ],
+      "diagnosed_by_professional": true,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Magneettherapie (fysiotherapeut)",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "'helped a little, but not completely'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "mixed",
+        "summary_nl": "Een fysiotherapeut schreef magneettherapie voor; 'helped a little, but not completely'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "A physical therapist prescribed magnet therapy and exercises. The magnet therapy helped a little, but not co",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Een fysiotherapeut schreef magneettherapie en oefeningen voor. De magneettherapie hielp een beetje, maar niet he[lemaal]."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": true,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: in sommige landen schrijven fysiotherapeuten nog magneettherapie voor; toch alleen een 'beetje'. Geen bruikbare claim."
+    }
+  },
+  {
+    "post_id": "10veoq0",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met reuma heeft 's ochtends brandende, stekende voeten en zoekt huisschoenen voor de hele dag op houten vloeren.",
+      "regions": [
+        "whole_foot",
+        "ankle"
+      ],
+      "conditions": [
+        "rheumatoid arthritis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Crocs",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'They ugly and I live in them.'",
+          "source_id": "j7h25om"
+        },
+        {
+          "solution": "Oofos-sandalen",
+          "category": "shoes",
+          "brand_or_product": "Oofos",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Voor slechte dagen",
+          "source_id": "j7h2qo1"
+        },
+        {
+          "solution": "Cloud slides in huis",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'hands down my favorite shoes'",
+          "source_id": "j7h2dx7"
+        }
+      ],
+      "brands_mentioned": [
+        "Crocs",
+        "Birkenstock",
+        "Oofos",
+        "Dansko",
+        "Brooks",
+        "Merrell",
+        "Hoka",
+        "Orthofeet",
+        "OluKai"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I need house shoes since I’m on hardwood floors a lot throughout the day.",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik heb huisschoenen nodig, want ik sta de hele dag veel op houten vloeren."
+        },
+        {
+          "text": "Crocs. They ugly and I live in them.",
+          "source_id": "j7h25om",
+          "kind": "works",
+          "nl_meaning": "Crocs. Ze zijn lelijk en ik leef erin."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": true,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'harde vloeren thuis' komt nu ook uit de reumahoek; steun in huis is een brede behoefte."
+    }
+  },
+  {
+    "post_id": "rt6ep7",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Mogelijk onbehandelde diabetes met zenuwpijn in de voeten; belandt op de spoedeisende hulp.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Medisch spoedgeval, niet onze doelgroep."
+    }
+  }
+]

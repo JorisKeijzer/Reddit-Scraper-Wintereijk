@@ -1,0 +1,143 @@
+[
+  {
+    "post_id": "31hzb9",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Squatdiepte en hielen plat houden.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Sporttechniek."
+    }
+  },
+  {
+    "post_id": "zp5xfd",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "other",
+      "problem_summary_nl": "Bruid vond eindelijk trouwschoenen met wat hoogte die geen pijn doen en vraagt of ze bruidachtig genoeg zijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I would opt for comfort on a day when you’re going to be on your feet and dancing for the majority of it.",
+          "source_id": "j0r77vj",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik zou voor comfort kiezen op een dag waarop je het grootste deel op je benen staat en danst."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: bruiden kiezen comfort."
+    }
+  },
+  {
+    "post_id": "1ni59ak",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Gastvrouw in een restaurant met reuma in voeten en handen staat haar hele dienst en zoekt schoenen.",
+      "regions": [],
+      "conditions": [
+        "rheumatoid arthritis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'I can only wear Hokas at my job.'",
+          "source_id": "negswky"
+        },
+        {
+          "solution": "Altra met ruime neus",
+          "category": "shoes",
+          "brand_or_product": "Altra",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Ruimte voor gezwollen tenen",
+          "source_id": "negpyjl"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Altra",
+        "Keen",
+        "Crocs",
+        "Vans"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The only shoe that has room for my toes when they’re swollen.",
+          "source_id": "negpyjl",
+          "kind": "works",
+          "nl_meaning": "De enige schoen met ruimte voor mijn tenen als ze gezwollen zijn."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: reumapatiënten in staande banen zijn een overlap tussen twee groepen; een zool mag geen ruimte in de neus kosten."
+    }
+  }
+]

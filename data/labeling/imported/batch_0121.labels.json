@@ -1,0 +1,263 @@
+[
+  {
+    "post_id": "bxz8hf",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bruiloftsverslag met budget; 'copper' is spuitverf.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "9836ow",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Iemand met reuma deelt producten die helpen tijdens een opflakkering; reacties noemen schoenen met ruimte voor gezwollen tenen.",
+      "regions": [
+        "toes",
+        "whole_foot"
+      ],
+      "conditions": [
+        "rheumatoid arthritis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstocks",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Comfortabel maar niet 'grannyish'",
+          "source_id": "e4dnj6p"
+        },
+        {
+          "solution": "Oofos",
+          "category": "shoes",
+          "brand_or_product": "Oofos",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'most comfortable flip flops'",
+          "source_id": "e4dc1iz"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock",
+        "Oofos",
+        "Alegria",
+        "Obeo"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "After much searching for shoes that were comfy but not grannyish (I’m 26) I settled on the oldie but goodie-birkenstocks",
+          "source_id": "e4dnj6p",
+          "kind": "desire",
+          "nl_meaning": "Na lang zoeken naar schoenen die comfortabel waren maar niet oubollig (ik ben 26), koos ik voor de oude vertrouwde Birkenstocks."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: ook jonge reumapatiënten willen comfort zonder 'oma-schoenen'."
+    }
+  },
+  {
+    "post_id": "o999l5",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met reuma en slechte handen vraagt of koperen compressiehandschoenen werken; de meeste reacties noemen koper een marketinggimmick.",
+      "regions": [
+        "legs_knees_back"
+      ],
+      "conditions": [
+        "rheumatoid arthritis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen compressiehandschoenen",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": false,
+          "reason": "'just a marketing gimmick'; 'never felt any different … than the usual cotton ones'",
+          "source_id": "h39pvg9"
+        },
+        {
+          "solution": "Koperen compressiehandschoenen (gekocht om reviews en prijs)",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Gekozen omdat ze niets extra kostten en de beste reviews hadden",
+          "source_id": "h39ylni"
+        },
+        {
+          "solution": "Gewone katoenen compressiehandschoenen",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'much more effective'",
+          "source_id": "h3awmwx"
+        },
+        {
+          "solution": "IMAK-handschoenen",
+          "category": "compression_socks",
+          "brand_or_product": "IMAK",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Betaalbaar en wasbaar",
+          "source_id": "h3bplwg"
+        }
+      ],
+      "brands_mentioned": [
+        "IMAK",
+        "ComfyBrace",
+        "Thermoskin",
+        "Voltaren"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "skeptical",
+        "summary_nl": "Overwegend sceptisch: 'The copper is just a marketing gimmick', 'Copper infused stuff is just a gimmick', 'never felt any different … than the usual cotton ones'. Eén koper ze 'solely because … they didn't cost anything extra and had the best reviews'; één zegt dat koper- en katoenhandschoenen druk verminderen."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The copper is just a marketing gimmick. I think most people here recommend the IMAK gloves.",
+          "source_id": "h39pvg9",
+          "kind": "copper",
+          "nl_meaning": "Het koper is gewoon een marketingtruc. Ik denk dat de meeste mensen hier de IMAK-handschoenen aanraden."
+        },
+        {
+          "text": "I got copper ones soley because in the mid range quality gloves they didn't cost anything extra and had the best reviews",
+          "source_id": "h39ylni",
+          "kind": "copper",
+          "nl_meaning": "Ik kocht koperen alleen omdat ze in de middenklasse niets extra kostten en de beste reviews hadden."
+        },
+        {
+          "text": "the copper compression gloves never felt any different to me than the usual cotton ones.",
+          "source_id": "h3buqnk",
+          "kind": "copper",
+          "nl_meaning": "De koperen compressiehandschoenen voelden voor mij nooit anders dan de gewone katoenen."
+        },
+        {
+          "text": "Copper infused stuff is just a gimmick..",
+          "source_id": "h3cymrj",
+          "kind": "copper",
+          "nl_meaning": "Spullen met koper zijn gewoon een gimmick."
+        },
+        {
+          "text": "Recent research shows that that compression gloves make no difference, but gloves do help if your pain responds well to warmth.",
+          "source_id": "h3cibry",
+          "kind": "objection",
+          "nl_meaning": "Recent onderzoek laat zien dat compressiehandschoenen geen verschil maken, maar handschoenen helpen wel als je pijn goed reageert op warmte."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: in patiëntenfora (reuma) is koper als medisch middel ongeloofwaardig ('marketing gimmick'). Wie koper toch koopt, doet dat om prijs en reviews, niet om het koper. Les: koper nooit als pijnremedie positioneren; zelfs het product moet eerst op eigen kracht goed zijn."
+    }
+  },
+  {
+    "post_id": "4658lj",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Kunststudent met (vermoedelijke) reuma heeft zoveel handpijn dat ze 's nachts huilt; koperen compressiehandschoenen hielpen niet.",
+      "regions": [
+        "legs_knees_back"
+      ],
+      "conditions": [
+        "rheumatoid arthritis",
+        "Raynaud's"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen compressiehandschoenen",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Te groot en 'didn't provide any relief at all'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "negative",
+        "summary_nl": "Probeerde koperen compressiehandschoenen; te groot en 'didn't provide any relief at all'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I've tried Copper compression gloves, but that specific brand was too large on me (size small) and didn't provide any relief at all.",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Ik heb koperen compressiehandschoenen geprobeerd, maar dat merk was te groot voor me (maat small) en gaf helemaal geen verlichting."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": true,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: slechte pasvorm maakt een koperproduct direct waardeloos; maatvoering is belangrijker dan het materiaal."
+    }
+  }
+]

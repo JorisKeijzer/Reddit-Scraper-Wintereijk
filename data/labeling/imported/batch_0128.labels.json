@@ -1,0 +1,133 @@
+[
+  {
+    "post_id": "1aso473",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Tip: kleine voeten kunnen kinderschoenen kopen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet over klachten."
+    }
+  },
+  {
+    "post_id": "tjzw3h",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Teen verbrijzeld door een zuurstoftank.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Letsel."
+    }
+  },
+  {
+    "post_id": "1f5jtw9",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Nieuwe Amazon-medewerker heeft in verplichte Zappos-veiligheidsschoenen de laatste drie uur zoveel pijn dat ze op het toilet gaat zitten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Maat groter en breed model",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'It's a game changer.'",
+          "source_id": "lkthfkx"
+        },
+        {
+          "solution": "Twee paar afwisselen, zolen en dikkere sokken",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "lkti2l9"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The first 6-7 hours are manageable but the last 3 hours are almost completely unbearable. The pain is so severe I need to go to the restroom just to sit down in the stall.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "De eerste 6-7 uur gaan, maar de laatste 3 uur zijn bijna ondraaglijk. De pijn is zo erg dat ik naar het toilet ga om even te zitten."
+        },
+        {
+          "text": "Even with proper shoes and insoles there is just no give from the floor.",
+          "source_id": "lkti2l9",
+          "kind": "objection",
+          "nl_meaning": "Zelfs met goede schoenen en zolen geeft de vloer gewoon niet mee."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'de laatste drie uur van je dienst' is het pijnmoment, opnieuw bij verplichte veiligheidsschoenen."
+    }
+  }
+]

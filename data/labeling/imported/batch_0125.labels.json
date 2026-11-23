@@ -1,0 +1,181 @@
+[
+  {
+    "post_id": "3mn7m7",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Walmart-medewerker loopt de hele dag en zoekt laarzen die zijn voeten niet laten zeuren.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "retail",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dansko XP",
+          "category": "shoes",
+          "brand_or_product": "Dansko",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'incredible' op betonvloeren",
+          "source_id": "cvgr1q9"
+        }
+      ],
+      "brands_mentioned": [
+        "Dansko",
+        "Dr Martens",
+        "Solovair"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "If you're on your feet all day, go to a professional, not a wal-mart (no offense OP) shoe department.",
+          "source_id": "cvgjcjn",
+          "kind": "objection",
+          "nl_meaning": "Als je de hele dag op je benen staat, ga naar een professional, niet naar de schoenenafdeling van Walmart (niet persoonlijk bedoeld)."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  },
+  {
+    "post_id": "r3m0l6",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Kok kan niet aankomen door lange staande diensten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Over gewicht, niet voeten."
+    }
+  },
+  {
+    "post_id": "1dkt4h0",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bartender merkt na jaren gele, droge, beschadigde voetzolen en vraagt hoe anderen hun voeten verzorgen.",
+      "regions": [
+        "skin"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Goede inlegzolen, sokken, eelt verwijderen en insmeren",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Vaste routine",
+          "source_id": "l9k6viv"
+        },
+        {
+          "solution": "Pedicures, wollen sokken, goede schoenen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "l9k6ku8"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Proper insoles, good socks then I have a thingy to get rid of dead skin (nasty I know) then I moisturise most nights",
+          "source_id": "l9k6viv",
+          "kind": "works",
+          "nl_meaning": "Goede inlegzolen, goede sokken, dan heb ik een ding om dode huid te verwijderen (vies, ik weet het) en ik smeer de meeste avonden in."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: voetverzorging is een routine (zool + sok + crème); bundels of cross-sell met verzorging kunnen werken."
+    }
+  },
+  {
+    "post_id": "1937pit",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bouwvakker met te grote cadeaulaarzen; vooral grappen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Nauwelijks inhoud."
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "post_id": "kgd8lp",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Hardloper (22) heeft al 13 maanden fasciitis, die zijn studieloopbaan verpestte.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": "13 maanden",
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Maatwerkzolen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "'the inserts were actually weakening my fee[t]'",
+          "source_id": "gge0pd6"
+        },
+        {
+          "solution": "Rollen, rekken, versterken van kuiten",
+          "category": "stretching_exercise",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Oorzaak was zwakke/stijve kuiten",
+          "source_id": "gge39oy"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I struggled through this for years, saw a couple different podiatrists, got custom inserts, all that stuff. It didn't really help.",
+          "source_id": "gge0pd6",
+          "kind": "fails",
+          "nl_meaning": "Ik worstelde hier jaren mee, zag een paar podotherapeuten, kreeg maatwerkzolen, alles. Het hielp niet echt."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: opnieuw: hardlopers zijn sceptisch over zolen; niet onze eerste doelgroep."
+    }
+  },
+  {
+    "post_id": "380c6s",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Foto's van kleurrijke trouwschoenen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet over voetklachten."
+    }
+  },
+  {
+    "post_id": "6lo7e1",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bruid geeft $5000 uit aan schoenen; ruzie over brunch.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

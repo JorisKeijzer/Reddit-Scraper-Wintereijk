@@ -1,0 +1,184 @@
+[
+  {
+    "post_id": "16o6cvj",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Man met jicht vraagt naar de oorzaak; medicatie en genetica.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Medisch (jicht)."
+    }
+  },
+  {
+    "post_id": "52swdj",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Mannelijke leraar vindt geen schoenen die er goed uitzien en niet pijn doen; leren oxfords zijn tegen het vierde uur ondraaglijk.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "teaching",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dr. Scholl's-inlegzolen na de voetscanner bij Walmart",
+          "category": "otc_insole",
+          "brand_or_product": "Dr. Scholl's",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Voeten, rug en knieën veel beter",
+          "source_id": "d7n3t0w"
+        },
+        {
+          "solution": "Sneakers",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "3,5 mijl lopen per dag in de klas",
+          "source_id": "d7n13je"
+        }
+      ],
+      "brands_mentioned": [
+        "Bass",
+        "Dr. Scholl's",
+        "Rockport",
+        "Clarks",
+        "Merrell",
+        "Timberland",
+        "Nunn Bush",
+        "Skechers"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I still have yet to find a pair of shoes that both look good and don't make my feet feel awful by 4th period.",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik heb nog steeds geen schoenen gevonden die er goed uitzien en mijn voeten niet tegen het vierde uur ellendig laten voelen."
+        },
+        {
+          "text": "I got some dr scholls inserts from walmart after standing in the machine. My feet, back, and knees are much better.",
+          "source_id": "d7n3t0w",
+          "kind": "works",
+          "nl_meaning": "Ik kocht Dr. Scholl's-zolen bij Walmart nadat ik in die machine had gestaan. Mijn voeten, rug en knieën zijn veel beter."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: ook mannelijke leraren in nette schoenen; een zool voor leren oxfords is dezelfde niche."
+    }
+  },
+  {
+    "post_id": "1ac1wzk",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Australische wandelaar kreeg voor het eerst fasciitis en zoekt snelle oplossingen, schoenen en zolen.",
+      "regions": [
+        "heel",
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hiking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen met boogsteun",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'It solved all of my problems'; ruim een jaar pijnvrij",
+          "source_id": "kjrl2c5"
+        },
+        {
+          "solution": "Kuitrekken en tennisbal rollen",
+          "category": "stretching_exercise",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "kjrjvix"
+        },
+        {
+          "solution": "Hoka Kaha-wandelschoenen",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Veel tussenzool",
+          "source_id": "kjs6dlf"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "ProStretch"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Shoe inserts with arch support can be incredibly helpful. It solved all of my problems",
+          "source_id": "kjrl2c5",
+          "kind": "works",
+          "nl_meaning": "Inlegzolen met boogsteun kunnen ongelooflijk helpen. Het loste al mijn problemen op."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: Australische wandelaars (zomer) zijn ook een doelgroep; boogsteun-ervaringen zijn positief."
+    }
+  }
+]

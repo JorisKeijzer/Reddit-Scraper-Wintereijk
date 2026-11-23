@@ -1,0 +1,163 @@
+[
+  {
+    "post_id": "1wifaij",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Middeltjes tegen hand-voet-mondziekte bij kinderen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1nb2gqf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Zwaarlijvige jongen (16) die bij McDonald's werkt, heeft aan het eind van zijn diensten veel voetpijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka in zwart",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Veel restaurantmedewerkers dragen ze",
+          "source_id": "ncyo3r0"
+        },
+        {
+          "solution": "Podotherapeut",
+          "category": "doctor_podiatrist",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "ncyoup3"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I know I need to lose weight but I'd also love to have money on the side",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik weet dat ik moet afvallen, maar ik wil ook graag wat geld verdienen."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: ook tieners in fastfoodbanen hebben voetpijn; een betaalbare zool is daar relevant."
+    }
+  },
+  {
+    "post_id": "165yi7j",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand die veel loopt zoekt de beste inlegzolen; Z-Liners waren 'decent'.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "SOLE (Active/Performance)",
+          "category": "otc_insole",
+          "brand_or_product": "SOLE",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'they are amazing'; duurzamer dan Superfeet",
+          "source_id": "k7nu4ob"
+        },
+        {
+          "solution": "Superfeet",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Gestructureerde hielkom en boogsteun",
+          "source_id": "nhcq670"
+        }
+      ],
+      "brands_mentioned": [
+        "Z-Liner",
+        "Superfeet",
+        "SOLE",
+        "Stride Soles",
+        "Dale's Leatherworks"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "most generic insoles are just squishy foam, so they feel nice for a week and then flatten out.",
+          "source_id": "nhcq670",
+          "kind": "objection",
+          "nl_meaning": "De meeste generieke zolen zijn gewoon zacht schuim; ze voelen een week fijn en worden dan plat."
+        },
+        {
+          "text": "weird thing about insoles is ppl chase cushion when the real fix is how the heel sits.",
+          "source_id": "nqwys0m",
+          "kind": "objection",
+          "nl_meaning": "Het rare aan zolen is dat mensen demping najagen, terwijl de echte oplossing is hoe de hiel zit."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'squishy foam … flatten out' en 'how the heel sits' zijn de kopersargumenten; een stevige hielkom is een concreet verkooppunt."
+    }
+  }
+]
