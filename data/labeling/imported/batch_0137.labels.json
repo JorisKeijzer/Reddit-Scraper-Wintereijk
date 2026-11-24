@@ -1,0 +1,192 @@
+[
+  {
+    "post_id": "1b6lqit",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Disney World-fan heeft in de parken veel pijnlijke en hete voeten en zoekt producten of trucs.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Twee paar schoenen wisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Advies",
+          "source_id": "ktcubys"
+        },
+        {
+          "solution": "Compressiesokken, hydrocolloïdpleisters, gel-teenspreiders, ingelopen Ultraboosts",
+          "category": "lifestyle_other",
+          "brand_or_product": "Adidas",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'completely eliminated hot spot[s]'",
+          "source_id": "ktd3jeq"
+        },
+        {
+          "solution": "Inlegzolen met meer demping",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "ktcq4p8"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "one of the hardest parts is navigating my incredible foot pain while at the parks. I soldier through it, but it puts a bit of a cloud over our day",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Een van de moeilijkste dingen is omgaan met mijn ongelooflijke voetpijn in de parken. Ik bijt door, maar het werpt een schaduw over onze dag."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: pretparken: pijn én hete voeten; 'koel en gesteund de hele dag' is de belofte."
+    }
+  },
+  {
+    "post_id": "veld35",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "product_review",
+      "problem_summary_nl": "Sneakerliefhebber en arts-assistent reviewt schoenen voor de opleiding.",
+      "regions": [],
+      "conditions": [
+        "flat feet",
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "medical resident",
+      "situations": [
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Eerste schoen zonder voet/kuitpijn aan het eind van de dag",
+          "source_id": "icsdiy8"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Crocs",
+        "Birkenstock",
+        "Allbirds",
+        "UGG",
+        "Calzuro"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "First shoe I’ve worn without getting any foot/calf pain at the end of the day.",
+          "source_id": "icsdiy8",
+          "kind": "works",
+          "nl_meaning": "De eerste schoen zonder voet- of kuitpijn aan het eind van de dag."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  },
+  {
+    "post_id": "1eme1ls",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Apotheekstudent werkt van 9 tot 7 en zoekt schoenen die zwelling en gebrek aan steun voorkomen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "standing_work",
+        "retail"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Compressiesokken met Hoka/On/Altra",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'a must no matter what shoe'",
+          "source_id": "lgygi14"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "On",
+        "Altra",
+        "Vans",
+        "Asics",
+        "Brooks",
+        "Skechers"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Compression socks are a must no matter what shoe.",
+          "source_id": "lgygi14",
+          "kind": "works",
+          "nl_meaning": "Compressiesokken zijn een must, welke schoen je ook draagt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  }
+]

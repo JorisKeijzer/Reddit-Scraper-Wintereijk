@@ -1,0 +1,290 @@
+[
+  {
+    "post_id": "1rusgg5",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Jonge man met fibromyalgieklachten deelt bloedonderzoek (waaronder koper) en symptomen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Medisch; koper alleen als labwaarde."
+    }
+  },
+  {
+    "post_id": "12si6lw",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Iemand met een eerste jichtaanval vraagt of een koperen armband helpt, zoals een vriend beweerde; de reacties zijn unaniem afwijzend.",
+      "regions": [
+        "toes"
+      ],
+      "conditions": [
+        "gout"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen armband",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": false,
+          "reason": "'pseudoscientific BS'; fabrikant aangeklaagd voor misleidende claims",
+          "source_id": "jgypol6"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "skeptical",
+        "summary_nl": "Unaniem afwijzend: 'The company who made that stuff got sued for fraudulent claims', '100% certified bullshit designed to separate rubes from their money', 'pseudoscientific BS', 'same effect as a placebo', en kans op contactdermatitis."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Years ago, I had a buddy who wore a copper bracelet that he swore by. He claimed that the copper in contact with his skin kept the gout at bay. Can anyone confirm or deny this?",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Jaren geleden had ik een vriend die zwoer bij een koperen armband. Hij zei dat het koper op zijn huid de jicht op afstand hield. Kan iemand dit bevestigen of ontkrachten?"
+        },
+        {
+          "text": "Don't fall for it. The company who made that stuff got sued for fraudulent claims about its benefits.",
+          "source_id": "jgypol6",
+          "kind": "copper",
+          "nl_meaning": "Trap er niet in. Het bedrijf dat die spullen maakte, is aangeklaagd voor frauduleuze claims over de voordelen."
+        },
+        {
+          "text": "It’s 100% certified bullshit designed to separate rubes from their money.",
+          "source_id": "jgz12yl",
+          "kind": "copper",
+          "nl_meaning": "Het is 100% gecertificeerde onzin om goedgelovigen van hun geld af te helpen."
+        },
+        {
+          "text": "This is pseudoscientific BS. It does nothing for any condition at all.",
+          "source_id": "jgz59q3",
+          "kind": "copper",
+          "nl_meaning": "Dit is pseudowetenschappelijke onzin. Het doet helemaal niets voor welke aandoening dan ook."
+        },
+        {
+          "text": "It has the same effect as a placebo.",
+          "source_id": "jh1cze8",
+          "kind": "copper",
+          "nl_meaning": "Het heeft hetzelfde effect als een placebo."
+        },
+        {
+          "text": "Well, if you wear a copper bracelet long enough, it could give you contact dermatitis. That's probably the only thing it does.",
+          "source_id": "jh0evzr",
+          "kind": "objection",
+          "nl_meaning": "Nou, als je lang genoeg een koperen armband draagt, kun je contactdermatitis krijgen. Dat is waarschijnlijk het enige wat hij doet."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: koper als medisch middel is bij een deel van het publiek volledig ongeloofwaardig, en men weet dat fabrikanten zijn aangeklaagd (Tommie Copper/FTC). Nooit pijn-, jicht- of artritisclaims; ook huidirritatie kan een bezwaar zijn."
+    }
+  },
+  {
+    "post_id": "3z5m3j",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Serveerster over een klant die naar de manager wilde.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "67y88a",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Technische vraag over audio in een Disney-attractie ('magnetic tape').",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1uzrwx8",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Iemand met fibromyalgie en hEDS deelt wat helpt (fysio, vitamine D, kussens, koperen/Jellibend-polsbraces, steunende schoenen) en zoekt meer.",
+      "regions": [],
+      "conditions": [
+        "fibromyalgia",
+        "hEDS"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Jellibend/koperen compressie-polsbraces",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Jellibend",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Onderdeel van wat 'to some degree' helpt",
+          "source_id": "post"
+        },
+        {
+          "solution": "Comfortabele, steunende schoenen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Onderdeel van wat helpt",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "neutral",
+        "summary_nl": "Noemt 'jellibend/copper compression wrist braces' tussen de dingen die 'to some degree' helpen; koper als onderdeel van een breed comfortpakket."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "things that have helped to some degree so far have been a PT who also has hEDS to guide me in stabilization exercises, vitamin D, electrolytes, resting when im flaring, trauma therapy, adding extra cushioning to my bed/car, jellibend/copper compression wrist braces, comfy and supportive shoes",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Wat tot nu toe enigszins hielp: een fysio met hEDS voor stabilisatieoefeningen, vitamine D, elektrolyten, rust bij opvlammingen, traumatherapie, extra kussens in bed/auto, Jellibend/koperen compressie-polsbraces, comfortabele en steunende schoenen."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: bij chronische pijn wordt koper gekocht als onderdeel van een 'comfortpakket', niet als wondermiddel; dat sluit aan bij eerdere bevindingen."
+    }
+  },
+  {
+    "post_id": "1fes3hq",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met hypermobiliteit gebruikte Copper Fit-menthol-handschoenen en zoekt betere compressiehandschoenen.",
+      "regions": [],
+      "conditions": [
+        "hypermobility",
+        "EDS"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Copper Fit-menthol-compressiehandschoenen",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Steun voor pols en vingers, maar 'need something a little more advanced'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [
+        "Copper Fit"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "neutral",
+        "summary_nl": "Gebruikte 'copper fit menthol ones in a pinch'; prettig door steun aan pols en vingers, maar zoekt iets beters. Het koper zelf speelt geen rol in de beoordeling."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I used the copper fit menthol ones in a pinch, I like the fact that they support the wrist and go up the fingers. I definitely need something a little more advanced tho.",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Ik gebruikte in nood de Copper Fit-menthol-handschoenen; ik vind het fijn dat ze de pols steunen en tot de vingers doorlopen. Maar ik heb echt iets geavanceerders nodig."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: Copper Fit is het 'noodmerk' dat overal te koop is; gebruikers beoordelen de steun, niet het koper."
+    }
+  }
+]

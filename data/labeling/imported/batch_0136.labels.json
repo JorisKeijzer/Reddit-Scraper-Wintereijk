@@ -1,0 +1,215 @@
+[
+  {
+    "post_id": "1kceppc",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Starbucks-barista heeft in elk paar schoenen pijnlijke hielen.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dr Martens Chelsea met inlegzool voor hoge bogen",
+          "category": "otc_insole",
+          "brand_or_product": "Dr Martens",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'extremely comfortable once broken in'",
+          "source_id": "mq1zzgc"
+        },
+        {
+          "solution": "Skechers werkschoenen met Dr. Scholl's",
+          "category": "otc_insole",
+          "brand_or_product": "Skechers, Dr. Scholl's",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'They saved my feet.'",
+          "source_id": "mq202b8"
+        }
+      ],
+      "brands_mentioned": [
+        "Vans",
+        "Converse",
+        "Nike",
+        "On",
+        "UGG",
+        "Dr Martens",
+        "Crocs",
+        "Skechers",
+        "Dr. Scholl's",
+        "Blundstone"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I’ve work vans, converse, air forces, on clouds, Uggs, literally every shoe I own to work and my feet, especially my heels, are always killing me.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb Vans, Converse, Air Forces, On Clouds, UGGs, letterlijk elke schoen die ik heb naar mijn werk gedragen, en mijn voeten, vooral mijn hielen, doen altijd pijn."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: jonge horecamedewerkers dragen modeschoenen naar het werk en krijgen hielpijn; een zool voor je eigen sneakers past."
+    }
+  },
+  {
+    "post_id": "juq3bc",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Amazon-meme over zes feet afstand.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "ku19rf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Amazon-medewerker werd zonder training tote runner en heeft na een dienst kapotte voeten en benen; collega's lopen 18-26 mijl per dag.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Today I did 18.65 miles, yesterday was 23.29 miles and Thursday was 25.93 miles.",
+          "source_id": "gipk556",
+          "kind": "impact_on_life",
+          "nl_meaning": "Vandaag liep ik 18,65 mijl, gisteren 23,29 mijl en donderdag 25,93 mijl."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: concrete afstanden (25+ mijl/dag) maken de belasting voelbaar in advertenties."
+    }
+  },
+  {
+    "post_id": "1utaqvc",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Leerling-bouwvakker zoekt de comfortabelste veiligheidslaarzen.",
+      "regions": [],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "construction",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Keen met stalen neus",
+          "category": "shoes",
+          "brand_or_product": "Keen",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Fasciitis bijna weg",
+          "source_id": "owvti9x"
+        },
+        {
+          "solution": "Thorogood",
+          "category": "shoes",
+          "brand_or_product": "Thorogood",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'most comfortable boot I’ve ever worn'",
+          "source_id": "owufbgt"
+        }
+      ],
+      "brands_mentioned": [
+        "New Balance",
+        "Keen",
+        "Thorogood",
+        "Royer",
+        "Blundstone"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Plantar fasciitis almost completely alleviated after switching to Keen.",
+          "source_id": "owvti9x",
+          "kind": "works",
+          "nl_meaning": "Fasciitis bijna helemaal weg na overstap naar Keen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  }
+]

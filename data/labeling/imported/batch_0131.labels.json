@@ -1,0 +1,240 @@
+[
+  {
+    "post_id": "17dchw9",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met fibromyalgie en fasciitis heeft pijn op harde tegelvloeren thuis; Crocs zijn te hard en plat, pluizige sloffen te warm.",
+      "regions": [
+        "heel",
+        "arch"
+      ],
+      "conditions": [
+        "fibromyalgia",
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_hard",
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstocks als huisschoen",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Lifechanging'; boogsteun is echt",
+          "source_id": "k5vtyql"
+        },
+        {
+          "solution": "Oofos",
+          "category": "shoes",
+          "brand_or_product": "Oofos",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Boogsteun, zachter dan Crocs",
+          "source_id": "k5vvgsp"
+        },
+        {
+          "solution": "Crocs",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Te hard en plat",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [
+        "Crocs",
+        "Birkenstock",
+        "Oofos",
+        "Skechers",
+        "Vionic"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "it hurts my feet so much to walk on the hard tile floors around my house",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Het doet zo'n pijn aan mijn voeten om over de harde tegelvloeren in huis te lopen."
+        },
+        {
+          "text": "crocs are too hard and flat and regular furry slippers just make me get overheated",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Crocs zijn te hard en plat en gewone pluizige sloffen maken me oververhit."
+        },
+        {
+          "text": "u know those squishy anti fatigue mats that u can get for ur kitchen??? i wish i could have all of the flooring in my house made out of whatever that is",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Je kent die zachte antivermoeidheidsmatten voor de keuken??? Ik wou dat al mijn vloeren daarvan gemaakt waren."
+        },
+        {
+          "text": "You should never walk barefoot with Plantar Fasciitis.",
+          "source_id": "k5vy25g",
+          "kind": "objection",
+          "nl_meaning": "Je moet nooit blootsvoets lopen met fasciitis."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'harde tegelvloeren thuis' + 'pluizige sloffen te warm' = vraag naar een steunende, koele thuiszool. 'Ik wou dat mijn hele vloer een antivermoeidheidsmat was' is een sterk beeld voor een advertentie."
+    }
+  },
+  {
+    "post_id": "1rx50tl",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met fibromyalgie heeft vanaf het opstaan pijn bij druk op de voeten en zoekt schoenen voor pretparken en concerten.",
+      "regions": [],
+      "conditions": [
+        "fibromyalgia"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brooks Glycerin met eigen inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": "Brooks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Advies",
+          "source_id": "ob4g34h"
+        },
+        {
+          "solution": "Wandelschoenen met sportinlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'the only thing that works for me'",
+          "source_id": "ob4glq6"
+        },
+        {
+          "solution": "Hoka Clifton",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Stabiel",
+          "source_id": "ob59mpf"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Hoka",
+        "Brooks",
+        "Allbirds",
+        "Birkenstock",
+        "Dr Martens"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "You will hate this but walking boots with after market sport insoles are the only thing that works for me.",
+          "source_id": "ob4glq6",
+          "kind": "works",
+          "nl_meaning": "Je gaat dit haten, maar wandelschoenen met losse sportinlegzolen zijn het enige dat voor mij werkt."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: mensen met chronische pijn zijn overweldigd door 'comfort technologies'; een eenvoudig, eerlijk verhaal werkt beter."
+    }
+  },
+  {
+    "post_id": "1m99kf6",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Pas gediagnosticeerde fibromyalgiepatiënt heeft boogpijn en twijfelt tussen Hoka, Orthofeet, Kuru of inlegzolen.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [
+        "fibromyalgia"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Voetscan en insoles van ~$100 bij Roadrunner",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "'works okay in some of the shoes I already have'",
+          "source_id": "n55sizp"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Orthofeet",
+        "Kuru",
+        "Skechers",
+        "New Balance",
+        "Kizik"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I’m not sure if i need arch support, or just better cushioning and more structure.",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik weet niet of ik boogsteun nodig heb, of gewoon betere demping en meer structuur."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: kopers weten niet of ze steun of demping nodig hebben; een eenvoudige keuzehulp is waardevol."
+    }
+  }
+]

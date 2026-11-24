@@ -1,0 +1,198 @@
+[
+  {
+    "post_id": "1uqrfuq",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Jonge vrouw met brede voorvoet en smalle hiel zoekt schoenen die ook leuk zijn; arts zei dat haar schoenen een groot deel van het probleem zijn.",
+      "regions": [
+        "forefoot",
+        "heel"
+      ],
+      "conditions": [
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight",
+        "slipping"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hielpad in de schoen",
+          "category": "heel_cup_gel_pad",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "owa46zz"
+        }
+      ],
+      "brands_mentioned": [
+        "Altra",
+        "On",
+        "Duckfeet",
+        "Topo",
+        "Birkenstock",
+        "Vivobarefoot",
+        "Lems"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Need shoes with wide toebox/narrow heel that are still cute/stylish for someone early 20s",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik zoek schoenen met brede neus en smalle hiel die toch leuk/stijlvol zijn voor iemand begin twintig."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: hielslip; een zool met diepe hielkom kan helpen."
+    }
+  },
+  {
+    "post_id": "xr9gkx",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met Raynaud en slechte doorbloeding krijgt koude, gevoelloze voeten en is allergisch voor wol.",
+      "regions": [],
+      "conditions": [
+        "Raynaud's",
+        "cold feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Wandelsokken",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'The answer is hiking socks'",
+          "source_id": "iqdui2c"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "My feet can go numb and start hurting in the cold.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Mijn voeten kunnen gevoelloos worden en pijn gaan doen in de kou."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": true,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: koude voeten bij doorbloedingsproblemen."
+    }
+  },
+  {
+    "post_id": "17785w6",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Magazijnmedewerker met extreem platte voeten vindt Vionic-schoenen van $109 te duur.",
+      "regions": [],
+      "conditions": [
+        "flat feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_expensive"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Vionic Orthaheels",
+          "category": "shoes",
+          "brand_or_product": "Vionic",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Enige zonder vreselijke pijn",
+          "source_id": "post"
+        },
+        {
+          "solution": "Platvoet-inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'pretty cheap'",
+          "source_id": "k4ras9w"
+        },
+        {
+          "solution": "Orthopedische zolen die in elke schoen passen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Gaan al 15 jaar mee",
+          "source_id": "k4rjyvj"
+        }
+      ],
+      "brands_mentioned": [
+        "Vionic"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "If you can afford your shoes at all, get them. Shoes should not be where people skimp because if you mess up your feet, it messes up the rest of your body.  You know how they say “no hoof, no horse”?",
+          "source_id": "k4rfes0",
+          "kind": "buying_trigger",
+          "nl_meaning": "Als je je schoenen ook maar kunt betalen, koop ze. Op schoenen moet je niet bezuinigen, want als je je voeten verpest, verpest je de rest van je lichaam. Ken je 'geen hoef, geen paard'?"
+        },
+        {
+          "text": "I have orthotic insoles that you can put in any shoes they’ll fit in. They’ve lasted me probably 15 years so far.",
+          "source_id": "k4rjyvj",
+          "kind": "works",
+          "nl_meaning": "Ik heb orthopedische zolen die je in elke schoen kunt doen waarin ze passen. Ze gaan al zo'n 15 jaar mee."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'no hoof, no horse' is een krachtige boodschap; een zool als goedkoper alternatief voor dure orthopedische schoenen."
+    }
+  }
+]

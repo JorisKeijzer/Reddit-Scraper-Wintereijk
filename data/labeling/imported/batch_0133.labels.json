@@ -1,0 +1,228 @@
+[
+  {
+    "post_id": "178ztcc",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Apothekersassistent die in een cleanroom staat, heeft fasciitis en zoekt betaalbare schoenen.",
+      "regions": [],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "standing_work",
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Maatwerkzolen van de podotherapeut in alle schoenen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'had helped a lot'",
+          "source_id": "k533qfc"
+        },
+        {
+          "solution": "Compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'just as important as the shoes'",
+          "source_id": "k53ovth"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Brooks",
+        "Hoka",
+        "On",
+        "Crocs"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Getting fitted for insoles by a podiatrist had helped a lot. I put them in all of my shoes.",
+          "source_id": "k533qfc",
+          "kind": "works",
+          "nl_meaning": "Zolen laten aanmeten door een podotherapeut hielp veel. Ik doe ze in al mijn schoenen."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'in al mijn schoenen' — zool als draagbare oplossing komt steeds terug."
+    }
+  },
+  {
+    "post_id": "tcwtf7",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Walmart-medewerker heeft na 8 maanden nog steeds voetpijn; inlegzolen in Red Wings hielpen een beetje.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "standing_work",
+        "retail"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen in Red Wing-laarzen",
+          "category": "otc_insole",
+          "brand_or_product": "Red Wing",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "'helped a little'",
+          "source_id": "post"
+        },
+        {
+          "solution": "Dr. Scholl's-zolen via de voetscanner",
+          "category": "otc_insole",
+          "brand_or_product": "Dr. Scholl's",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'night and day for my feet'",
+          "source_id": "i0g3dyt"
+        },
+        {
+          "solution": "Skechers Arch Fit",
+          "category": "shoes",
+          "brand_or_product": "Skechers",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'hands down the best'",
+          "source_id": "i0g3s22"
+        }
+      ],
+      "brands_mentioned": [
+        "Red Wing",
+        "Adidas",
+        "Dr. Scholl's",
+        "Asics",
+        "Skechers",
+        "Puma"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "After 8 months working I still have foot pain, I got use to having foot pain when I get home.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Na 8 maanden werken heb ik nog steeds voetpijn; ik ben eraan gewend geraakt dat mijn voeten pijn doen als ik thuiskom."
+        },
+        {
+          "text": "Use the dr.scholl's insole machine. It was night and day for my feet. I had blisters on blisters",
+          "source_id": "i0g3dyt",
+          "kind": "works",
+          "nl_meaning": "Gebruik de Dr. Scholl's-zolenmachine. Het was een wereld van verschil voor mijn voeten. Ik had blaren op blaren."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: de Dr. Scholl's-scanner in de winkel werkt als koopmoment; een eenvoudige online keuzehulp kan dat nabootsen."
+    }
+  },
+  {
+    "post_id": "ssofe0",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Amazon-medewerker vindt de Skechers 'Max Cushioning' veiligheidsschoenen een leugen: 'like walking on concrete barefooted'.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_hard"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Altijd inlegzolen kopen voor werkschoenen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Betonvloeren",
+          "source_id": "hwyx4p0"
+        },
+        {
+          "solution": "Timberland Pro met Dr. Scholl's Heavy Duty",
+          "category": "otc_insole",
+          "brand_or_product": "Timberland, Dr. Scholl's",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Genoemd",
+          "source_id": "hwzfw2s"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Zappos",
+        "Keen",
+        "Reebok",
+        "Timberland",
+        "Dr. Scholl's"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "There was not cushion at all like walking on concrete barefooted.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Er was helemaal geen demping, alsof je blootsvoets op beton loopt."
+        },
+        {
+          "text": "ALWAYS purchase insoles for whatever work shoes you're getting. The concrete floors do a number on your feet.",
+          "source_id": "hwyx4p0",
+          "kind": "buying_trigger",
+          "nl_meaning": "Koop ALTIJD inlegzolen voor welke werkschoenen je ook neemt. De betonvloeren slopen je voeten."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'koop ALTIJD zolen bij je werkschoen' is een advies dat al circuleert; marketingclaims van schoenen ('max cushioning') worden gewantrouwd."
+    }
+  }
+]

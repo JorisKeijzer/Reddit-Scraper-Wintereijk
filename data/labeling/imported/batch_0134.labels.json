@@ -1,0 +1,192 @@
+[
+  {
+    "post_id": "1r6lfwa",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Stewardess die nooit begreep waarom men klaagt over schoenen uit in het vliegtuig, maakte een passagier mee wiens voetgeur de hele vlucht hing.",
+      "regions": [
+        "skin"
+      ],
+      "conditions": [
+        "bromodosis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "travel"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "odor"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "And the smell was immediate. Undeniably feet. Not subtle. Not questionable. Just straight-up aggressive foot odor.",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "En de geur was er meteen. Onmiskenbaar voeten. Niet subtiel. Niet twijfelachtig. Gewoon agressieve voetgeur."
+        },
+        {
+          "text": "I was a waitress as a teen, on my feet ALL day wearing white nurse shoes back in the 80's.  Those damned shoes made my feet stink so bad.",
+          "source_id": "o5sk01e",
+          "kind": "pain",
+          "nl_meaning": "Als tiener was ik serveerster, de HELE dag op mijn voeten in witte verpleegstersschoenen in de jaren 80. Die verdomde schoenen lieten mijn voeten zo erg stinken."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: voetgeur in het openbaar (vliegtuig) is sociaal beladen; ook werkschoenen ('nurse shoes') veroorzaken geur. Geur blijft de sterkste koperhoek."
+    }
+  },
+  {
+    "post_id": "14bs3cs",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Iemand met fibromyalgie heeft sinds kort extreem stijve achillespezen en kuiten en fasciitis.",
+      "regions": [
+        "achilles",
+        "heel",
+        "legs_knees_back"
+      ],
+      "conditions": [
+        "fibromyalgia",
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Rekken, warme baden, goede schoenen en zolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Enige wat helpt",
+          "source_id": "joh2dx9"
+        },
+        {
+          "solution": "Skechers met foamzolen",
+          "category": "shoes",
+          "brand_or_product": "Skechers",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Fasciitis ontstond hierin",
+          "source_id": "joh6k49"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I developed very painful plantar fasciitis while wearing Skechers w/ foam insoles.",
+          "source_id": "joh6k49",
+          "kind": "fails",
+          "nl_meaning": "Ik kreeg heel pijnlijke fasciitis terwijl ik Skechers met foamzolen droeg."
+        },
+        {
+          "text": "stretching, hot baths & good quality shoes/insoles are the only things I have that help.",
+          "source_id": "joh2dx9",
+          "kind": "works",
+          "nl_meaning": "Rekken, warme baden en goede schoenen/zolen zijn het enige dat helpt."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'foamzolen gaven me fasciitis' versterkt 'stevig, niet zacht'."
+    }
+  },
+  {
+    "post_id": "1gid4pt",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand van 136 kg zoekt een comfortabele, duurzame wandelschoen met boogsteun die niet binnen twee maanden kapot gaat.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "flattened_wore_out"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "On Cloudmonster",
+          "category": "shoes",
+          "brand_or_product": "On",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Eerste schoenen zonder dagelijkse voetpijn",
+          "source_id": "lv4hes9"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na een jaar nog comfortabel",
+          "source_id": "lv4mlj7"
+        }
+      ],
+      "brands_mentioned": [
+        "New Balance",
+        "Hoka",
+        "On"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Something with arch support and won’t fall apart after a month or two of wearing.",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Iets met boogsteun dat niet na een maand of twee uit elkaar valt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: zwaardere mensen hebben extra duurzaamheid nodig; 'gemaakt voor meer gewicht' kan een productlijn zijn."
+    }
+  }
+]

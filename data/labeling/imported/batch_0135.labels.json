@@ -1,0 +1,178 @@
+[
+  {
+    "post_id": "wdvl3i",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Horecamedewerker schreef een uitgebreide gids over schoenen en voetzorg voor de horeca.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [
+        "Keen",
+        "Dansko",
+        "Sanita"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Dansko was the brand used by a European company called [Sanita](https://www.sanita.com/) in the US market. They sold the Dansko brand to the Chinese and now Danskos are made in China.",
+          "source_id": "iikttlf",
+          "kind": "objection",
+          "nl_meaning": "Dansko was het merk van het Europese bedrijf Sanita op de Amerikaanse markt. Ze verkochten Dansko aan de Chinezen en nu worden Danskos in China gemaakt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: horecapersoneel deelt diepgaande gidsen; herkomst en kwaliteit worden kritisch gevolgd."
+    }
+  },
+  {
+    "post_id": "41k8r6",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Hardloper met fasciitis vraagt hoe lang herstel met een bal duurt.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Bevroren golfbal onder de voet rollen",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Works like a charm.'",
+          "source_id": "cz34bqs"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "freeze the golf ball before hand. Works like a charm.",
+          "source_id": "cz34bqs",
+          "kind": "works",
+          "nl_meaning": "Vries de golfbal eerst in. Werkt perfect."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  },
+  {
+    "post_id": "yhi1dx",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Zorgassistent (CNA) met brede voeten heeft na het werk zo gezwollen, gevoelige voeten en benen dat ze niet kan lopen.",
+      "regions": [
+        "whole_foot",
+        "legs_knees_back"
+      ],
+      "conditions": [
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Compressiekousen voor de kuit (20-30 mmHg)",
+          "category": "compression_socks",
+          "brand_or_product": "Doc Miller",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "$18",
+          "source_id": "iudyrrs"
+        },
+        {
+          "solution": "Orthopedische zolen via de Dr. Scholl's-scanner",
+          "category": "otc_insole",
+          "brand_or_product": "Dr. Scholl's",
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "iue0o2o"
+        },
+        {
+          "solution": "Crocs",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na jaren keukenwerk",
+          "source_id": "iudvxo6"
+        }
+      ],
+      "brands_mentioned": [
+        "Doc Miller",
+        "Crocs",
+        "Dr. Scholl's"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I am absolutely useless after a shift, everything hurts so much.",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Na een dienst ben ik totaal nutteloos, alles doet zo'n pijn."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'na een dienst ben ik nutteloos' is herkenbaar voor zorgpersoneel."
+    }
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "post_id": "tz2o15",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Keukenmedewerkers delen hoe ze voor hun voeten zorgen; veel antwoorden zijn cynisch (alcohol, pijnstillers, 'literally nothing').",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Extra brede New Balance-antislip met inlegzolen en compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": "New Balance",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'really changed the game'",
+          "source_id": "i3wz3it"
+        },
+        {
+          "solution": "Twee paar goede schoenen en sokken afwisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "i3w6sqt"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "When I get home, I drink until they don't hurt anymore.",
+          "source_id": "i3wi9f0",
+          "kind": "impact_on_life",
+          "nl_meaning": "Als ik thuiskom, drink ik tot ze geen pijn meer doen."
+        },
+        {
+          "text": "Literally nothing.",
+          "source_id": "i3w74nf",
+          "kind": "impact_on_life",
+          "nl_meaning": "Letterlijk niets."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: in de keuken is zelfzorg voor voeten vaak 'niets' of alcohol; een eenvoudige, goedkope eerste stap (zool) verlaagt de drempel."
+    }
+  },
+  {
+    "post_id": "1tcftsk",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Kok met al 5 jaar fasciitis beheerst de pijn met Aleve, Tylenol en rust en zoekt schoenen of middelen.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": "5 jaar",
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Superfeet (plastic, geen zacht kussen)",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'you need support not quick sand'",
+          "source_id": "olnwytt"
+        },
+        {
+          "solution": "Hoka met Superfeet",
+          "category": "otc_insole",
+          "brand_or_product": "Hoka, Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'This combo has saved my LIFE.'",
+          "source_id": "olnytck"
+        },
+        {
+          "solution": "Crocs",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Hielp, maar loste het niet op",
+          "source_id": "olntizd"
+        }
+      ],
+      "brands_mentioned": [
+        "Aleve",
+        "Tylenol",
+        "Crocs",
+        "Superfeet",
+        "Haflinger",
+        "Red Wing",
+        "Hoka",
+        "Smartwool"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Arch support. Super feet (plastic not cushion, you need support not quick sand).",
+          "source_id": "olnwytt",
+          "kind": "works",
+          "nl_meaning": "Boogsteun. Superfeet (plastic, geen kussen; je hebt steun nodig, geen drijfzand)."
+        },
+        {
+          "text": "Hokas with Superfeet for the win!  This combo has saved my LIFE.",
+          "source_id": "olnytck",
+          "kind": "works",
+          "nl_meaning": "Hoka's met Superfeet, de winnaar! Die combinatie heeft mijn LEVEN gered."
+        },
+        {
+          "text": "I limped around for a couple years coping w advil, aleve, & booze.",
+          "source_id": "olntizd",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik heb een paar jaar rondgestrompeld met Advil, Aleve en drank."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'you need support not quick sand' is een kant-en-klare slogan voor 'stevig, niet zacht'."
+    }
+  }
+]
