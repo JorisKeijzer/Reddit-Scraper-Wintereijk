@@ -1,0 +1,197 @@
+[
+  {
+    "post_id": "5ctakz",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Mensen met EDS delen hun voetproblemen: hoge of ingezakte bogen, instabiele enkels, branden en niet lang kunnen staan.",
+      "regions": [
+        "arch",
+        "ankle"
+      ],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility",
+        "flat feet",
+        "high arches",
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Orthopedische schoenen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Staan blijft onmogelijk",
+          "source_id": "d9z7uum"
+        },
+        {
+          "solution": "Orthesen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Bij fasciitis",
+          "source_id": "d9z936h"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The high arches I have been born with are now sadly flat. I wear orthopedic shoes and thankfully do not have bunions. Standing for any length of time is off the table for me.",
+          "source_id": "d9z7uum",
+          "kind": "pain",
+          "nl_meaning": "De hoge bogen waarmee ik geboren ben, zijn nu helaas plat. Ik draag orthopedische schoenen en heb gelukkig geen bunions. Lang staan zit er voor mij niet meer in."
+        },
+        {
+          "text": "Currently my feet feel like they're on fire. I can't stand on them for too long now.",
+          "source_id": "d9zbpt2",
+          "kind": "pain",
+          "nl_meaning": "Op dit moment voelen mijn voeten alsof ze in brand staan. Ik kan er nu niet lang meer op staan."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": true,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Beperkt relevant: EDS-voeten zijn een medische groep; steun en stabiliteit belangrijker dan demping."
+    }
+  },
+  {
+    "post_id": "15we1yf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Invalleerkracht met hEDS draagt graag hippiejurken met sandalen, maar sandalen doen pijn; zoekt steunende sandalen.",
+      "regions": [],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility",
+        "sciatica"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "teaching",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstocks (hard, niet zacht)",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'they provide hard support which my EDS specialist' aanraadt",
+          "source_id": "jx0bfmg"
+        },
+        {
+          "solution": "Converse en Vans met Superfeet of maatwerk",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Leuk bij jurken",
+          "source_id": "jx102yw"
+        },
+        {
+          "solution": "Teva",
+          "category": "shoes",
+          "brand_or_product": "Teva",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Comfortabel en duurzaam",
+          "source_id": "jx15ils"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock",
+        "Teva",
+        "Dr Martens",
+        "Converse",
+        "Vans",
+        "Superfeet"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "they’re not soft like memory foam; they provide hard support which my EDS speciali",
+          "source_id": "jx0bfmg",
+          "kind": "works",
+          "nl_meaning": "Ze zijn niet zacht zoals memory foam; ze geven harde steun, wat mijn EDS-specialist [aanraadt]."
+        },
+        {
+          "text": "I also love wearing converse and vans (so many cute styles to wear with dresses too!!) but I switch out the insoles - superfeet makes great ones",
+          "source_id": "jx102yw",
+          "kind": "works",
+          "nl_meaning": "Ik draag ook graag Converse en Vans (zoveel leuke stijlen bij jurken!!), maar ik vervang de binnenzolen; Superfeet maakt goede."
+        },
+        {
+          "text": "Arch support and firm soles are my friend for sandals!",
+          "source_id": "jx0ck9e",
+          "kind": "works",
+          "nl_meaning": "Boogsteun en stevige zolen zijn mijn vrienden bij sandalen!"
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'hard support, not soft like memory foam' komt zelfs van EDS-specialisten; leuke schoenen + eigen zool blijft het patroon bij leraressen."
+    }
+  },
+  {
+    "post_id": "178w93w",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ruzie met zus over EDS en het dragen van hakken.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet over oplossingen."
+    }
+  }
+]

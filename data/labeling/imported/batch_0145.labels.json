@@ -1,0 +1,197 @@
+[
+  {
+    "post_id": "1833mf5",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Dierenartsassistent met brede voeten heeft na 10-12-uursdiensten in Crocs zoveel pijn dat ze thuis strompelt; zoekt duurzame, niet-lelijke schoenen.",
+      "regions": [
+        "ankle",
+        "whole_foot"
+      ],
+      "conditions": [
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "vet tech",
+      "situations": [
+        "healthcare_shift",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Crocs antislip",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Voeten voelen alsof ze eraf vallen",
+          "source_id": "post"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Pain free now'",
+          "source_id": "kamyivf"
+        },
+        {
+          "solution": "Clove",
+          "category": "shoes",
+          "brand_or_product": "Clove",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Waterdicht en antislip",
+          "source_id": "kan2859"
+        }
+      ],
+      "brands_mentioned": [
+        "Crocs",
+        "Adidas",
+        "Nike",
+        "Hoka",
+        "Clove",
+        "Asics"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "my feet just.. feel like theyre gonna fall off at the end of my shifts, especially around my ankles, and when i get home i have to hobble around bc i hurt so bad lmao.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Mijn voeten voelen gewoon alsof ze eraf vallen aan het eind van mijn diensten, vooral rond mijn enkels, en thuis moet ik strompelen omdat het zo'n pijn doet, haha."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: dierenartsassistenten zijn een nieuwe staande beroepsgroep; 'duurzaam en niet lelijk' is hun wens."
+    }
+  },
+  {
+    "post_id": "wkhqfn",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Chef laat zijn nieuwe kantoor met raam zien.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1k1hp7k",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Kok heeft al zes maanden fasciitis; rekken, ijs en nachtspalken helpen weinig.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": "6 maanden",
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hardere inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'harder insoles are way better than soft insoles'",
+          "source_id": "mnm5odz"
+        },
+        {
+          "solution": "Stijve, steunende zolen plus dagelijks rekken",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Vermindert de klachten",
+          "source_id": "mnm6r0u"
+        },
+        {
+          "solution": "Van stalen neuzen naar Birkenstock-klompen",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'helped a lot'",
+          "source_id": "mnm6yoc"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "counter to logic, harder insoles are way better than soft insoles.",
+          "source_id": "mnm5odz",
+          "kind": "works",
+          "nl_meaning": "Tegen de logica in zijn hardere zolen veel beter dan zachte."
+        },
+        {
+          "text": "I've reduced it by wearing stiff, supportive insoles and exercising every day (stretching, massaging, icing).",
+          "source_id": "mnm6r0u",
+          "kind": "works",
+          "nl_meaning": "Ik heb het verminderd met stijve, steunende zolen en dagelijkse oefeningen (rekken, masseren, ijs)."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'counter to logic, harder insoles are way better' is een sterke educatieve hook voor 'stevig, niet zacht'."
+    }
+  }
+]

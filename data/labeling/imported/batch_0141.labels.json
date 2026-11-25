@@ -1,0 +1,272 @@
+[
+  {
+    "post_id": "1lt4tfc",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Kok met 20+ jaar ervaring heeft nooit keukenschoenen gevonden die hij echt kan aanraden.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstock Tokio Super Grip",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meest genoemd",
+          "source_id": "n1ny2jg"
+        },
+        {
+          "solution": "Hoka Bondi SR",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Zes jaar, drie paar",
+          "source_id": "n1nmukf"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock",
+        "Hoka",
+        "Dansko"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I don’t think I’ve ever had kitchen shoes I could solidly recommend. Everything I’ve tried has ranged from underperforming to fine.",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "Ik denk niet dat ik ooit keukenschoenen heb gehad die ik echt kon aanraden. Alles varieerde van tegenvallend tot oké."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  },
+  {
+    "post_id": "xj3gg8",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Winkelmedewerker komt met kapotte, brandende voeten thuis en vraagt of iemand de Cushifix-zolen kent; een reageerder raadt Copper Fit aan.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "retail",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Copper Fit (zoals op tv)",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'actually work really well'",
+          "source_id": "ip6u4be"
+        },
+        {
+          "solution": "Skechers met boogsteun",
+          "category": "shoes",
+          "brand_or_product": "Skechers",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Werkt 'to an extent'",
+          "source_id": "ip6aqse"
+        },
+        {
+          "solution": "Goede zolen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Alleen goede gevonden voor $50",
+          "source_id": "ip6cjj3"
+        }
+      ],
+      "brands_mentioned": [
+        "Cushifix",
+        "Copper Fit",
+        "Walmart",
+        "Skechers",
+        "Superfeet",
+        "Dr. Scholl's"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "positive",
+        "summary_nl": "'The copperfit ones they advertise on TV actually work really well. Walmart sells either them or a very close knock off.' Het tv-merk heeft geloofwaardigheid bij winkelpersoneel."
+      },
+      "price_mentions": [
+        "the only good insoles I found were like $50"
+      ],
+      "quotes": [
+        {
+          "text": "when I come home from a long shift my body is a wreck, and especially my feet are killing me",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Als ik thuiskom na een lange dienst is mijn lichaam een wrak, en vooral mijn voeten doen ontzettend pijn."
+        },
+        {
+          "text": "The copperfit ones they advertise on TV actually work really well. Walmart sells either them or a very close knock off.",
+          "source_id": "ip6u4be",
+          "kind": "copper",
+          "nl_meaning": "De Copper Fit-exemplaren die ze op tv adverteren werken eigenlijk heel goed. Walmart verkoopt die of een heel goede namaak."
+        },
+        {
+          "text": "A lot of my colleagues and I have noticed our feet have grown since working retail.",
+          "source_id": "ip6eh21",
+          "kind": "pain",
+          "nl_meaning": "Veel collega's en ik merken dat onze voeten groter zijn geworden sinds we in de winkel werken."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: Copper Fit heeft door tv-reclame en Walmart-beschikbaarheid bekendheid en vertrouwen bij winkelpersoneel; ons kanaal moet even laagdrempelig zijn."
+    }
+  },
+  {
+    "post_id": "vxv1r5",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Amazon-medewerkers wisselen in de pauze van veiligheidsschoenen naar gewone schoenen omdat hun voeten zo'n pijn doen; iemand kreeg daar een waarschuwing voor.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I did this and those fuckers gave me a documented coaching for not wearing my safety shoes",
+          "source_id": "ifyghwp",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik deed dit en die gasten gaven me een officiële waarschuwing omdat ik mijn veiligheidsschoenen niet droeg."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: medewerkers mogen de schoen niet wisselen, dus de zool is de enige vrije keuze."
+    }
+  },
+  {
+    "post_id": "1vfmisg",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Kleuterjuf zoekt klassieke witte sneakers die bij jeans en jurken passen en comfortabel genoeg zijn voor de hele dag staan.",
+      "regions": [],
+      "conditions": [
+        "flat feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "teaching",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Goede inlegzolen van een hardloopwinkel in elke sneaker",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'They really make a difference no matter what shoes'",
+          "source_id": "p1qewjz"
+        },
+        {
+          "solution": "Veja V-9",
+          "category": "shoes",
+          "brand_or_product": "Veja",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meest comfortabele modesneaker",
+          "source_id": "p1q5rol"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock",
+        "Hoka",
+        "Veja",
+        "New Balance",
+        "Brooks"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The right shoes make the difference between a good day and a day with a l",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "De juiste schoenen maken het verschil tussen een goede dag en een dag met een [hoop pijn]."
+        },
+        {
+          "text": "Go to a running store and get really good quality inserts that fit into any sneaker.  They really make a difference no matter what shoes",
+          "source_id": "p1qewjz",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ga naar een hardloopwinkel en koop echt goede inlegzolen die in elke sneaker passen. Ze maken echt verschil, welke schoenen je ook draagt."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'zolen die in elke sneaker passen' voor witte modesneakers is exact onze use case bij leraressen."
+    }
+  }
+]

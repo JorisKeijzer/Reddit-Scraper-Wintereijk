@@ -1,0 +1,133 @@
+[
+  {
+    "post_id": "1g31afj",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met cEDS en zwakke enkels zoekt leuke schoenen met sterke boogsteun of ruimte voor haar inlegzolen.",
+      "regions": [
+        "ankle",
+        "arch"
+      ],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility",
+        "metatarsalgia"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brooks Levitate",
+          "category": "shoes",
+          "brand_or_product": "Brooks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Enkels rollen minder",
+          "source_id": "lrsh62g"
+        },
+        {
+          "solution": "Hoka met eigen inlegzolen na voetanalyse",
+          "category": "otc_insole",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na Fleet Feet-analyse",
+          "source_id": "lrswb9l"
+        }
+      ],
+      "brands_mentioned": [
+        "Brooks",
+        "Birkenstock",
+        "Hoka",
+        "Altra"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I have to wear shoes with very strong arch support and/or enough room for my insoles",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik moet schoenen dragen met heel sterke boogsteun en/of genoeg ruimte voor mijn inlegzolen."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: 'cute but supportive' is overal de wens; een dunne steunzool maakt leuke schoenen bruikbaar."
+    }
+  },
+  {
+    "post_id": "gfxnik",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Barefoot-lopers lachen om een artikel over harde ondergronden.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niche, geen klachten."
+    }
+  },
+  {
+    "post_id": "9ra7bn",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Barefoot-loper ontkracht mythes.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niche, geen klachten."
+    }
+  }
+]

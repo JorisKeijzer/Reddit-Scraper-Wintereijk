@@ -1,0 +1,189 @@
+[
+  {
+    "post_id": "1j0twwm",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Amazon-medewerker weet niet welke van 20 veiligheidsschoenen te kiezen en vraagt welke spijt opleverden.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Reebok of Keen in breed",
+          "category": "shoes",
+          "brand_or_product": "Reebok, Keen",
+          "verdict": "mixed",
+          "first_hand": true,
+          "reason": "Voor de een top, voor de ander blaren",
+          "source_id": "mfebz9x"
+        },
+        {
+          "solution": "Halve tot hele maat groter",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Neus van veiligheidsschoenen is kleiner",
+          "source_id": "mfec4p4"
+        }
+      ],
+      "brands_mentioned": [
+        "Reebok",
+        "Keen",
+        "Skechers",
+        "Volcom",
+        "Red Wing",
+        "Airwalk",
+        "Zappos"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The toe box is generally smaller on steel/composite toe so you don't want your feet crammed.",
+          "source_id": "mfec4p4",
+          "kind": "objection",
+          "nl_meaning": "De neus is bij stalen/composietneuzen meestal kleiner, dus je wilt je voeten niet proppen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: keuzestress bij werkgeverschoenen."
+    }
+  },
+  {
+    "post_id": "1tpg6kb",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Lasser die 10 uur per dag in een bootfabriek staat, heeft zoveel hielpijn dat hij op de zijkant van zijn voet staat; nieuwe werklaarzen hielpen niet.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "flat feet",
+        "wide feet",
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "welder",
+      "situations": [
+        "warehouse_factory",
+        "standing_work",
+        "work_boots",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brunt-werklaarzen",
+          "category": "shoes",
+          "brand_or_product": "Brunt",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Hielen doen nog steeds pijn",
+          "source_id": "post"
+        },
+        {
+          "solution": "Digitale voetscan in plaats van willekeurige zolen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "oo9r347"
+        },
+        {
+          "solution": "Afvallen",
+          "category": "weight_loss",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Fasciitis verdween bij -30 pond",
+          "source_id": "oo9ce1t"
+        }
+      ],
+      "brands_mentioned": [
+        "Brunt"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I figured I’d come here and get real responses from real people instead of AI",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "Ik dacht: ik vraag het hier, dan krijg ik echte antwoorden van echte mensen in plaats van AI."
+        },
+        {
+          "text": "my heels hurt so bad that I can’t even stand on them, I have to like roll my ankle and kinda stand like that",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Mijn hielen doen zo'n pijn dat ik er niet eens op kan staan; ik moet mijn enkel naar buiten draaien en zo staan."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: mensen zoeken bewust 'echte mensen' i.p.v. AI; authentieke reviews en testimonials zijn belangrijker dan ooit."
+    }
+  },
+  {
+    "post_id": "ihutrp",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Soldaten over of marsen zwaar zijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Geen voetinhoud."
+    }
+  }
+]

@@ -1,0 +1,459 @@
+[
+  {
+    "post_id": "1jqxhf3",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met EDS en een inzakkende boog twijfelt welke hulpmiddelen eerst te kopen: stabiliteitsschoenen, houdingskleding (Alignmed of Tommie Copper), compressiesokken of een kussen.",
+      "regions": [
+        "arch",
+        "ankle"
+      ],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility",
+        "collapsed arch"
+      ],
+      "diagnosed_by_professional": true,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brooks-stabiliteitsschoenen",
+          "category": "shoes",
+          "brand_or_product": "Brooks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Enkels rollen niet meer",
+          "source_id": "mlaemqv"
+        },
+        {
+          "solution": "Koperen compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'work wonders for neuro and circulation pain'",
+          "source_id": "mlc08r8"
+        },
+        {
+          "solution": "Tommie Copper-houdingskleding",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Tommie Copper",
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "'seems less supportive/recommended'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [
+        "Brooks",
+        "Alignmed",
+        "Tommie Copper",
+        "Wellow",
+        "Bearby"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "mixed",
+        "summary_nl": "Overweegt Tommie Copper, maar dat 'seems less supportive/recommended'; een reageerder is 'a BIG fan' van 'the ugly, OG copper' compressiesokken die 'work wonders for neuro and circulation pain'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "leaning towards alignmed brand or possibly tommie copper but that one seems less supportive/recommended from what I can tell.",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Ik neig naar Alignmed of misschien Tommie Copper, maar die lijkt minder ondersteunend en minder aanbevolen, voor zover ik kan zien."
+        },
+        {
+          "text": "At the moment, I am a BIG fan of my compression socks. The ugly, OG copper ones work wonders for neuro and circulation pain.",
+          "source_id": "mlc08r8",
+          "kind": "copper",
+          "nl_meaning": "Op dit moment ben ik GROOT fan van mijn compressiesokken. De lelijke, originele koperen doen wonderen voor zenuw- en doorbloedingspijn."
+        },
+        {
+          "text": "I wish I could just go purchase everything on this list and try it out, but unfortunately I have to pay my mortgage and feed my cats lol",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "Ik wou dat ik alles op deze lijst kon kopen en proberen, maar helaas moet ik mijn hypotheek betalen en mijn katten eten geven, haha."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: binnen de EDS-gemeenschap wordt koper niet afgekraakt maar gekocht als compressieproduct; men kiest op steun en prijs. Budget is een grote drempel: 'which to prioritize'."
+    }
+  },
+  {
+    "post_id": "12mdgot",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met dysautonomie/POTS kreeg het advies compressiekousen te dragen en probeerde Copper Fit van Walgreens: ze comprimeren en helpen tegen enkelpijn, maar niet tegen de dysautonomie.",
+      "regions": [
+        "ankle",
+        "legs_knees_back"
+      ],
+      "conditions": [
+        "dysautonomia",
+        "POTS",
+        "Ehlers-Danlos syndrome"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Copper Fit-compressiekousen",
+          "category": "compression_socks",
+          "brand_or_product": "Copper Fit",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Comprimeren en helpen wat bij enkelpijn, niet bij dysautonomie",
+          "source_id": "post"
+        },
+        {
+          "solution": "Maatwerk-compressiekousen (~$200)",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "Niet vergoed",
+          "source_id": "jgabjy7"
+        }
+      ],
+      "brands_mentioned": [
+        "Copper Fit",
+        "Walgreens",
+        "CVS",
+        "Bibipins",
+        "Comrad"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "neutral",
+        "summary_nl": "Kocht Copper Fit 'because they were available at my walgreens'; 'they definitely compress and can offer some relief to my ankle pain'. Het koper speelt geen rol, beschikbaarheid wel."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "i've tried the copper fit ones because they were available at my walgreens, they definitely compress and can offer some relief to my ankle pain, but don't do anything for the dysautonomia that i've noticed.",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Ik heb de Copper Fit-kousen geprobeerd omdat ze bij mijn Walgreens lagen; ze comprimeren echt en geven wat verlichting voor mijn enkelpijn, maar doen niets voor de dysautonomie, voor zover ik merk."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": true,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: Copper Fit wint op beschikbaarheid in de drogist; 'ligt in de winkel' is een sterk kanaalargument."
+    }
+  },
+  {
+    "post_id": "g1dos1",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Verhaal over zelf loodgieten met koperen en pvc-buizen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match (koperbuis)."
+    }
+  },
+  {
+    "post_id": "15zjjmt",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand op weg naar een EDS-diagnose zoekt compressiekleding en tips tegen pijn in een hittegolf; gebruikt al Sockwell, Copper Fit-handschoenen en Hoka's.",
+      "regions": [],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Copper Fit-compressiehandschoenen",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit",
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "Onderdeel van haar uitrusting",
+          "source_id": "post"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'obsessed'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [
+        "Sockwell",
+        "Copper Fit",
+        "Hoka"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "neutral",
+        "summary_nl": "Heeft Copper Fit-compressiehandschoenen als deel van een budgetuitrusting; geen oordeel over het koper."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "So far I have Sockwell compression socks (love), copper fit compression gloves, Hokas (obsessed), and I have some compression shorts (not medical grade bc I’m over here balling on a budget!)",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Tot nu toe heb ik Sockwell-compressiesokken (geweldig), Copper Fit-compressiehandschoenen, Hoka's (helemaal fan) en wat compressieshorts (niet medisch, want ik moet het met een budget doen!)."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: Copper Fit is het budgetmerk in de 'starterskit' van chronische pijn."
+    }
+  },
+  {
+    "post_id": "15fxttl",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met EDS en brede handpalmen vindt dat Copper Fit-handschoenen in elke maat de hand krom trekken.",
+      "regions": [],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Copper Fit-compressiehandschoenen",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Trekken de hand krom, slecht voor middenhandsbeentjes",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [
+        "Copper Fit"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "negative",
+        "summary_nl": "Copper Fit-handschoenen 'pull my hand so that it’s kind of cupped'; pasvormprobleem, niet het koper."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I just got a pair of copper fit gloves and have tried different sizes, but they all pull my hand so that it’s kind of cupped which messes with my metacarpals",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Ik heb net Copper Fit-handschoenen en verschillende maten geprobeerd, maar ze trekken mijn hand allemaal krom, wat mijn middenhandsbeentjes verstoort."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: pasvorm bepaalt het oordeel over koperproducten; voor een zool: maat en vorm boven materiaal."
+    }
+  },
+  {
+    "post_id": "1f9rw2k",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand met EDS zoekt compressiehandschoenen met langere vingers en kortere pols om een smartwatch te kunnen dragen; koperen handschoenen hebben te korte vingers.",
+      "regions": [],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen compressiehandschoenen",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Vingers te kort, pols te lang",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "negative",
+        "summary_nl": "'the copper compression gloves' hebben 'fingers … too short and the wrists … way too long'; pasvormklacht."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I’ve had the issue with the copper compression gloves that the fingers are too short and the wrists are way too long for me to comfortably wear my watch.",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Ik had het probleem dat bij de koperen compressiehandschoenen de vingers te kort zijn en de polsen veel te lang, zodat ik mijn horloge niet comfortabel kan dragen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: opnieuw pasvorm als doorslaggevend punt bij koperproducten."
+    }
+  },
+  {
+    "post_id": "1kfn7g2",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Kapster met hEDS zoekt spalken en een schouderbrace; haar koperen compressie-schouderbrace geeft te weinig steun.",
+      "regions": [],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility",
+        "rotator cuff tear"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "hairstylist",
+      "situations": [
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen compressie-schouderbrace",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'does not provide enough support'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "negative",
+        "summary_nl": "'My current brace is the copper compression recovery brace, it does not provide enough support'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "My current brace is the copper compression recovery brace, it does not provide enough support as i can and do still sublux while wearing it.",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Mijn huidige brace is de koperen compressie-herstelbrace; die geeft niet genoeg steun, want ik kan en zal nog steeds subluxeren terwijl ik hem draag."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: koperen braces worden afgerekend op onvoldoende steun; ons product moet functioneel sterk zijn."
+    }
+  },
+  {
+    "post_id": "1ksbshc",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "other",
+      "problem_summary_nl": "Iemand in r/ehlersdanlos deelt dat Tommie Copper 50% korting geeft.",
+      "regions": [],
+      "conditions": [
+        "Ehlers-Danlos syndrome",
+        "hypermobility"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [
+        "Tommie Copper"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "positive",
+        "summary_nl": "Deelt een Tommie Copper-sale van 50% als tip voor de EDS-gemeenschap; Tommie Copper wordt gezien als nuttig compressiemerk."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Tommie Copper has a full site sale of 50% right now",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Tommie Copper heeft nu 50% korting op de hele site."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: in de EDS-gemeenschap worden kopermerken als nuttig gedeeld, vooral bij korting; prijs is een drijfveer."
+    }
+  }
+]

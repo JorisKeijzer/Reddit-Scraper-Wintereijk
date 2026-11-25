@@ -1,0 +1,165 @@
+[
+  {
+    "post_id": "1vj1sjp",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand die dagelijks 8+ km op beton loopt verslijt goedkope Amazon-schoenen in drie maanden.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "flattened_wore_out"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Meerdere paren afwisselen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Schoenen kunnen decomprimeren",
+          "source_id": "p2hy8rx"
+        },
+        {
+          "solution": "Brooks Ghost/Glycerin",
+          "category": "shoes",
+          "brand_or_product": "Brooks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meest genoemd",
+          "source_id": "p2ifcwf"
+        }
+      ],
+      "brands_mentioned": [
+        "Brooks",
+        "Merrell",
+        "Vibram"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "In three months at 5 miles per day that is 450 miles. You are at the upper limit of what is typically the lifespan milage of a pair of walking shoes.",
+          "source_id": "p2ikhvg",
+          "kind": "objection",
+          "nl_meaning": "In drie maanden à 5 mijl per dag is dat 450 mijl. Je zit aan de bovengrens van de gebruikelijke levensduur van wandelschoenen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'je schoen is na ~450 mijl op' kan ook voor zolen een vervangmoment onderbouwen."
+    }
+  },
+  {
+    "post_id": "seucwp",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Verpleegkundige met 23 jaar ervaring heeft een stressfractuur in de voet, vermoedelijk door schoenen en werk.",
+      "regions": [],
+      "conditions": [
+        "stress fracture"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dansko-klompen met wollen compressiekousen",
+          "category": "compression_socks",
+          "brand_or_product": "Dansko",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Sokken even belangrijk als schoenen",
+          "source_id": "hulurbt"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Tweede paar dezelfde",
+          "source_id": "hultdkx"
+        }
+      ],
+      "brands_mentioned": [
+        "Dansko",
+        "Hoka",
+        "Brooks",
+        "On"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I don't know how to much money I have invested in shoes and socks to try to find the right pair",
+          "source_id": "hulvux0",
+          "kind": "objection",
+          "nl_meaning": "Ik weet niet hoeveel geld ik al in schoenen en sokken heb gestoken om het juiste paar te vinden."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": true,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: zorgpersoneel heeft al veel geld 'verspild' aan zoeken; een garantie verlaagt het risico."
+    }
+  },
+  {
+    "post_id": "17pbe4n",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Apothekersassistent over een recept voor sterke pijnstillers tegen voetpijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Medicatiediscussie."
+    }
+  }
+]
