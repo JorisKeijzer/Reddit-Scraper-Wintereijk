@@ -1,0 +1,221 @@
+[
+  {
+    "post_id": "13nvk54",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Amazon-medewerker heeft na een halve dienst veel voetpijn in Zappos-composietschoenen; reageerders raden zolen aan, waaronder Copper Fit Work Comfort.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Copper Fit Work Comfort-inlegzolen met Dr. Scholl's Double Air Pillo",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit, Dr. Scholl's",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'it works miracles'",
+          "source_id": "jl1rpcz"
+        },
+        {
+          "solution": "Copper Fit-inlegzolen (Brett Favre)",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Copper Fit",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'the greatest thing ever invented'",
+          "source_id": "jl6stu9"
+        },
+        {
+          "solution": "Maatwerkzolen van de podotherapeut",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'basically indestructible'",
+          "source_id": "jl12t4b"
+        }
+      ],
+      "brands_mentioned": [
+        "Zappos",
+        "Dr. Scholl's",
+        "Copper Fit",
+        "Cadence"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "positive",
+        "summary_nl": "Twee reageerders noemen Copper Fit-werkzolen: 'works miracles' en 'the greatest thing ever invented' (met Brett Favre als reclamegezicht). Het gaat om comfort, niet om het koper."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I don’t enjoy my feet being in severe pain after half a shift😭",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik vind het niet leuk dat mijn voeten na een halve dienst enorm pijn doen."
+        },
+        {
+          "text": "I have the Double Air Pillo and Copper Fit Work Comfort Insoles and it works miracles.",
+          "source_id": "jl1rpcz",
+          "kind": "copper",
+          "nl_meaning": "Ik heb de Double Air Pillo en de Copper Fit Work Comfort-inlegzolen en het doet wonderen."
+        },
+        {
+          "text": "That copper fit prand that Brett Favre advertised makes some insoles..... on Amazon... the greatest thing ever invented",
+          "source_id": "jl6stu9",
+          "kind": "copper",
+          "nl_meaning": "Dat Copper Fit-merk dat Brett Favre adverteerde, maakt inlegzolen... op Amazon... het beste wat ooit is uitgevonden."
+        },
+        {
+          "text": "The insoles that come with the safety shoes might as well be cement lol",
+          "source_id": "jl138p0",
+          "kind": "fails",
+          "nl_meaning": "De zolen die bij de veiligheidsschoenen zitten, kunnen net zo goed cement zijn, haha."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: Copper Fit-werkzolen hebben een trouwe groep fans bij magazijnwerkers, mede door een bekende sportman in de reclame. Dit bevestigt dat koperzolen in deze doelgroep een markt hebben."
+    }
+  },
+  {
+    "post_id": "1fmapry",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Kleuterjuf (pre-K) vraagt welke comfortabele schoenen collega's dragen.",
+      "regions": [],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "teaching",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstocks",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Beste steun bij fasciitis",
+          "source_id": "lo9re89"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock",
+        "New Balance",
+        "APL",
+        "Hey Dude",
+        "On",
+        "Chaco",
+        "Taos",
+        "Ecco",
+        "Brooks",
+        "Hoka"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I have plantar fasciitis and I find they feel the best and give me the best support.",
+          "source_id": "lo9re89",
+          "kind": "works",
+          "nl_meaning": "Ik heb fasciitis en vind dat ze het best voelen en de beste steun geven."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  },
+  {
+    "post_id": "1x415sl",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Rolstoelvriendelijke reisbestemmingen in Europa.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet over voetklachten."
+    }
+  },
+  {
+    "post_id": "4ss73u",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Solo-reiziger met 'cold feet' op het vliegveld.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

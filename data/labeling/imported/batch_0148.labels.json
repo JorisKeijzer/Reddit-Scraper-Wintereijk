@@ -1,0 +1,260 @@
+[
+  {
+    "post_id": "bxt32k",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Dochter van een moeder met reuma krijgt steeds het advies 'koperen armband' of 'CBD-olie'; reacties noemen koperen armbanden 'snake oil' of placebo.",
+      "regions": [],
+      "conditions": [
+        "rheumatoid arthritis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen armband",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": false,
+          "reason": "'100% snake oil'; hooguit placebo",
+          "source_id": "eq9vyss"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "skeptical",
+        "summary_nl": "'Copper bracelets are 100% snake oil'; 'it is probably the placebo effect'; één zwager is ervan overtuigd dat hij werkt; 'No luck with copper bracelet'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "\"my mum has arthritis in her hands but she wears a copper bracelet has she tried that?\"",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "'Mijn moeder heeft artritis in haar handen maar draagt een koperen armband, heeft ze dat geprobeerd?'"
+        },
+        {
+          "text": "Copper bracelets are 100% snake oil",
+          "source_id": "eq9vyss",
+          "kind": "copper",
+          "nl_meaning": "Koperen armbanden zijn 100% kwakzalverij."
+        },
+        {
+          "text": "If he really believes in the copper bracelet, it is probably the placebo effect. That said, if it helps, then there isn't any harm in it.",
+          "source_id": "eq9l6p2",
+          "kind": "copper",
+          "nl_meaning": "Als hij echt in de koperen armband gelooft, is het waarschijnlijk het placebo-effect. Maar als het helpt, kan het geen kwaad."
+        },
+        {
+          "text": "My brother in law is convinced his copper bracelet works.",
+          "source_id": "eq9k3k9",
+          "kind": "copper",
+          "nl_meaning": "Mijn zwager is ervan overtuigd dat zijn koperen armband werkt."
+        },
+        {
+          "text": "No luck with copper bracelet",
+          "source_id": "eq9oejc",
+          "kind": "copper",
+          "nl_meaning": "Geen succes met de koperen armband."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: koper tegen gewrichtspijn is een bekend 'oma-advies' dat patiënten irriteert. Nooit artritis- of pijnclaims."
+    }
+  },
+  {
+    "post_id": "ceznoe",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Zonwerende dekens achter gordijnen, vastgezet met magneten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "rj75dg",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Linkpost over magneetveldtherapie bij fasciitis, zonder tekst of reacties.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Geen inhoud; wel teken dat magneettherapie bij fasciitis wordt aangeboden."
+    }
+  },
+  {
+    "post_id": "3d08zh",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Vraag over een gemagnetiseerde auto.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "8dvxiu",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Sceptici bespreken dat er geen bewijs is dat acupunctuur pijn verlicht en dat belastinggeld er niet naartoe moet.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Acupunctuur",
+          "category": "acupressure_reflexology",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": false,
+          "reason": "Geen bewijs, placebo",
+          "source_id": "dxqojs3"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "skeptical",
+        "summary_nl": "Geen koper, maar dezelfde houding tegenover alternatieve pijnbehandelingen: 'placebo works'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Then let’s pay for m&ms instead of acupuncture.",
+          "source_id": "dxqxe4a",
+          "kind": "objection",
+          "nl_meaning": "Laten we dan m&m's betalen in plaats van acupunctuur."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Beperkt relevant: sceptici zijn vocaal; elk 'alternatief geneesmiddel'-signaal wordt afgestraft."
+    }
+  },
+  {
+    "post_id": "wvjshm",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Soldaten delen hardloopschoenen; advies is laten analyseren in een hardloopwinkel.",
+      "regions": [],
+      "conditions": [
+        "flat feet",
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "If you have flat feet you want arch support and maybe inserts.",
+          "source_id": "post",
+          "kind": "buying_trigger",
+          "nl_meaning": "Als je platvoeten hebt, wil je boogsteun en misschien inlegzolen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  }
+]

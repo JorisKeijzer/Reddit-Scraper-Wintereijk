@@ -1,0 +1,119 @@
+[
+  {
+    "post_id": "puqio7",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Sporter traint liever zonder sokken.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Niet over klachten."
+    }
+  },
+  {
+    "post_id": "1gdms3i",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Fotograaf kreeg 'cold feet' voor een bruiloft.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1ujbk9s",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand zoekt duurzame sandalen voor alle weersomstandigheden.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstock",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Kurkvoetbed vormt zich naar de voet",
+          "source_id": "oumgx8h"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock",
+        "Crocs",
+        "Teva",
+        "Rainbow",
+        "Bedrock",
+        "Chaco"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "the cork footbed molds to your foot after a while so arch support gets better with time",
+          "source_id": "oumgx8h",
+          "kind": "works",
+          "nl_meaning": "Het kurken voetbed vormt zich na een tijdje naar je voet, dus de boogsteun wordt beter met de tijd."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  }
+]

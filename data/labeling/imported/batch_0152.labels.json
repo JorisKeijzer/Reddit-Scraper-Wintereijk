@@ -1,0 +1,257 @@
+[
+  {
+    "post_id": "100vkei",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Arts-assistent met bunions en een smalle voet heeft spijt van Brooks Ghost; zoekt schoenen met brede neus.",
+      "regions": [
+        "toes"
+      ],
+      "conditions": [
+        "bunions"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "medical resident",
+      "situations": [
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brooks Ghost",
+          "category": "shoes",
+          "brand_or_product": "Brooks",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Bunions doen pijn aan het eind van de dag",
+          "source_id": "post"
+        },
+        {
+          "solution": "Herenschoenen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meer ruimte in de neus",
+          "source_id": "j2khui1"
+        }
+      ],
+      "brands_mentioned": [
+        "Brooks",
+        "New Balance",
+        "Altra",
+        "Crocs"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I desperately need a shoe upgrade so my back and feet stop killing me while standing for hours on rounds.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb dringend betere schoenen nodig zodat mijn rug en voeten me niet meer slopen tijdens urenlang staan bij de visite."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: bunions vragen een dunne voorvoet in de zool."
+    }
+  },
+  {
+    "post_id": "sa6nf0",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Dierenartsassistent loopt de hele dienst hard, maar na het zitten thuis zijn haar voeten zo pijnlijk dat ze nauwelijks kan opstaan.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "vet tech",
+      "situations": [
+        "healthcare_shift",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Crocs met compressiesokken",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Nog steeds pijn",
+          "source_id": "htrh6x2"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'a literal life saver'",
+          "source_id": "htrmoz5"
+        },
+        {
+          "solution": "Altra Lone Peak",
+          "category": "shoes",
+          "brand_or_product": "Altra",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Bij fasciitis",
+          "source_id": "htrj771"
+        }
+      ],
+      "brands_mentioned": [
+        "Crocs",
+        "Hoka",
+        "Altra",
+        "Puma",
+        "Dr. Teal's"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Before wearing them, I felt like my feet bones were going to burst out of my feet!",
+          "source_id": "htrmoz5",
+          "kind": "pain",
+          "nl_meaning": "Voordat ik ze droeg, voelde het alsof mijn voetbotten uit mijn voeten zouden barsten!"
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'na het zitten thuis doet het pas echt pijn' is herkenbaar; avondmoment voor een thuisproduct."
+    }
+  },
+  {
+    "post_id": "zq8i48",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Nieuwe zorgassistent heeft voetpijn in 12-uursdiensten; Crocs mogen niet.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "healthcare_shift",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Skechers memory foam met compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": "Skechers",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'My legs never hurt on my 12s'",
+          "source_id": "j0wvjs7"
+        },
+        {
+          "solution": "Hoka Bondi",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Aanbevolen door podotherapeut",
+          "source_id": "j0x289q"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Hoka",
+        "On"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I think compression socks make the BIGGEST difference and that’s a hill I’ll die on.",
+          "source_id": "j0x0d59",
+          "kind": "works",
+          "nl_meaning": "Ik denk dat compressiesokken het GROOTSTE verschil maken, daar blijf ik bij."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: compressiesokken zijn de grote concurrent van zolen in de zorg; een combinatieaanbod kan werken."
+    }
+  },
+  {
+    "post_id": "yg06yz",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "other",
+      "problem_summary_nl": "Amazon-medewerker kocht na weken 'dode' voeten de populaire goedkope stalen-neus-sneakers die iedereen draagt.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [
+        "Furuian",
+        "Timberland Pro",
+        "Zappos"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Don’t be so narrow minded not everyone gives a fuck about fitting in we just don’t want to come home with blisters on our feet lol",
+          "source_id": "iu71p4t",
+          "kind": "desire",
+          "nl_meaning": "Wees niet zo bekrompen, niet iedereen wil erbij horen, we willen gewoon niet met blaren thuiskomen, haha."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant: goedkope Amazon-veiligheidssneakers zijn populair."
+    }
+  }
+]

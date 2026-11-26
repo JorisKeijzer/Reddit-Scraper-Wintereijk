@@ -1,0 +1,278 @@
+[
+  {
+    "post_id": "1k1jrjf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Fanatieke wandelaar heeft al 18 maanden fasciitis; arts, fysio en meerdere schoenen hielpen niet.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": "18 maanden",
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Oofos",
+          "category": "shoes",
+          "brand_or_product": "Oofos",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Draagt ze, nog steeds pijn",
+          "source_id": "post"
+        },
+        {
+          "solution": "Massagepistool op voeten en kuiten",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'life changing'",
+          "source_id": "mnnc7sv"
+        },
+        {
+          "solution": "Cortisone-injectie",
+          "category": "medication_injection",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Enige dat hielp",
+          "source_id": "mnmupbp"
+        }
+      ],
+      "brands_mentioned": [
+        "Oofos"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I’ve done everything I can for it- doctor, physio, been through multiple shoes, but nothing has helped.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb alles gedaan: dokter, fysio, meerdere schoenen, maar niets hielp."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Hypothese: langdurige fasciitis-patiënten zijn uitgeput; zij zijn geen doelgroep voor genezingsbeloftes."
+    }
+  },
+  {
+    "post_id": "1p1gz92",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Iemand zoekt sneakers als cadeau voor een moeder met reuma en zwellende voeten.",
+      "regions": [],
+      "conditions": [
+        "rheumatoid arthritis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "toe_box_tight"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Herensneakers voor een bredere neus",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meer ruimte",
+          "source_id": "nppvs9w"
+        },
+        {
+          "solution": "Altra Torin",
+          "category": "shoes",
+          "brand_or_product": "Altra",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Ruimte bij zwelling",
+          "source_id": "npq1hwh"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Altra",
+        "New Balance"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Men's shoes seem to have a wider toebox",
+          "source_id": "nppvs9w",
+          "kind": "buying_trigger",
+          "nl_meaning": "Herenschoenen lijken een bredere neus te hebben."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: kinderen kopen voor ouders met klachten; cadeau-invalshoek (moederdag/kerst)."
+    }
+  },
+  {
+    "post_id": "yjjffg",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Verpleegkundige op MedSurg zoekt schoenen voor 12-uursdiensten; Dansko's doen pijn, Clove zijn duur.",
+      "regions": [],
+      "conditions": [
+        "flat feet",
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "healthcare_shift",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dure volledige inlegzolen (Superfeet)",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'The shoe becomes less important.'",
+          "source_id": "iup4rd1"
+        },
+        {
+          "solution": "Nike met orthopedische inlegzolen (Spenco)",
+          "category": "otc_insole",
+          "brand_or_product": "Spenco",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Sinds 2018 geen problemen",
+          "source_id": "iuo7te0"
+        }
+      ],
+      "brands_mentioned": [
+        "Dansko",
+        "Alegria",
+        "Clove",
+        "Altra",
+        "Brooks",
+        "Hoka",
+        "Superfeet",
+        "Spenco",
+        "Nike"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Biomechanics guy/runner turned nurse…splurge on expensive full length inserts. The shoe becomes less important. I use superfeet.",
+          "source_id": "iup4rd1",
+          "kind": "buying_trigger",
+          "nl_meaning": "Biomechanicus/hardloper die verpleegkundige werd: geef geld uit aan dure volledige inlegzolen. De schoen wordt dan minder belangrijk. Ik gebruik Superfeet."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: 'de zool is belangrijker dan de schoen' — een kernboodschap die vakmensen zelf verkondigen."
+    }
+  },
+  {
+    "post_id": "11hot78",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Verpleegkundige zoekt vloeistofdichte schoenen met ruime neus die geen klompen zijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "healthcare_shift",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Clove (waterdicht)",
+          "category": "shoes",
+          "brand_or_product": "Clove",
+          "verdict": "mixed",
+          "first_hand": true,
+          "reason": "Voor de een top, voor de ander 'hurt my feet so bad'",
+          "source_id": "jaul5ty"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'10/10'",
+          "source_id": "jaul5ty"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Clove",
+        "Asics"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I got a patient peed on me one time and it soaked through my shoes and socks.",
+          "source_id": "javi9un",
+          "kind": "desire",
+          "nl_meaning": "Een patiënt heeft een keer op me geplast en het drong door mijn schoenen en sokken heen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: in de zorg is hygiëne/afwasbaarheid een eis; een zool moet wasbaar of vervangbaar zijn."
+    }
+  }
+]

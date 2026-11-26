@@ -1,0 +1,120 @@
+[
+  {
+    "post_id": "w0szjf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Geologe die een gewone koperen armband zoekt, ergert zich eraan dat bijna alle koperen armbanden online 'magnetic healing'-armbanden zijn.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "skeptical",
+        "summary_nl": "Ze wil 'a regular copper bracelet that doesn't pretend to do anything'; alle aanbod is 'magnetic healing bullshit'. Reacties lachen om 'copper has superpowers now'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Unfortunately, every single copper bracelet I liked the look of was one of those \"magnetic healing\" bullshit bracelets with magnets on the inside.",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Helaas was elke koperen armband die ik mooi vond zo'n 'magnetisch genezende' onzinarmband met magneten erin."
+        },
+        {
+          "text": "I want a regular copper bracelet that doesn't pretend to do anything but be a bracelet",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Ik wil een gewone koperen armband die niet doet alsof hij iets anders is dan een armband."
+        },
+        {
+          "text": "Apparently copper has superpowers now beyond 'conducts electricity with little resistance.'",
+          "source_id": "ighk04x",
+          "kind": "copper",
+          "nl_meaning": "Blijkbaar heeft koper nu superkrachten, naast 'geleidt elektriciteit met weinig weerstand'."
+        },
+        {
+          "text": "And to think that Snake Oil peddlers used to be tossed in jail or chased out of town.",
+          "source_id": "iggkd60",
+          "kind": "objection",
+          "nl_meaning": "En dan te bedenken dat kwakzalvers vroeger in de cel belandden of de stad uit werden gejaagd."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hypothese: koper + 'healing'-claims stoten een deel van het publiek actief af, zelfs mensen die koper mooi vinden. Een koperzool moet nuchter worden gepresenteerd (materiaal, frisheid), zonder 'healing'-taal of magneten."
+    }
+  },
+  {
+    "post_id": "323aq6",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Vraag over magnetische afscherming van ruimteschepen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "3jbfzz",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Natuurkundevraag over elektromagnetisme.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

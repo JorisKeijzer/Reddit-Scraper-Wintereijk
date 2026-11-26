@@ -1,0 +1,263 @@
+[
+  {
+    "post_id": "1ioh0ze",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Fysiotherapeut met platvoeten en X-benen zoekt schoenen voor lang staan en de sportschool.",
+      "regions": [],
+      "conditions": [
+        "flat feet",
+        "overpronation"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "physical therapist",
+      "situations": [
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Brooks",
+          "category": "shoes",
+          "brand_or_product": "Brooks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Met korting, tevreden",
+          "source_id": "mcjgxcu"
+        }
+      ],
+      "brands_mentioned": [
+        "Brooks",
+        "Xero",
+        "Vivobarefoot",
+        "Lems",
+        "Topo"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "As someone who worked at a store that performed gait analysis, it’s more of a sales tactic than anything.",
+          "source_id": "mcjsny0",
+          "kind": "objection",
+          "nl_meaning": "Als iemand die werkte in een winkel met looptests: het is vooral een verkooptruc."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: zelfs voetscans/looptests worden gewantrouwd als verkooptruc; eerlijkheid boven gimmicks."
+    }
+  },
+  {
+    "post_id": "i97c63",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "experience_report",
+      "problem_summary_nl": "Amazon-medewerker met hoge bogen, brede voeten en scoliose gaf veel geld uit aan Fleet Feet-schoenen en Good Feet-zolen van $1200.",
+      "regions": [],
+      "conditions": [
+        "high arches",
+        "wide feet",
+        "scoliosis"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "too_expensive"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Good Feet-zolen ($1200)",
+          "category": "custom_orthotic",
+          "brand_or_product": "Good Feet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'life changing' volgens een 20-jarige gebruiker",
+          "source_id": "g1dcoya"
+        }
+      ],
+      "brands_mentioned": [
+        "Fleet Feet",
+        "Good Feet",
+        "Adidas Ultraboost",
+        "Vans"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "the Good Feet insoles were $1200"
+      ],
+      "quotes": [
+        {
+          "text": "the Good Feet insoles were $1200 - which I definitely initially felt my stomach turn at. I was desperate to find a solution to my foot pain though.",
+          "source_id": "g1dmrqa",
+          "kind": "buying_trigger",
+          "nl_meaning": "De Good Feet-zolen kostten $1200, waar ik eerst echt misselijk van werd. Maar ik was wanhopig op zoek naar een oplossing voor mijn voetpijn."
+        },
+        {
+          "text": "I realize that is like a ton of money but my feet have been hurting so bad and I can't afford to not work.",
+          "source_id": "g1dpdbw",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik besef dat het heel veel geld is, maar mijn voeten deden zo'n pijn en ik kan het me niet veroorloven om niet te werken."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: wanhoop leidt tot extreme uitgaven ($1200 bij Good Feet); er is ruimte voor een eerlijk alternatief met een fractie van de prijs en een proefperiode."
+    }
+  },
+  {
+    "post_id": "1kvbl9g",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Amazon-medewerkers bespreken de gratis zolen van Amazon: meningen lopen uiteen van 'sand and rocks would be better' tot 'absolutely help'.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "warehouse_factory",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Gratis inlegzolen van Amazon",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "mixed",
+          "first_hand": true,
+          "reason": "Sommigen blij, anderen vinden ze slecht",
+          "source_id": "mu8b8x3"
+        },
+        {
+          "solution": "Gratis inlegzolen van Amazon",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'absolutely help with my hip, knee, and joint pain'",
+          "source_id": "mu8r1pa"
+        }
+      ],
+      "brands_mentioned": [
+        "Amazon"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "I have no idea how they’re retailed at 65$"
+      ],
+      "quotes": [
+        {
+          "text": "I think putting sand and rocks in your shoes would be a better insert than those I have no idea how they’re retailed at 65$",
+          "source_id": "mu8b8x3",
+          "kind": "fails",
+          "nl_meaning": "Ik denk dat zand en stenen in je schoenen een betere zool zijn dan die; geen idee hoe ze voor $65 verkocht worden."
+        },
+        {
+          "text": "It took about 2 weeks for my feet to adjust, but they absolutely help with my hip, knee, and joint pain.",
+          "source_id": "mu8r1pa",
+          "kind": "works",
+          "nl_meaning": "Het duurde zo'n twee weken voordat mijn voeten gewend waren, maar ze helpen echt bij mijn heup-, knie- en gewrichtspijn."
+        },
+        {
+          "text": "They wouldn’t fit in my free safety shoes",
+          "source_id": "mu87rib",
+          "kind": "objection",
+          "nl_meaning": "Ze pasten niet in mijn gratis veiligheidsschoenen."
+        },
+        {
+          "text": "Insoles should be replaced every 6 months up to a year, depending on how much you walk in them.",
+          "source_id": "mualm7m",
+          "kind": "buying_trigger",
+          "nl_meaning": "Inlegzolen moeten elke 6 maanden tot een jaar vervangen worden, afhankelijk van hoeveel je erop loopt."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Hypothese: de Amazon-zolen hebben een adviesprijs van $65; meningen verdeeld. Pasvorm in veiligheidsschoenen en een inloopperiode van ~2 weken zijn kernpunten."
+    }
+  },
+  {
+    "post_id": "78a49w",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "experience_report",
+      "problem_summary_nl": "Soldaat haatte hardlopen door pijn; na een looptest in een speciaalzaak en goede schoenen loopt hij twee keer zoveel en sneller.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Goede hardloopschoenen na looptest",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'life changing'",
+          "source_id": "post"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "My knees felt great. My pinky toenail wasn't black. I *enjoyed my run*.",
+          "source_id": "post",
+          "kind": "works",
+          "nl_meaning": "Mijn knieën voelden geweldig. Mijn kleine teennagel was niet zwart. Ik *genoot van mijn run*."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant."
+    }
+  }
+]
