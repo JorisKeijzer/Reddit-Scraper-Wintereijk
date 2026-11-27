@@ -1,0 +1,303 @@
+[
+  {
+    "post_id": "1ju0cak",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Loopt 3-4 uur per dag binnen op sandalen/slippers, platvoeten en pijn; Birkenstock gaf blaren.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [
+        "flat feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "Birkenstock"
+      ],
+      "complaints_about_products": [
+        "other"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstock",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "mixed",
+          "first_hand": true,
+          "reason": "Blaren aan zijkant hiel; anderen: inlopen met sokken",
+          "source_id": "post"
+        },
+        {
+          "solution": "Chaco",
+          "category": "shoes",
+          "brand_or_product": "Chaco",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Exclusief in warm weer",
+          "source_id": "mlyjwvh"
+        },
+        {
+          "solution": "Dansko-sandalen",
+          "category": "shoes",
+          "brand_or_product": "Dansko",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Hele dag in huis, goede steun",
+          "source_id": "mlycqb0"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock",
+        "Chaco",
+        "Dansko",
+        "Vionic"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I tried Birkenstock, but got blisters on the sides o",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik probeerde Birkenstock maar kreeg blaren aan de zijkanten."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Sandalen/slippers met steun binnenshuis is een niche; een zool past daar niet in, maar het toont dat mensen thuis ook steun zoeken."
+    }
+  },
+  {
+    "post_id": "1qlogqg",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Platvoeten; teleurgesteld in Teva-sandalen, zoekt duurzame buitensandalen met boogsteun.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [
+        "flat feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "hiking",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Teva-sandalen",
+          "category": "shoes",
+          "brand_or_product": "Teva",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'much disappointment'",
+          "source_id": "post"
+        },
+        {
+          "solution": "Chaco",
+          "category": "shoes",
+          "brand_or_product": "Chaco",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'awesome arch support', wel zwaar",
+          "source_id": "o1fjt1n"
+        }
+      ],
+      "brands_mentioned": [
+        "Teva",
+        "Chaco",
+        "Birkenstock",
+        "OluKai"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "They honestly will outlast every other show you own",
+          "source_id": "o1g0r3h",
+          "kind": "works",
+          "nl_meaning": "Ze gaan langer mee dan elke andere schoen die je hebt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Duurzaamheid en herstelbaarheid wegen zwaar in BuyItForLife."
+    }
+  },
+  {
+    "post_id": "1jvzu68",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Scheurt binnen 6 maanden gaten in de inlegzolen van elke schoen; wil niet steeds nieuwe schoenen kopen.",
+      "regions": [
+        "heel",
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "office"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "flattened_wore_out",
+        "too_expensive"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen vervangen i.p.v. schoenen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Vervang zolen als ze slijten, niet de schoen",
+          "source_id": "mmee34l"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "$35-$50 schoenen",
+        "$100"
+      ],
+      "quotes": [
+        {
+          "text": "I manage to tear holes into insoles as soon as I start wearing any pair of shoes for any real amount of time.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik scheur gaten in de inlegzolen zodra ik een paar schoenen echt draag."
+        },
+        {
+          "text": "Replace the insoles when they wear and not the shoes",
+          "source_id": "mmee34l",
+          "kind": "buying_trigger",
+          "nl_meaning": "Vervang de inlegzolen als ze slijten, niet de schoenen."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Sterk argument: 'vervang de zool, niet de schoen' - een slijtvaste zool verlengt het leven van goedkope schoenen. Duurzaamheid benadrukken."
+    }
+  },
+  {
+    "post_id": "1dsdh1y",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Dierenartsassistent, diensten van 10 uur, wat mollig met brede voeten: schoenen en zolen?",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [
+        "wide feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "vet tech",
+      "situations": [
+        "healthcare_shift",
+        "standing_work",
+        "overweight"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'only shoes that don't make me want to chop my legs off'",
+          "source_id": "lb1qty0"
+        },
+        {
+          "solution": "Compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Hielp meer dan welke schoen ook",
+          "source_id": "lb2d2rg"
+        },
+        {
+          "solution": "Crocs",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Enige zonder pijn aan einde van de dag",
+          "source_id": "lb26qvb"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Clove",
+        "ASICS",
+        "Crocs"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "TBH, what helped me more than any shoe was compression socks!",
+          "source_id": "lb2d2rg",
+          "kind": "works",
+          "nl_meaning": "Eerlijk gezegd hielpen compressiesokken me meer dan welke schoen ook."
+        },
+        {
+          "text": "They're the only shoes that don't make me want to chop my legs off",
+          "source_id": "lb1qty0",
+          "kind": "pain",
+          "nl_meaning": "Het zijn de enige schoenen waarbij ik mijn benen er niet af wil hakken."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Zorgdoelgroep combineert schoen + compressie; zool + koperen sok als bundel past hierbij."
+    }
+  }
+]

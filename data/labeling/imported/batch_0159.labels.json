@@ -1,0 +1,222 @@
+[
+  {
+    "post_id": "1678cdl",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Huberman zegt dat er wat bewijs voor grounding is; reacties: placebo, buitenlucht, maar 'ik voel me beter'.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The evidence is thin, but it's free and I suspect the placebo effect of being outside",
+          "source_id": "jyo7k64",
+          "kind": "objection",
+          "nl_meaning": "Het bewijs is dun, maar het is gratis en ik vermoed het placebo-effect van buiten zijn."
+        },
+        {
+          "text": "I have to admit that while it sounds like woo, I feel better when I spend time barefoot in grass.",
+          "source_id": "jyoblmd",
+          "kind": "works",
+          "nl_meaning": "Ik moet toegeven dat het zweverig klinkt, maar ik voel me beter als ik blootsvoets in het gras zit."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "'Het is gratis' is het hoofdargument voor grounding: een betaald product met vergelijkbare claims wordt sneller als 'woo' gezien. Houd koper bij comfort en geur."
+    }
+  },
+  {
+    "post_id": "1ds76aj",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Diabeet met platvoeten en voorgeschreven orthesen zoekt wandelschoenen tot $200.",
+      "regions": [
+        "arch"
+      ],
+      "conditions": [
+        "diabetes",
+        "flat feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "voorgeschreven orthesen"
+      ],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka Clifton 9",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Your feet will thank me later'",
+          "source_id": "lb0o7ob"
+        },
+        {
+          "solution": "Brooks Ghost",
+          "category": "shoes",
+          "brand_or_product": "Brooks",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Aanbevolen door hardloopwinkel",
+          "source_id": "lb0w24i"
+        },
+        {
+          "solution": "Birkenstock",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Dagelijks, 2,5 mijl lopen naar werk",
+          "source_id": "lb0scpn"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Brooks",
+        "Birkenstock",
+        "On"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "tot $200",
+        "$99-$150"
+      ],
+      "quotes": [
+        {
+          "text": "Hoka Clifton 9. Your feet will thank me later.",
+          "source_id": "lb0o7ob",
+          "kind": "works",
+          "nl_meaning": "Hoka Clifton 9. Je voeten zullen me later bedanken."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Diabetes = medische context; geen claims. Wandelen als bloedsuikermiddel geeft wel een dagelijkse loopgewoonte."
+    }
+  },
+  {
+    "post_id": "p2l2yr",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Fibromyalgie: constant pijnlijke voeten (hielen alsof op koud beton, zijkanten gekneusd, voorvoet). Pijngels helpen niet; bestelt metatarsale pads.",
+      "regions": [
+        "heel",
+        "forefoot",
+        "whole_foot"
+      ],
+      "conditions": [
+        "fibromyalgia"
+      ],
+      "diagnosed_by_professional": true,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "pijnstillende gel",
+        "Deep Heat"
+      ],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Pijnstillende gels / Deep Heat",
+          "category": "medication_injection",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'nothing really helps'",
+          "source_id": "post"
+        },
+        {
+          "solution": "Epsom-zout voetbad, magnesiumspray",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Helpt bij pijn en zwelling",
+          "source_id": "h8l03qu"
+        },
+        {
+          "solution": "Cymbalta + Lyrica",
+          "category": "medication_injection",
+          "brand_or_product": null,
+          "verdict": "mixed",
+          "first_hand": true,
+          "reason": "Werkte voor de een, ernstige bijwerkingen bij de ander",
+          "source_id": "h8ktrsg"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "My heels feel like I've been standing with all of my weight on them, or like I've been standing on cold concrete for hours.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Mijn hielen voelen alsof ik met al mijn gewicht erop heb gestaan, of urenlang op koud beton."
+        },
+        {
+          "text": "I've tried pain reliving gels and Deep Heat but nothing really helps.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ik heb pijnstillende gels en Deep Heat geprobeerd, maar niets helpt echt."
+        },
+        {
+          "text": "I was working as a cashier when I first got sick, so was on my feet all day.",
+          "source_id": "h8li9vk",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik werkte als caissière toen ik ziek werd, dus stond de hele dag."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Beeldtaal 'staan op koud beton' en 'gekneusde zijkanten' is bruikbaar. Chronische pijnpatiënten: alleen comfortclaims."
+    }
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "post_id": "1qa2jac",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Bibliothecaresse, 32 weken zwanger, kan veters niet meer strikken; zoekt instapschoenen met boogsteun.",
+      "regions": [
+        "arch",
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "school librarian",
+      "situations": [
+        "teaching",
+        "pregnancy",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "compressiesokken besteld"
+      ],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Skechers Slip-ins",
+          "category": "shoes",
+          "brand_or_product": "Skechers",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Kon voeten niet meer bereiken",
+          "source_id": "nyzkink"
+        },
+        {
+          "solution": "Crocs bij zwelling",
+          "category": "shoes",
+          "brand_or_product": "Crocs",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Gaf het op en droeg Crocs",
+          "source_id": "nyznr3s"
+        },
+        {
+          "solution": "Birkenstock met losse riempjes",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Enige die paste bij zwelling",
+          "source_id": "nyzp72w"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Crocs",
+        "Birkenstock",
+        "Kizik"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "When I was pregnant I had terrible swelling.",
+          "source_id": "nyznr3s",
+          "kind": "pain",
+          "nl_meaning": "Toen ik zwanger was had ik vreselijke zwelling."
+        },
+        {
+          "text": "I swelled so badly that I couldn’t wear anything but my Birkenstocks with the straps loosened.",
+          "source_id": "nyzp72w",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik zwol zo erg op dat ik alleen nog Birkenstocks met losse riempjes kon dragen."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Zwangerschap: zwelling bepaalt de schoen; een dunne zool die in instappers past, plus compressie, sluit aan."
+    }
+  },
+  {
+    "post_id": "1pq5wxf",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Hardloper ervaart vermoeidheid door instabiele carbonschoenen; draagt verder stabiliteitsschoenen met groene Superfeet.",
+      "regions": [
+        "ankle",
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Superfeet Green in stabiliteitsschoenen",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Dagelijkse training",
+          "source_id": "post"
+        },
+        {
+          "solution": "Stabiliteits-/balansoefeningen",
+          "category": "stretching_exercise",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "nurv332"
+        }
+      ],
+      "brands_mentioned": [
+        "Superfeet",
+        "Nike Alphafly",
+        "ASICS Superblast"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "These don't fit in my alphafly's.",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Ze passen niet in mijn Alphafly's."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Dikke zolen passen niet in race-schoenen: dunheid is een voordeel."
+    }
+  },
+  {
+    "post_id": "1mjhsop",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "rant",
+      "problem_summary_nl": "Zes jaar plantaire fasciitis, alles geprobeerd (stretches, laars, inlegzolen, Brooks, ijs, golfbal, PT, podotherapeuten), niets helpt; kan niet meer genieten van wandelen.",
+      "regions": [
+        "heel"
+      ],
+      "conditions": [
+        "plantar fasciitis"
+      ],
+      "diagnosed_by_professional": true,
+      "occupation": null,
+      "situations": [
+        "hiking"
+      ],
+      "duration": "6 jaar",
+      "previous_fixes": [
+        "kuitstretches",
+        "hamstringstretches",
+        "loopschoen 2 maanden",
+        "inlegzolen",
+        "Brooks",
+        "warmte/ijs",
+        "golfbal",
+        "fysiotherapie",
+        "podotherapeuten"
+      ],
+      "complaints_about_products": [
+        "no_effect"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen + Brooks",
+          "category": "otc_insole",
+          "brand_or_product": "Brooks",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'nothing helps'",
+          "source_id": "post"
+        },
+        {
+          "solution": "Rollen op golfbal",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Op lijst van mislukte behandelingen",
+          "source_id": "post"
+        },
+        {
+          "solution": "Shockwave",
+          "category": "shockwave",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Lotgenoot met erge PF",
+          "source_id": "n7b8to5"
+        },
+        {
+          "solution": "Cortisone",
+          "category": "medication_injection",
+          "brand_or_product": null,
+          "verdict": "mixed",
+          "first_hand": false,
+          "reason": "Helpt sommigen, maskeert bij anderen",
+          "source_id": "n7b9ysc"
+        },
+        {
+          "solution": "Birkenstock in huis",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Beste voor herstel en voorkomen",
+          "source_id": "n7b6mgz"
+        },
+        {
+          "solution": "Maatwerkzolen / speciale schoenen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "'just made it worse'; blootsvoets hielp",
+          "source_id": "n7bn1ue"
+        }
+      ],
+      "brands_mentioned": [
+        "Brooks",
+        "Hoka",
+        "Birkenstock"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I can’t enjoy hiking, and it’s frustrating I tried every form of treatment and seeing a ton of doctors to no avail.",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik kan niet genieten van wandelen; frustrerend, ik probeerde elke behandeling en veel artsen, tevergeefs."
+        },
+        {
+          "text": "I get a ton of conflicting advice.",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "Ik krijg enorm veel tegenstrijdig advies."
+        },
+        {
+          "text": "All the custom inserts and special shoes just made it worse.",
+          "source_id": "n7bn1ue",
+          "kind": "fails",
+          "nl_meaning": "Alle maatwerkzolen en speciale schoenen maakten het alleen maar erger."
+        },
+        {
+          "text": "Ha! Hokas were the root of my issue.",
+          "source_id": "n7b94k2",
+          "kind": "fails",
+          "nl_meaning": "Ha! Hoka's waren de oorzaak van mijn probleem."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "'Tegenstrijdig advies' is de frustratie: een eerlijke, simpele boodschap (comfort, geen wondermiddel) onderscheidt. Niet iedereen wil meer steun."
+    }
+  }
+]

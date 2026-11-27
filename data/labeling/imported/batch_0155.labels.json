@@ -1,0 +1,112 @@
+[
+  {
+    "post_id": "15ohacx",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Biohacker deelt zijn supplementenstapel; koper alleen als mineraal.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Koper als supplement, niet als product."
+    }
+  },
+  {
+    "post_id": "11xhkid",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Is 'grounding' (blootsvoets op gras) legitiem? Mix van scepsis over bewijs en 'het voelt gewoon goed'.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Dunno about the science but I do it and it feels great!!",
+          "source_id": "jd64f56",
+          "kind": "works",
+          "nl_meaning": "Weet niet hoe het wetenschappelijk zit, maar ik doe het en het voelt geweldig."
+        },
+        {
+          "text": "10 subjects recruited by word of mouth? That is not quite scientific.",
+          "source_id": "jd39gri",
+          "kind": "objection",
+          "nl_meaning": "Tien proefpersonen via mond-tot-mondreclame? Dat is niet echt wetenschappelijk."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Wellness-publiek accepteert 'voelt goed' zonder bewijs, maar scepsis over kleine studies is direct. Claims rond 'aarding/elektronen' vermijden; koper niet koppelen aan grounding."
+    }
+  },
+  {
+    "post_id": "k8eumg",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Vraag over multivitaminen.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

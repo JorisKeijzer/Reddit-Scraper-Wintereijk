@@ -1,0 +1,341 @@
+[
+  {
+    "post_id": "1fos9vl",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Ex-kantoormedewerker, nu serveerster: pijnlijke heupen, benen en voeten na diensten.",
+      "regions": [
+        "whole_foot",
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "server",
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka Bondi SR",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Gestopt met dubbele diensten door pijn; nu weer mogelijk",
+          "source_id": "losoa3u"
+        },
+        {
+          "solution": "Compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Aangeraden door collega's",
+          "source_id": "loscuzq"
+        },
+        {
+          "solution": "Benen omhoog op de bank",
+          "category": "rest_ice",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Doorbloeding/afvoer na dienst",
+          "source_id": "losdkrx"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Wearing good quality shoes is paramount. Replacing them on a regular basis is also important.",
+          "source_id": "losavbj",
+          "kind": "buying_trigger",
+          "nl_meaning": "Goede schoenen zijn essentieel. Ze regelmatig vervangen ook."
+        },
+        {
+          "text": "I was in so much pain I stopped working doubles",
+          "source_id": "losoa3u",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik had zoveel pijn dat ik stopte met dubbele diensten."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Overstappers naar horeca/retail zijn een moment-doelgroep: 'nieuwe baan op je voeten'-starterspakket."
+    }
+  },
+  {
+    "post_id": "1q1rmkw",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Barvrouw na 9 jaar met plantaire fasciitis links (binnenboog/hiel), hoge en hypermobiele voeten; vreest voor haar carrière.",
+      "regions": [
+        "heel",
+        "arch"
+      ],
+      "conditions": [
+        "plantar fasciitis",
+        "high arches",
+        "hypermobility"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "bartender",
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka Bondi + Powerstep-zolen + koperen compressiesokken + voetmassageapparaat",
+          "category": "copper_or_magnetic",
+          "brand_or_product": "Hoka, Powerstep, Snailax",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'game changer'; kan nu overal lopen en werken",
+          "source_id": "nxagne4"
+        },
+        {
+          "solution": "Rollen met kurkballen/bevroren roller",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": true,
+          "reason": "Net weer begonnen",
+          "source_id": "nx7ud6r"
+        },
+        {
+          "solution": "Maatwerk-inlegzolen via podotherapeut",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies: 'Spend the money'",
+          "source_id": "nx8c30g"
+        },
+        {
+          "solution": "Kuitstretch op stoeprand",
+          "category": "stretching_exercise",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies",
+          "source_id": "nx7tywd"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Powerstep",
+        "Dansko",
+        "Ariat"
+      ],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "positive",
+        "summary_nl": "Lotgenoot draagt koperen compressiesokken als onderdeel van een setje (Hoka Bondi, Powerstep, massageapparaat) en kan nu 'overal lopen en werken'."
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "agonising pain in my inner arch/heel",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb ondraaglijke pijn in mijn binnenboog/hiel en het wordt onhoudbaar."
+        },
+        {
+          "text": "I want to keep bartending without destroying my body",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ik wil blijven bartenden zonder mijn lichaam te slopen."
+        },
+        {
+          "text": "now I've just added in copper compression socks",
+          "source_id": "nxagne4",
+          "kind": "copper",
+          "nl_meaning": "En nu heb ik er koperen compressiesokken aan toegevoegd."
+        },
+        {
+          "text": "Now I can walk anywhere and work all these additions you can too",
+          "source_id": "nxagne4",
+          "kind": "works",
+          "nl_meaning": "Nu kan ik overal lopen en werken; met al deze toevoegingen kun jij dat ook."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Koper komt hier als onderdeel van een 'stack' voor horeca: schoen + zool + koperen sok. Bundel-aanpak en 'blijf doen wat je graag doet' als boodschap."
+    }
+  },
+  {
+    "post_id": "1j5kb7a",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Bartender met vooral gothic-schoenen zoekt werkschoenen die er ook goed uitzien.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "bartender",
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Blundstones",
+          "category": "shoes",
+          "brand_or_product": "Blundstone",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Comfortabel, stijlvol, waterdicht",
+          "source_id": "mghmj8l"
+        },
+        {
+          "solution": "Skechers met vervangen inlegzolen",
+          "category": "shoes",
+          "brand_or_product": "Skechers",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Gaan goed mee, maar zolen moeten vervangen",
+          "source_id": "mghlsqt"
+        },
+        {
+          "solution": "Red Wing-boots",
+          "category": "shoes",
+          "brand_or_product": "Red Wing",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Jaren mee voor zwaardere man",
+          "source_id": "mgjiush"
+        }
+      ],
+      "brands_mentioned": [
+        "Blundstone",
+        "Hoka",
+        "Skechers",
+        "ASICS",
+        "Birkenstock",
+        "Red Wing"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "They've held up pretty well but I need to replaced the insoles.",
+          "source_id": "mghlsqt",
+          "kind": "fails",
+          "nl_meaning": "Ze houden het goed, maar ik moet de inlegzolen vervangen."
+        },
+        {
+          "text": "Birkenstocks is my preference but god are they ugly lol.",
+          "source_id": "mgi4537",
+          "kind": "objection",
+          "nl_meaning": "Birkenstocks hebben mijn voorkeur, maar wat zijn ze lelijk."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Stijlbewuste werkers willen hun eigen schoenen houden: een onzichtbare zool die in stijlvolle boots past is het antwoord."
+    }
+  },
+  {
+    "post_id": "15tn65u",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Loopt voor werk uren door Costco-winkels op betonvloer; zoekt schoenen.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "walking_work",
+        "retail"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Hoka Bondi 8",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Love them'",
+          "source_id": "jwkoik9"
+        },
+        {
+          "solution": "Superfeet + goede pasvorm",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Gebruikt naast juiste maat",
+          "source_id": "jwkuhpa"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Brooks",
+        "Altra",
+        "Superfeet"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Even the best shoes will be bad if they're the wrong fit for you.",
+          "source_id": "jwlgpkd",
+          "kind": "objection",
+          "nl_meaning": "Zelfs de beste schoenen zijn slecht als ze niet goed passen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Betonvloeren in grote winkels: 'miles of unforgiving concrete' - doelgroep retail/logistiek."
+    }
+  }
+]

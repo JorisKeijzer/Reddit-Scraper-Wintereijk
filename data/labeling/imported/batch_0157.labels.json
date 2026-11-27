@@ -1,0 +1,194 @@
+[
+  {
+    "post_id": "1cj693v",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Altijd koude voeten; zoekt supplement voor betere doorbloeding. Vaatchirurg-medewerker: alleen beweging helpt.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [
+        "cold feet",
+        "Raynaud"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "other"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [
+        "warme voeten",
+        "betere doorbloeding"
+      ],
+      "solutions": [
+        {
+          "solution": "Wandelen/beweging",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Volgens vaatchirurg-medewerker het enige wat helpt",
+          "source_id": "l2dxyw1"
+        },
+        {
+          "solution": "Beweging bij Raynaud",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Sport veel, helpt niet bij Raynaud",
+          "source_id": "l2duiia"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I work for a vascular surgeon. Nothing helps that except exercise.",
+          "source_id": "l2dxyw1",
+          "kind": "objection",
+          "nl_meaning": "Ik werk voor een vaatchirurg. Niets helpt daartegen behalve beweging."
+        },
+        {
+          "text": "Apparently they all want magic pills",
+          "source_id": "l2dzmwy",
+          "kind": "objection",
+          "nl_meaning": "Blijkbaar willen ze allemaal wonderpillen."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Geen doorbloedingsclaims doen; publiek reageert op 'magic pills'. Warmte/comfort kan als gevoel, niet als circulatie-effect."
+    }
+  },
+  {
+    "post_id": "1djlvdy",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Zoekt schoenen voor lange wandelingen/lang staan: meer steun dan barefoot, minder dan Hoka.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Schoenen afwisselen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Schoen comprimeert bij dagelijks dragen; laten herstellen en luchten",
+          "source_id": "l9cl5bk"
+        },
+        {
+          "solution": "Hoka",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "0 pijn",
+          "source_id": "l9bvsge"
+        },
+        {
+          "solution": "Voorgeschreven inlegzolen",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'game changer'",
+          "source_id": "l9c78g2"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Brooks",
+        "Vivobarefoot",
+        "Xero"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "If you are on that shoe all day it is going to compress slightly.",
+          "source_id": "l9cl5bk",
+          "kind": "fails",
+          "nl_meaning": "Als je de hele dag op die schoen staat, wordt hij een beetje ingedrukt."
+        },
+        {
+          "text": "Prescribed insoles are a game changer.",
+          "source_id": "l9c78g2",
+          "kind": "works",
+          "nl_meaning": "Voorgeschreven inlegzolen zijn een gamechanger."
+        },
+        {
+          "text": "When I was pregnant, I even would swap them halfway through the day!",
+          "source_id": "l9cr7k7",
+          "kind": "impact_on_life",
+          "nl_meaning": "Toen ik zwanger was wisselde ik ze zelfs halverwege de dag."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Rotatie-idee: twee paar zolen (dag/avond of per schoen) als bundel; zool die niet inzakt is een verkoopargument."
+    }
+  },
+  {
+    "post_id": "1q8791e",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Waarom hebben sommige mensen koude handen en voeten (Raynaud, schildklier).",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Medisch; geen productinzicht."
+    }
+  }
+]

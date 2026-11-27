@@ -1,0 +1,149 @@
+[
+  {
+    "post_id": "158w08p",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Hebben barefootschoenen echt voordelen of is het marketing? Ervaringen: minder voet- en kniepijn na geleidelijke overgang.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "sport",
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Barefootschoenen",
+          "category": "barefoot_minimal",
+          "brand_or_product": "Vivobarefoot, Xero, Vibram",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Na overgang meeste voet- en kniepijn weg",
+          "source_id": "jtce1gc"
+        }
+      ],
+      "brands_mentioned": [
+        "Vibram",
+        "Xero Shoes",
+        "Vivobarefoot"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "The claims seem almost too good to be true",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "De claims lijken bijna te mooi om waar te zijn."
+        },
+        {
+          "text": "I've struggled with various foot and knee pains throughout my life.",
+          "source_id": "jtce1gc",
+          "kind": "pain",
+          "nl_meaning": "Ik heb mijn hele leven met allerlei voet- en kniepijn geworsteld."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Barefoot-publiek is sceptisch over 'too good to be true'-claims; zij vormen geen kerndoelgroep voor steunzolen."
+    }
+  },
+  {
+    "post_id": "1d0apgx",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Man midden 30 met veel staand werk ziet paarse adertjes aan zijkant van voeten.",
+      "regions": [
+        "whole_foot",
+        "legs_knees_back"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Compressiekousen",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Voorkomt verergering bij veel staan",
+          "source_id": "l5mcmsr"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I have lots of hours of standing up in my job, but still i don't believe it's healthy.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik sta veel uren in mijn werk, maar ik geloof niet dat het gezond is."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "medical",
+      "marketing_insight_nl": "Staand werk + zichtbare aders: compressie is de standaard; geen vaatclaims voor koper."
+    }
+  },
+  {
+    "post_id": "1sdeoa4",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Lange post over Bartonella-infectie die o.a. voetpijn kan geven.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Medisch; niet bruikbaar voor zooltje."
+    }
+  }
+]
