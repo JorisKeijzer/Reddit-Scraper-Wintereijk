@@ -1,0 +1,95 @@
+[
+  {
+    "post_id": "1m7y5mf",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ergernis over voeten op het dashboard.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Etiquette, geen klacht."
+    }
+  },
+  {
+    "post_id": "14igt3b",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Blootsvoets winkelen: mag dat? AH-medewerker vindt het onverstandig.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Etiquette; geen klacht."
+    }
+  },
+  {
+    "post_id": "12l2iqt",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ergernis over voeten op de stoel in de trein.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Etiquette, geen klacht."
+    }
+  }
+]

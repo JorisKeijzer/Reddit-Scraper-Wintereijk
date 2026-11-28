@@ -1,0 +1,101 @@
+[
+  {
+    "post_id": "pfnjcd",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "experience_report",
+      "problem_summary_nl": "Na 2 jaar barefootschoenen geven gedempte hardloopschoenen ineens pijn en onbalans.",
+      "regions": [
+        "whole_foot",
+        "forefoot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "running"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Gedempte schoenen na barefoot",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Ongemak, onbalans door hak-teen-verval",
+          "source_id": "hb6694r"
+        },
+        {
+          "solution": "Minimalistische schoenen",
+          "category": "barefoot_minimal",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Benen en voeten voelen geweldig",
+          "source_id": "hb5q2zp"
+        }
+      ],
+      "brands_mentioned": [
+        "Vans",
+        "Shamma",
+        "Doc Martens",
+        "Toms"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "I feel like the heel is pitching me forwards",
+          "source_id": "hb6694r",
+          "kind": "fails",
+          "nl_meaning": "Ik heb het gevoel dat de hak me naar voren kantelt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Barefoot-gebruikers wijzen hak en dikke steun af; geen doelgroep voor gestructureerde zolen."
+    }
+  },
+  {
+    "post_id": "1mzbftg",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Goedkope hardloopschoenen: koop vorig model in de uitverkoop.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Geen klacht; prijsbewustzijn."
+    }
+  }
+]

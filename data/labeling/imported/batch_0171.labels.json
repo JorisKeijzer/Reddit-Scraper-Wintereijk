@@ -1,0 +1,159 @@
+[
+  {
+    "post_id": "bsel0o",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Vrouw met PCOS loopt dagelijks 4+ mijl, sport en wandelt; zweet zo erg dat trainers binnen 3 maanden onherstelbaar stinken. Odor Eaters hielpen niet.",
+      "regions": [
+        "whole_foot",
+        "skin"
+      ],
+      "conditions": [
+        "sweaty feet",
+        "foot odor",
+        "PCOS"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "running",
+        "sport"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "antibacteriële sokken",
+        "Odor Eaters spray en zolen",
+        "baking soda"
+      ],
+      "complaints_about_products": [
+        "odor",
+        "no_effect"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Odor Eaters spray + inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": "Odor-Eaters",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'these didn't' help",
+          "source_id": "post"
+        },
+        {
+          "solution": "Meerdere paren afwisselen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Volledig laten drogen",
+          "source_id": "eomyfaf"
+        },
+        {
+          "solution": "Boot Bananas",
+          "category": "lifestyle_other",
+          "brand_or_product": "Boot Bananas",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Vocht en geur absorberen",
+          "source_id": "eomqpdz"
+        }
+      ],
+      "brands_mentioned": [
+        "Odor-Eaters",
+        "Boot Bananas"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "£80"
+      ],
+      "quotes": [
+        {
+          "text": "within 3 months of owning my trainers, I completely annihilate them with stench",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Binnen drie maanden heb ik mijn trainers volledig verpest door de stank."
+        },
+        {
+          "text": "please say I'm not the only female with this issue",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Zeg alsjeblieft dat ik niet de enige vrouw ben met dit probleem."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Geur bij vrouwen gaat gepaard met schaamte; discrete, geurremmende zool. Odor Eaters faalt: ruimte voor koper als materiaal tegen geur."
+    }
+  },
+  {
+    "post_id": "34pq1h",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Squat-tip voor mensen met platvoeten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Krachttraining, geen klacht."
+    }
+  },
+  {
+    "post_id": "uhzs8v",
+    "label": {
+      "relevant": false,
+      "language": "en",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Bruiden over betrokkenheid van de bruidegom; 'cold feet'.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

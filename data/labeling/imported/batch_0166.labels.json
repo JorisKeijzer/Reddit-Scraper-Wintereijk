@@ -1,0 +1,95 @@
+[
+  {
+    "post_id": "1w6jpnj",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Ergernis over blote voeten in de bioscoop.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Etiquette, geen klacht."
+    }
+  },
+  {
+    "post_id": "1524tmv",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "16-jarige met maat 48 vraagt of voeten blijven groeien.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Geen klacht; wel: grote maten zijn lastig te vinden."
+    }
+  },
+  {
+    "post_id": "1f2d2ql",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Nieuwsbericht over een dode vluchteling.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  }
+]

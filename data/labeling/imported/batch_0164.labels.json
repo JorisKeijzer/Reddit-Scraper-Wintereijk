@@ -1,0 +1,155 @@
+[
+  {
+    "post_id": "14p48wd",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Ambulancemedewerker met Gore-Tex-veiligheidsschoenen krijgt in de zomer eczeem op de tenen; gebruikt al een koperen zoolvoering, poeder en dubbele sokken.",
+      "regions": [
+        "toes",
+        "skin"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "EMT",
+      "situations": [
+        "work_boots",
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "koperen zoolvoering",
+        "dubbele sokken",
+        "voetpoeder",
+        "zolen eruit tussen diensten"
+      ],
+      "complaints_about_products": [
+        "heat_sweat"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Koperen zoolvoering + dubbele sokken",
+          "category": "copper_or_magnetic",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "'not making much of a difference'",
+          "source_id": "post"
+        },
+        {
+          "solution": "Wollen sokken",
+          "category": "lifestyle_other",
+          "brand_or_product": "Smartwool",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Voert vocht goed af",
+          "source_id": "jqg5rdc"
+        },
+        {
+          "solution": "Schoenen laten drogen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Advies: luchten, krant, schoenfan",
+          "source_id": "jqgb1y1"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": true,
+        "sentiment": "mixed",
+        "summary_nl": "OP gebruikt een koperen zoolvoering tegen vocht en wrijving, maar het helpt niet genoeg; een reactie: 'Copper socks are not scientific and a scam.'"
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Double sock system with a good copper sole liner",
+          "source_id": "post",
+          "kind": "copper",
+          "nl_meaning": "Dubbele sokken met een goede koperen zoolvoering."
+        },
+        {
+          "text": "Copper socks are not scientific and a scam.",
+          "source_id": "jqggfh1",
+          "kind": "copper",
+          "nl_meaning": "Kopersokken zijn niet wetenschappelijk en oplichterij."
+        },
+        {
+          "text": "With copper sole liner underneath to aid in moisture wick barrier and prevent rubbing.",
+          "source_id": "jqg6ex2",
+          "kind": "copper",
+          "nl_meaning": "Met een koperen zoolvoering eronder als vochtbarrière en tegen schuren."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "material",
+      "marketing_insight_nl": "Hulpverleners kopen koper voor vocht en wrijving in verplichte veiligheidsschoenen. Als het daar niet helpt, volgt meteen 'scam'. Beloof droogte niet; wel ventilatie en comfort."
+    }
+  },
+  {
+    "post_id": "1nszc3l",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Discussie over asielzoekers.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match ('heel')."
+    }
+  },
+  {
+    "post_id": "1m85xby",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Discussie over sociale huur.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match ('heel')."
+    }
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "post_id": "1eye15i",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Vakantietips om slecht weer te ontvluchten.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1khmy3f",
+    "label": {
+      "relevant": true,
+      "language": "nl",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Magazijnmedewerker loopt 40-45k stappen (35 km) per dag op stalen werkschoenen; ondanks inlegzolen kan hij 's ochtends niet rechtop staan.",
+      "regions": [
+        "whole_foot",
+        "skin"
+      ],
+      "conditions": [
+        "blisters"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "magazijnmedewerker",
+      "situations": [
+        "warehouse_factory",
+        "walking_work",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "inlegzolen"
+      ],
+      "complaints_about_products": [
+        "no_effect"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen in stalen werkschoenen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Kan 's ochtends nog niet staan",
+          "source_id": "post"
+        },
+        {
+          "solution": "Andere werkschoenen / steunzolen via werkgever",
+          "category": "custom_orthotic",
+          "brand_or_product": null,
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Werkgever moet voorzien",
+          "source_id": "mr81mkw"
+        },
+        {
+          "solution": "Lowa Renegade werkschoen",
+          "category": "shoes",
+          "brand_or_product": "Lowa",
+          "verdict": "unknown",
+          "first_hand": false,
+          "reason": "Stevige wandelschoen met stalen neus",
+          "source_id": "mr81m0g"
+        }
+      ],
+      "brands_mentioned": [
+        "Lowa"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "zet gemiddeld zo'n 40-45k stappen op een dag",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Ik zet gemiddeld zo'n 40-45 duizend stappen per dag."
+        },
+        {
+          "text": "als ik na mn werk de volgende ochtend wakker wordt kan ik oprecht niet rechtop staan",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Als ik de ochtend na het werk wakker word, kan ik echt niet rechtop staan."
+        },
+        {
+          "text": "je werkgever moet hier in voorzien als jij zoveel op je benen moet staan",
+          "source_id": "mr81mkw",
+          "kind": "buying_trigger",
+          "nl_meaning": "Je werkgever moet hierin voorzien als je zoveel moet staan."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Sterk NL B2B-signaal: werkgever/preventiemedewerker hoort werkschoenen en zolen te regelen. Zolen voor stalen werkschoenen aanbieden aan magazijnen/uitzendbureaus."
+    }
+  },
+  {
+    "post_id": "1bmljiw",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Raadsel over 'handig tegen natte voeten'.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1wt7a2n",
+    "label": {
+      "relevant": true,
+      "language": "nl",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Dagelijkse fietser krijgt natte voeten in de regen; zoekt waterdichte schoenhoezen.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking",
+        "travel"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Overschoenen/schoenhoezen",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Jaren droge voeten",
+          "source_id": "pcrm583"
+        },
+        {
+          "solution": "Dr. Martens",
+          "category": "shoes",
+          "brand_or_product": "Dr. Martens",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Enige die droog blijven",
+          "source_id": "pcrmuo5"
+        }
+      ],
+      "brands_mentioned": [
+        "HEMA",
+        "Decathlon",
+        "Dr. Martens"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "bij mijn sneakers gaat het er altijd doorheen",
+          "source_id": "pcrmuo5",
+          "kind": "fails",
+          "nl_meaning": "Bij mijn sneakers gaat het er altijd doorheen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Beperkt relevant; natte voeten bij fietsen is een NL-specifieke context (sneldrogende zool)."
+    }
+  }
+]

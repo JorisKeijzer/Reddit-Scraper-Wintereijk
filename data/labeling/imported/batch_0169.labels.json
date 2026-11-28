@@ -1,0 +1,340 @@
+[
+  {
+    "post_id": "1j1r5tx",
+    "label": {
+      "relevant": true,
+      "language": "nl",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Voeten gaan na een dag lopen snel weer stinken ondanks wassen en voetenbad.",
+      "regions": [
+        "whole_foot",
+        "skin"
+      ],
+      "conditions": [
+        "foot odor",
+        "sweaty feet"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "wekelijks voetenbad",
+        "dagelijks wassen"
+      ],
+      "complaints_about_products": [
+        "odor"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Wassen en voetenbad",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Stinken na een dag weer",
+          "source_id": "post"
+        },
+        {
+          "solution": "Katoenen/wollen sokken i.p.v. polyester",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Helpt tegen zweten",
+          "source_id": "mflttci"
+        },
+        {
+          "solution": "Schoenen afwisselen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Stinkt niet met dagelijkse wissel",
+          "source_id": "mflu2n8"
+        }
+      ],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Ze zijn lelijk en ze beginnen altijd weer snel te stinken.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ze zijn lelijk en beginnen altijd snel weer te stinken."
+        },
+        {
+          "text": "Probeer zo'n ding dat de meur uit je schoenen haalt.",
+          "source_id": "mflr8gw",
+          "kind": "desire",
+          "nl_meaning": "Probeer zo'n ding dat de geur uit je schoenen haalt."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "NL geurklacht: koper als geurremmend materiaal in de zool past hier (materiaalclaim, geen medisch)."
+    }
+  },
+  {
+    "post_id": "r7wbfp",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Apothekers staan lange dagen op koude harde vloeren; zoeken comfortabele schoenen. Hoka domineert.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "pharmacist",
+      "situations": [
+        "standing_work",
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dansko + compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": "Dansko",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'The socks definitely help!'",
+          "source_id": "hn2bvu6"
+        },
+        {
+          "solution": "Hoka One One Bondi",
+          "category": "shoes",
+          "brand_or_product": "Hoka",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Meest aanbevolen; OP kocht ze",
+          "source_id": "hn2l65e"
+        },
+        {
+          "solution": "Superfeet",
+          "category": "otc_insole",
+          "brand_or_product": "Superfeet",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Af en toe in Brooks/Mizuno",
+          "source_id": "hn31qp5"
+        }
+      ],
+      "brands_mentioned": [
+        "Hoka",
+        "Dansko",
+        "Adidas Ultraboost",
+        "Brooks",
+        "Mizuno",
+        "Superfeet"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "We're on our feet for long hours and long days, most likely on cold hard floors.",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "We staan lange uren en dagen, meestal op koude harde vloeren."
+        },
+        {
+          "text": "Danskos with compression socks! The socks definitely help!",
+          "source_id": "hn2bvu6",
+          "kind": "works",
+          "nl_meaning": "Danskos met compressiesokken! De sokken helpen echt."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Apothekers: weer schoen + compressiesok. Bundel zool + koperen sok voor apotheek/zorg."
+    }
+  },
+  {
+    "post_id": "1j33wbz",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Apotheker: stilstaan doet meer pijn dan lopen; voeten doen erg pijn.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "pharmacist",
+      "situations": [
+        "standing_work",
+        "healthcare_shift"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Dansko-klompen",
+          "category": "shoes",
+          "brand_or_product": "Dansko",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Dansko saved my feet. Nothing else helped.'",
+          "source_id": "mfx2xnj"
+        },
+        {
+          "solution": "Schoenen halverwege dienst wisselen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Tip van oudere apotheker",
+          "source_id": "mfy6k5z"
+        },
+        {
+          "solution": "Barefootschoenen",
+          "category": "barefoot_minimal",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Voeten veel comfortabeler",
+          "source_id": "mfxbyp0"
+        }
+      ],
+      "brands_mentioned": [
+        "Brooks",
+        "Adidas Ultraboost",
+        "Dansko",
+        "Hoka",
+        "On"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "at times we are standing for a longer period of time and my feet ache so bad.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Soms staan we lang stil en doen mijn voeten zo'n pijn."
+        },
+        {
+          "text": "Dansko saved my feet. Nothing else helped.",
+          "source_id": "mfx2xnj",
+          "kind": "works",
+          "nl_meaning": "Dansko heeft mijn voeten gered. Niets anders hielp."
+        },
+        {
+          "text": "change shoes mid-shift",
+          "source_id": "mfy6k5z",
+          "kind": "works",
+          "nl_meaning": "Wissel halverwege de dienst van schoenen."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Stilstaan is erger dan lopen: positioneer voor 'lang stilstaan aan de balie'. Wisseltip ondersteunt een tweede paar zolen."
+    }
+  },
+  {
+    "post_id": "1ejj4zb",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Kok die na lange pauze terug in de keuken staat; voeten 'killing'.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "cook",
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Kniehoge compressiesokken",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "'game-changer' bij zwelling",
+          "source_id": "lgdyqvo"
+        },
+        {
+          "solution": "Red Wing met inlegzolen",
+          "category": "shoes",
+          "brand_or_product": "Red Wing",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Thank me later'",
+          "source_id": "lgdyssy"
+        },
+        {
+          "solution": "Yoga/houding",
+          "category": "stretching_exercise",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Doet wonderen voor voet- en rugpijn",
+          "source_id": "lgdzilb"
+        }
+      ],
+      "brands_mentioned": [
+        "Red Wing",
+        "Dr. Scholl's"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "it's killing my feet",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Het sloopt mijn voeten."
+        },
+        {
+          "text": "get some knee-high compression socks. It's a game-changer for pain from swelling/fluid buildup in your feet.",
+          "source_id": "lgdyqvo",
+          "kind": "works",
+          "nl_meaning": "Neem kniehoge compressiesokken; een gamechanger bij zwelling in je voeten."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Terugkeerders in de horeca: 'de eerste twee weken' zijn het ergst - startpakket-moment."
+    }
+  }
+]

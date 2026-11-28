@@ -1,0 +1,427 @@
+[
+  {
+    "post_id": "15ob6ne",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Kok/docent met zweetvoeten; Birkenstock-klompen na 8 jaar versleten en stonken aan einde van dienst.",
+      "regions": [
+        "whole_foot",
+        "skin"
+      ],
+      "conditions": [
+        "sweaty feet",
+        "foot odor"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": "chef / culinary teacher",
+      "situations": [
+        "hospitality",
+        "teaching"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [
+        "odor",
+        "heat_sweat",
+        "flattened_wore_out"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Birkenstock-klompen",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Geliefd, maar geen luchtstroom en gaan stinken",
+          "source_id": "post"
+        },
+        {
+          "solution": "Meerdere paren afwisselen",
+          "category": "shoes",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Twee dagen laten drogen",
+          "source_id": "jvqpbhn"
+        },
+        {
+          "solution": "Schoendroger",
+          "category": "lifestyle_other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'helps a LOT'",
+          "source_id": "jvrha82"
+        }
+      ],
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "kosten geen probleem als ze 1-2 jaar meegaan"
+      ],
+      "quotes": [
+        {
+          "text": "I have bad sweaty feet and they got rank by the end of shift.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik heb erge zweetvoeten en ze stonken aan het eind van de dienst."
+        },
+        {
+          "text": "Cost not an issue if they will last a year or two.",
+          "source_id": "post",
+          "kind": "buying_trigger",
+          "nl_meaning": "Kosten maken niet uit als ze een of twee jaar meegaan."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Geur in werkschoenen is een betaalbare pijn; 'cost not an issue' bij duurzaamheid. Geurremmend koper is hier een sterk argument."
+    }
+  },
+  {
+    "post_id": "1hqgf1n",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Net begonnen in een keuken; zoekt antislipschoenen, staat open voor losse inlegzolen.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "cook",
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Shoes for Crews",
+          "category": "shoes",
+          "brand_or_product": "Shoes for Crews",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "$40, ging een jaar mee",
+          "source_id": "m4p8hes"
+        },
+        {
+          "solution": "Birkenstock met kurkvoetbed",
+          "category": "shoes",
+          "brand_or_product": "Birkenstock",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Vormt zich naar de voet",
+          "source_id": "m4p8lyn"
+        },
+        {
+          "solution": "Dr. Martens antislip",
+          "category": "shoes",
+          "brand_or_product": "Dr. Martens",
+          "verdict": "made_worse",
+          "first_hand": true,
+          "reason": "Twee maanden bloedende voeten tijdens inlopen",
+          "source_id": "m4pktce"
+        }
+      ],
+      "brands_mentioned": [
+        "Shoes for Crews",
+        "Vans",
+        "Birkenstock",
+        "Dr. Martens",
+        "New Balance"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [
+        "$40"
+      ],
+      "quotes": [
+        {
+          "text": "Open to getting third party insoles too.",
+          "source_id": "post",
+          "kind": "buying_trigger",
+          "nl_meaning": "Ik sta ook open voor losse inlegzolen."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Goedkope antislipschoen + losse zool is een gangbaar pad voor starters."
+    }
+  },
+  {
+    "post_id": "1cpddub",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Serveerster loopt 10-13k stappen per dienst; ondanks goede schoenen strompelt ze thuis van de auto naar binnen.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "server",
+      "situations": [
+        "hospitality",
+        "standing_work"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Compressiesokken tijdens werk",
+          "category": "compression_socks",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'My feet used to absolutely kill after 20k steps'",
+          "source_id": "l3l6koz"
+        },
+        {
+          "solution": "Spenco 3/4 inlegzolen",
+          "category": "otc_insole",
+          "brand_or_product": "Spenco",
+          "verdict": "works",
+          "first_hand": false,
+          "reason": "Eerste advies",
+          "source_id": "l3k88lk"
+        },
+        {
+          "solution": "Benen tegen de muur",
+          "category": "rest_ice",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "15 minuten na thuiskomst",
+          "source_id": "l3kwy16"
+        },
+        {
+          "solution": "Rollen met stekelbal",
+          "category": "massage_rolling",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'Hurts so good'",
+          "source_id": "l3l03k2"
+        }
+      ],
+      "brands_mentioned": [
+        "Spenco"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "by the time I get home I'm waddling from my truck into my house",
+          "source_id": "post",
+          "kind": "impact_on_life",
+          "nl_meaning": "Tegen de tijd dat ik thuis ben, waggel ik van mijn truck naar binnen."
+        },
+        {
+          "text": "Seriously, compression socks. My feet used to absolutely kill after 20k steps a night.",
+          "source_id": "l3l6koz",
+          "kind": "works",
+          "nl_meaning": "Echt, compressiesokken. Mijn voeten deden vreselijk pijn na 20k stappen per avond."
+        }
+      ],
+      "emotional_intensity": 3,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Compressiesokken worden opnieuw het meest genoemd in de horeca: koperen compressiesok als instap naast de zool."
+    }
+  },
+  {
+    "post_id": "sz7kpx",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "asking_help",
+      "problem_summary_nl": "Amazon-medewerker ligt met kloppende voeten in bed; veiligheidsschoenen zonder steun, ook met inlegzolen nog pijn.",
+      "regions": [
+        "whole_foot"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "Amazon warehouse",
+      "situations": [
+        "warehouse_factory",
+        "work_boots",
+        "walking_work"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "inlegzolen"
+      ],
+      "complaints_about_products": [
+        "no_effect",
+        "too_expensive"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Inlegzolen in veiligheidsschoenen",
+          "category": "otc_insole",
+          "brand_or_product": null,
+          "verdict": "partly",
+          "first_hand": true,
+          "reason": "Beter, maar nog pijn; zolen half zo duur als schoenen",
+          "source_id": "hy24du2"
+        },
+        {
+          "solution": "Reebok Sublite halve maat groter + inlegzolen",
+          "category": "shoes",
+          "brand_or_product": "Reebok",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Geen inloopperiode",
+          "source_id": "hy27vfr"
+        },
+        {
+          "solution": "Stalen neus-inzetstukken in eigen schoenen",
+          "category": "other",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "'beat hack'",
+          "source_id": "hy2mfq4"
+        }
+      ],
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Laying in bed right now and my feet are throbbing in pain.",
+          "source_id": "post",
+          "kind": "pain",
+          "nl_meaning": "Ik lig nu in bed en mijn voeten bonzen van de pijn."
+        },
+        {
+          "text": "even with the insoles my feet still kill me at the end of the work day",
+          "source_id": "post",
+          "kind": "fails",
+          "nl_meaning": "Zelfs met de inlegzolen doen mijn voeten aan het eind van de dag vreselijk pijn."
+        },
+        {
+          "text": "the insoles are like half the price of the shoes",
+          "source_id": "hy24du2",
+          "kind": "objection",
+          "nl_meaning": "De inlegzolen kosten zo'n beetje de helft van de schoenen."
+        }
+      ],
+      "emotional_intensity": 4,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Prijsbezwaar: zool t.o.v. gratis/goedkope veiligheidsschoen. Prijs moet logisch voelen naast een voucher-schoen."
+    }
+  },
+  {
+    "post_id": "sk0ni3",
+    "label": {
+      "relevant": true,
+      "language": "en",
+      "thread_type": "product_review",
+      "problem_summary_nl": "Amazon-medewerkers vergelijken gratis werkschoenen (Skechers, Wolverine, Timberland Pro, CAT, Carhartt).",
+      "regions": [
+        "whole_foot",
+        "ankle"
+      ],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": "Amazon warehouse",
+      "situations": [
+        "warehouse_factory",
+        "work_boots"
+      ],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "Timberland Pro",
+          "category": "shoes",
+          "brand_or_product": "Timberland",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Comfortabelste werkschoen",
+          "source_id": "hvl22h7"
+        },
+        {
+          "solution": "5.11 hiker boots",
+          "category": "shoes",
+          "brand_or_product": "5.11",
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "10-12 uur met veel minder pijn",
+          "source_id": "hvjx71d"
+        }
+      ],
+      "brands_mentioned": [
+        "Skechers",
+        "Wolverine",
+        "Timberland",
+        "CAT",
+        "Carhartt",
+        "Red Wing",
+        "5.11",
+        "Zappos"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "can honestly say can work in them for 10-12 hrs with way less pain compared to anything else",
+          "source_id": "hvjx71d",
+          "kind": "works",
+          "nl_meaning": "Ik kan er eerlijk 10-12 uur in werken met veel minder pijn dan in iets anders."
+        },
+        {
+          "text": "And they don't look like clown shoes, that's a plus.",
+          "source_id": "hvmcmy2",
+          "kind": "desire",
+          "nl_meaning": "En ze zien er niet uit als clownsschoenen, dat is een plus."
+        }
+      ],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Werkgevers-catalogi (Zappos) bepalen de schoen; de zool is waar de werknemer zelf kan kiezen."
+    }
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "post_id": "1qumlif",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Nieuwsbericht over een filmpje in een azc.",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Valse match."
+    }
+  },
+  {
+    "post_id": "1wuyp29",
+    "label": {
+      "relevant": true,
+      "language": "nl",
+      "thread_type": "recommendation_request",
+      "problem_summary_nl": "Vrouw met brede voeten en hoge wreef zoekt leuke, betaalbare sneakers met stevige hielkap en demping; New Balance te smal.",
+      "regions": [
+        "whole_foot",
+        "top_of_foot"
+      ],
+      "conditions": [
+        "wide feet",
+        "high instep"
+      ],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [
+        "daily_walking"
+      ],
+      "duration": null,
+      "previous_fixes": [
+        "New Balance 740"
+      ],
+      "complaints_about_products": [
+        "toe_box_tight",
+        "too_expensive"
+      ],
+      "desired_outcomes_nl": [],
+      "solutions": [
+        {
+          "solution": "New Balance 740",
+          "category": "shoes",
+          "brand_or_product": "New Balance",
+          "verdict": "no_effect",
+          "first_hand": true,
+          "reason": "Te smal, teruggestuurd",
+          "source_id": "post"
+        },
+        {
+          "solution": "Barefootschoenen",
+          "category": "barefoot_minimal",
+          "brand_or_product": null,
+          "verdict": "works",
+          "first_hand": true,
+          "reason": "Draagt alleen nog barefoot",
+          "source_id": "pd7dbbv"
+        }
+      ],
+      "brands_mentioned": [
+        "New Balance",
+        "Zalando",
+        "Adidas"
+      ],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [
+        {
+          "text": "Daarbij moeten ze ook een stevige hielkap hebben en een goede demping.",
+          "source_id": "post",
+          "kind": "desire",
+          "nl_meaning": "Ze moeten ook een stevige hielkap en goede demping hebben."
+        },
+        {
+          "text": "ik vind ze zo prijzig + retourneren is voor eigen rekening",
+          "source_id": "post",
+          "kind": "objection",
+          "nl_meaning": "Ik vind ze zo prijzig en retourneren is voor eigen rekening."
+        }
+      ],
+      "emotional_intensity": 2,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "NL-koper: online bestellen, retourkosten zijn een drempel. Gratis retour of proefperiode verlaagt de drempel."
+    }
+  },
+  {
+    "post_id": "vzmmaj",
+    "label": {
+      "relevant": false,
+      "language": "nl",
+      "thread_type": "discussion",
+      "problem_summary_nl": "Waarom lopen mensen ineens op blote voeten buiten?",
+      "regions": [],
+      "conditions": [],
+      "diagnosed_by_professional": null,
+      "occupation": null,
+      "situations": [],
+      "duration": null,
+      "previous_fixes": [],
+      "complaints_about_products": [],
+      "desired_outcomes_nl": [],
+      "solutions": [],
+      "brands_mentioned": [],
+      "copper": {
+        "mentioned": false,
+        "sentiment": "not_mentioned",
+        "summary_nl": ""
+      },
+      "price_mentions": [],
+      "quotes": [],
+      "emotional_intensity": 1,
+      "medical_red_flag": false,
+      "claims_risk": "comfort_only",
+      "marketing_insight_nl": "Trend/etiquette, geen klacht."
+    }
+  }
+]
